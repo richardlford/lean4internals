@@ -1,0 +1,9 @@
+[submodule "mods/lean4"]
+	path = mods/lean4
+	url = https://github.com/leanprover/lean4.git
+[submodule "mods/verso"]
+	path = mods/verso
+	url = https://github.com/leanprover/verso.git
+[submodule "mods/vscode-lean4"]
+	path = mods/vscode-lean4
+	url = https://github.com/leanprover/vscode-lean4.git
