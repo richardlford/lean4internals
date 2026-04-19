@@ -1,0 +1,43 @@
+-- /home/fordrl/e/lean4internals/books/lean4core/Vtd_src/Vtd_Init/Vtd_Data/Vtd_Char.lean
+        
+
+
+import VersoManual
+-- This gets access to most of the manual genre (which is also useful for textbooks)
+open Verso.Genre Manual
+
+-- This gets access to Lean code that's in code blocks, elaborated in the same process and
+-- environment as Verso
+open Verso.Genre.Manual.InlineLean
+
+#doc (Manual) "`src/Init/Data/Char`"  =>
+
+%%%
+authors := ["Richard L Ford"]
+tag := "src/Init/Data/Char"
+%%%
+
+TODO
+
+
+# Files in `src/Init/Data/Char`
+%%%
+tag := "src/Init/Data/Char-files"
+%%%
+
+: `Lemmas.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Char/Lemmas.lean)TODO
+
+: `Basic.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Char/Basic.lean)TODO
+
+: `Order.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Char/Order.lean)TODO
+
+: `Ordinal.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Char/Ordinal.lean)TODO
+

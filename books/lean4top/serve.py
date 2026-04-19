@@ -26,14 +26,14 @@ if __name__ == '__main__':
     parser.add_argument('-b', '--bind', metavar='ADDRESS',
                         help='bind to this address '
                              '(default: all interfaces)')
-    parser.add_argument('-d', '--directory', default=".",
+    parser.add_argument('-d', '--directory', default="_out",
                         help='serve this directory '
                              '(default: out)')
     parser.add_argument('-p', '--protocol', metavar='VERSION',
                         default='HTTP/1.0',
                         help='conform to this HTTP version '
                              '(default: %(default)s)')
-    parser.add_argument('port', default=8040, type=int, nargs='?',
+    parser.add_argument('port', default=8000, type=int, nargs='?',
                         help='bind to this port '
                              '(default: %(default)s)')
     args = parser.parse_args()

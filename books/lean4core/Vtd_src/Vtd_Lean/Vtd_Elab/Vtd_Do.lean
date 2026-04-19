@@ -1,0 +1,51 @@
+-- /home/fordrl/e/lean4internals/books/lean4core/Vtd_src/Vtd_Lean/Vtd_Elab/Vtd_Do.lean
+        
+
+
+import VersoManual
+-- This gets access to most of the manual genre (which is also useful for textbooks)
+open Verso.Genre Manual
+
+-- This gets access to Lean code that's in code blocks, elaborated in the same process and
+-- environment as Verso
+open Verso.Genre.Manual.InlineLean
+
+#doc (Manual) "`src/Lean/Elab/Do`"  =>
+
+%%%
+authors := ["Richard L Ford"]
+tag := "src/Lean/Elab/Do"
+%%%
+
+TODO
+
+
+# Files in `src/Lean/Elab/Do`
+%%%
+tag := "src/Lean/Elab/Do-files"
+%%%
+
+: `Basic.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Do/Basic.lean)TODO
+
+: `InferControlInfo.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Do/InferControlInfo.lean)TODO
+
+: `PatternVar.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Do/PatternVar.lean)TODO
+
+: `Legacy.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Do/Legacy.lean)TODO
+
+: `Switch.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Do/Switch.lean)TODO
+
+: `Control.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Do/Control.lean)TODO
+

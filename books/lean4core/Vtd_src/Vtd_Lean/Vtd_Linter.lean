@@ -1,0 +1,96 @@
+-- /home/fordrl/e/lean4internals/books/lean4core/Vtd_src/Vtd_Lean/Vtd_Linter.lean
+        
+
+-- Imports from child directories.
+
+import «Vtd_src».«Vtd_Lean».«Vtd_Linter».«Vtd_EnvLinter»
+
+-- End of Imports from child directories.
+
+
+
+import VersoManual
+-- This gets access to most of the manual genre (which is also useful for textbooks)
+open Verso.Genre Manual
+
+-- This gets access to Lean code that's in code blocks, elaborated in the same process and
+-- environment as Verso
+open Verso.Genre.Manual.InlineLean
+
+#doc (Manual) "`src/Lean/Linter`"  =>
+
+%%%
+authors := ["Richard L Ford"]
+tag := "src/Lean/Linter"
+%%%
+
+TODO
+
+
+{include «Vtd_src».«Vtd_Lean».«Vtd_Linter».«Vtd_EnvLinter»}
+
+# Files in `src/Lean/Linter`
+%%%
+tag := "src/Lean/Linter-files"
+%%%
+
+: `Basic.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Linter/Basic.lean)TODO
+
+: `Omit.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Linter/Omit.lean)TODO
+
+: `Builtin.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Linter/Builtin.lean)TODO
+
+: `Sets.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Linter/Sets.lean)TODO
+
+: `UnusedVariables.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Linter/UnusedVariables.lean)TODO
+
+: `DocsOnAlt.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Linter/DocsOnAlt.lean)TODO
+
+: `MissingDocs.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Linter/MissingDocs.lean)TODO
+
+: `Coe.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Linter/Coe.lean)TODO
+
+: `UnusedSimpArgs.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Linter/UnusedSimpArgs.lean)TODO
+
+: `Util.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Linter/Util.lean)TODO
+
+: `Deprecated.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Linter/Deprecated.lean)TODO
+
+: `EnvLinter.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Linter/EnvLinter.lean)TODO
+
+: `ConstructorAsVariable.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Linter/ConstructorAsVariable.lean)TODO
+
+: `GlobalAttributeIn.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Linter/GlobalAttributeIn.lean)TODO
+
+: `List.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Linter/List.lean)TODO
+
