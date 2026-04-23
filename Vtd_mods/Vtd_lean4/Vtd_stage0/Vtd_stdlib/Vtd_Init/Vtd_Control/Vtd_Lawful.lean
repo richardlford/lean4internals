@@ -36,10 +36,6 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Init/Control/Lawful-files"
 %%%
 
-: `Lemmas.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Control/Lawful/Lemmas.c)TODO
-
 : `Basic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Control/Lawful/Basic.c)TODO
@@ -48,11 +44,14 @@ tag := "mods/lean4/stage0/stdlib/Init/Control/Lawful-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Control/Lawful/Instances.c)TODO
 
-: `MonadLift.c`
+: `Lemmas.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Control/Lawful/MonadLift.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Control/Lawful/Lemmas.c)TODO
 
 : `MonadAttach.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Control/Lawful/MonadAttach.c)TODO
+: `MonadLift.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Control/Lawful/MonadLift.c)TODO
 

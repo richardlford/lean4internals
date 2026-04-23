@@ -25,35 +25,34 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Lean/PrettyPrinter/Delaborator-files"
 %%%
 
-: `Builtins.c`
+: `Attributes.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/PrettyPrinter/Delaborator/Builtins.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/PrettyPrinter/Delaborator/Attributes.c)TODO
 
 : `Basic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/PrettyPrinter/Delaborator/Basic.c)TODO
 
-: `Attributes.c`
+: `Builtins.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/PrettyPrinter/Delaborator/Attributes.c)TODO
-
-: `TopDownAnalyze.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/PrettyPrinter/Delaborator/TopDownAnalyze.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/PrettyPrinter/Delaborator/Builtins.c)TODO
 
 : `DeclWithSig.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/PrettyPrinter/Delaborator/DeclWithSig.c)TODO
 
-: `Options.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/PrettyPrinter/Delaborator/Options.c)TODO
-
 : `FieldNotation.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/PrettyPrinter/Delaborator/FieldNotation.c)TODO
 
+: `Options.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/PrettyPrinter/Delaborator/Options.c)TODO
+
 : `SubExpr.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/PrettyPrinter/Delaborator/SubExpr.c)TODO
+: `TopDownAnalyze.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/PrettyPrinter/Delaborator/TopDownAnalyze.c)TODO
 

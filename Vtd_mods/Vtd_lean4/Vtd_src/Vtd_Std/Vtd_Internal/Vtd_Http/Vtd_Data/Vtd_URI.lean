@@ -29,15 +29,14 @@ tag := "mods/lean4/src/Std/Internal/Http/Data/URI-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Data/URI/Basic.lean)TODO
 
-: `Parser.lean`
+: `Config.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Data/URI/Parser.lean)TODO
-
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Data/URI/Config.lean)TODO
 : `Encoding.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Data/URI/Encoding.lean)TODO
 
-: `Config.lean`
+: `Parser.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Data/URI/Config.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Data/URI/Parser.lean)TODO
 

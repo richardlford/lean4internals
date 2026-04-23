@@ -3,8 +3,8 @@
 
 -- Imports from child directories.
 
-import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_Lake».«Vtd_Toml».«Vtd_Elab»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_Lake».«Vtd_Toml».«Vtd_Data»
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_Lake».«Vtd_Toml».«Vtd_Elab»
 
 -- End of Imports from child directories.
 
@@ -28,13 +28,24 @@ tag := "mods-lean4-src-lake-Lake-Toml"
 TODO
 
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_Lake».«Vtd_Toml».«Vtd_Elab»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_Lake».«Vtd_Toml».«Vtd_Data»}
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_Lake».«Vtd_Toml».«Vtd_Elab»}
 
 # `m/l/s/lake/Lake/Toml` Files
 %%%
 tag := "mods/lean4/src/lake/Lake/Toml-files"
 %%%
+
+: `Data.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Toml/Data.lean)TODO
+: `Decode.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Toml/Decode.lean)TODO
+
+: `Elab.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Toml/Elab.lean)TODO
 
 : `Encode.lean`
 
@@ -44,10 +55,6 @@ tag := "mods/lean4/src/lake/Lake/Toml-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Toml/Grammar.lean)TODO
 
-: `Decode.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Toml/Decode.lean)TODO
-
 : `Load.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Toml/Load.lean)TODO
@@ -55,12 +62,4 @@ tag := "mods/lean4/src/lake/Lake/Toml-files"
 : `ParserUtil.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Toml/ParserUtil.lean)TODO
-
-: `Elab.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Toml/Elab.lean)TODO
-
-: `Data.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Toml/Data.lean)TODO
 

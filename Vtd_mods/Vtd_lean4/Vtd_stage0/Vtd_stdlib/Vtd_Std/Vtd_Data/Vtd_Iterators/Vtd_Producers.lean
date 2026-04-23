@@ -38,6 +38,13 @@ tag := "mods/lean4/stage0/stdlib/Std/Data/Iterators/Producers-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Producers/Array.c)TODO
 
+: `Empty.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Producers/Empty.c)TODO
+: `Monadic.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Producers/Monadic.c)TODO
+
 : `Range.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Producers/Range.c)TODO
@@ -46,19 +53,11 @@ tag := "mods/lean4/stage0/stdlib/Std/Data/Iterators/Producers-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Producers/Repeat.c)TODO
 
-: `Vector.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Producers/Vector.c)TODO
-
-: `Monadic.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Producers/Monadic.c)TODO
-
 : `Slice.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Producers/Slice.c)TODO
 
-: `Empty.c`
+: `Vector.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Producers/Empty.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Producers/Vector.c)TODO
 

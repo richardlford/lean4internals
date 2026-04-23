@@ -25,27 +25,26 @@ TODO
 tag := "mods/verso/deploy-files"
 %%%
 
-: `release.py`
+: `build.sh`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/deploy/release.py)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/deploy/build.sh)TODO
 
 : `generate.sh`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/deploy/generate.sh)TODO
 
-: `release_utils.py`
+: `overlay.py`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/deploy/release_utils.py)TODO
-
-: `build.sh`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/deploy/build.sh)TODO
-
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/deploy/overlay.py)TODO
 : `prep.sh`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/deploy/prep.sh)TODO
 
-: `overlay.py`
+: `release.py`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/deploy/overlay.py)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/deploy/release.py)TODO
+
+: `release_utils.py`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/deploy/release_utils.py)TODO
 

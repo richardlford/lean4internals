@@ -34,35 +34,34 @@ TODO
 tag := "mods/lean4/doc/std/grove-files"
 %%%
 
-: `README.md`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/README.md)TODO
-
 : `.gitignore`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/.gitignore)TODO
-
-: `Main.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/Main.lean)TODO
 
 : `grove-local.sh`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/grove-local.sh)TODO
 
-: `lakefile.toml`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/lakefile.toml)TODO
-
 : `lake-manifest.json`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/lake-manifest.json)TODO
 
-: `update_invalidated.sh`
+: `lakefile.toml`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/update_invalidated.sh)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/lakefile.toml)TODO
 
 : `lean-toolchain`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/lean-toolchain)TODO
+: `Main.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/Main.lean)TODO
+
+: `README.md`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/README.md)TODO
+
+: `update_invalidated.sh`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/update_invalidated.sh)TODO
 

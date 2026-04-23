@@ -25,23 +25,22 @@ TODO
 tag := "mods/lean4/src/Init/Data/Iterators/Consumers/Monadic-files"
 %%%
 
-: `Loop.lean`
+: `Access.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Consumers/Monadic/Loop.lean)TODO
-
-: `Total.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Consumers/Monadic/Total.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Consumers/Monadic/Access.lean)TODO
 
 : `Collect.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Consumers/Monadic/Collect.lean)TODO
 
-: `Access.lean`
+: `Loop.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Consumers/Monadic/Access.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Consumers/Monadic/Loop.lean)TODO
 
 : `Partial.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Consumers/Monadic/Partial.lean)TODO
+: `Total.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Consumers/Monadic/Total.lean)TODO
 

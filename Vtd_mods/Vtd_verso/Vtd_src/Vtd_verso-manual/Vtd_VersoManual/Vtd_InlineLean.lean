@@ -38,31 +38,30 @@ tag := "mods/verso/src/verso-manual/VersoManual/InlineLean-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/InlineLean/Block.lean)TODO
 
-: `Signature.lean`
+: `IO.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/InlineLean/Signature.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/InlineLean/IO.lean)TODO
 
 : `LongLines.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/InlineLean/LongLines.lean)TODO
 
-: `IO.lean`
+: `Option.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/InlineLean/IO.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/InlineLean/Option.lean)TODO
+: `Outputs.lean`
 
-: `SyntaxError.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/InlineLean/SyntaxError.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/InlineLean/Outputs.lean)TODO
 
 : `Scopes.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/InlineLean/Scopes.lean)TODO
 
-: `Outputs.lean`
+: `Signature.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/InlineLean/Outputs.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/InlineLean/Signature.lean)TODO
 
-: `Option.lean`
+: `SyntaxError.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/InlineLean/Option.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/InlineLean/SyntaxError.lean)TODO
 

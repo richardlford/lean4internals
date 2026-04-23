@@ -25,11 +25,10 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Init/Data/Array/Lex-files"
 %%%
 
-: `Lemmas.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Array/Lex/Lemmas.c)TODO
-
 : `Basic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Array/Lex/Basic.c)TODO
+: `Lemmas.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Array/Lex/Lemmas.c)TODO
 

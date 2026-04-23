@@ -25,15 +25,14 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Init/Internal/Order-files"
 %%%
 
-: `Lemmas.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Internal/Order/Lemmas.c)TODO
-
 : `Basic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Internal/Order/Basic.c)TODO
 
+: `Lemmas.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Internal/Order/Lemmas.c)TODO
+
 : `Tactic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Internal/Order/Tactic.c)TODO
-

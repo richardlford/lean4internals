@@ -25,55 +25,54 @@ TODO
 tag := "mods/lean4/src/lake/Lake/DSL-files"
 %%%
 
-: `DeclUtil.lean`
+: `Attributes.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/DSL/DeclUtil.lean)TODO
-
-: `Require.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/DSL/Require.lean)TODO
-
-: `Targets.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/DSL/Targets.lean)TODO
-
-: `Script.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/DSL/Script.lean)TODO
-
-: `VerLit.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/DSL/VerLit.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/DSL/Attributes.lean)TODO
 
 : `AttributesCore.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/DSL/AttributesCore.lean)TODO
 
-: `Attributes.lean`
+: `Config.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/DSL/Attributes.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/DSL/Config.lean)TODO
 
-: `Meta.lean`
+: `DeclUtil.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/DSL/Meta.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/DSL/DeclUtil.lean)TODO
 
 : `Extensions.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/DSL/Extensions.lean)TODO
 
-: `Syntax.lean`
+: `Key.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/DSL/Syntax.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/DSL/Key.lean)TODO
+: `Meta.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/DSL/Meta.lean)TODO
 
 : `Package.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/DSL/Package.lean)TODO
 
-: `Config.lean`
+: `Require.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/DSL/Config.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/DSL/Require.lean)TODO
 
-: `Key.lean`
+: `Script.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/DSL/Key.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/DSL/Script.lean)TODO
+
+: `Syntax.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/DSL/Syntax.lean)TODO
+
+: `Targets.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/DSL/Targets.lean)TODO
+
+: `VerLit.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/DSL/VerLit.lean)TODO
 

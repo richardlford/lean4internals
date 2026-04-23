@@ -25,15 +25,14 @@ TODO
 tag := "mods/lean4/doc/std/grove/GroveStdlib/Std/LanguageConstructs-files"
 %%%
 
-: `Monads.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/GroveStdlib/Std/LanguageConstructs/Monads.lean)TODO
-
 : `ComparisonOrderingHashing.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/GroveStdlib/Std/LanguageConstructs/ComparisonOrderingHashing.lean)TODO
 
+: `Monads.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/GroveStdlib/Std/LanguageConstructs/Monads.lean)TODO
+
 : `RangesAndIterators.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/GroveStdlib/Std/LanguageConstructs/RangesAndIterators.lean)TODO
-

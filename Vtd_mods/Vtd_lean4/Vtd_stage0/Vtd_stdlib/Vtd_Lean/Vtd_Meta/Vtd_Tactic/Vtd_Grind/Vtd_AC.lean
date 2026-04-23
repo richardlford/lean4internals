@@ -25,37 +25,13 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/AC-files"
 %%%
 
-: `VarRename.c`
+: `Action.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/AC/VarRename.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/AC/Action.c)TODO
 
 : `DenoteExpr.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/AC/DenoteExpr.c)TODO
-
-: `ToExpr.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/AC/ToExpr.c)TODO
-
-: `Proof.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/AC/Proof.c)TODO
-
-: `Var.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/AC/Var.c)TODO
-
-: `Seq.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/AC/Seq.c)TODO
-
-: `Types.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/AC/Types.c)TODO
-
-: `Inv.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/AC/Inv.c)TODO
 
 : `Eq.c`
 
@@ -65,15 +41,38 @@ tag := "mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/AC-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/AC/Internalize.c)TODO
 
+: `Inv.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/AC/Inv.c)TODO
+
 : `PP.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/AC/PP.c)TODO
 
-: `Action.c`
+: `Proof.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/AC/Action.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/AC/Proof.c)TODO
+
+: `Seq.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/AC/Seq.c)TODO
+
+: `ToExpr.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/AC/ToExpr.c)TODO
+
+: `Types.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/AC/Types.c)TODO
 
 : `Util.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/AC/Util.c)TODO
+: `Var.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/AC/Var.c)TODO
+
+: `VarRename.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/AC/VarRename.c)TODO
 

@@ -25,25 +25,21 @@ TODO
 tag := "mods/verso/src/verso/Verso/Output/Html-files"
 %%%
 
-: `ElasticLunr.lean`
+: `AttributeName.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Output/Html/ElasticLunr.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Output/Html/AttributeName.lean)TODO
+
+: `Comments.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Output/Html/Comments.lean)TODO
 
 : `CssVars.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Output/Html/CssVars.lean)TODO
 
-: `AttributeName.lean`
+: `ElasticLunr.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Output/Html/AttributeName.lean)TODO
-
-: `Tags.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Output/Html/Tags.lean)TODO
-
-: `Comments.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Output/Html/Comments.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Output/Html/ElasticLunr.lean)TODO
 
 : `entities.json`
 
@@ -56,4 +52,7 @@ tag := "mods/verso/src/verso/Verso/Output/Html-files"
 : `KaTeX.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Output/Html/KaTeX.lean)TODO
+: `Tags.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Output/Html/Tags.lean)TODO
 

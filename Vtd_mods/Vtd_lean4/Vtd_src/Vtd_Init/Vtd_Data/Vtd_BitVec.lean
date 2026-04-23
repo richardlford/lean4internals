@@ -25,10 +25,6 @@ TODO
 tag := "mods/lean4/src/Init/Data/BitVec-files"
 %%%
 
-: `Lemmas.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/BitVec/Lemmas.lean)TODO
-
 : `Basic.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/BitVec/Basic.lean)TODO
@@ -41,15 +37,18 @@ tag := "mods/lean4/src/Init/Data/BitVec-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/BitVec/Bitblast.lean)TODO
 
-: `Folds.lean`
+: `Bootstrap.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/BitVec/Folds.lean)TODO
-
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/BitVec/Bootstrap.lean)TODO
 : `Decidable.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/BitVec/Decidable.lean)TODO
 
-: `Bootstrap.lean`
+: `Folds.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/BitVec/Bootstrap.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/BitVec/Folds.lean)TODO
+
+: `Lemmas.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/BitVec/Lemmas.lean)TODO
 

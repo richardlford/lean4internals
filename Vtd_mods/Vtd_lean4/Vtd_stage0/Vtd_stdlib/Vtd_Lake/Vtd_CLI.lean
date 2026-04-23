@@ -34,10 +34,6 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Lake/CLI-files"
 %%%
 
-: `Help.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/CLI/Help.c)TODO
-
 : `Actions.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/CLI/Actions.c)TODO
@@ -46,6 +42,25 @@ tag := "mods/lean4/stage0/stdlib/Lake/CLI-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/CLI/Build.c)TODO
 
+: `Error.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/CLI/Error.c)TODO
+
+: `Help.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/CLI/Help.c)TODO
+
+: `Init.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/CLI/Init.c)TODO
+: `Main.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/CLI/Main.c)TODO
+
+: `Serve.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/CLI/Serve.c)TODO
+
 : `Shake.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/CLI/Shake.c)TODO
@@ -53,20 +68,4 @@ tag := "mods/lean4/stage0/stdlib/Lake/CLI-files"
 : `Translate.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/CLI/Translate.c)TODO
-
-: `Error.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/CLI/Error.c)TODO
-
-: `Serve.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/CLI/Serve.c)TODO
-
-: `Main.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/CLI/Main.c)TODO
-
-: `Init.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/CLI/Init.c)TODO
 

@@ -33,11 +33,10 @@ tag := "mods/lean4/src/Init/Data/String/Lemmas/Pattern/Find-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/String/Lemmas/Pattern/Find/Char.lean)TODO
 
-: `String.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/String/Lemmas/Pattern/Find/String.lean)TODO
-
 : `Pred.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/String/Lemmas/Pattern/Find/Pred.lean)TODO
+: `String.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/String/Lemmas/Pattern/Find/String.lean)TODO
 

@@ -25,81 +25,17 @@ TODO
 tag := "mods/lean4/src/Lean/Meta/Sym/Simp-files"
 %%%
 
-: `Main.lean`
+: `App.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Simp/Main.lean)TODO
-
-: `Telescope.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Simp/Telescope.lean)TODO
-
-: `CongrInfo.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Simp/CongrInfo.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Simp/App.lean)TODO
 
 : `Attr.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Simp/Attr.lean)TODO
 
-: `Have.lean`
+: `CongrInfo.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Simp/Have.lean)TODO
-
-: `EvalGround.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Simp/EvalGround.lean)TODO
-
-: `Goal.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Simp/Goal.lean)TODO
-
-: `Result.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Simp/Result.lean)TODO
-
-: `Simproc.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Simp/Simproc.lean)TODO
-
-: `App.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Simp/App.lean)TODO
-
-: `Theorems.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Simp/Theorems.lean)TODO
-
-: `Lambda.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Simp/Lambda.lean)TODO
-
-: `Forall.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Simp/Forall.lean)TODO
-
-: `DiscrTree.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Simp/DiscrTree.lean)TODO
-
-: `Discharger.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Simp/Discharger.lean)TODO
-
-: `Rewrite.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Simp/Rewrite.lean)TODO
-
-: `Variant.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Simp/Variant.lean)TODO
-
-: `SimpM.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Simp/SimpM.lean)TODO
-
-: `RegisterCommand.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Simp/RegisterCommand.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Simp/CongrInfo.lean)TODO
 
 : `ControlFlow.lean`
 
@@ -108,4 +44,67 @@ tag := "mods/lean4/src/Lean/Meta/Sym/Simp-files"
 : `Debug.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Simp/Debug.lean)TODO
+: `Discharger.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Simp/Discharger.lean)TODO
+
+: `DiscrTree.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Simp/DiscrTree.lean)TODO
+
+: `EvalGround.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Simp/EvalGround.lean)TODO
+
+: `Forall.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Simp/Forall.lean)TODO
+
+: `Goal.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Simp/Goal.lean)TODO
+
+: `Have.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Simp/Have.lean)TODO
+
+: `Lambda.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Simp/Lambda.lean)TODO
+
+: `Main.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Simp/Main.lean)TODO
+
+: `RegisterCommand.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Simp/RegisterCommand.lean)TODO
+
+: `Result.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Simp/Result.lean)TODO
+
+: `Rewrite.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Simp/Rewrite.lean)TODO
+
+: `SimpM.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Simp/SimpM.lean)TODO
+
+: `Simproc.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Simp/Simproc.lean)TODO
+
+: `Telescope.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Simp/Telescope.lean)TODO
+
+: `Theorems.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Simp/Theorems.lean)TODO
+
+: `Variant.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Simp/Variant.lean)TODO
 

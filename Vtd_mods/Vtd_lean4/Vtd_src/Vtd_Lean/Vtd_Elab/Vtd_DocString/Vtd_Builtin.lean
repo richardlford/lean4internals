@@ -25,19 +25,18 @@ TODO
 tag := "mods/lean4/src/Lean/Elab/DocString/Builtin-files"
 %%%
 
-: `Parsing.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/DocString/Builtin/Parsing.lean)TODO
-
 : `Keywords.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/DocString/Builtin/Keywords.lean)TODO
 
-: `Scopes.lean`
+: `Parsing.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/DocString/Builtin/Scopes.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/DocString/Builtin/Parsing.lean)TODO
 
 : `Postponed.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/DocString/Builtin/Postponed.lean)TODO
+: `Scopes.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/DocString/Builtin/Scopes.lean)TODO
 

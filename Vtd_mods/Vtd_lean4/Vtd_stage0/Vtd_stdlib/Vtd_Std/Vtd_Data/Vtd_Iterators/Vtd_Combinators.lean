@@ -34,27 +34,26 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Std/Data/Iterators/Combinators-files"
 %%%
 
-: `TakeWhile.c`
+: `Drop.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Combinators/TakeWhile.c)TODO
-
-: `StepSize.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Combinators/StepSize.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Combinators/Drop.c)TODO
 
 : `DropWhile.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Combinators/DropWhile.c)TODO
 
-: `Zip.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Combinators/Zip.c)TODO
-
-: `Drop.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Combinators/Drop.c)TODO
-
 : `Monadic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Combinators/Monadic.c)TODO
+: `StepSize.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Combinators/StepSize.c)TODO
+
+: `TakeWhile.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Combinators/TakeWhile.c)TODO
+
+: `Zip.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Combinators/Zip.c)TODO
 

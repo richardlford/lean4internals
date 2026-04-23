@@ -25,87 +25,86 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp-files"
 %%%
 
+: `App.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp/App.c)TODO
+
 : `Attr.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp/Attr.c)TODO
-
-: `Goal.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp/Goal.c)TODO
-
-: `SimpM.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp/SimpM.c)TODO
-
-: `Theorems.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp/Theorems.c)TODO
-
-: `Telescope.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp/Telescope.c)TODO
-
-: `Simproc.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp/Simproc.c)TODO
-
-: `Have.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp/Have.c)TODO
-
-: `Forall.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp/Forall.c)TODO
-
-: `DiscrTree.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp/DiscrTree.c)TODO
-
-: `Debug.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp/Debug.c)TODO
-
-: `Rewrite.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp/Rewrite.c)TODO
-
-: `Result.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp/Result.c)TODO
 
 : `CongrInfo.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp/CongrInfo.c)TODO
 
-: `RegisterCommand.c`
+: `ControlFlow.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp/RegisterCommand.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp/ControlFlow.c)TODO
+: `Debug.c`
 
-: `Lambda.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp/Lambda.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp/Debug.c)TODO
 
 : `Discharger.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp/Discharger.c)TODO
 
-: `Variant.c`
+: `DiscrTree.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp/Variant.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp/DiscrTree.c)TODO
 
 : `EvalGround.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp/EvalGround.c)TODO
 
+: `Forall.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp/Forall.c)TODO
+
+: `Goal.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp/Goal.c)TODO
+
+: `Have.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp/Have.c)TODO
+
+: `Lambda.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp/Lambda.c)TODO
+
 : `Main.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp/Main.c)TODO
 
-: `App.c`
+: `RegisterCommand.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp/App.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp/RegisterCommand.c)TODO
 
-: `ControlFlow.c`
+: `Result.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp/ControlFlow.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp/Result.c)TODO
+
+: `Rewrite.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp/Rewrite.c)TODO
+
+: `SimpM.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp/SimpM.c)TODO
+
+: `Simproc.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp/Simproc.c)TODO
+
+: `Telescope.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp/Telescope.c)TODO
+
+: `Theorems.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp/Theorems.c)TODO
+
+: `Variant.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp/Variant.c)TODO
 

@@ -25,35 +25,34 @@ TODO
 tag := "mods/lean4/src/Lean/PrettyPrinter/Delaborator-files"
 %%%
 
-: `Options.lean`
+: `Attributes.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/PrettyPrinter/Delaborator/Options.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/PrettyPrinter/Delaborator/Attributes.lean)TODO
 
 : `Basic.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/PrettyPrinter/Delaborator/Basic.lean)TODO
 
-: `DeclWithSig.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/PrettyPrinter/Delaborator/DeclWithSig.lean)TODO
-
 : `Builtins.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/PrettyPrinter/Delaborator/Builtins.lean)TODO
+
+: `DeclWithSig.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/PrettyPrinter/Delaborator/DeclWithSig.lean)TODO
 
 : `FieldNotation.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/PrettyPrinter/Delaborator/FieldNotation.lean)TODO
 
-: `TopDownAnalyze.lean`
+: `Options.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/PrettyPrinter/Delaborator/TopDownAnalyze.lean)TODO
-
-: `Attributes.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/PrettyPrinter/Delaborator/Attributes.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/PrettyPrinter/Delaborator/Options.lean)TODO
 
 : `SubExpr.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/PrettyPrinter/Delaborator/SubExpr.lean)TODO
+: `TopDownAnalyze.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/PrettyPrinter/Delaborator/TopDownAnalyze.lean)TODO
 

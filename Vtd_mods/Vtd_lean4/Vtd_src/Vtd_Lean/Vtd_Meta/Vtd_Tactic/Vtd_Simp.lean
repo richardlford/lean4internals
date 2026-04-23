@@ -3,8 +3,8 @@
 
 -- Imports from child directories.
 
-import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Meta».«Vtd_Tactic».«Vtd_Simp».«Vtd_BuiltinSimprocs»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Meta».«Vtd_Tactic».«Vtd_Simp».«Vtd_Arith»
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Meta».«Vtd_Tactic».«Vtd_Simp».«Vtd_BuiltinSimprocs»
 
 -- End of Imports from child directories.
 
@@ -28,41 +28,44 @@ tag := "mods-lean4-src-Lean-Meta-Tactic-Simp"
 TODO
 
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Meta».«Vtd_Tactic».«Vtd_Simp».«Vtd_BuiltinSimprocs»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Meta».«Vtd_Tactic».«Vtd_Simp».«Vtd_Arith»}
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Meta».«Vtd_Tactic».«Vtd_Simp».«Vtd_BuiltinSimprocs»}
 
 # `m/l/s/L/Meta/Tactic/Simp` Files
 %%%
 tag := "mods/lean4/src/Lean/Meta/Tactic/Simp-files"
 %%%
 
-: `LoopProtection.lean`
+: `Arith.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Simp/LoopProtection.lean)TODO
-
-: `SimpTheorems.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Simp/SimpTheorems.lean)TODO
-
-: `Main.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Simp/Main.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Simp/Arith.lean)TODO
 
 : `Attr.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Simp/Attr.lean)TODO
 
-: `Simproc.lean`
+: `BuiltinSimprocs.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Simp/Simproc.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Simp/BuiltinSimprocs.lean)TODO
 
 : `Diagnostics.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Simp/Diagnostics.lean)TODO
 
-: `Arith.lean`
+: `LoopProtection.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Simp/Arith.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Simp/LoopProtection.lean)TODO
+
+: `Main.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Simp/Main.lean)TODO
+
+: `RegisterCommand.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Simp/RegisterCommand.lean)TODO
+: `Rewrite.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Simp/Rewrite.lean)TODO
 
 : `SimpAll.lean`
 
@@ -72,19 +75,15 @@ tag := "mods/lean4/src/Lean/Meta/Tactic/Simp-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Simp/SimpCongrTheorems.lean)TODO
 
-: `Rewrite.lean`
+: `Simproc.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Simp/Rewrite.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Simp/Simproc.lean)TODO
+
+: `SimpTheorems.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Simp/SimpTheorems.lean)TODO
 
 : `Types.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Simp/Types.lean)TODO
-
-: `BuiltinSimprocs.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Simp/BuiltinSimprocs.lean)TODO
-
-: `RegisterCommand.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Simp/RegisterCommand.lean)TODO
 

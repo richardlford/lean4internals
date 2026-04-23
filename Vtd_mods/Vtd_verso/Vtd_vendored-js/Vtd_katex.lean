@@ -36,10 +36,6 @@ TODO
 tag := "mods/verso/vendored-js/katex-files"
 %%%
 
-: `README.md`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/README.md)TODO
-
 : `katex.css`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/katex.css)TODO
@@ -48,6 +44,9 @@ tag := "mods/verso/vendored-js/katex-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/katex.js)TODO
 
+: `katex.min.css`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/katex.min.css)TODO
 : `katex.min.js`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/katex.min.js)TODO
@@ -56,7 +55,7 @@ tag := "mods/verso/vendored-js/katex-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/katex.mjs)TODO
 
-: `katex.min.css`
+: `README.md`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/katex.min.css)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/README.md)TODO
 

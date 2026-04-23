@@ -33,23 +33,22 @@ tag := "mods/lean4/stage0/stdlib/Init/Grind/Ring-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Grind/Ring/CommSemiringAdapter.c)TODO
 
-: `OfScientific.c`
+: `CommSolver.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Grind/Ring/OfScientific.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Grind/Ring/CommSolver.c)TODO
+: `Envelope.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Grind/Ring/Envelope.c)TODO
 
 : `Field.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Grind/Ring/Field.c)TODO
 
-: `Envelope.c`
+: `OfScientific.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Grind/Ring/Envelope.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Grind/Ring/OfScientific.c)TODO
 
 : `ToInt.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Grind/Ring/ToInt.c)TODO
-
-: `CommSolver.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Grind/Ring/CommSolver.c)TODO
 

@@ -34,31 +34,30 @@ TODO
 tag := "mods/lean4/src/Init/Data/Iterators/Combinators-files"
 %%%
 
-: `Take.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Combinators/Take.lean)TODO
-
-: `FilterMap.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Combinators/FilterMap.lean)TODO
-
 : `Append.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Combinators/Append.lean)TODO
-
-: `Monadic.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Combinators/Monadic.lean)TODO
-
-: `ULift.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Combinators/ULift.lean)TODO
 
 : `Attach.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Combinators/Attach.lean)TODO
 
+: `FilterMap.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Combinators/FilterMap.lean)TODO
+
 : `FlatMap.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Combinators/FlatMap.lean)TODO
+: `Monadic.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Combinators/Monadic.lean)TODO
+
+: `Take.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Combinators/Take.lean)TODO
+
+: `ULift.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Combinators/ULift.lean)TODO
 

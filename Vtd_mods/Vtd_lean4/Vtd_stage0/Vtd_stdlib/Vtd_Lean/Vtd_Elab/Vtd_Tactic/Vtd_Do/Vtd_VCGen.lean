@@ -25,15 +25,14 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/VCGen-files"
 %%%
 
-: `Split.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/VCGen/Split.c)TODO
-
 : `Basic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/VCGen/Basic.c)TODO
 
+: `Split.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/VCGen/Split.c)TODO
+
 : `SuggestInvariant.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/VCGen/SuggestInvariant.c)TODO
-

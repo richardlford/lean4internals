@@ -25,19 +25,18 @@ TODO
 tag := "mods/vscode-lean4/vscode-lean4/test/test-fixtures/multi/foo-files"
 %%%
 
-: `Main.lean`
+: `Foo.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/test/test-fixtures/multi/foo/Main.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/test/test-fixtures/multi/foo/Foo.lean)TODO
 
 : `lakefile.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/test/test-fixtures/multi/foo/lakefile.lean)TODO
 
-: `Foo.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/test/test-fixtures/multi/foo/Foo.lean)TODO
-
 : `lean-toolchain`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/test/test-fixtures/multi/foo/lean-toolchain)TODO
+: `Main.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/test/test-fixtures/multi/foo/Main.lean)TODO
 

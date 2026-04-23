@@ -25,37 +25,29 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Grind-files"
 %%%
 
-: `LintExceptions.c`
+: `Anchor.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Grind/LintExceptions.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Grind/Anchor.c)TODO
 
-: `SimprocDSLBuiltin.c`
+: `Annotated.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Grind/SimprocDSLBuiltin.c)TODO
-
-: `Filter.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Grind/Filter.c)TODO
-
-: `ShowState.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Grind/ShowState.c)TODO
-
-: `Trace.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Grind/Trace.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Grind/Annotated.c)TODO
 
 : `Basic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Grind/Basic.c)TODO
 
-: `Param.c`
+: `BuiltinTactic.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Grind/Param.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Grind/BuiltinTactic.c)TODO
 
-: `SimprocDSL.c`
+: `Config.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Grind/SimprocDSL.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Grind/Config.c)TODO
+
+: `Filter.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Grind/Filter.c)TODO
 
 : `Have.c`
 
@@ -65,31 +57,38 @@ tag := "mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Grind-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Grind/Lint.c)TODO
 
-: `Annotated.c`
+: `LintExceptions.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Grind/Annotated.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Grind/LintExceptions.c)TODO
 
-: `Anchor.c`
+: `Main.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Grind/Anchor.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Grind/Main.c)TODO
+: `Param.c`
 
-: `Sym.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Grind/Sym.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Grind/Param.c)TODO
 
 : `RegisterSymSimp.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Grind/RegisterSymSimp.c)TODO
 
-: `Config.c`
+: `ShowState.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Grind/Config.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Grind/ShowState.c)TODO
 
-: `BuiltinTactic.c`
+: `SimprocDSL.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Grind/BuiltinTactic.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Grind/SimprocDSL.c)TODO
 
-: `Main.c`
+: `SimprocDSLBuiltin.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Grind/Main.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Grind/SimprocDSLBuiltin.c)TODO
+
+: `Sym.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Grind/Sym.c)TODO
+
+: `Trace.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Grind/Trace.c)TODO
 

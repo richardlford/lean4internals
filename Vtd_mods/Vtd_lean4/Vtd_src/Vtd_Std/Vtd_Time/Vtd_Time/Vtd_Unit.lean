@@ -29,23 +29,22 @@ tag := "mods/lean4/src/Std/Time/Time/Unit-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Time/Time/Unit/Basic.lean)TODO
 
-: `Nanosecond.lean`
+: `Hour.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Time/Time/Unit/Nanosecond.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Time/Time/Unit/Hour.lean)TODO
+: `Millisecond.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Time/Time/Unit/Millisecond.lean)TODO
 
 : `Minute.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Time/Time/Unit/Minute.lean)TODO
 
+: `Nanosecond.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Time/Time/Unit/Nanosecond.lean)TODO
+
 : `Second.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Time/Time/Unit/Second.lean)TODO
-
-: `Millisecond.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Time/Time/Unit/Millisecond.lean)TODO
-
-: `Hour.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Time/Time/Unit/Hour.lean)TODO
 

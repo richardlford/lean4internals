@@ -29,21 +29,13 @@ tag := "mods/lean4/src/Lean/Meta/Tactic/Grind/Order-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/Order/Assert.lean)TODO
 
-: `OrderM.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/Order/OrderM.lean)TODO
-
 : `Internalize.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/Order/Internalize.lean)TODO
 
-: `Util.lean`
+: `OrderM.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/Order/Util.lean)TODO
-
-: `Types.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/Order/Types.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/Order/OrderM.lean)TODO
 
 : `Proof.lean`
 
@@ -52,4 +44,11 @@ tag := "mods/lean4/src/Lean/Meta/Tactic/Grind/Order-files"
 : `StructId.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/Order/StructId.lean)TODO
+: `Types.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/Order/Types.lean)TODO
+
+: `Util.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/Order/Util.lean)TODO
 

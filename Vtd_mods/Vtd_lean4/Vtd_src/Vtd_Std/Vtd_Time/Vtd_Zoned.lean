@@ -34,27 +34,26 @@ TODO
 tag := "mods/lean4/src/Std/Time/Zoned-files"
 %%%
 
-: `TimeZone.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Time/Zoned/TimeZone.lean)TODO
-
-: `Offset.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Time/Zoned/Offset.lean)TODO
-
 : `Database.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Time/Zoned/Database.lean)TODO
-
-: `ZonedDateTime.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Time/Zoned/ZonedDateTime.lean)TODO
 
 : `DateTime.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Time/Zoned/DateTime.lean)TODO
 
+: `Offset.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Time/Zoned/Offset.lean)TODO
+
+: `TimeZone.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Time/Zoned/TimeZone.lean)TODO
+
+: `ZonedDateTime.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Time/Zoned/ZonedDateTime.lean)TODO
+
 : `ZoneRules.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Time/Zoned/ZoneRules.lean)TODO
-

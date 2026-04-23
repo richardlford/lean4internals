@@ -29,27 +29,26 @@ tag := "mods/lean4/src/Init/GrindInstances/Ring-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/GrindInstances/Ring/BitVec.lean)TODO
 
-: `Nat.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/GrindInstances/Ring/Nat.lean)TODO
-
 : `Fin.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/GrindInstances/Ring/Fin.lean)TODO
-
-: `Rat.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/GrindInstances/Ring/Rat.lean)TODO
 
 : `Int.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/GrindInstances/Ring/Int.lean)TODO
 
-: `UInt.lean`
+: `Nat.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/GrindInstances/Ring/UInt.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/GrindInstances/Ring/Nat.lean)TODO
+
+: `Rat.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/GrindInstances/Ring/Rat.lean)TODO
 
 : `SInt.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/GrindInstances/Ring/SInt.lean)TODO
+: `UInt.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/GrindInstances/Ring/UInt.lean)TODO
 

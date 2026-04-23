@@ -39,15 +39,24 @@ tag := "mods/verso/doc/UsersGuide-files"
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/doc/UsersGuide/Basic.lean)
   This has the title page and introduction to Verso.
 
-: `Releases.lean`
+: `Elab.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/doc/UsersGuide/Releases.lean)
-  This is the "Release Notes" chapter of the manual.
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/doc/UsersGuide/Elab.lean)
+  This contains the source for the "Building Documents" chapter.
+: `Extensions.lean`
 
-: `Output.lean`
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/doc/UsersGuide/Extensions.lean)
+  This contains the source of the "Extensions" chapter.
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/doc/UsersGuide/Output.lean)
-  This is the "Output Formats" chapter.
+: `Literate.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/doc/UsersGuide/Literate.lean)
+  This contains the source for the "Literate Programming" chapter.
+
+: `Manuals.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/doc/UsersGuide/Manuals.lean)
+  This contains source for the "Manuals and Books" chapter.
 
 : `Markup.lean`
 
@@ -55,27 +64,18 @@ tag := "mods/verso/doc/UsersGuide-files"
   This contains the "Verso Markup" chapter, but before that it contains
   special code to enable showing markup and its results.
 
-: `Manuals.lean`
+: `Output.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/doc/UsersGuide/Manuals.lean)
-  This contains source for the "Manuals and Books" chapter.
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/doc/UsersGuide/Output.lean)
+  This is the "Output Formats" chapter.
 
-: `Literate.lean`
+: `Releases.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/doc/UsersGuide/Literate.lean)
-  This contains the source for the "Literate Programming" chapter.
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/doc/UsersGuide/Releases.lean)
+  This is the "Release Notes" chapter of the manual.
 
 : `Websites.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/doc/UsersGuide/Websites.lean)
   This contains the source for the "Websites" chapter.
 
-: `Extensions.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/doc/UsersGuide/Extensions.lean)
-  This contains the source of the "Extensions" chapter.
-
-: `Elab.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/doc/UsersGuide/Elab.lean)
-  This contains the source for the "Building Documents" chapter.

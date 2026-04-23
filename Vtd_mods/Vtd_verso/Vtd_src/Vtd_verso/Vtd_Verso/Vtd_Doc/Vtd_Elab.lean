@@ -33,9 +33,9 @@ tag := "mods/verso/src/verso/Verso/Doc/Elab-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Doc/Elab/Block.lean)TODO
 
-: `InlineString.lean`
+: `ExpanderAttribute.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Doc/Elab/InlineString.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Doc/Elab/ExpanderAttribute.lean)TODO
 
 : `Incremental.lean`
 
@@ -45,11 +45,10 @@ tag := "mods/verso/src/verso/Verso/Doc/Elab-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Doc/Elab/Inline.lean)TODO
 
-: `ExpanderAttribute.lean`
+: `InlineString.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Doc/Elab/ExpanderAttribute.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Doc/Elab/InlineString.lean)TODO
 
 : `Monad.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Doc/Elab/Monad.lean)TODO
-

@@ -25,21 +25,32 @@ TODO
 tag := "mods/lean4/src/Init/Data/Order-files"
 %%%
 
-: `Lemmas.lean`
+: `Classes.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Order/Lemmas.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Order/Classes.lean)TODO
+
+: `ClassesExtra.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Order/ClassesExtra.lean)TODO
+
+: `Factories.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Order/Factories.lean)TODO
 
 : `FactoriesExtra.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Order/FactoriesExtra.lean)TODO
 
+: `Lemmas.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Order/Lemmas.lean)TODO
+
+: `LemmasExtra.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Order/LemmasExtra.lean)TODO
 : `MinMaxOn.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Order/MinMaxOn.lean)TODO
-
-: `Classes.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Order/Classes.lean)TODO
 
 : `Opposite.lean`
 
@@ -49,19 +60,7 @@ tag := "mods/lean4/src/Init/Data/Order-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Order/Ord.lean)TODO
 
-: `Factories.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Order/Factories.lean)TODO
-
-: `ClassesExtra.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Order/ClassesExtra.lean)TODO
-
 : `PackageFactories.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Order/PackageFactories.lean)TODO
-
-: `LemmasExtra.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Order/LemmasExtra.lean)TODO
 

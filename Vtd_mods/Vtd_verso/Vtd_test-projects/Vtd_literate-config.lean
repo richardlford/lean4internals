@@ -36,6 +36,17 @@ TODO
 tag := "mods/verso/test-projects/literate-config-files"
 %%%
 
+: `lake-manifest.json`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/literate-config/lake-manifest.json)TODO
+
+: `lakefile.toml`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/literate-config/lakefile.toml)TODO
+
+: `lean-toolchain`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/literate-config/lean-toolchain)TODO
 : `LitConfig.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/literate-config/LitConfig.lean)TODO
@@ -43,16 +54,4 @@ tag := "mods/verso/test-projects/literate-config-files"
 : `README.md`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/literate-config/README.md)TODO
-
-: `lakefile.toml`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/literate-config/lakefile.toml)TODO
-
-: `lake-manifest.json`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/literate-config/lake-manifest.json)TODO
-
-: `lean-toolchain`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/literate-config/lean-toolchain)TODO
 

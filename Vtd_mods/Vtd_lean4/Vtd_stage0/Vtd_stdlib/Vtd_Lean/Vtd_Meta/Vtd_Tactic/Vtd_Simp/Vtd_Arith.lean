@@ -36,15 +36,14 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Simp/Arith-files"
 %%%
 
-: `Nat.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Simp/Arith/Nat.c)TODO
-
 : `Int.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Simp/Arith/Int.c)TODO
 
+: `Nat.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Simp/Arith/Nat.c)TODO
+
 : `Util.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Simp/Arith/Util.c)TODO
-

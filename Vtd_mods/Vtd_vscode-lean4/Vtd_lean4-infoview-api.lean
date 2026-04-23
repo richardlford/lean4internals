@@ -34,11 +34,10 @@ TODO
 tag := "mods/vscode-lean4/lean4-infoview-api-files"
 %%%
 
-: `tsconfig.json`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-infoview-api/tsconfig.json)TODO
-
 : `package.json`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-infoview-api/package.json)TODO
+: `tsconfig.json`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-infoview-api/tsconfig.json)TODO
 

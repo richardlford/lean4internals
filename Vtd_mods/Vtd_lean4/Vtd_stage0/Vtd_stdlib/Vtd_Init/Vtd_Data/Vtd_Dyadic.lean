@@ -25,10 +25,6 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Init/Data/Dyadic-files"
 %%%
 
-: `Round.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Dyadic/Round.c)TODO
-
 : `Basic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Dyadic/Basic.c)TODO
@@ -40,4 +36,7 @@ tag := "mods/lean4/stage0/stdlib/Init/Data/Dyadic-files"
 : `Inv.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Dyadic/Inv.c)TODO
+: `Round.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Dyadic/Round.c)TODO
 

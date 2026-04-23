@@ -25,10 +25,6 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Lean/Elab/Do-files"
 %%%
 
-: `InferControlInfo.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Do/InferControlInfo.c)TODO
-
 : `Basic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Do/Basic.c)TODO
@@ -37,15 +33,18 @@ tag := "mods/lean4/stage0/stdlib/Lean/Elab/Do-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Do/Control.c)TODO
 
-: `PatternVar.c`
+: `InferControlInfo.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Do/PatternVar.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Do/InferControlInfo.c)TODO
 
 : `Legacy.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Do/Legacy.c)TODO
 
+: `PatternVar.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Do/PatternVar.c)TODO
+
 : `Switch.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Do/Switch.c)TODO
-

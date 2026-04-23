@@ -25,31 +25,30 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Init/System-files"
 %%%
 
-: `ST.c`
+: `FilePath.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/System/ST.c)TODO
-
-: `IOError.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/System/IOError.c)TODO
-
-: `Promise.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/System/Promise.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/System/FilePath.c)TODO
 
 : `IO.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/System/IO.c)TODO
 
-: `FilePath.c`
+: `IOError.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/System/FilePath.c)TODO
-
-: `Uri.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/System/Uri.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/System/IOError.c)TODO
 
 : `Platform.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/System/Platform.c)TODO
+: `Promise.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/System/Promise.c)TODO
+
+: `ST.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/System/ST.c)TODO
+
+: `Uri.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/System/Uri.c)TODO
 

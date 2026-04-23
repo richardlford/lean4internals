@@ -25,15 +25,14 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Lean/Server/Rpc-files"
 %%%
 
-: `Deriving.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/Rpc/Deriving.c)TODO
-
 : `Basic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/Rpc/Basic.c)TODO
 
+: `Deriving.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/Rpc/Deriving.c)TODO
+
 : `RequestHandling.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/Rpc/RequestHandling.c)TODO
-

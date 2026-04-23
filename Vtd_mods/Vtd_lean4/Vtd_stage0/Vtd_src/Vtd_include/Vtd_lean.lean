@@ -25,10 +25,6 @@ TODO
 tag := "mods/lean4/stage0/src/include/lean-files"
 %%%
 
-: `lean_libuv.h`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/include/lean/lean_libuv.h)TODO
-
 : `lean.h`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/include/lean/lean.h)TODO
@@ -36,4 +32,7 @@ tag := "mods/lean4/stage0/src/include/lean-files"
 : `lean_gmp.h`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/include/lean/lean_gmp.h)TODO
+: `lean_libuv.h`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/include/lean/lean_libuv.h)TODO
 

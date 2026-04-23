@@ -34,6 +34,14 @@ TODO
 tag := "mods/lean4/src/Init/Data/Iterators/Consumers-files"
 %%%
 
+: `Access.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Consumers/Access.lean)TODO
+
+: `Collect.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Consumers/Collect.lean)TODO
+
 : `Loop.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Consumers/Loop.lean)TODO
@@ -42,6 +50,9 @@ tag := "mods/lean4/src/Init/Data/Iterators/Consumers-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Consumers/Monadic.lean)TODO
 
+: `Partial.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Consumers/Partial.lean)TODO
 : `Stream.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Consumers/Stream.lean)TODO
@@ -49,16 +60,4 @@ tag := "mods/lean4/src/Init/Data/Iterators/Consumers-files"
 : `Total.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Consumers/Total.lean)TODO
-
-: `Collect.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Consumers/Collect.lean)TODO
-
-: `Access.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Consumers/Access.lean)TODO
-
-: `Partial.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Consumers/Partial.lean)TODO
 

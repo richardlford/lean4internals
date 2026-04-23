@@ -25,9 +25,29 @@ TODO
 tag := "mods/lean4/doc/images-files"
 %%%
 
-: `widgets_caas.png`
+: `code-ext.png`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/images/widgets_caas.png)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/images/code-ext.png)TODO
+
+: `code-success.png`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/images/code-success.png)TODO
+
+: `code-wsl.png`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/images/code-wsl.png)TODO
+
+: `install_elan.png`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/images/install_elan.png)TODO
+
+: `monads.dgml`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/images/monads.dgml)TODO
+
+: `monads.svg`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/images/monads.svg)TODO
 
 : `setup_guide.png`
 
@@ -37,31 +57,10 @@ tag := "mods/lean4/doc/images-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/images/show-setup-guide.png)TODO
 
-: `code-wsl.png`
+: `widgets_caas.png`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/images/code-wsl.png)TODO
-
-: `code-success.png`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/images/code-success.png)TODO
-
-: `monads.svg`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/images/monads.svg)TODO
-
-: `code-ext.png`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/images/code-ext.png)TODO
-
-: `monads.dgml`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/images/monads.dgml)TODO
-
-: `install_elan.png`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/images/install_elan.png)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/images/widgets_caas.png)TODO
 
 : `widgets_rubiks.png`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/images/widgets_rubiks.png)TODO
-

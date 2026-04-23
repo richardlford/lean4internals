@@ -33,11 +33,10 @@ tag := "mods/lean4/stage0/stdlib/Init/Data/String/Pattern-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/String/Pattern/Char.c)TODO
 
-: `String.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/String/Pattern/String.c)TODO
-
 : `Pred.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/String/Pattern/Pred.c)TODO
+: `String.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/String/Pattern/String.c)TODO
 

@@ -25,15 +25,14 @@ TODO
 tag := "mods/lean4/src/Std/Data/Iterators/Producers/Monadic-files"
 %%%
 
-: `Empty.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/Iterators/Producers/Monadic/Empty.lean)TODO
-
 : `Array.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/Iterators/Producers/Monadic/Array.lean)TODO
 
+: `Empty.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/Iterators/Producers/Monadic/Empty.lean)TODO
+
 : `Vector.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/Iterators/Producers/Monadic/Vector.lean)TODO
-

@@ -25,11 +25,10 @@ TODO
 tag := "mods/lean4/src/Init/Data/Sum-files"
 %%%
 
-: `Lemmas.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Sum/Lemmas.lean)TODO
-
 : `Basic.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Sum/Basic.lean)TODO
+: `Lemmas.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Sum/Lemmas.lean)TODO
 

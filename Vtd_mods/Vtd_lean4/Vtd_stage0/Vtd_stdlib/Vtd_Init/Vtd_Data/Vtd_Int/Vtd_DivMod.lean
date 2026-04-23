@@ -25,14 +25,6 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Init/Data/Int/DivMod-files"
 %%%
 
-: `Pow.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Int/DivMod/Pow.c)TODO
-
-: `Lemmas.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Int/DivMod/Lemmas.c)TODO
-
 : `Basic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Int/DivMod/Basic.c)TODO
@@ -40,4 +32,11 @@ tag := "mods/lean4/stage0/stdlib/Init/Data/Int/DivMod-files"
 : `Bootstrap.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Int/DivMod/Bootstrap.c)TODO
+: `Lemmas.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Int/DivMod/Lemmas.c)TODO
+
+: `Pow.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Int/DivMod/Pow.c)TODO
 

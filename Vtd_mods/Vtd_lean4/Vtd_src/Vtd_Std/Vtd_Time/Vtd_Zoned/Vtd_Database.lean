@@ -25,10 +25,6 @@ TODO
 tag := "mods/lean4/src/Std/Time/Zoned/Database-files"
 %%%
 
-: `Windows.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Time/Zoned/Database/Windows.lean)TODO
-
 : `Basic.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Time/Zoned/Database/Basic.lean)TODO
@@ -40,4 +36,7 @@ tag := "mods/lean4/src/Std/Time/Zoned/Database-files"
 : `TzIf.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Time/Zoned/Database/TzIf.lean)TODO
+: `Windows.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Time/Zoned/Database/Windows.lean)TODO
 

@@ -36,15 +36,14 @@ TODO
 tag := "mods/lean4/src/Lean/Elab/Tactic/BVDecide-files"
 %%%
 
-: `Frontend.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend.lean)TODO
-
 : `External.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/External.lean)TODO
 
+: `Frontend.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend.lean)TODO
+
 : `LRAT.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/LRAT.lean)TODO
-

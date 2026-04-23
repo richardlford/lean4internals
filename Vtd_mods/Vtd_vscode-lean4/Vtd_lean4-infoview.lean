@@ -3,8 +3,8 @@
 
 -- Imports from child directories.
 
-import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_test»
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src»
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_test»
 
 -- End of Imports from child directories.
 
@@ -28,18 +28,17 @@ tag := "mods-vscode-lean4-lean4-infoview"
 TODO
 
 
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_test»}
 {include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src»}
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_test»}
 
 # `mods/vscode-lean4/lean4-infoview` Files
 %%%
 tag := "mods/vscode-lean4/lean4-infoview-files"
 %%%
 
-: `tsconfig.json`
+: `package.json`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-infoview/tsconfig.json)TODO
-
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-infoview/package.json)TODO
 : `README.md`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-infoview/README.md)TODO
@@ -48,7 +47,7 @@ tag := "mods/vscode-lean4/lean4-infoview-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-infoview/rollup.config.js)TODO
 
-: `package.json`
+: `tsconfig.json`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-infoview/package.json)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-infoview/tsconfig.json)TODO
 

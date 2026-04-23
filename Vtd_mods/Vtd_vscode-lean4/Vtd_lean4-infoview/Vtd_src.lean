@@ -36,11 +36,10 @@ TODO
 tag := "mods/vscode-lean4/lean4-infoview/src-files"
 %%%
 
-: `loader.ts`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-infoview/src/loader.ts)TODO
-
 : `index.tsx`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-infoview/src/index.tsx)TODO
+: `loader.ts`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-infoview/src/loader.ts)TODO
 

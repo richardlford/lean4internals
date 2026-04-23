@@ -29,15 +29,14 @@ tag := "mods/vscode-lean4/vscode-lean4/test/test-fixtures/lean3-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/test/test-fixtures/lean3/.gitignore)TODO
 
-: `Main.lean`
+: `leanpkg.path`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/test/test-fixtures/lean3/Main.lean)TODO
-
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/test/test-fixtures/lean3/leanpkg.path)TODO
 : `leanpkg.toml`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/test/test-fixtures/lean3/leanpkg.toml)TODO
 
-: `leanpkg.path`
+: `Main.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/test/test-fixtures/lean3/leanpkg.path)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/test/test-fixtures/lean3/Main.lean)TODO
 

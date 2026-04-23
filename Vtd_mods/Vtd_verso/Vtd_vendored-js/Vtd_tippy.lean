@@ -36,6 +36,21 @@ TODO
 tag := "mods/verso/vendored-js/tippy-files"
 %%%
 
+: `backdrop.css`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/backdrop.css)TODO
+
+: `border.css`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/border.css)TODO
+
+: `index.d.ts`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/index.d.ts)TODO
+: `LICENSE`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/LICENSE)TODO
+
 : `README.md`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/README.md)TODO
@@ -44,67 +59,51 @@ tag := "mods/verso/vendored-js/tippy-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/svg-arrow.css)TODO
 
-: `tippy.umd.js.map.json`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/tippy.umd.js.map.json)TODO
-
-: `backdrop.css`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/backdrop.css)TODO
-
-: `tippy.umd.min.js`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/tippy.umd.min.js)TODO
-
-: `tippy.esm.js`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/tippy.esm.js)TODO
-
-: `tippy.umd.min.js.map.json`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/tippy.umd.min.js.map.json)TODO
-
-: `tippy.umd.js`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/tippy.umd.js)TODO
-
-: `border.css`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/border.css)TODO
-
-: `tippy.css`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/tippy.css)TODO
-
-: `tippy.cjs.js`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/tippy.cjs.js)TODO
-
 : `tippy-bundle.umd.js`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/tippy-bundle.umd.js)TODO
-
-: `LICENSE`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/LICENSE)TODO
-
-: `tippy-bundle.umd.min.js`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/tippy-bundle.umd.min.js)TODO
-
-: `tippy.cjs.js.map.json`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/tippy.cjs.js.map.json)TODO
-
-: `tippy-bundle.umd.min.js.map.json`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/tippy-bundle.umd.min.js.map.json)TODO
 
 : `tippy-bundle.umd.js.map.json`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/tippy-bundle.umd.js.map.json)TODO
 
-: `index.d.ts`
+: `tippy-bundle.umd.min.js`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/index.d.ts)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/tippy-bundle.umd.min.js)TODO
+
+: `tippy-bundle.umd.min.js.map.json`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/tippy-bundle.umd.min.js.map.json)TODO
+
+: `tippy.cjs.js`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/tippy.cjs.js)TODO
+
+: `tippy.cjs.js.map.json`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/tippy.cjs.js.map.json)TODO
+
+: `tippy.css`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/tippy.css)TODO
+
+: `tippy.esm.js`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/tippy.esm.js)TODO
+
+: `tippy.umd.js`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/tippy.umd.js)TODO
+
+: `tippy.umd.js.map.json`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/tippy.umd.js.map.json)TODO
+
+: `tippy.umd.min.js`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/tippy.umd.min.js)TODO
+
+: `tippy.umd.min.js.map.json`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/tippy.umd.min.js.map.json)TODO
 

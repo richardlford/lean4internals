@@ -42,15 +42,14 @@ tag := "mods/verso/test-projects/anchor-examples-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/anchor-examples/AnchorExamples.lean)TODO
 
-: `lakefile.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/anchor-examples/lakefile.lean)TODO
-
 : `lake-manifest.json`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/anchor-examples/lake-manifest.json)TODO
 
+: `lakefile.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/anchor-examples/lakefile.lean)TODO
+
 : `lean-toolchain`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/anchor-examples/lean-toolchain)TODO
-

@@ -25,19 +25,18 @@ TODO
 tag := "mods/verso/test-projects/tutorial-test/TutorialExample-files"
 %%%
 
-: `RCases.lean`
+: `Data.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/tutorial-test/TutorialExample/RCases.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/tutorial-test/TutorialExample/Data.lean)TODO
 
 : `HashMap.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/tutorial-test/TutorialExample/HashMap.lean)TODO
 
-: `Data.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/tutorial-test/TutorialExample/Data.lean)TODO
-
 : `Lit.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/tutorial-test/TutorialExample/Lit.lean)TODO
+: `RCases.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/tutorial-test/TutorialExample/RCases.lean)TODO
 

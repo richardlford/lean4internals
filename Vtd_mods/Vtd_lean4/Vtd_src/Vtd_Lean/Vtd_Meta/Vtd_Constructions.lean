@@ -29,35 +29,34 @@ tag := "mods/lean4/src/Lean/Meta/Constructions-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Constructions/BRecOn.lean)TODO
 
-: `RecOn.lean`
+: `CasesOn.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Constructions/RecOn.lean)TODO
-
-: `CtorElim.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Constructions/CtorElim.lean)TODO
-
-: `SparseCasesOn.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Constructions/SparseCasesOn.lean)TODO
-
-: `CtorIdx.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Constructions/CtorIdx.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Constructions/CasesOn.lean)TODO
 
 : `CasesOnSameCtor.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Constructions/CasesOnSameCtor.lean)TODO
 
-: `CasesOn.lean`
+: `CtorElim.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Constructions/CasesOn.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Constructions/CtorElim.lean)TODO
+
+: `CtorIdx.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Constructions/CtorIdx.lean)TODO
 
 : `NoConfusion.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Constructions/NoConfusion.lean)TODO
 
+: `RecOn.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Constructions/RecOn.lean)TODO
+
+: `SparseCasesOn.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Constructions/SparseCasesOn.lean)TODO
+
 : `SparseCasesOnEq.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Constructions/SparseCasesOnEq.lean)TODO
-

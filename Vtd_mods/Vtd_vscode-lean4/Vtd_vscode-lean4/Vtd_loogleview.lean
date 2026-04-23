@@ -34,11 +34,10 @@ TODO
 tag := "mods/vscode-lean4/vscode-lean4/loogleview-files"
 %%%
 
-: `tsconfig.json`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/loogleview/tsconfig.json)TODO
-
 : `index.ts`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/loogleview/index.ts)TODO
+: `tsconfig.json`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/loogleview/tsconfig.json)TODO
 

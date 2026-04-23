@@ -25,10 +25,6 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Init/Data/String/Lemmas/Pattern/String-files"
 %%%
 
-: `ForwardSearcher.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/String/Lemmas/Pattern/String/ForwardSearcher.c)TODO
-
 : `Basic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/String/Lemmas/Pattern/String/Basic.c)TODO
@@ -36,4 +32,7 @@ tag := "mods/lean4/stage0/stdlib/Init/Data/String/Lemmas/Pattern/String-files"
 : `ForwardPattern.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/String/Lemmas/Pattern/String/ForwardPattern.c)TODO
+: `ForwardSearcher.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/String/Lemmas/Pattern/String/ForwardSearcher.c)TODO
 

@@ -25,10 +25,6 @@ TODO
 tag := "mods/vscode-lean4/vscode-lean4/test/test-fixtures/lakefileTomlSchemaTestCases/valid-files"
 %%%
 
-: `require_git_url_only.toml`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/test/test-fixtures/lakefileTomlSchemaTestCases/valid/require_git_url_only.toml)TODO
-
 : `default.toml`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/test/test-fixtures/lakefileTomlSchemaTestCases/valid/default.toml)TODO
@@ -37,7 +33,10 @@ tag := "mods/vscode-lean4/vscode-lean4/test/test-fixtures/lakefileTomlSchemaTest
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/test/test-fixtures/lakefileTomlSchemaTestCases/valid/require_git_string.toml)TODO
 
+: `require_git_url_only.toml`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/test/test-fixtures/lakefileTomlSchemaTestCases/valid/require_git_url_only.toml)TODO
+
 : `require_git_url_subdir.toml`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/test/test-fixtures/lakefileTomlSchemaTestCases/valid/require_git_url_subdir.toml)TODO
-

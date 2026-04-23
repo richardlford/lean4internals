@@ -37,15 +37,14 @@ tag := "mods/vscode-lean4/lean4-infoview-api/src-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-infoview-api/src/lspTypes.ts)TODO
 
-: `util.ts`
+: `rpcApi.ts`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-infoview-api/src/util.ts)TODO
-
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-infoview-api/src/rpcApi.ts)TODO
 : `rpcSessions.ts`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-infoview-api/src/rpcSessions.ts)TODO
 
-: `rpcApi.ts`
+: `util.ts`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-infoview-api/src/rpcApi.ts)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-infoview-api/src/util.ts)TODO
 

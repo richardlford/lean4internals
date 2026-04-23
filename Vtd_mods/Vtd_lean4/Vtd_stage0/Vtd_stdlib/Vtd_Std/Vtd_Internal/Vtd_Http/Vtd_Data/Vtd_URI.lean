@@ -29,15 +29,14 @@ tag := "mods/lean4/stage0/stdlib/Std/Internal/Http/Data/URI-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Internal/Http/Data/URI/Basic.c)TODO
 
-: `Encoding.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Internal/Http/Data/URI/Encoding.c)TODO
-
 : `Config.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Internal/Http/Data/URI/Config.c)TODO
 
+: `Encoding.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Internal/Http/Data/URI/Encoding.c)TODO
+
 : `Parser.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Internal/Http/Data/URI/Parser.c)TODO
-

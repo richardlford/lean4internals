@@ -25,15 +25,14 @@ TODO
 tag := "mods/lean4/src/Lean/Elab/PreDefinition/PartialFixpoint-files"
 %%%
 
-: `Main.lean`
+: `Eqns.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/PreDefinition/PartialFixpoint/Main.lean)TODO
-
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/PreDefinition/PartialFixpoint/Eqns.lean)TODO
 : `Induction.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/PreDefinition/PartialFixpoint/Induction.lean)TODO
 
-: `Eqns.lean`
+: `Main.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/PreDefinition/PartialFixpoint/Eqns.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/PreDefinition/PartialFixpoint/Main.lean)TODO
 

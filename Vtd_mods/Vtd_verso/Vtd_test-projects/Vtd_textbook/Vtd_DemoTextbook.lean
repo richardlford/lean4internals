@@ -34,15 +34,14 @@ TODO
 tag := "mods/verso/test-projects/textbook/DemoTextbook-files"
 %%%
 
-: `Nat.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/textbook/DemoTextbook/Nat.lean)TODO
-
 : `ListSet.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/textbook/DemoTextbook/ListSet.lean)TODO
 
+: `Nat.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/textbook/DemoTextbook/Nat.lean)TODO
+
 : `Papers.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/textbook/DemoTextbook/Papers.lean)TODO
-

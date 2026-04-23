@@ -34,11 +34,10 @@ TODO
 tag := "mods/verso/src/verso/Verso/Output-files"
 %%%
 
-: `TeX.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Output/TeX.lean)TODO
-
 : `Html.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Output/Html.lean)TODO
+: `TeX.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Output/TeX.lean)TODO
 

@@ -25,39 +25,38 @@ TODO
 tag := "mods/lean4/src/Std/Data/HashMap-files"
 %%%
 
-: `Lemmas.lean`
+: `AdditionalOperations.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/HashMap/Lemmas.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/HashMap/AdditionalOperations.lean)TODO
 
 : `Basic.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/HashMap/Basic.lean)TODO
 
-: `RawLemmas.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/HashMap/RawLemmas.lean)TODO
-
-: `AdditionalOperations.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/HashMap/AdditionalOperations.lean)TODO
-
 : `DecidableEquiv.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/HashMap/DecidableEquiv.lean)TODO
-
-: `Raw.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/HashMap/Raw.lean)TODO
-
-: `IteratorLemmas.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/HashMap/IteratorLemmas.lean)TODO
 
 : `Iterator.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/HashMap/Iterator.lean)TODO
 
+: `IteratorLemmas.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/HashMap/IteratorLemmas.lean)TODO
+
+: `Lemmas.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/HashMap/Lemmas.lean)TODO
+
+: `Raw.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/HashMap/Raw.lean)TODO
+
 : `RawDecidableEquiv.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/HashMap/RawDecidableEquiv.lean)TODO
+: `RawLemmas.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/HashMap/RawLemmas.lean)TODO
 

@@ -25,159 +25,158 @@ TODO
 tag := "mods/lean4/stage0/src/kernel-files"
 %%%
 
-: `quot.h`
+: `abstract.cpp`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/quot.h)TODO
-
-: `equiv_manager.h`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/equiv_manager.h)TODO
-
-: `expr_maps.h`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/expr_maps.h)TODO
-
-: `expr_cache.h`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/expr_cache.h)TODO
-
-: `type_checker.cpp`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/type_checker.cpp)TODO
-
-: `inductive.h`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/inductive.h)TODO
-
-: `expr_eq_fn.cpp`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/expr_eq_fn.cpp)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/abstract.cpp)TODO
 
 : `abstract.h`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/abstract.h)TODO
 
-: `environment.cpp`
+: `CMakeLists.txt`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/environment.cpp)TODO
-
-: `for_each_fn.cpp`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/for_each_fn.cpp)TODO
-
-: `quot.cpp`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/quot.cpp)TODO
-
-: `init_module.cpp`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/init_module.cpp)TODO
-
-: `declaration.h`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/declaration.h)TODO
-
-: `kernel_exception.h`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/kernel_exception.h)TODO
-
-: `expr.cpp`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/expr.cpp)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/CMakeLists.txt)TODO
 
 : `declaration.cpp`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/declaration.cpp)TODO
 
-: `type_checker.h`
+: `declaration.h`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/type_checker.h)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/declaration.h)TODO
 
-: `local_ctx.h`
+: `environment.cpp`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/local_ctx.h)TODO
-
-: `find_fn.h`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/find_fn.h)TODO
-
-: `inductive.cpp`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/inductive.cpp)TODO
-
-: `init_module.h`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/init_module.h)TODO
-
-: `equiv_manager.cpp`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/equiv_manager.cpp)TODO
-
-: `local_ctx.cpp`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/local_ctx.cpp)TODO
-
-: `for_each_fn.h`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/for_each_fn.h)TODO
-
-: `CMakeLists.txt`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/CMakeLists.txt)TODO
-
-: `trace.h`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/trace.h)TODO
-
-: `expr_cache.cpp`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/expr_cache.cpp)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/environment.cpp)TODO
 
 : `environment.h`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/environment.h)TODO
 
-: `trace.cpp`
+: `equiv_manager.cpp`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/trace.cpp)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/equiv_manager.cpp)TODO
+
+: `equiv_manager.h`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/equiv_manager.h)TODO
+
+: `expr.cpp`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/expr.cpp)TODO
 
 : `expr.h`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/expr.h)TODO
 
-: `expr_sets.h`
+: `expr_cache.cpp`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/expr_sets.h)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/expr_cache.cpp)TODO
 
-: `replace_fn.cpp`
+: `expr_cache.h`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/replace_fn.cpp)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/expr_cache.h)TODO
+
+: `expr_eq_fn.cpp`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/expr_eq_fn.cpp)TODO
 
 : `expr_eq_fn.h`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/expr_eq_fn.h)TODO
 
-: `level.h`
+: `expr_maps.h`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/level.h)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/expr_maps.h)TODO
 
-: `level.cpp`
+: `expr_sets.h`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/level.cpp)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/expr_sets.h)TODO
 
-: `abstract.cpp`
+: `find_fn.h`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/abstract.cpp)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/find_fn.h)TODO
+
+: `for_each_fn.cpp`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/for_each_fn.cpp)TODO
+
+: `for_each_fn.h`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/for_each_fn.h)TODO
+
+: `inductive.cpp`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/inductive.cpp)TODO
+
+: `inductive.h`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/inductive.h)TODO
+
+: `init_module.cpp`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/init_module.cpp)TODO
+
+: `init_module.h`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/init_module.h)TODO
 
 : `instantiate.cpp`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/instantiate.cpp)TODO
 
+: `instantiate.h`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/instantiate.h)TODO
+: `kernel_exception.h`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/kernel_exception.h)TODO
+
+: `level.cpp`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/level.cpp)TODO
+
+: `level.h`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/level.h)TODO
+
+: `local_ctx.cpp`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/local_ctx.cpp)TODO
+
+: `local_ctx.h`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/local_ctx.h)TODO
+
+: `quot.cpp`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/quot.cpp)TODO
+
+: `quot.h`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/quot.h)TODO
+
+: `replace_fn.cpp`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/replace_fn.cpp)TODO
+
 : `replace_fn.h`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/replace_fn.h)TODO
 
-: `instantiate.h`
+: `trace.cpp`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/instantiate.h)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/trace.cpp)TODO
+
+: `trace.h`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/trace.h)TODO
+
+: `type_checker.cpp`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/type_checker.cpp)TODO
+
+: `type_checker.h`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/kernel/type_checker.h)TODO
 

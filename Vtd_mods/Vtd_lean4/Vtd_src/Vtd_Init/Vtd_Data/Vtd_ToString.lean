@@ -29,10 +29,6 @@ tag := "mods/lean4/src/Init/Data/ToString-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/ToString/Basic.lean)TODO
 
-: `Name.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/ToString/Name.lean)TODO
-
 : `Extra.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/ToString/Extra.lean)TODO
@@ -40,4 +36,7 @@ tag := "mods/lean4/src/Init/Data/ToString-files"
 : `Macro.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/ToString/Macro.lean)TODO
+: `Name.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/ToString/Name.lean)TODO
 

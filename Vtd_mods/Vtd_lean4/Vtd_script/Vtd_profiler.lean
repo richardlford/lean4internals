@@ -25,23 +25,22 @@ TODO
 tag := "mods/lean4/script/profiler-files"
 %%%
 
+: `lean_demangle.py`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/profiler/lean_demangle.py)TODO
+
 : `lean_demangle_cli.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/profiler/lean_demangle_cli.lean)TODO
-
-: `serve_profile.py`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/profiler/serve_profile.py)TODO
 
 : `lean_demangle_profile.py`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/profiler/lean_demangle_profile.py)TODO
 
-: `lean_demangle.py`
+: `serve_profile.py`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/profiler/lean_demangle.py)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/profiler/serve_profile.py)TODO
 
 : `symbolicate_profile.py`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/profiler/symbolicate_profile.py)TODO
-

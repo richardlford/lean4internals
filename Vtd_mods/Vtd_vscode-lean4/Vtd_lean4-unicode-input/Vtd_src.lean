@@ -25,35 +25,34 @@ TODO
 tag := "mods/vscode-lean4/lean4-unicode-input/src-files"
 %%%
 
-: `README.md`
+: `AbbreviationConfig.ts`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-unicode-input/src/README.md)TODO
-
-: `index.ts`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-unicode-input/src/index.ts)TODO
-
-: `AbbreviationRewriter.ts`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-unicode-input/src/AbbreviationRewriter.ts)TODO
-
-: `Range.ts`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-unicode-input/src/Range.ts)TODO
-
-: `abbreviations.json`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-unicode-input/src/abbreviations.json)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-unicode-input/src/AbbreviationConfig.ts)TODO
 
 : `AbbreviationProvider.ts`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-unicode-input/src/AbbreviationProvider.ts)TODO
 
-: `AbbreviationConfig.ts`
+: `AbbreviationRewriter.ts`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-unicode-input/src/AbbreviationConfig.ts)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-unicode-input/src/AbbreviationRewriter.ts)TODO
+
+: `abbreviations.json`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-unicode-input/src/abbreviations.json)TODO
+
+: `index.ts`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-unicode-input/src/index.ts)TODO
+
+: `Range.ts`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-unicode-input/src/Range.ts)TODO
+
+: `README.md`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-unicode-input/src/README.md)TODO
 
 : `TrackedAbbreviation.ts`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-unicode-input/src/TrackedAbbreviation.ts)TODO
-

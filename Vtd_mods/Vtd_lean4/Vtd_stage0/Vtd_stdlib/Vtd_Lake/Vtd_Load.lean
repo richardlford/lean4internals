@@ -34,6 +34,18 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Lake/Load-files"
 %%%
 
+: `Config.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/Load/Config.c)TODO
+
+: `Lean.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/Load/Lean.c)TODO
+
+: `Manifest.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/Load/Manifest.c)TODO
+
 : `Materialize.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/Load/Materialize.c)TODO
@@ -42,18 +54,9 @@ tag := "mods/lean4/stage0/stdlib/Lake/Load-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/Load/Package.c)TODO
 
-: `Manifest.c`
+: `Resolve.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/Load/Manifest.c)TODO
-
-: `Lean.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/Load/Lean.c)TODO
-
-: `Config.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/Load/Config.c)TODO
-
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/Load/Resolve.c)TODO
 : `Toml.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/Load/Toml.c)TODO
@@ -61,8 +64,4 @@ tag := "mods/lean4/stage0/stdlib/Lake/Load-files"
 : `Workspace.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/Load/Workspace.c)TODO
-
-: `Resolve.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/Load/Resolve.c)TODO
 

@@ -25,11 +25,10 @@ TODO
 tag := "mods/vscode-lean4/vscode-lean4/loogleview/static-files"
 %%%
 
-: `index.html`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/loogleview/static/index.html)TODO
-
 : `index.css`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/loogleview/static/index.css)TODO
+: `index.html`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/loogleview/static/index.html)TODO
 

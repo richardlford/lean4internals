@@ -25,11 +25,10 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Init/Data/Nat/Div-files"
 %%%
 
-: `Lemmas.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Nat/Div/Lemmas.c)TODO
-
 : `Basic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Nat/Div/Basic.c)TODO
+: `Lemmas.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Nat/Div/Lemmas.c)TODO
 

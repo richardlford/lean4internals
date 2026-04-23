@@ -29,9 +29,13 @@ tag := "mods/lean4/src/Lean/Elab/PreDefinition/WF-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/PreDefinition/WF/Basic.lean)TODO
 
-: `Main.lean`
+: `Eqns.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/PreDefinition/WF/Main.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/PreDefinition/WF/Eqns.lean)TODO
+
+: `Fix.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/PreDefinition/WF/Fix.lean)TODO
 
 : `FloatRecApp.lean`
 
@@ -41,6 +45,10 @@ tag := "mods/lean4/src/Lean/Elab/PreDefinition/WF-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/PreDefinition/WF/GuessLex.lean)TODO
 
+: `Main.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/PreDefinition/WF/Main.lean)TODO
+
 : `PackMutual.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/PreDefinition/WF/PackMutual.lean)TODO
@@ -49,19 +57,10 @@ tag := "mods/lean4/src/Lean/Elab/PreDefinition/WF-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/PreDefinition/WF/Preprocess.lean)TODO
 
-: `Eqns.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/PreDefinition/WF/Eqns.lean)TODO
-
 : `Rel.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/PreDefinition/WF/Rel.lean)TODO
 
-: `Fix.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/PreDefinition/WF/Fix.lean)TODO
-
 : `Unfold.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/PreDefinition/WF/Unfold.lean)TODO
-

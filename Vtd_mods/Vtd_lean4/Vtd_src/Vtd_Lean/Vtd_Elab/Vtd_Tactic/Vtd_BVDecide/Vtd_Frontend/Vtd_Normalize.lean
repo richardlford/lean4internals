@@ -25,26 +25,37 @@ TODO
 tag := "mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/Normalize-files"
 %%%
 
-: `IntToBitVec.lean`
+: `AC.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/IntToBitVec.lean)TODO
-
-: `Basic.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/Basic.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/AC.lean)TODO
 
 : `AndFlatten.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/AndFlatten.lean)TODO
 
+: `ApplyControlFlow.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/ApplyControlFlow.lean)TODO
+
+: `Basic.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/Basic.lean)TODO
+
 : `EmbeddedConstraint.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/EmbeddedConstraint.lean)TODO
 
-: `TypeAnalysis.lean`
+: `Enums.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/TypeAnalysis.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/Enums.lean)TODO
 
+: `IntToBitVec.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/IntToBitVec.lean)TODO
+
+: `Rewrite.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/Rewrite.lean)TODO
 : `ShortCircuit.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/ShortCircuit.lean)TODO
@@ -53,23 +64,11 @@ tag := "mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/Normalize-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/Simproc.lean)TODO
 
-: `Enums.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/Enums.lean)TODO
-
-: `AC.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/AC.lean)TODO
-
 : `Structures.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/Structures.lean)TODO
 
-: `ApplyControlFlow.lean`
+: `TypeAnalysis.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/ApplyControlFlow.lean)TODO
-
-: `Rewrite.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/Rewrite.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/TypeAnalysis.lean)TODO
 

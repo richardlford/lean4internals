@@ -25,25 +25,9 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Init/Grind/Ordered-files"
 %%%
 
-: `Order.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Grind/Ordered/Order.c)TODO
-
-: `Rat.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Grind/Ordered/Rat.c)TODO
-
-: `Module.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Grind/Ordered/Module.c)TODO
-
 : `Field.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Grind/Ordered/Field.c)TODO
-
-: `Ring.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Grind/Ordered/Ring.c)TODO
 
 : `Int.c`
 
@@ -52,4 +36,19 @@ tag := "mods/lean4/stage0/stdlib/Init/Grind/Ordered-files"
 : `Linarith.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Grind/Ordered/Linarith.c)TODO
+: `Module.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Grind/Ordered/Module.c)TODO
+
+: `Order.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Grind/Ordered/Order.c)TODO
+
+: `Rat.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Grind/Ordered/Rat.c)TODO
+
+: `Ring.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Grind/Ordered/Ring.c)TODO
 

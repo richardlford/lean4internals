@@ -42,11 +42,10 @@ tag := "mods/verso/src/verso-util/VersoUtil-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-util/VersoUtil/LzCompress.lean)TODO
 
-: `Zip.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-util/VersoUtil/Zip.lean)TODO
-
 : `WfRec.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-util/VersoUtil/WfRec.lean)TODO
+: `Zip.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-util/VersoUtil/Zip.lean)TODO
 

@@ -25,19 +25,18 @@ TODO
 tag := "mods/lean4/doc/std/grove/GroveStdlib/Std/CoreTypesAndOperations-files"
 %%%
 
-: `StringsAndFormatting.lean`
+: `BasicTypes.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/GroveStdlib/Std/CoreTypesAndOperations/StringsAndFormatting.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/GroveStdlib/Std/CoreTypesAndOperations/BasicTypes.lean)TODO
 
 : `Containers.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/GroveStdlib/Std/CoreTypesAndOperations/Containers.lean)TODO
 
-: `BasicTypes.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/GroveStdlib/Std/CoreTypesAndOperations/BasicTypes.lean)TODO
-
 : `Numbers.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/GroveStdlib/Std/CoreTypesAndOperations/Numbers.lean)TODO
+: `StringsAndFormatting.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/GroveStdlib/Std/CoreTypesAndOperations/StringsAndFormatting.lean)TODO
 

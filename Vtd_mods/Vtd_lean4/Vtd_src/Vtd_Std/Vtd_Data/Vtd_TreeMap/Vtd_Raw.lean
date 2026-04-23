@@ -25,25 +25,13 @@ TODO
 tag := "mods/lean4/src/Std/Data/TreeMap/Raw-files"
 %%%
 
-: `Lemmas.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/TreeMap/Raw/Lemmas.lean)TODO
-
-: `Basic.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/TreeMap/Raw/Basic.lean)TODO
-
 : `AdditionalOperations.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/TreeMap/Raw/AdditionalOperations.lean)TODO
 
-: `Slice.lean`
+: `Basic.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/TreeMap/Raw/Slice.lean)TODO
-
-: `WF.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/TreeMap/Raw/WF.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/TreeMap/Raw/Basic.lean)TODO
 
 : `DecidableEquiv.lean`
 
@@ -52,4 +40,15 @@ tag := "mods/lean4/src/Std/Data/TreeMap/Raw-files"
 : `Iterator.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/TreeMap/Raw/Iterator.lean)TODO
+: `Lemmas.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/TreeMap/Raw/Lemmas.lean)TODO
+
+: `Slice.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/TreeMap/Raw/Slice.lean)TODO
+
+: `WF.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/TreeMap/Raw/WF.lean)TODO
 

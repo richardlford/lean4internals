@@ -40,23 +40,22 @@ tag := "mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/Attr.c)TODO
 
-: `ProofMode.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode.c)TODO
-
-: `Syntax.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/Syntax.c)TODO
-
 : `LetElim.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/LetElim.c)TODO
 
-: `VCGen.c`
+: `ProofMode.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/VCGen.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode.c)TODO
 
 : `Spec.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/Spec.c)TODO
+: `Syntax.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/Syntax.c)TODO
+
+: `VCGen.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/VCGen.c)TODO
 

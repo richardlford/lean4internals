@@ -25,15 +25,14 @@ TODO
 tag := "mods/lean4/src/Std/Sat/AIG/RefVecOperator-files"
 %%%
 
-: `Map.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Sat/AIG/RefVecOperator/Map.lean)TODO
-
 : `Fold.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Sat/AIG/RefVecOperator/Fold.lean)TODO
 
+: `Map.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Sat/AIG/RefVecOperator/Map.lean)TODO
+
 : `Zip.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Sat/AIG/RefVecOperator/Zip.lean)TODO
-

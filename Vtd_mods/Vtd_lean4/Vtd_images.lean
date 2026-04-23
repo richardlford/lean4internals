@@ -25,11 +25,10 @@ TODO
 tag := "mods/lean4/images-files"
 %%%
 
-: `lean.xbm`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/images/lean.xbm)TODO
-
 : `lean.png`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/images/lean.png)TODO
+: `lean.xbm`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/images/lean.xbm)TODO
 

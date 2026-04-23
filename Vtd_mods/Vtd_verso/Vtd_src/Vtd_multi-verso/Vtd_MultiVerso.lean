@@ -25,27 +25,26 @@ TODO
 tag := "mods/verso/src/multi-verso/MultiVerso-files"
 %%%
 
-: `Slug.lean`
+: `InternalId.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/multi-verso/MultiVerso/Slug.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/multi-verso/MultiVerso/InternalId.lean)TODO
 
 : `Link.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/multi-verso/MultiVerso/Link.lean)TODO
 
-: `Path.lean`
+: `Manifest.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/multi-verso/MultiVerso/Path.lean)TODO
-
-: `InternalId.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/multi-verso/MultiVerso/InternalId.lean)TODO
-
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/multi-verso/MultiVerso/Manifest.lean)TODO
 : `NameMap.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/multi-verso/MultiVerso/NameMap.lean)TODO
 
-: `Manifest.lean`
+: `Path.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/multi-verso/MultiVerso/Manifest.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/multi-verso/MultiVerso/Path.lean)TODO
+
+: `Slug.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/multi-verso/MultiVerso/Slug.lean)TODO
 

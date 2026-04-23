@@ -25,15 +25,14 @@ TODO
 tag := "mods/lean4/doc/examples/IJCAR2026-files"
 %%%
 
-: `README.md`
+: `analyze_grind_loc.py`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/examples/IJCAR2026/README.md)TODO
-
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/examples/IJCAR2026/analyze_grind_loc.py)TODO
 : `examples.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/examples/IJCAR2026/examples.lean)TODO
 
-: `analyze_grind_loc.py`
+: `README.md`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/examples/IJCAR2026/analyze_grind_loc.py)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/examples/IJCAR2026/README.md)TODO
 

@@ -25,10 +25,9 @@ TODO
 tag := "mods/lean4/src/bin-files"
 %%%
 
-: `leanmake`
+: `lean-gdb.py`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/bin/leanmake)TODO
-
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/bin/lean-gdb.py)TODO
 : `lean.in`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/bin/lean.in)TODO
@@ -37,7 +36,7 @@ tag := "mods/lean4/src/bin-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/bin/leanc.in)TODO
 
-: `lean-gdb.py`
+: `leanmake`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/bin/lean-gdb.py)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/bin/leanmake)TODO
 

@@ -34,27 +34,26 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Std/Time/Zoned-files"
 %%%
 
-: `DateTime.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Time/Zoned/DateTime.c)TODO
-
-: `ZoneRules.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Time/Zoned/ZoneRules.c)TODO
-
 : `Database.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Time/Zoned/Database.c)TODO
 
-: `TimeZone.c`
+: `DateTime.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Time/Zoned/TimeZone.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Time/Zoned/DateTime.c)TODO
 
 : `Offset.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Time/Zoned/Offset.c)TODO
 
+: `TimeZone.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Time/Zoned/TimeZone.c)TODO
+
 : `ZonedDateTime.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Time/Zoned/ZonedDateTime.c)TODO
+: `ZoneRules.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Time/Zoned/ZoneRules.c)TODO
 

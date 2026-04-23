@@ -38,27 +38,26 @@ tag := "mods/lean4/stage0/stdlib/Init/Data/Iterators/Consumers-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Consumers/Access.c)TODO
 
-: `Partial.c`
+: `Collect.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Consumers/Partial.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Consumers/Collect.c)TODO
 
 : `Loop.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Consumers/Loop.c)TODO
 
-: `Stream.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Consumers/Stream.c)TODO
-
 : `Monadic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Consumers/Monadic.c)TODO
 
-: `Collect.c`
+: `Partial.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Consumers/Collect.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Consumers/Partial.c)TODO
+
+: `Stream.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Consumers/Stream.c)TODO
 
 : `Total.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Consumers/Total.c)TODO
-

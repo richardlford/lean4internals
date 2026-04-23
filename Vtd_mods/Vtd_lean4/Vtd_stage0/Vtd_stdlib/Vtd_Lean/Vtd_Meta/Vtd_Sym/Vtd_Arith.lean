@@ -25,55 +25,54 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Lean/Meta/Sym/Arith-files"
 %%%
 
-: `MonadSemiring.c`
+: `Classify.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Arith/MonadSemiring.c)TODO
-
-: `Functions.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Arith/Functions.c)TODO
-
-: `VarRename.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Arith/VarRename.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Arith/Classify.c)TODO
 
 : `DenoteExpr.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Arith/DenoteExpr.c)TODO
 
-: `ToExpr.c`
+: `EvalNum.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Arith/ToExpr.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Arith/EvalNum.c)TODO
+: `Functions.c`
 
-: `Poly.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Arith/Poly.c)TODO
-
-: `Classify.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Arith/Classify.c)TODO
-
-: `MonadRing.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Arith/MonadRing.c)TODO
-
-: `Reify.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Arith/Reify.c)TODO
-
-: `Types.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Arith/Types.c)TODO
-
-: `MonadVar.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Arith/MonadVar.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Arith/Functions.c)TODO
 
 : `MonadCanon.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Arith/MonadCanon.c)TODO
 
-: `EvalNum.c`
+: `MonadRing.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Arith/EvalNum.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Arith/MonadRing.c)TODO
+
+: `MonadSemiring.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Arith/MonadSemiring.c)TODO
+
+: `MonadVar.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Arith/MonadVar.c)TODO
+
+: `Poly.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Arith/Poly.c)TODO
+
+: `Reify.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Arith/Reify.c)TODO
+
+: `ToExpr.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Arith/ToExpr.c)TODO
+
+: `Types.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Arith/Types.c)TODO
+
+: `VarRename.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Arith/VarRename.c)TODO
 

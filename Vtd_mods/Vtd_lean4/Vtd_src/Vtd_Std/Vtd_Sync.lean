@@ -25,38 +25,21 @@ TODO
 tag := "mods/lean4/src/Std/Sync-files"
 %%%
 
-: `StreamMap.lean`
+: `Barrier.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Sync/StreamMap.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Sync/Barrier.lean)TODO
 
 : `Basic.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Sync/Basic.lean)TODO
 
-: `SharedMutex.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Sync/SharedMutex.lean)TODO
-
-: `Barrier.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Sync/Barrier.lean)TODO
-
-: `Mutex.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Sync/Mutex.lean)TODO
-
 : `Broadcast.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Sync/Broadcast.lean)TODO
 
-: `RecursiveMutex.lean`
+: `CancellationContext.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Sync/RecursiveMutex.lean)TODO
-
-: `Notify.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Sync/Notify.lean)TODO
-
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Sync/CancellationContext.lean)TODO
 : `CancellationToken.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Sync/CancellationToken.lean)TODO
@@ -65,7 +48,23 @@ tag := "mods/lean4/src/Std/Sync-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Sync/Channel.lean)TODO
 
-: `CancellationContext.lean`
+: `Mutex.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Sync/CancellationContext.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Sync/Mutex.lean)TODO
+
+: `Notify.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Sync/Notify.lean)TODO
+
+: `RecursiveMutex.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Sync/RecursiveMutex.lean)TODO
+
+: `SharedMutex.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Sync/SharedMutex.lean)TODO
+
+: `StreamMap.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Sync/StreamMap.lean)TODO
 

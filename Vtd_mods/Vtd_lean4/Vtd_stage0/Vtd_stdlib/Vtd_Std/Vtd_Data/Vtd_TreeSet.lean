@@ -34,31 +34,30 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Std/Data/TreeSet-files"
 %%%
 
-: `Lemmas.c`
+: `AdditionalOperations.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/TreeSet/Lemmas.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/TreeSet/AdditionalOperations.c)TODO
 
 : `Basic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/TreeSet/Basic.c)TODO
 
+: `DecidableEquiv.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/TreeSet/DecidableEquiv.c)TODO
+
 : `Iterator.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/TreeSet/Iterator.c)TODO
+
+: `Lemmas.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/TreeSet/Lemmas.c)TODO
 
 : `Raw.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/TreeSet/Raw.c)TODO
 
-: `AdditionalOperations.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/TreeSet/AdditionalOperations.c)TODO
-
-: `DecidableEquiv.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/TreeSet/DecidableEquiv.c)TODO
-
 : `Slice.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/TreeSet/Slice.c)TODO
-

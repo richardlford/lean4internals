@@ -29,18 +29,6 @@ tag := "mods/lean4/src/Std/Time/Date/Unit-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Time/Date/Unit/Basic.lean)TODO
 
-: `Year.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Time/Date/Unit/Year.lean)TODO
-
-: `Weekday.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Time/Date/Unit/Weekday.lean)TODO
-
-: `Week.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Time/Date/Unit/Week.lean)TODO
-
 : `Day.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Time/Date/Unit/Day.lean)TODO
@@ -48,4 +36,15 @@ tag := "mods/lean4/src/Std/Time/Date/Unit-files"
 : `Month.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Time/Date/Unit/Month.lean)TODO
+: `Week.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Time/Date/Unit/Week.lean)TODO
+
+: `Weekday.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Time/Date/Unit/Weekday.lean)TODO
+
+: `Year.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Time/Date/Unit/Year.lean)TODO
 

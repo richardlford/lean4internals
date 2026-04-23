@@ -25,15 +25,14 @@ TODO
 tag := "mods/lean4/src/lake/Lake/Toml/Data-files"
 %%%
 
-: `Value.lean`
+: `DateTime.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Toml/Data/Value.lean)TODO
-
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Toml/Data/DateTime.lean)TODO
 : `Dict.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Toml/Data/Dict.lean)TODO
 
-: `DateTime.lean`
+: `Value.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Toml/Data/DateTime.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Toml/Data/Value.lean)TODO
 

@@ -25,55 +25,54 @@ TODO
 tag := "mods/lean4/src/Lean/Meta/Tactic/Grind/AC-files"
 %%%
 
-: `PP.lean`
+: `Action.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/AC/PP.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/AC/Action.lean)TODO
 
 : `DenoteExpr.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/AC/DenoteExpr.lean)TODO
 
-: `Inv.lean`
+: `Eq.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/AC/Inv.lean)TODO
-
-: `Action.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/AC/Action.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/AC/Eq.lean)TODO
 
 : `Internalize.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/AC/Internalize.lean)TODO
 
-: `VarRename.lean`
+: `Inv.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/AC/VarRename.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/AC/Inv.lean)TODO
 
-: `Var.lean`
+: `PP.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/AC/Var.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/AC/PP.lean)TODO
 
-: `Eq.lean`
+: `Proof.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/AC/Eq.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/AC/Proof.lean)TODO
+: `Seq.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/AC/Seq.lean)TODO
 
 : `ToExpr.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/AC/ToExpr.lean)TODO
 
-: `Seq.lean`
+: `Types.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/AC/Seq.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/AC/Types.lean)TODO
 
 : `Util.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/AC/Util.lean)TODO
 
-: `Types.lean`
+: `Var.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/AC/Types.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/AC/Var.lean)TODO
 
-: `Proof.lean`
+: `VarRename.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/AC/Proof.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/AC/VarRename.lean)TODO
 

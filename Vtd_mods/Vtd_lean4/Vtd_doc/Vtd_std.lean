@@ -34,18 +34,6 @@ TODO
 tag := "mods/lean4/doc/std-files"
 %%%
 
-: `README.md`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/README.md)TODO
-
-: `vision.md`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/vision.md)TODO
-
-: `style.md`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/style.md)TODO
-
 : `naming-tree.svg`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/naming-tree.svg)TODO
@@ -53,4 +41,15 @@ tag := "mods/lean4/doc/std-files"
 : `naming.md`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/naming.md)TODO
+: `README.md`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/README.md)TODO
+
+: `style.md`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/style.md)TODO
+
+: `vision.md`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/vision.md)TODO
 

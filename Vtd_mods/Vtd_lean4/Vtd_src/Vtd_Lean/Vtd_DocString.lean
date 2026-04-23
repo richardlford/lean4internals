@@ -29,10 +29,6 @@ tag := "mods/lean4/src/Lean/DocString-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/DocString/Add.lean)TODO
 
-: `Markdown.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/DocString/Markdown.lean)TODO
-
 : `Extension.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/DocString/Extension.lean)TODO
@@ -41,19 +37,22 @@ tag := "mods/lean4/src/Lean/DocString-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/DocString/Formatter.lean)TODO
 
-: `Types.lean`
+: `Links.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/DocString/Types.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/DocString/Links.lean)TODO
+
+: `Markdown.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/DocString/Markdown.lean)TODO
 
 : `Parser.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/DocString/Parser.lean)TODO
 
-: `Links.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/DocString/Links.lean)TODO
-
 : `Syntax.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/DocString/Syntax.lean)TODO
+: `Types.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/DocString/Types.lean)TODO
 

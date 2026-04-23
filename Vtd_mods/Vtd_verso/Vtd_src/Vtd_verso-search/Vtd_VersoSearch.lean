@@ -25,11 +25,10 @@ TODO
 tag := "mods/verso/src/verso-search/VersoSearch-files"
 %%%
 
-: `PorterStemmer.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-search/VersoSearch/PorterStemmer.lean)TODO
-
 : `DomainSearch.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-search/VersoSearch/DomainSearch.lean)TODO
+: `PorterStemmer.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-search/VersoSearch/PorterStemmer.lean)TODO
 

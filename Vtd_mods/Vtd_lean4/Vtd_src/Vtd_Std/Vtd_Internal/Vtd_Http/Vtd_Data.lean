@@ -3,9 +3,9 @@
 
 -- Imports from child directories.
 
-import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Internal».«Vtd_Http».«Vtd_Data».«Vtd_URI»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Internal».«Vtd_Http».«Vtd_Data».«Vtd_Body»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Internal».«Vtd_Http».«Vtd_Data».«Vtd_Headers»
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Internal».«Vtd_Http».«Vtd_Data».«Vtd_URI»
 
 -- End of Imports from child directories.
 
@@ -29,52 +29,51 @@ tag := "mods-lean4-src-Std-Internal-Http-Data"
 TODO
 
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Internal».«Vtd_Http».«Vtd_Data».«Vtd_URI»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Internal».«Vtd_Http».«Vtd_Data».«Vtd_Body»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Internal».«Vtd_Http».«Vtd_Data».«Vtd_Headers»}
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Internal».«Vtd_Http».«Vtd_Data».«Vtd_URI»}
 
 # `m/l/s/S/Internal/Http/Data` Files
 %%%
 tag := "mods/lean4/src/Std/Internal/Http/Data-files"
 %%%
 
-: `Chunk.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Data/Chunk.lean)TODO
-
-: `Version.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Data/Version.lean)TODO
-
-: `Method.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Data/Method.lean)TODO
-
-: `URI.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Data/URI.lean)TODO
-
-: `Request.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Data/Request.lean)TODO
-
-: `Headers.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Data/Headers.lean)TODO
-
 : `Body.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Data/Body.lean)TODO
 
-: `Response.lean`
+: `Chunk.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Data/Response.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Data/Chunk.lean)TODO
 
 : `Extensions.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Data/Extensions.lean)TODO
 
+: `Headers.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Data/Headers.lean)TODO
+
+: `Method.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Data/Method.lean)TODO
+
+: `Request.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Data/Request.lean)TODO
+
+: `Response.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Data/Response.lean)TODO
+
 : `Status.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Data/Status.lean)TODO
+: `URI.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Data/URI.lean)TODO
+
+: `Version.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Data/Version.lean)TODO
 

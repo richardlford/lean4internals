@@ -25,17 +25,9 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Init/Data/UInt-files"
 %%%
 
-: `Lemmas.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/UInt/Lemmas.c)TODO
-
 : `Basic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/UInt/Basic.c)TODO
-
-: `Log2.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/UInt/Log2.c)TODO
 
 : `BasicAux.c`
 
@@ -44,4 +36,11 @@ tag := "mods/lean4/stage0/stdlib/Init/Data/UInt-files"
 : `Bitwise.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/UInt/Bitwise.c)TODO
+: `Lemmas.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/UInt/Lemmas.c)TODO
+
+: `Log2.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/UInt/Log2.c)TODO
 

@@ -25,55 +25,54 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Lake/DSL-files"
 %%%
 
+: `Attributes.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/DSL/Attributes.c)TODO
+
 : `AttributesCore.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/DSL/AttributesCore.c)TODO
 
-: `Package.c`
+: `Config.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/DSL/Package.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/DSL/Config.c)TODO
+: `DeclUtil.c`
 
-: `VerLit.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/DSL/VerLit.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/DSL/DeclUtil.c)TODO
 
 : `Extensions.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/DSL/Extensions.c)TODO
 
-: `Targets.c`
+: `Key.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/DSL/Targets.c)TODO
-
-: `Attributes.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/DSL/Attributes.c)TODO
-
-: `Require.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/DSL/Require.c)TODO
-
-: `Syntax.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/DSL/Syntax.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/DSL/Key.c)TODO
 
 : `Meta.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/DSL/Meta.c)TODO
 
+: `Package.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/DSL/Package.c)TODO
+
+: `Require.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/DSL/Require.c)TODO
+
 : `Script.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/DSL/Script.c)TODO
 
-: `DeclUtil.c`
+: `Syntax.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/DSL/DeclUtil.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/DSL/Syntax.c)TODO
 
-: `Key.c`
+: `Targets.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/DSL/Key.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/DSL/Targets.c)TODO
 
-: `Config.c`
+: `VerLit.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/DSL/Config.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/DSL/VerLit.c)TODO
 

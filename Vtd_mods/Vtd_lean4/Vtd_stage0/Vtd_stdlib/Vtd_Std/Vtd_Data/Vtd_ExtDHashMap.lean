@@ -25,11 +25,10 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Std/Data/ExtDHashMap-files"
 %%%
 
-: `Lemmas.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/ExtDHashMap/Lemmas.c)TODO
-
 : `Basic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/ExtDHashMap/Basic.c)TODO
+: `Lemmas.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/ExtDHashMap/Lemmas.c)TODO
 

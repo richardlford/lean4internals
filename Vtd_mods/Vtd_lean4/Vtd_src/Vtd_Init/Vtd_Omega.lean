@@ -25,21 +25,13 @@ TODO
 tag := "mods/lean4/src/Init/Omega-files"
 %%%
 
-: `Logic.lean`
+: `Coeffs.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Omega/Logic.lean)TODO
-
-: `LinearCombo.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Omega/LinearCombo.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Omega/Coeffs.lean)TODO
 
 : `Constraint.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Omega/Constraint.lean)TODO
-
-: `Coeffs.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Omega/Coeffs.lean)TODO
 
 : `Int.lean`
 
@@ -48,4 +40,11 @@ tag := "mods/lean4/src/Init/Omega-files"
 : `IntList.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Omega/IntList.lean)TODO
+: `LinearCombo.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Omega/LinearCombo.lean)TODO
+
+: `Logic.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Omega/Logic.lean)TODO
 

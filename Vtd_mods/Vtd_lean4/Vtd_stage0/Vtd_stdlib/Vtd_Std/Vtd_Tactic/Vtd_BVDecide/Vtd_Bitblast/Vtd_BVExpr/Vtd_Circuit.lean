@@ -36,11 +36,10 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/Bitblast/BVExpr/Circuit-files"
 %%%
 
-: `Lemmas.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/Bitblast/BVExpr/Circuit/Lemmas.c)TODO
-
 : `Impl.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/Bitblast/BVExpr/Circuit/Impl.c)TODO
+: `Lemmas.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/Bitblast/BVExpr/Circuit/Lemmas.c)TODO
 

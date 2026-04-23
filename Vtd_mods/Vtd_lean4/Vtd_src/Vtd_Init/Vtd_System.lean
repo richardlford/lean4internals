@@ -25,6 +25,17 @@ TODO
 tag := "mods/lean4/src/Init/System-files"
 %%%
 
+: `FilePath.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/System/FilePath.lean)TODO
+
+: `IO.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/System/IO.lean)TODO
+
+: `IOError.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/System/IOError.lean)TODO
 : `Platform.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/System/Platform.lean)TODO
@@ -37,19 +48,7 @@ tag := "mods/lean4/src/Init/System-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/System/ST.lean)TODO
 
-: `IO.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/System/IO.lean)TODO
-
-: `FilePath.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/System/FilePath.lean)TODO
-
 : `Uri.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/System/Uri.lean)TODO
-
-: `IOError.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/System/IOError.lean)TODO
 

@@ -25,17 +25,29 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Std/Data/HashMap-files"
 %%%
 
-: `Lemmas.c`
+: `AdditionalOperations.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/HashMap/Lemmas.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/HashMap/AdditionalOperations.c)TODO
 
 : `Basic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/HashMap/Basic.c)TODO
 
+: `DecidableEquiv.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/HashMap/DecidableEquiv.c)TODO
+
 : `Iterator.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/HashMap/Iterator.c)TODO
+
+: `IteratorLemmas.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/HashMap/IteratorLemmas.c)TODO
+
+: `Lemmas.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/HashMap/Lemmas.c)TODO
 
 : `Raw.c`
 
@@ -45,19 +57,6 @@ tag := "mods/lean4/stage0/stdlib/Std/Data/HashMap-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/HashMap/RawDecidableEquiv.c)TODO
 
-: `IteratorLemmas.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/HashMap/IteratorLemmas.c)TODO
-
-: `AdditionalOperations.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/HashMap/AdditionalOperations.c)TODO
-
-: `DecidableEquiv.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/HashMap/DecidableEquiv.c)TODO
-
 : `RawLemmas.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/HashMap/RawLemmas.c)TODO
-

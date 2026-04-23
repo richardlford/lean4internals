@@ -29,15 +29,14 @@ tag := "mods/lean4/src/Init/Grind/Module-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Grind/Module/Basic.lean)TODO
 
-: `OfNatModule.lean`
+: `Envelope.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Grind/Module/OfNatModule.lean)TODO
-
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Grind/Module/Envelope.lean)TODO
 : `NatModuleNorm.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Grind/Module/NatModuleNorm.lean)TODO
 
-: `Envelope.lean`
+: `OfNatModule.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Grind/Module/Envelope.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Grind/Module/OfNatModule.lean)TODO
 

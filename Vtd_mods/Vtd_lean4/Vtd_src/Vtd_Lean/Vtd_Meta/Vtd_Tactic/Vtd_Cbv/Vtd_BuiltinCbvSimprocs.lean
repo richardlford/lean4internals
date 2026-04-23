@@ -25,15 +25,14 @@ TODO
 tag := "mods/lean4/src/Lean/Meta/Tactic/Cbv/BuiltinCbvSimprocs-files"
 %%%
 
-: `String.lean`
+: `Array.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Cbv/BuiltinCbvSimprocs/String.lean)TODO
-
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Cbv/BuiltinCbvSimprocs/Array.lean)TODO
 : `Core.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Cbv/BuiltinCbvSimprocs/Core.lean)TODO
 
-: `Array.lean`
+: `String.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Cbv/BuiltinCbvSimprocs/Array.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Cbv/BuiltinCbvSimprocs/String.lean)TODO
 

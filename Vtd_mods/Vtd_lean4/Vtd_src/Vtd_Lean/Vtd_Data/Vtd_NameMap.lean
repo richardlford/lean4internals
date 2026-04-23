@@ -25,11 +25,10 @@ TODO
 tag := "mods/lean4/src/Lean/Data/NameMap-files"
 %%%
 
-: `Basic.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Data/NameMap/Basic.lean)TODO
-
 : `AdditionalOperations.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Data/NameMap/AdditionalOperations.lean)TODO
+: `Basic.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Data/NameMap/Basic.lean)TODO
 

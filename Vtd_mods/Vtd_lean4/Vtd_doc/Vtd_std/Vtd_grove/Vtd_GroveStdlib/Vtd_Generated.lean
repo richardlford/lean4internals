@@ -25,6 +25,17 @@ TODO
 tag := "mods/lean4/doc/std/grove/GroveStdlib/Generated-files"
 %%%
 
+: `associative-all-operations-covered.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/GroveStdlib/Generated/associative-all-operations-covered.lean)TODO
+
+: `associative-create-then-query.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/GroveStdlib/Generated/associative-create-then-query.lean)TODO
+
+: `associative-creation-operations.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/GroveStdlib/Generated/associative-creation-operations.lean)TODO
 : `associative-modification-operations.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/GroveStdlib/Generated/associative-modification-operations.lean)TODO
@@ -33,19 +44,7 @@ tag := "mods/lean4/doc/std/grove/GroveStdlib/Generated-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/GroveStdlib/Generated/associative-query-operations.lean)TODO
 
-: `associative-create-then-query.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/GroveStdlib/Generated/associative-create-then-query.lean)TODO
-
-: `associative-all-operations-covered.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/GroveStdlib/Generated/associative-all-operations-covered.lean)TODO
-
 : `slice-producing.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/GroveStdlib/Generated/slice-producing.lean)TODO
-
-: `associative-creation-operations.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/GroveStdlib/Generated/associative-creation-operations.lean)TODO
 

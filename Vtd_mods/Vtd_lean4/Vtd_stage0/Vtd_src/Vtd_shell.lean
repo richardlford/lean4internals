@@ -25,21 +25,13 @@ TODO
 tag := "mods/lean4/stage0/src/shell-files"
 %%%
 
-: `manifest.rc`
+: `app.manifest`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/shell/manifest.rc)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/shell/app.manifest)TODO
 
 : `CMakeLists.txt`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/shell/CMakeLists.txt)TODO
-
-: `mk_lean_sh.sh`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/shell/mk_lean_sh.sh)TODO
-
-: `app.manifest`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/shell/app.manifest)TODO
 
 : `lean.cpp`
 
@@ -48,4 +40,11 @@ tag := "mods/lean4/stage0/src/shell-files"
 : `lean_js.cpp`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/shell/lean_js.cpp)TODO
+: `manifest.rc`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/shell/manifest.rc)TODO
+
+: `mk_lean_sh.sh`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/shell/mk_lean_sh.sh)TODO
 

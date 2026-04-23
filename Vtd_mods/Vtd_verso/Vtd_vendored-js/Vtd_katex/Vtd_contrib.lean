@@ -25,17 +25,44 @@ TODO
 tag := "mods/verso/vendored-js/katex/contrib-files"
 %%%
 
-: `copy-tex.mjs`
+: `auto-render.js`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/contrib/copy-tex.mjs)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/contrib/auto-render.js)TODO
 
 : `auto-render.min.js`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/contrib/auto-render.min.js)TODO
 
-: `render-a11y-string.mjs`
+: `auto-render.mjs`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/contrib/render-a11y-string.mjs)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/contrib/auto-render.mjs)TODO
+: `copy-tex.js`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/contrib/copy-tex.js)TODO
+
+: `copy-tex.min.js`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/contrib/copy-tex.min.js)TODO
+
+: `copy-tex.mjs`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/contrib/copy-tex.mjs)TODO
+
+: `mathtex-script-type.js`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/contrib/mathtex-script-type.js)TODO
+
+: `mathtex-script-type.min.js`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/contrib/mathtex-script-type.min.js)TODO
+
+: `mathtex-script-type.mjs`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/contrib/mathtex-script-type.mjs)TODO
+
+: `mhchem.js`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/contrib/mhchem.js)TODO
 
 : `mhchem.min.js`
 
@@ -45,43 +72,15 @@ tag := "mods/verso/vendored-js/katex/contrib-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/contrib/mhchem.mjs)TODO
 
-: `auto-render.js`
+: `render-a11y-string.js`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/contrib/auto-render.js)TODO
-
-: `mathtex-script-type.mjs`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/contrib/mathtex-script-type.mjs)TODO
-
-: `copy-tex.min.js`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/contrib/copy-tex.min.js)TODO
-
-: `mhchem.js`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/contrib/mhchem.js)TODO
-
-: `mathtex-script-type.min.js`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/contrib/mathtex-script-type.min.js)TODO
-
-: `copy-tex.js`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/contrib/copy-tex.js)TODO
-
-: `mathtex-script-type.js`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/contrib/mathtex-script-type.js)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/contrib/render-a11y-string.js)TODO
 
 : `render-a11y-string.min.js`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/contrib/render-a11y-string.min.js)TODO
 
-: `render-a11y-string.js`
+: `render-a11y-string.mjs`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/contrib/render-a11y-string.js)TODO
-
-: `auto-render.mjs`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/contrib/auto-render.mjs)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/contrib/render-a11y-string.mjs)TODO
 

@@ -29,19 +29,18 @@ tag := "mods/vscode-lean4/docs/images-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/docs/images/bootstrap.dgml)TODO
 
-: `overview.dgml`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/docs/images/overview.dgml)TODO
-
 : `bootstrap.png`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/docs/images/bootstrap.png)TODO
 
-: `overview.png`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/docs/images/overview.png)TODO
-
 : `InstallPrompt.png`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/docs/images/InstallPrompt.png)TODO
+: `overview.dgml`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/docs/images/overview.dgml)TODO
+
+: `overview.png`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/docs/images/overview.png)TODO
 

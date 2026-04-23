@@ -36,13 +36,13 @@ TODO
 tag := "mods/verso/static-web-files"
 %%%
 
-: `jsconfig.json`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/static-web/jsconfig.json)TODO
-
 : `find.js`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/static-web/find.js)TODO
+
+: `jsconfig.json`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/static-web/jsconfig.json)TODO
 
 : `math.js`
 
@@ -51,4 +51,3 @@ tag := "mods/verso/static-web-files"
 : `verso-vars.css`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/static-web/verso-vars.css)TODO
-

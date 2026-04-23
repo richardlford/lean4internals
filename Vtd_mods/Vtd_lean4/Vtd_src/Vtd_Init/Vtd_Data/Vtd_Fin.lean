@@ -25,31 +25,30 @@ TODO
 tag := "mods/lean4/src/Init/Data/Fin-files"
 %%%
 
-: `Lemmas.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Fin/Lemmas.lean)TODO
-
 : `Basic.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Fin/Basic.lean)TODO
-
-: `Iterate.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Fin/Iterate.lean)TODO
-
-: `Fold.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Fin/Fold.lean)TODO
 
 : `Bitwise.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Fin/Bitwise.lean)TODO
 
-: `OverflowAware.lean`
+: `Fold.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Fin/OverflowAware.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Fin/Fold.lean)TODO
+
+: `Iterate.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Fin/Iterate.lean)TODO
+
+: `Lemmas.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Fin/Lemmas.lean)TODO
 
 : `Log2.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Fin/Log2.lean)TODO
+: `OverflowAware.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Fin/OverflowAware.lean)TODO
 

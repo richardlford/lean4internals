@@ -34,187 +34,186 @@ TODO
 tag := "mods/lean4/src/library-files"
 %%%
 
-: `instantiate_mvars.cpp`
+: `annotation.cpp`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/instantiate_mvars.cpp)TODO
-
-: `scope_cache.h`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/scope_cache.h)TODO
-
-: `print.h`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/print.h)TODO
-
-: `formatter.h`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/formatter.h)TODO
-
-: `init_module.cpp`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/init_module.cpp)TODO
-
-: `dynlib.cpp`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/dynlib.cpp)TODO
-
-: `expr_lt.cpp`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/expr_lt.cpp)TODO
-
-: `ir_interpreter.h`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/ir_interpreter.h)TODO
-
-: `expr_pair.h`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/expr_pair.h)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/annotation.cpp)TODO
 
 : `annotation.h`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/annotation.h)TODO
 
-: `formatter.cpp`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/formatter.cpp)TODO
-
-: `expr_unsigned_map.h`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/expr_unsigned_map.h)TODO
-
-: `module.h`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/module.h)TODO
-
-: `profiling.cpp`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/profiling.cpp)TODO
-
-: `llvm.cpp`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/llvm.cpp)TODO
-
-: `constants.txt`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/constants.txt)TODO
-
-: `profiling.h`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/profiling.h)TODO
-
-: `elab_environment.cpp`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/elab_environment.cpp)TODO
-
-: `init_module.h`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/init_module.h)TODO
-
-: `constants.h`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/constants.h)TODO
-
-: `expr_lt.h`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/expr_lt.h)TODO
-
-: `expr_pair_maps.h`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/expr_pair_maps.h)TODO
-
-: `annotation.cpp`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/annotation.cpp)TODO
-
 : `bin_app.cpp`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/bin_app.cpp)TODO
 
+: `bin_app.h`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/bin_app.h)TODO
 : `CMakeLists.txt`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/CMakeLists.txt)TODO
-
-: `ir_interpreter.cpp`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/ir_interpreter.cpp)TODO
-
-: `print.cpp`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/print.cpp)TODO
-
-: `time_task.cpp`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/time_task.cpp)TODO
 
 : `constants.cpp`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/constants.cpp)TODO
 
-: `num.h`
+: `constants.h`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/num.h)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/constants.h)TODO
 
-: `max_sharing.cpp`
+: `constants.txt`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/max_sharing.cpp)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/constants.txt)TODO
 
-: `replace_visitor.h`
+: `dynlib.cpp`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/replace_visitor.h)TODO
-
-: `module.cpp`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/module.cpp)TODO
-
-: `ir_types.h`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/ir_types.h)TODO
-
-: `util.cpp`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/util.cpp)TODO
-
-: `time_task.h`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/time_task.h)TODO
-
-: `util.h`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/util.h)TODO
-
-: `suffixes.h`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/suffixes.h)TODO
-
-: `init_attribute.h`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/init_attribute.h)TODO
-
-: `init_attribute.cpp`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/init_attribute.cpp)TODO
-
-: `elab_environment.h`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/elab_environment.h)TODO
-
-: `max_sharing.h`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/max_sharing.h)TODO
-
-: `num.cpp`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/num.cpp)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/dynlib.cpp)TODO
 
 : `dynlib.h`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/dynlib.h)TODO
 
+: `elab_environment.cpp`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/elab_environment.cpp)TODO
+
+: `elab_environment.h`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/elab_environment.h)TODO
+
+: `expr_lt.cpp`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/expr_lt.cpp)TODO
+
+: `expr_lt.h`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/expr_lt.h)TODO
+
+: `expr_pair.h`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/expr_pair.h)TODO
+
+: `expr_pair_maps.h`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/expr_pair_maps.h)TODO
+
+: `expr_unsigned_map.h`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/expr_unsigned_map.h)TODO
+
+: `formatter.cpp`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/formatter.cpp)TODO
+
+: `formatter.h`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/formatter.h)TODO
+
+: `init_attribute.cpp`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/init_attribute.cpp)TODO
+
+: `init_attribute.h`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/init_attribute.h)TODO
+
+: `init_module.cpp`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/init_module.cpp)TODO
+
+: `init_module.h`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/init_module.h)TODO
+
+: `instantiate_mvars.cpp`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/instantiate_mvars.cpp)TODO
+
+: `ir_interpreter.cpp`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/ir_interpreter.cpp)TODO
+
+: `ir_interpreter.h`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/ir_interpreter.h)TODO
+
+: `ir_types.h`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/ir_types.h)TODO
+
+: `llvm.cpp`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/llvm.cpp)TODO
+
+: `max_sharing.cpp`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/max_sharing.cpp)TODO
+
+: `max_sharing.h`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/max_sharing.h)TODO
+
+: `module.cpp`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/module.cpp)TODO
+
+: `module.h`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/module.h)TODO
+
+: `num.cpp`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/num.cpp)TODO
+
+: `num.h`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/num.h)TODO
+
+: `print.cpp`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/print.cpp)TODO
+
+: `print.h`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/print.h)TODO
+
+: `profiling.cpp`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/profiling.cpp)TODO
+
+: `profiling.h`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/profiling.h)TODO
+
 : `replace_visitor.cpp`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/replace_visitor.cpp)TODO
 
-: `bin_app.h`
+: `replace_visitor.h`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/bin_app.h)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/replace_visitor.h)TODO
+
+: `scope_cache.h`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/scope_cache.h)TODO
+
+: `suffixes.h`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/suffixes.h)TODO
+
+: `time_task.cpp`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/time_task.cpp)TODO
+
+: `time_task.h`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/time_task.h)TODO
+
+: `util.cpp`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/util.cpp)TODO
+
+: `util.h`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/util.h)TODO
 

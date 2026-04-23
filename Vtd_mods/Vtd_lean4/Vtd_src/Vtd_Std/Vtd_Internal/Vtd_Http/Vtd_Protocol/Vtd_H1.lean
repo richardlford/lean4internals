@@ -25,6 +25,9 @@ TODO
 tag := "mods/lean4/src/Std/Internal/Http/Protocol/H1-files"
 %%%
 
+: `Config.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Protocol/H1/Config.lean)TODO
 : `Error.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Protocol/H1/Error.lean)TODO
@@ -37,6 +40,10 @@ tag := "mods/lean4/src/Std/Internal/Http/Protocol/H1-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Protocol/H1/Message.lean)TODO
 
+: `Parser.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Protocol/H1/Parser.lean)TODO
+
 : `Reader.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Protocol/H1/Reader.lean)TODO
@@ -44,12 +51,4 @@ tag := "mods/lean4/src/Std/Internal/Http/Protocol/H1-files"
 : `Writer.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Protocol/H1/Writer.lean)TODO
-
-: `Parser.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Protocol/H1/Parser.lean)TODO
-
-: `Config.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Protocol/H1/Config.lean)TODO
 

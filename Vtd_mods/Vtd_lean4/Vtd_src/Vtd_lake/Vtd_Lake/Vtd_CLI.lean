@@ -38,9 +38,9 @@ tag := "mods/lean4/src/lake/Lake/CLI-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/CLI/Actions.lean)TODO
 
-: `Main.lean`
+: `Build.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/CLI/Main.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/CLI/Build.lean)TODO
 
 : `Error.lean`
 
@@ -50,13 +50,16 @@ tag := "mods/lean4/src/lake/Lake/CLI-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/CLI/Help.lean)TODO
 
+: `Init.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/CLI/Init.lean)TODO
+: `Main.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/CLI/Main.lean)TODO
+
 : `Serve.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/CLI/Serve.lean)TODO
-
-: `Build.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/CLI/Build.lean)TODO
 
 : `Shake.lean`
 
@@ -65,8 +68,4 @@ tag := "mods/lean4/src/lake/Lake/CLI-files"
 : `Translate.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/CLI/Translate.lean)TODO
-
-: `Init.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/CLI/Init.lean)TODO
 

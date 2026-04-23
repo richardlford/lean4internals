@@ -29,11 +29,10 @@ tag := "mods/lean4/src/lake/Lake/Build/Job-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Build/Job/Basic.lean)TODO
 
-: `Register.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Build/Job/Register.lean)TODO
-
 : `Monad.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Build/Job/Monad.lean)TODO
+: `Register.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Build/Job/Register.lean)TODO
 

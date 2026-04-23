@@ -29,39 +29,38 @@ tag := "mods/lean4/src/Lean/Elab/BuiltinDo-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/BuiltinDo/Basic.lean)TODO
 
+: `For.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/BuiltinDo/For.lean)TODO
+
 : `If.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/BuiltinDo/If.lean)TODO
-
-: `Misc.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/BuiltinDo/Misc.lean)TODO
-
-: `TryCatch.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/BuiltinDo/TryCatch.lean)TODO
-
-: `MatchExpr.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/BuiltinDo/MatchExpr.lean)TODO
-
-: `Repeat.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/BuiltinDo/Repeat.lean)TODO
-
-: `Let.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/BuiltinDo/Let.lean)TODO
 
 : `Jump.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/BuiltinDo/Jump.lean)TODO
 
-: `For.lean`
+: `Let.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/BuiltinDo/For.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/BuiltinDo/Let.lean)TODO
 
 : `Match.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/BuiltinDo/Match.lean)TODO
+: `MatchExpr.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/BuiltinDo/MatchExpr.lean)TODO
+
+: `Misc.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/BuiltinDo/Misc.lean)TODO
+
+: `Repeat.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/BuiltinDo/Repeat.lean)TODO
+
+: `TryCatch.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/BuiltinDo/TryCatch.lean)TODO
 

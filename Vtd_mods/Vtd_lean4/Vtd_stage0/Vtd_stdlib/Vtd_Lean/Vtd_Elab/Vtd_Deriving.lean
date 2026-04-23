@@ -25,21 +25,25 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Lean/Elab/Deriving-files"
 %%%
 
-: `SizeOf.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Deriving/SizeOf.c)TODO
-
-: `Repr.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Deriving/Repr.c)TODO
-
-: `Ord.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Deriving/Ord.c)TODO
-
 : `Basic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Deriving/Basic.c)TODO
+
+: `BEq.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Deriving/BEq.c)TODO
+
+: `DecEq.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Deriving/DecEq.c)TODO
+
+: `FromToJson.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Deriving/FromToJson.c)TODO
+
+: `Hashable.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Deriving/Hashable.c)TODO
 
 : `Inhabited.c`
 
@@ -49,39 +53,34 @@ tag := "mods/lean4/stage0/stdlib/Lean/Elab/Deriving-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Deriving/LawfulBEq.c)TODO
 
-: `FromToJson.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Deriving/FromToJson.c)TODO
-
-: `ToExpr.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Deriving/ToExpr.c)TODO
-
-: `BEq.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Deriving/BEq.c)TODO
-
 : `Nonempty.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Deriving/Nonempty.c)TODO
 
-: `DecEq.c`
+: `Ord.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Deriving/DecEq.c)TODO
-
-: `Hashable.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Deriving/Hashable.c)TODO
-
-: `TypeName.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Deriving/TypeName.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Deriving/Ord.c)TODO
 
 : `ReflBEq.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Deriving/ReflBEq.c)TODO
 
+: `Repr.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Deriving/Repr.c)TODO
+
+: `SizeOf.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Deriving/SizeOf.c)TODO
+
+: `ToExpr.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Deriving/ToExpr.c)TODO
+
+: `TypeName.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Deriving/TypeName.c)TODO
+
 : `Util.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Deriving/Util.c)TODO
-

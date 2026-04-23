@@ -36,123 +36,122 @@ TODO
 tag := "mods/lean4/script-files"
 %%%
 
-: `issues_summary.sh`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/issues_summary.sh)TODO
-
-: `collideProfiles.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/collideProfiles.lean)TODO
-
-: `lean_profile.sh`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/lean_profile.sh)TODO
-
 : `apply.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/apply.lean)TODO
-
-: `lakefile.toml`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/lakefile.toml)TODO
-
-: `merge_remote.py`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/merge_remote.py)TODO
-
-: `gen_tokens_cpp.py`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/gen_tokens_cpp.py)TODO
-
-: `build_artifact.py`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/build_artifact.py)TODO
-
-: `lean-bisect`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/lean-bisect)TODO
-
-: `reformat.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/reformat.lean)TODO
-
-: `PROFILER_README.md`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/PROFILER_README.md)TODO
-
-: `Modulize.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/Modulize.lean)TODO
-
-: `push_repo_release_tag.py`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/push_repo_release_tag.py)TODO
-
-: `lean-bisect-test.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/lean-bisect-test.lean)TODO
-
-: `rebase-stage0.sh`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/rebase-stage0.sh)TODO
 
 : `benchReelabRss.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/benchReelabRss.lean)TODO
 
-: `release_notes.py`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/release_notes.py)TODO
-
-: `prepare-llvm-macos.sh`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/prepare-llvm-macos.sh)TODO
-
-: `prepare-llvm-linux.sh`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/prepare-llvm-linux.sh)TODO
-
-: `mathlib-bench`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/mathlib-bench)TODO
-
-: `lean-toolchain`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/lean-toolchain)TODO
-
-: `prepare-llvm-mingw.sh`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/prepare-llvm-mingw.sh)TODO
-
-: `release_checklist.py`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/release_checklist.py)TODO
-
-: `fmt`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/fmt)TODO
-
-: `release_repos.yml`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/release_repos.yml)TODO
-
 : `benchReelabWatchdogRss.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/benchReelabWatchdogRss.lean)TODO
 
-: `release_steps.py`
+: `build_artifact.py`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/release_steps.py)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/build_artifact.py)TODO
+
+: `collideProfiles.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/collideProfiles.lean)TODO
+
+: `diff_changelogs.py`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/diff_changelogs.py)TODO
+: `fmt`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/fmt)TODO
 
 : `gen_constants_cpp.py`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/gen_constants_cpp.py)TODO
 
+: `gen_tokens_cpp.py`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/gen_tokens_cpp.py)TODO
+
+: `issues_summary.sh`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/issues_summary.sh)TODO
+
+: `lakefile.toml`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/lakefile.toml)TODO
+
+: `lean-bisect`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/lean-bisect)TODO
+
+: `lean-bisect-test.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/lean-bisect-test.lean)TODO
+
+: `lean-toolchain`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/lean-toolchain)TODO
+
+: `lean_profile.sh`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/lean_profile.sh)TODO
+
+: `mathlib-bench`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/mathlib-bench)TODO
+
+: `merge_remote.py`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/merge_remote.py)TODO
+
+: `Modulize.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/Modulize.lean)TODO
+
 : `patch.sh`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/patch.sh)TODO
 
-: `diff_changelogs.py`
+: `prepare-llvm-linux.sh`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/diff_changelogs.py)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/prepare-llvm-linux.sh)TODO
+
+: `prepare-llvm-macos.sh`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/prepare-llvm-macos.sh)TODO
+
+: `prepare-llvm-mingw.sh`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/prepare-llvm-mingw.sh)TODO
+
+: `PROFILER_README.md`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/PROFILER_README.md)TODO
+
+: `push_repo_release_tag.py`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/push_repo_release_tag.py)TODO
+
+: `rebase-stage0.sh`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/rebase-stage0.sh)TODO
+
+: `reformat.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/reformat.lean)TODO
+
+: `release_checklist.py`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/release_checklist.py)TODO
+
+: `release_notes.py`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/release_notes.py)TODO
+
+: `release_repos.yml`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/release_repos.yml)TODO
+
+: `release_steps.py`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/release_steps.py)TODO
 

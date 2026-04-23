@@ -29,6 +29,9 @@ tag := "mods/lean4/src/Lean/LibrarySuggestions-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/LibrarySuggestions/Basic.lean)TODO
 
+: `Default.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/LibrarySuggestions/Default.lean)TODO
 : `MePo.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/LibrarySuggestions/MePo.lean)TODO
@@ -40,8 +43,4 @@ tag := "mods/lean4/src/Lean/LibrarySuggestions-files"
 : `SymbolFrequency.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/LibrarySuggestions/SymbolFrequency.lean)TODO
-
-: `Default.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/LibrarySuggestions/Default.lean)TODO
 

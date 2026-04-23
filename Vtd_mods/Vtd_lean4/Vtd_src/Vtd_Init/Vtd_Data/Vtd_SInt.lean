@@ -25,17 +25,9 @@ TODO
 tag := "mods/lean4/src/Init/Data/SInt-files"
 %%%
 
-: `Lemmas.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/SInt/Lemmas.lean)TODO
-
 : `Basic.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/SInt/Basic.lean)TODO
-
-: `Float32.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/SInt/Float32.lean)TODO
 
 : `Bitwise.lean`
 
@@ -44,4 +36,11 @@ tag := "mods/lean4/src/Init/Data/SInt-files"
 : `Float.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/SInt/Float.lean)TODO
+: `Float32.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/SInt/Float32.lean)TODO
+
+: `Lemmas.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/SInt/Lemmas.lean)TODO
 

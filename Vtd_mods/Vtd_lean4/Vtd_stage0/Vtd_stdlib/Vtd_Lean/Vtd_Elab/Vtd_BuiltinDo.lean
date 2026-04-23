@@ -25,21 +25,9 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Lean/Elab/BuiltinDo-files"
 %%%
 
-: `Misc.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/BuiltinDo/Misc.c)TODO
-
-: `Let.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/BuiltinDo/Let.c)TODO
-
 : `Basic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/BuiltinDo/Basic.c)TODO
-
-: `Match.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/BuiltinDo/Match.c)TODO
 
 : `For.c`
 
@@ -49,19 +37,30 @@ tag := "mods/lean4/stage0/stdlib/Lean/Elab/BuiltinDo-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/BuiltinDo/If.c)TODO
 
-: `Repeat.c`
+: `Jump.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/BuiltinDo/Repeat.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/BuiltinDo/Jump.c)TODO
+
+: `Let.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/BuiltinDo/Let.c)TODO
+
+: `Match.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/BuiltinDo/Match.c)TODO
 
 : `MatchExpr.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/BuiltinDo/MatchExpr.c)TODO
 
-: `Jump.c`
+: `Misc.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/BuiltinDo/Jump.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/BuiltinDo/Misc.c)TODO
+
+: `Repeat.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/BuiltinDo/Repeat.c)TODO
 
 : `TryCatch.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/BuiltinDo/TryCatch.c)TODO
-

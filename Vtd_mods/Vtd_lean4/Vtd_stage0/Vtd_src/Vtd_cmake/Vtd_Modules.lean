@@ -25,22 +25,6 @@ TODO
 tag := "mods/lean4/stage0/src/cmake/Modules-files"
 %%%
 
-: `README.md`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/cmake/Modules/README.md)TODO
-
-: `GetGitRevisionDescription.cmake`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/cmake/Modules/GetGitRevisionDescription.cmake)TODO
-
-: `FindWindowsSDK.cmake`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/cmake/Modules/FindWindowsSDK.cmake)TODO
-
-: `GetGitRevisionDescription.cmake.in`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/cmake/Modules/GetGitRevisionDescription.cmake.in)TODO
-
 : `FindGMP.cmake`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/cmake/Modules/FindGMP.cmake)TODO
@@ -48,4 +32,19 @@ tag := "mods/lean4/stage0/src/cmake/Modules-files"
 : `FindLibUV.cmake`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/cmake/Modules/FindLibUV.cmake)TODO
+: `FindWindowsSDK.cmake`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/cmake/Modules/FindWindowsSDK.cmake)TODO
+
+: `GetGitRevisionDescription.cmake`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/cmake/Modules/GetGitRevisionDescription.cmake)TODO
+
+: `GetGitRevisionDescription.cmake.in`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/cmake/Modules/GetGitRevisionDescription.cmake.in)TODO
+
+: `README.md`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/cmake/Modules/README.md)TODO
 

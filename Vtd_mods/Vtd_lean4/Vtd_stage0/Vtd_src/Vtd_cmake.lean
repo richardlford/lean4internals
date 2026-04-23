@@ -34,11 +34,10 @@ TODO
 tag := "mods/lean4/stage0/src/cmake-files"
 %%%
 
-: `run_checker.sh`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/cmake/run_checker.sh)TODO
-
 : `check_failure.sh`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/cmake/check_failure.sh)TODO
+: `run_checker.sh`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/cmake/run_checker.sh)TODO
 

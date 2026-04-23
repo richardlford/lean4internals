@@ -25,101 +25,17 @@ TODO
 tag := "mods/lean4/src/lake/Lake/Config-files"
 %%%
 
-: `OutFormat.lean`
+: `Artifact.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/OutFormat.lean)TODO
-
-: `Opaque.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/Opaque.lean)TODO
-
-: `Kinds.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/Kinds.lean)TODO
-
-: `LeanExe.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/LeanExe.lean)TODO
-
-: `LeanLib.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/LeanLib.lean)TODO
-
-: `InputFile.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/InputFile.lean)TODO
-
-: `LakeConfig.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/LakeConfig.lean)TODO
-
-: `LeanLibConfig.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/LeanLibConfig.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/Artifact.lean)TODO
 
 : `Cache.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/Cache.lean)TODO
 
-: `Dynlib.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/Dynlib.lean)TODO
-
-: `PackageConfig.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/PackageConfig.lean)TODO
-
-: `MetaClasses.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/MetaClasses.lean)TODO
-
-: `LakefileConfig.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/LakefileConfig.lean)TODO
-
-: `Script.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/Script.lean)TODO
-
 : `ConfigDecl.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/ConfigDecl.lean)TODO
-
-: `Glob.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/Glob.lean)TODO
-
-: `Artifact.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/Artifact.lean)TODO
-
-: `FacetConfig.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/FacetConfig.lean)TODO
-
-: `Dependency.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/Dependency.lean)TODO
-
-: `Defaults.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/Defaults.lean)TODO
-
-: `Lang.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/Lang.lean)TODO
-
-: `WorkspaceConfig.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/WorkspaceConfig.lean)TODO
-
-: `LeanExeConfig.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/LeanExeConfig.lean)TODO
-
-: `InstallPath.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/InstallPath.lean)TODO
 
 : `ConfigTarget.lean`
 
@@ -129,29 +45,21 @@ tag := "mods/lean4/src/lake/Lake/Config-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/Context.lean)TODO
 
-: `Module.lean`
+: `Defaults.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/Module.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/Defaults.lean)TODO
 
-: `Workspace.lean`
+: `Dependency.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/Workspace.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/Dependency.lean)TODO
 
-: `LeanConfig.lean`
+: `Dynlib.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/LeanConfig.lean)TODO
-
-: `InputFileConfig.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/InputFileConfig.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/Dynlib.lean)TODO
 
 : `Env.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/Env.lean)TODO
-
-: `Meta.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/Meta.lean)TODO
 
 : `ExternLib.lean`
 
@@ -161,19 +69,110 @@ tag := "mods/lean4/src/lake/Lake/Config-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/ExternLibConfig.lean)TODO
 
-: `TargetConfig.lean`
+: `FacetConfig.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/TargetConfig.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/FacetConfig.lean)TODO
 
-: `Pattern.lean`
+: `Glob.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/Pattern.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/Glob.lean)TODO
+
+: `InputFile.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/InputFile.lean)TODO
+
+: `InputFileConfig.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/InputFileConfig.lean)TODO
+
+: `InstallPath.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/InstallPath.lean)TODO
+
+: `Kinds.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/Kinds.lean)TODO
+
+: `LakeConfig.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/LakeConfig.lean)TODO
+
+: `LakefileConfig.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/LakefileConfig.lean)TODO
+
+: `Lang.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/Lang.lean)TODO
+
+: `LeanConfig.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/LeanConfig.lean)TODO
+
+: `LeanExe.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/LeanExe.lean)TODO
+
+: `LeanExeConfig.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/LeanExeConfig.lean)TODO
+
+: `LeanLib.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/LeanLib.lean)TODO
+
+: `LeanLibConfig.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/LeanLibConfig.lean)TODO
+
+: `Meta.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/Meta.lean)TODO
+
+: `MetaClasses.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/MetaClasses.lean)TODO
+
+: `Module.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/Module.lean)TODO
 
 : `Monad.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/Monad.lean)TODO
 
+: `Opaque.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/Opaque.lean)TODO
+
+: `OutFormat.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/OutFormat.lean)TODO
+
 : `Package.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/Package.lean)TODO
+: `PackageConfig.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/PackageConfig.lean)TODO
+
+: `Pattern.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/Pattern.lean)TODO
+
+: `Script.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/Script.lean)TODO
+
+: `TargetConfig.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/TargetConfig.lean)TODO
+
+: `Workspace.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/Workspace.lean)TODO
+
+: `WorkspaceConfig.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/WorkspaceConfig.lean)TODO
 

@@ -29,23 +29,22 @@ tag := "mods/lean4/src/Std/Internal/Http/Internal-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Internal/Char.lean)TODO
 
-: `String.lean`
+: `ChunkedBuffer.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Internal/String.lean)TODO
-
-: `LowerCase.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Internal/LowerCase.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Internal/ChunkedBuffer.lean)TODO
 
 : `Encode.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Internal/Encode.lean)TODO
 
-: `ChunkedBuffer.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Internal/ChunkedBuffer.lean)TODO
-
 : `IndexMultiMap.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Internal/IndexMultiMap.lean)TODO
+: `LowerCase.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Internal/LowerCase.lean)TODO
+
+: `String.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Internal/String.lean)TODO
 

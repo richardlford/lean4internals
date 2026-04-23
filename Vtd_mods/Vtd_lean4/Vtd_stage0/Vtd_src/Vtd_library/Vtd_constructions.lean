@@ -29,6 +29,14 @@ tag := "mods/lean4/stage0/src/library/constructions-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/library/constructions/cases_on.cpp)TODO
 
+: `cases_on.h`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/library/constructions/cases_on.h)TODO
+
+: `CMakeLists.txt`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/library/constructions/CMakeLists.txt)TODO
+
 : `init_module.cpp`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/library/constructions/init_module.cpp)TODO
@@ -37,10 +45,9 @@ tag := "mods/lean4/stage0/src/library/constructions-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/library/constructions/init_module.h)TODO
 
-: `CMakeLists.txt`
+: `no_confusion.h`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/library/constructions/CMakeLists.txt)TODO
-
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/library/constructions/no_confusion.h)TODO
 : `util.cpp`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/library/constructions/util.cpp)TODO
@@ -48,12 +55,4 @@ tag := "mods/lean4/stage0/src/library/constructions-files"
 : `util.h`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/library/constructions/util.h)TODO
-
-: `cases_on.h`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/library/constructions/cases_on.h)TODO
-
-: `no_confusion.h`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/library/constructions/no_confusion.h)TODO
 

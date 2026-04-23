@@ -25,11 +25,10 @@ TODO
 tag := "mods/lean4/src/lake/Lake/Load/Lean-files"
 %%%
 
-: `Eval.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Load/Lean/Eval.lean)TODO
-
 : `Elab.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Load/Lean/Elab.lean)TODO
+: `Eval.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Load/Lean/Eval.lean)TODO
 

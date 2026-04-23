@@ -34,10 +34,6 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Cbv-files"
 %%%
 
-: `Opaque.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Cbv/Opaque.c)TODO
-
 : `CbvEvalExt.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Cbv/CbvEvalExt.c)TODO
@@ -46,19 +42,22 @@ tag := "mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Cbv-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Cbv/CbvSimproc.c)TODO
 
-: `TheoremsLookup.c`
+: `ControlFlow.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Cbv/TheoremsLookup.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Cbv/ControlFlow.c)TODO
 
 : `Main.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Cbv/Main.c)TODO
 
-: `ControlFlow.c`
+: `Opaque.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Cbv/ControlFlow.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Cbv/Opaque.c)TODO
+
+: `TheoremsLookup.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Cbv/TheoremsLookup.c)TODO
 
 : `Util.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Cbv/Util.c)TODO
-

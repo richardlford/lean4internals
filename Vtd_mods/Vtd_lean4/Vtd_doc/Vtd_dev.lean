@@ -25,27 +25,26 @@ TODO
 tag := "mods/lean4/doc/dev-files"
 %%%
 
-: `ffi.md`
+: `bootstrap.md`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/dev/ffi.md)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/dev/bootstrap.md)TODO
 
+: `commit_convention.md`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/dev/commit_convention.md)TODO
 : `debugging.md`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/dev/debugging.md)TODO
 
-: `release_checklist.md`
+: `ffi.md`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/dev/release_checklist.md)TODO
-
-: `bootstrap.md`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/dev/bootstrap.md)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/dev/ffi.md)TODO
 
 : `index.md`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/dev/index.md)TODO
 
-: `commit_convention.md`
+: `release_checklist.md`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/dev/commit_convention.md)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/dev/release_checklist.md)TODO
 

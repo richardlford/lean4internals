@@ -25,10 +25,6 @@ TODO
 tag := "mods/verso/test-projects/website/DemoSite/Blog-files"
 %%%
 
-: `Subprojects.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/website/DemoSite/Blog/Subprojects.lean)TODO
-
 : `AnchorBased.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/website/DemoSite/Blog/AnchorBased.lean)TODO
@@ -40,4 +36,7 @@ tag := "mods/verso/test-projects/website/DemoSite/Blog-files"
 : `FirstPost.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/website/DemoSite/Blog/FirstPost.lean)TODO
+: `Subprojects.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/website/DemoSite/Blog/Subprojects.lean)TODO
 

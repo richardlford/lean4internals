@@ -36,85 +36,60 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Lean/Meta/Sym-files"
 %%%
 
-: `InstantiateMVarsS.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/InstantiateMVarsS.c)TODO
-
-: `Arith.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Arith.c)TODO
-
-: `Grind.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Grind.c)TODO
-
-: `ReplaceS.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/ReplaceS.c)TODO
-
 : `AbstractS.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/AbstractS.c)TODO
-
-: `ProofInstInfo.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/ProofInstInfo.c)TODO
-
-: `Offset.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Offset.c)TODO
-
-: `Pattern.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Pattern.c)TODO
-
-: `Canon.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Canon.c)TODO
 
 : `AlphaShareBuilder.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/AlphaShareBuilder.c)TODO
 
-: `InstantiateS.c`
+: `AlphaShareCommon.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/InstantiateS.c)TODO
-
-: `SymM.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/SymM.c)TODO
-
-: `IsClass.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/IsClass.c)TODO
-
-: `MaxFVar.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/MaxFVar.c)TODO
-
-: `SynthInstance.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/SynthInstance.c)TODO
-
-: `ExprPtr.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/ExprPtr.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/AlphaShareCommon.c)TODO
 
 : `Apply.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Apply.c)TODO
 
+: `Arith.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Arith.c)TODO
+
+: `Canon.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Canon.c)TODO
+
+: `Eta.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Eta.c)TODO
+: `ExprPtr.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/ExprPtr.c)TODO
+
+: `Grind.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Grind.c)TODO
+
 : `InferType.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/InferType.c)TODO
 
-: `Simp.c`
+: `InstantiateMVarsS.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/InstantiateMVarsS.c)TODO
 
-: `AlphaShareCommon.c`
+: `InstantiateS.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/AlphaShareCommon.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/InstantiateS.c)TODO
+
+: `Intro.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Intro.c)TODO
+
+: `IsClass.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/IsClass.c)TODO
 
 : `LitValues.c`
 
@@ -124,15 +99,39 @@ tag := "mods/lean4/stage0/stdlib/Lean/Meta/Sym-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/LooseBVarsS.c)TODO
 
-: `Intro.c`
+: `MaxFVar.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Intro.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/MaxFVar.c)TODO
+
+: `Offset.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Offset.c)TODO
+
+: `Pattern.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Pattern.c)TODO
+
+: `ProofInstInfo.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/ProofInstInfo.c)TODO
+
+: `ReplaceS.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/ReplaceS.c)TODO
+
+: `Simp.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp.c)TODO
+
+: `SymM.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/SymM.c)TODO
+
+: `SynthInstance.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/SynthInstance.c)TODO
 
 : `Util.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Util.c)TODO
-
-: `Eta.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Sym/Eta.c)TODO
 

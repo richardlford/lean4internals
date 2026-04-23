@@ -25,11 +25,10 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Lean/Elab/Command-files"
 %%%
 
-: `WithWeakNamespace.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Command/WithWeakNamespace.c)TODO
-
 : `Scope.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Command/Scope.c)TODO
+: `WithWeakNamespace.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Command/WithWeakNamespace.c)TODO
 

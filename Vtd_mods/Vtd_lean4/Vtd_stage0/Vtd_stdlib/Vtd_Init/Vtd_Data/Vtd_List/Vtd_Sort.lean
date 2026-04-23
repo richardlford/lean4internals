@@ -25,10 +25,6 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Init/Data/List/Sort-files"
 %%%
 
-: `Lemmas.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/List/Sort/Lemmas.c)TODO
-
 : `Basic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/List/Sort/Basic.c)TODO
@@ -36,4 +32,7 @@ tag := "mods/lean4/stage0/stdlib/Init/Data/List/Sort-files"
 : `Impl.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/List/Sort/Impl.c)TODO
+: `Lemmas.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/List/Sort/Lemmas.c)TODO
 

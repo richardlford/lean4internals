@@ -29,55 +29,54 @@ tag := "mods/lean4/src/Init/Data/List/Nat-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/List/Nat/Basic.lean)TODO
 
-: `Modify.lean`
+: `BEq.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/List/Nat/Modify.lean)TODO
-
-: `InsertIdx.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/List/Nat/InsertIdx.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/List/Nat/BEq.lean)TODO
 
 : `Count.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/List/Nat/Count.lean)TODO
 
-: `BEq.lean`
+: `Erase.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/List/Nat/BEq.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/List/Nat/Erase.lean)TODO
 
 : `Find.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/List/Nat/Find.lean)TODO
 
-: `Erase.lean`
+: `InsertIdx.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/List/Nat/Erase.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/List/Nat/InsertIdx.lean)TODO
 
-: `Sublist.lean`
+: `Modify.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/List/Nat/Sublist.lean)TODO
-
-: `Perm.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/List/Nat/Perm.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/List/Nat/Modify.lean)TODO
 
 : `Pairwise.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/List/Nat/Pairwise.lean)TODO
 
-: `Sum.lean`
+: `Perm.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/List/Nat/Sum.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/List/Nat/Perm.lean)TODO
 
 : `Prod.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/List/Nat/Prod.lean)TODO
 
-: `TakeDrop.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/List/Nat/TakeDrop.lean)TODO
-
 : `Range.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/List/Nat/Range.lean)TODO
+: `Sublist.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/List/Nat/Sublist.lean)TODO
+
+: `Sum.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/List/Nat/Sum.lean)TODO
+
+: `TakeDrop.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/List/Nat/TakeDrop.lean)TODO
 

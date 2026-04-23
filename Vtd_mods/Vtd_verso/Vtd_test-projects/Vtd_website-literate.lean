@@ -25,13 +25,13 @@ TODO
 tag := "mods/verso/test-projects/website-literate-files"
 %%%
 
-: `lakefile.toml`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/website-literate/lakefile.toml)TODO
-
 : `lake-manifest.json`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/website-literate/lake-manifest.json)TODO
+
+: `lakefile.toml`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/website-literate/lakefile.toml)TODO
 
 : `lean-toolchain`
 
@@ -40,4 +40,3 @@ tag := "mods/verso/test-projects/website-literate-files"
 : `LitLean.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/website-literate/LitLean.lean)TODO
-

@@ -34,23 +34,22 @@ TODO
 tag := "mods/lean4/src/Std/Do/SPred-files"
 %%%
 
-: `SVal.lean`
+: `DerivedLaws.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Do/SPred/SVal.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Do/SPred/DerivedLaws.lean)TODO
+
+: `Laws.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Do/SPred/Laws.lean)TODO
+: `Notation.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Do/SPred/Notation.lean)TODO
 
 : `SPred.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Do/SPred/SPred.lean)TODO
 
-: `DerivedLaws.lean`
+: `SVal.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Do/SPred/DerivedLaws.lean)TODO
-
-: `Notation.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Do/SPred/Notation.lean)TODO
-
-: `Laws.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Do/SPred/Laws.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Do/SPred/SVal.lean)TODO
 

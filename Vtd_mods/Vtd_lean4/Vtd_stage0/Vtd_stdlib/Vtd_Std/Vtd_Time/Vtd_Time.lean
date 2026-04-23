@@ -34,10 +34,6 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Std/Time/Time-files"
 %%%
 
-: `PlainTime.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Time/Time/PlainTime.c)TODO
-
 : `Basic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Time/Time/Basic.c)TODO
@@ -45,4 +41,7 @@ tag := "mods/lean4/stage0/stdlib/Std/Time/Time-files"
 : `HourMarker.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Time/Time/HourMarker.c)TODO
+: `PlainTime.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Time/Time/PlainTime.c)TODO
 

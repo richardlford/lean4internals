@@ -34,11 +34,10 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Std/Data/Iterators/Consumers-files"
 %%%
 
-: `Set.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Consumers/Set.c)TODO
-
 : `Monadic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Consumers/Monadic.c)TODO
+: `Set.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Consumers/Set.c)TODO
 

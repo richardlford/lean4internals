@@ -36,11 +36,10 @@ TODO
 tag := "mods/verso/test-projects/website-files"
 %%%
 
-: `DemoSiteMain.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/website/DemoSiteMain.lean)TODO
-
 : `DemoSite.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/website/DemoSite.lean)TODO
+: `DemoSiteMain.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/website/DemoSiteMain.lean)TODO
 

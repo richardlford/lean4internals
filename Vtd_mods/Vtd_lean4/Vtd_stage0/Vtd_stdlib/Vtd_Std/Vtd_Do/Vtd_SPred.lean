@@ -34,14 +34,9 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Std/Do/SPred-files"
 %%%
 
-: `SVal.c`
+: `DerivedLaws.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Do/SPred/SVal.c)TODO
-
-: `SPred.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Do/SPred/SPred.c)TODO
-
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Do/SPred/DerivedLaws.c)TODO
 : `Laws.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Do/SPred/Laws.c)TODO
@@ -50,7 +45,11 @@ tag := "mods/lean4/stage0/stdlib/Std/Do/SPred-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Do/SPred/Notation.c)TODO
 
-: `DerivedLaws.c`
+: `SPred.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Do/SPred/DerivedLaws.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Do/SPred/SPred.c)TODO
+
+: `SVal.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Do/SPred/SVal.c)TODO
 

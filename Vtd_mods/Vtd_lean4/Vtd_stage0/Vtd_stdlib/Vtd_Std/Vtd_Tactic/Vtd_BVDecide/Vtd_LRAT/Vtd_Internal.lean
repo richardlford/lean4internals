@@ -34,25 +34,9 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal-files"
 %%%
 
-: `CNF.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal/CNF.c)TODO
-
-: `Formula.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal/Formula.c)TODO
-
 : `Actions.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal/Actions.c)TODO
-
-: `CompactLRATCheckerSound.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal/CompactLRATCheckerSound.c)TODO
-
-: `LRATCheckerSound.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal/LRATCheckerSound.c)TODO
 
 : `Assignment.c`
 
@@ -62,13 +46,16 @@ tag := "mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal/Clause.c)TODO
 
-: `LRATChecker.c`
+: `CNF.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal/LRATChecker.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal/CNF.c)TODO
 
-: `PosFin.c`
+: `CompactLRATChecker.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal/PosFin.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal/CompactLRATChecker.c)TODO
+: `CompactLRATCheckerSound.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal/CompactLRATCheckerSound.c)TODO
 
 : `Convert.c`
 
@@ -78,7 +65,19 @@ tag := "mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal/Entails.c)TODO
 
-: `CompactLRATChecker.c`
+: `Formula.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal/CompactLRATChecker.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal/Formula.c)TODO
+
+: `LRATChecker.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal/LRATChecker.c)TODO
+
+: `LRATCheckerSound.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal/LRATCheckerSound.c)TODO
+
+: `PosFin.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal/PosFin.c)TODO
 

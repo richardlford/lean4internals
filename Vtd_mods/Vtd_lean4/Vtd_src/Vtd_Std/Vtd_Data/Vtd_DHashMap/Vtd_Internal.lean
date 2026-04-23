@@ -34,31 +34,30 @@ TODO
 tag := "mods/lean4/src/Std/Data/DHashMap/Internal-files"
 %%%
 
-: `RawLemmas.lean`
+: `Defs.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DHashMap/Internal/RawLemmas.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DHashMap/Internal/Defs.lean)TODO
 
 : `HashesTo.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DHashMap/Internal/HashesTo.lean)TODO
 
-: `WF.lean`
+: `Index.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DHashMap/Internal/WF.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DHashMap/Internal/Index.lean)TODO
 
 : `Model.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DHashMap/Internal/Model.lean)TODO
 
-: `Index.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DHashMap/Internal/Index.lean)TODO
-
-: `Defs.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DHashMap/Internal/Defs.lean)TODO
-
 : `Raw.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DHashMap/Internal/Raw.lean)TODO
+: `RawLemmas.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DHashMap/Internal/RawLemmas.lean)TODO
+
+: `WF.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DHashMap/Internal/WF.lean)TODO
 

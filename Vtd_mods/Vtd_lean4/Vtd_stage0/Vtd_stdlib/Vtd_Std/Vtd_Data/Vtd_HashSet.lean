@@ -25,17 +25,25 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Std/Data/HashSet-files"
 %%%
 
-: `Lemmas.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/HashSet/Lemmas.c)TODO
-
 : `Basic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/HashSet/Basic.c)TODO
 
+: `DecidableEquiv.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/HashSet/DecidableEquiv.c)TODO
+
 : `Iterator.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/HashSet/Iterator.c)TODO
+
+: `IteratorLemmas.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/HashSet/IteratorLemmas.c)TODO
+
+: `Lemmas.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/HashSet/Lemmas.c)TODO
 
 : `Raw.c`
 
@@ -45,15 +53,6 @@ tag := "mods/lean4/stage0/stdlib/Std/Data/HashSet-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/HashSet/RawDecidableEquiv.c)TODO
 
-: `IteratorLemmas.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/HashSet/IteratorLemmas.c)TODO
-
-: `DecidableEquiv.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/HashSet/DecidableEquiv.c)TODO
-
 : `RawLemmas.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/HashSet/RawLemmas.c)TODO
-

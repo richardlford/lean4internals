@@ -38,6 +38,9 @@ tag := "mods/lean4/stage0/stdlib/Init/Data/Iterators/Lemmas/Consumers-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Lemmas/Consumers/Access.c)TODO
 
+: `Collect.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Lemmas/Consumers/Collect.c)TODO
 : `Loop.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Lemmas/Consumers/Loop.c)TODO
@@ -45,8 +48,4 @@ tag := "mods/lean4/stage0/stdlib/Init/Data/Iterators/Lemmas/Consumers-files"
 : `Monadic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Lemmas/Consumers/Monadic.c)TODO
-
-: `Collect.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Lemmas/Consumers/Collect.c)TODO
 

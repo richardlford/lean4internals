@@ -29,15 +29,14 @@ tag := "mods/lean4/src/Init/Data/Dyadic-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Dyadic/Basic.lean)TODO
 
-: `Inv.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Dyadic/Inv.lean)TODO
-
 : `Instances.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Dyadic/Instances.lean)TODO
 
+: `Inv.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Dyadic/Inv.lean)TODO
+
 : `Round.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Dyadic/Round.lean)TODO
-

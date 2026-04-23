@@ -25,14 +25,6 @@ TODO
 tag := "mods/lean4/src/Std/Data/Iterators/Lemmas/Combinators/Monadic-files"
 %%%
 
-: `Zip.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/Iterators/Lemmas/Combinators/Monadic/Zip.lean)TODO
-
-: `FilterMap.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/Iterators/Lemmas/Combinators/Monadic/FilterMap.lean)TODO
-
 : `Drop.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/Iterators/Lemmas/Combinators/Monadic/Drop.lean)TODO
@@ -41,7 +33,14 @@ tag := "mods/lean4/src/Std/Data/Iterators/Lemmas/Combinators/Monadic-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/Iterators/Lemmas/Combinators/Monadic/DropWhile.lean)TODO
 
+: `FilterMap.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/Iterators/Lemmas/Combinators/Monadic/FilterMap.lean)TODO
+
 : `TakeWhile.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/Iterators/Lemmas/Combinators/Monadic/TakeWhile.lean)TODO
+: `Zip.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/Iterators/Lemmas/Combinators/Monadic/Zip.lean)TODO
 

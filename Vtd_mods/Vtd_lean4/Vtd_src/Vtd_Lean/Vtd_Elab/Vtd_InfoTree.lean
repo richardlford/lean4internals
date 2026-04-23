@@ -25,15 +25,14 @@ TODO
 tag := "mods/lean4/src/Lean/Elab/InfoTree-files"
 %%%
 
-: `Main.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/InfoTree/Main.lean)TODO
-
 : `InlayHints.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/InfoTree/InlayHints.lean)TODO
 
+: `Main.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/InfoTree/Main.lean)TODO
+
 : `Types.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/InfoTree/Types.lean)TODO
-

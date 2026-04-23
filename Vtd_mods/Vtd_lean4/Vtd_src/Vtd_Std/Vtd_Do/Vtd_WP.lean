@@ -29,11 +29,10 @@ tag := "mods/lean4/src/Std/Do/WP-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Do/WP/Basic.lean)TODO
 
-: `SimpLemmas.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Do/WP/SimpLemmas.lean)TODO
-
 : `Monad.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Do/WP/Monad.lean)TODO
+: `SimpLemmas.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Do/WP/SimpLemmas.lean)TODO
 

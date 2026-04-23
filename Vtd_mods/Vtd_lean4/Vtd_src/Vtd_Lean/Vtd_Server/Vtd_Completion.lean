@@ -33,17 +33,12 @@ tag := "mods/lean4/src/Lean/Server/Completion-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Server/Completion/CompletionInfoSelection.lean)TODO
 
+: `CompletionItemCompression.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Server/Completion/CompletionItemCompression.lean)TODO
 : `CompletionResolution.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Server/Completion/CompletionResolution.lean)TODO
-
-: `ImportCompletion.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Server/Completion/ImportCompletion.lean)TODO
-
-: `SyntheticCompletion.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Server/Completion/SyntheticCompletion.lean)TODO
 
 : `CompletionUtils.lean`
 
@@ -53,7 +48,11 @@ tag := "mods/lean4/src/Lean/Server/Completion-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Server/Completion/EligibleHeaderDecls.lean)TODO
 
-: `CompletionItemCompression.lean`
+: `ImportCompletion.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Server/Completion/CompletionItemCompression.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Server/Completion/ImportCompletion.lean)TODO
+
+: `SyntheticCompletion.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Server/Completion/SyntheticCompletion.lean)TODO
 

@@ -29,19 +29,18 @@ tag := "mods/verso/src/verso-manual/VersoManual/Docstring-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/Docstring/Basic.lean)TODO
 
-: `Progress.lean`
+: `Config.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/Docstring/Progress.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/Docstring/Config.lean)TODO
 
 : `DocName.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/Docstring/DocName.lean)TODO
 
-: `Config.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/Docstring/Config.lean)TODO
-
 : `PrettyPrint.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/Docstring/PrettyPrint.lean)TODO
+: `Progress.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/Docstring/Progress.lean)TODO
 

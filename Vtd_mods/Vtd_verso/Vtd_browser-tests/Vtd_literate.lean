@@ -25,27 +25,26 @@ TODO
 tag := "mods/verso/browser-tests/literate-files"
 %%%
 
+: `__init__.py`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/browser-tests/literate/__init__.py)TODO
+
 : `test_accessibility.py`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/browser-tests/literate/test_accessibility.py)TODO
-
-: `test_tooltips.py`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/browser-tests/literate/test_tooltips.py)TODO
 
 : `test_content.py`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/browser-tests/literate/test_content.py)TODO
 
+: `test_navigation.py`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/browser-tests/literate/test_navigation.py)TODO
 : `test_search.py`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/browser-tests/literate/test_search.py)TODO
 
-: `__init__.py`
+: `test_tooltips.py`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/browser-tests/literate/__init__.py)TODO
-
-: `test_navigation.py`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/browser-tests/literate/test_navigation.py)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/browser-tests/literate/test_tooltips.py)TODO
 

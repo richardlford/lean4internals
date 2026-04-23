@@ -3,12 +3,12 @@
 
 -- Imports from child directories.
 
-import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_TeX»
-import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_Html»
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_Docstring»
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_Glossary»
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_Html»
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_InlineLean»
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_LicenseInfo»
-import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_Glossary»
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_TeX»
 
 -- End of Imports from child directories.
 
@@ -32,12 +32,12 @@ tag := "mods-verso-src-verso-manual-VersoManual"
 TODO
 
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_TeX»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_Html»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_Docstring»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_Glossary»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_Html»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_InlineLean»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_LicenseInfo»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_Glossary»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_TeX»}
 
 # `m/v/src/verso-manual/VersoManual` Files
 %%%
@@ -48,21 +48,13 @@ tag := "mods/verso/src/verso-manual/VersoManual-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/Basic.lean)TODO
 
-: `TeX.lean`
+: `Bibliography.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/TeX.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/Bibliography.lean)TODO
 
-: `HighlightedCode.lean`
+: `Docstring.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/HighlightedCode.lean)TODO
-
-: `WordCount.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/WordCount.lean)TODO
-
-: `License.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/License.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/Docstring.lean)TODO
 
 : `Draft.lean`
 
@@ -72,45 +64,21 @@ tag := "mods/verso/src/verso-manual/VersoManual-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/Ext.lean)TODO
 
-: `Docstring.lean`
+: `ExternalLean.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/Docstring.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/ExternalLean.lean)TODO
 
-: `Table.lean`
+: `Glossary.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/Table.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/Glossary.lean)TODO
 
-: `Markdown.lean`
+: `HighlightedCode.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/Markdown.lean)TODO
-
-: `LicenseInfo.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/LicenseInfo.lean)TODO
-
-: `InlineLean.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/InlineLean.lean)TODO
-
-: `Linters.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/Linters.lean)TODO
-
-: `WebAssets.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/WebAssets.lean)TODO
-
-: `Marginalia.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/Marginalia.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/HighlightedCode.lean)TODO
 
 : `Html.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/Html.lean)TODO
-
-: `Bibliography.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/Bibliography.lean)TODO
 
 : `Imports.lean`
 
@@ -120,19 +88,50 @@ tag := "mods/verso/src/verso-manual/VersoManual-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/Index.lean)TODO
 
+: `InlineLean.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/InlineLean.lean)TODO
+
+: `License.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/License.lean)TODO
+
+: `LicenseInfo.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/LicenseInfo.lean)TODO
+
+: `Linters.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/Linters.lean)TODO
+
 : `Literate.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/Literate.lean)TODO
 
-: `ExternalLean.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/ExternalLean.lean)TODO
-
-: `Glossary.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/Glossary.lean)TODO
-
 : `LocalContents.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/LocalContents.lean)TODO
+: `Marginalia.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/Marginalia.lean)TODO
+
+: `Markdown.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/Markdown.lean)TODO
+
+: `Table.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/Table.lean)TODO
+
+: `TeX.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/TeX.lean)TODO
+
+: `WebAssets.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/WebAssets.lean)TODO
+
+: `WordCount.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/WordCount.lean)TODO
 

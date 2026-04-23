@@ -25,11 +25,10 @@ TODO
 tag := "mods/lean4/src/Std/Data/Internal/List-files"
 %%%
 
-: `Defs.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/Internal/List/Defs.lean)TODO
-
 : `Associative.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/Internal/List/Associative.lean)TODO
+: `Defs.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/Internal/List/Defs.lean)TODO
 

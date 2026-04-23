@@ -25,13 +25,12 @@ TODO
 tag := "mods/vscode-lean4/vscode-lean4/src/abbreviation-files"
 %%%
 
-: `VSCodeAbbreviationConfig.ts`
+: `AbbreviationFeature.ts`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/abbreviation/VSCodeAbbreviationConfig.ts)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/abbreviation/AbbreviationFeature.ts)TODO
+: `AbbreviationHoverProvider.ts`
 
-: `VSCodeAbbreviationRewriter.ts`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/abbreviation/VSCodeAbbreviationRewriter.ts)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/abbreviation/AbbreviationHoverProvider.ts)TODO
 
 : `AbbreviationRewriterFeature.ts`
 
@@ -41,11 +40,11 @@ tag := "mods/vscode-lean4/vscode-lean4/src/abbreviation-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/abbreviation/SymbolPickerFeature.ts)TODO
 
-: `AbbreviationHoverProvider.ts`
+: `VSCodeAbbreviationConfig.ts`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/abbreviation/AbbreviationHoverProvider.ts)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/abbreviation/VSCodeAbbreviationConfig.ts)TODO
 
-: `AbbreviationFeature.ts`
+: `VSCodeAbbreviationRewriter.ts`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/abbreviation/AbbreviationFeature.ts)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/abbreviation/VSCodeAbbreviationRewriter.ts)TODO
 

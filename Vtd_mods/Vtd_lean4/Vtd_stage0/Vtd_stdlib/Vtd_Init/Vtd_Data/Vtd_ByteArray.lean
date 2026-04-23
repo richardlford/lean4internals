@@ -25,10 +25,6 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Init/Data/ByteArray-files"
 %%%
 
-: `Lemmas.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/ByteArray/Lemmas.c)TODO
-
 : `Basic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/ByteArray/Basic.c)TODO
@@ -40,4 +36,7 @@ tag := "mods/lean4/stage0/stdlib/Init/Data/ByteArray-files"
 : `Extra.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/ByteArray/Extra.c)TODO
+: `Lemmas.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/ByteArray/Lemmas.c)TODO
 

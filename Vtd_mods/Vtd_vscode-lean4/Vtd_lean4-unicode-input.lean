@@ -34,15 +34,14 @@ TODO
 tag := "mods/vscode-lean4/lean4-unicode-input-files"
 %%%
 
-: `tsconfig.json`
+: `LICENSE`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-unicode-input/tsconfig.json)TODO
-
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-unicode-input/LICENSE)TODO
 : `package.json`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-unicode-input/package.json)TODO
 
-: `LICENSE`
+: `tsconfig.json`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-unicode-input/LICENSE)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-unicode-input/tsconfig.json)TODO
 

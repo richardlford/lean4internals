@@ -25,15 +25,14 @@ TODO
 tag := "mods/lean4/stage0/src/initialize-files"
 %%%
 
-: `init.h`
+: `CMakeLists.txt`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/initialize/init.h)TODO
-
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/initialize/CMakeLists.txt)TODO
 : `init.cpp`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/initialize/init.cpp)TODO
 
-: `CMakeLists.txt`
+: `init.h`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/initialize/CMakeLists.txt)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/initialize/init.h)TODO
 

@@ -29,11 +29,10 @@ tag := "mods/lean4/stage0/stdlib/Std/Data/Iterators/Producers/Monadic-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Producers/Monadic/Array.c)TODO
 
-: `Vector.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Producers/Monadic/Vector.c)TODO
-
 : `Empty.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Producers/Monadic/Empty.c)TODO
+: `Vector.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Producers/Monadic/Vector.c)TODO
 

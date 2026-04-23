@@ -25,51 +25,50 @@ TODO
 tag := "mods/verso/vendored-js/tippy/animations-files"
 %%%
 
-: `shift-away-subtle.css`
+: `perspective-extreme.css`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/animations/shift-away-subtle.css)TODO
-
-: `shift-toward-subtle.css`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/animations/shift-toward-subtle.css)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/animations/perspective-extreme.css)TODO
 
 : `perspective-subtle.css`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/animations/perspective-subtle.css)TODO
 
+: `perspective.css`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/animations/perspective.css)TODO
 : `scale-extreme.css`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/animations/scale-extreme.css)TODO
-
-: `shift-away-extreme.css`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/animations/shift-away-extreme.css)TODO
 
 : `scale-subtle.css`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/animations/scale-subtle.css)TODO
 
-: `shift-toward.css`
+: `scale.css`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/animations/shift-toward.css)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/animations/scale.css)TODO
 
-: `shift-toward-extreme.css`
+: `shift-away-extreme.css`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/animations/shift-toward-extreme.css)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/animations/shift-away-extreme.css)TODO
+
+: `shift-away-subtle.css`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/animations/shift-away-subtle.css)TODO
 
 : `shift-away.css`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/animations/shift-away.css)TODO
 
-: `perspective-extreme.css`
+: `shift-toward-extreme.css`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/animations/perspective-extreme.css)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/animations/shift-toward-extreme.css)TODO
 
-: `scale.css`
+: `shift-toward-subtle.css`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/animations/scale.css)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/animations/shift-toward-subtle.css)TODO
 
-: `perspective.css`
+: `shift-toward.css`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/animations/perspective.css)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/animations/shift-toward.css)TODO
 

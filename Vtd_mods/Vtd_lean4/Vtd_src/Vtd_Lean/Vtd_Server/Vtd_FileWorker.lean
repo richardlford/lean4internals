@@ -25,35 +25,34 @@ TODO
 tag := "mods/lean4/src/Lean/Server/FileWorker-files"
 %%%
 
-: `WidgetRequests.lean`
+: `ExampleHover.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Server/FileWorker/WidgetRequests.lean)TODO
-
-: `SemanticHighlighting.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Server/FileWorker/SemanticHighlighting.lean)TODO
-
-: `SignatureHelp.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Server/FileWorker/SignatureHelp.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Server/FileWorker/ExampleHover.lean)TODO
 
 : `InlayHints.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Server/FileWorker/InlayHints.lean)TODO
 
+: `RequestHandling.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Server/FileWorker/RequestHandling.lean)TODO
+: `SemanticHighlighting.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Server/FileWorker/SemanticHighlighting.lean)TODO
+
 : `SetupFile.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Server/FileWorker/SetupFile.lean)TODO
+
+: `SignatureHelp.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Server/FileWorker/SignatureHelp.lean)TODO
 
 : `Utils.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Server/FileWorker/Utils.lean)TODO
 
-: `ExampleHover.lean`
+: `WidgetRequests.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Server/FileWorker/ExampleHover.lean)TODO
-
-: `RequestHandling.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Server/FileWorker/RequestHandling.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Server/FileWorker/WidgetRequests.lean)TODO
 

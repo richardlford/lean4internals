@@ -36,11 +36,10 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/Bitblast-files"
 %%%
 
-: `BVExpr.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/Bitblast/BVExpr.c)TODO
-
 : `BoolExpr.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/Bitblast/BoolExpr.c)TODO
+: `BVExpr.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/Bitblast/BVExpr.c)TODO
 

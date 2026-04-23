@@ -34,43 +34,42 @@ TODO
 tag := "mods/lean4/src/Std/Data/DTreeMap/Internal-files"
 %%%
 
-: `Lemmas.lean`
+: `Balanced.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DTreeMap/Internal/Lemmas.lean)TODO
-
-: `Operations.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DTreeMap/Internal/Operations.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DTreeMap/Internal/Balanced.lean)TODO
 
 : `Balancing.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DTreeMap/Internal/Balancing.lean)TODO
 
-: `Ordered.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DTreeMap/Internal/Ordered.lean)TODO
-
-: `Balanced.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DTreeMap/Internal/Balanced.lean)TODO
-
 : `Cell.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DTreeMap/Internal/Cell.lean)TODO
-
-: `Queries.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DTreeMap/Internal/Queries.lean)TODO
-
-: `Model.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DTreeMap/Internal/Model.lean)TODO
 
 : `Def.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DTreeMap/Internal/Def.lean)TODO
 
+: `Lemmas.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DTreeMap/Internal/Lemmas.lean)TODO
+
+: `Model.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DTreeMap/Internal/Model.lean)TODO
+
+: `Operations.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DTreeMap/Internal/Operations.lean)TODO
+
+: `Ordered.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DTreeMap/Internal/Ordered.lean)TODO
+
+: `Queries.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DTreeMap/Internal/Queries.lean)TODO
+
 : `Zipper.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DTreeMap/Internal/Zipper.lean)TODO
-

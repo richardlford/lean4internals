@@ -29,11 +29,10 @@ tag := "mods/lean4/src/Std/Data/Iterators/Lemmas/Equivalence-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/Iterators/Lemmas/Equivalence/Basic.lean)TODO
 
-: `StepCongr.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/Iterators/Lemmas/Equivalence/StepCongr.lean)TODO
-
 : `HetT.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/Iterators/Lemmas/Equivalence/HetT.lean)TODO
+: `StepCongr.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/Iterators/Lemmas/Equivalence/StepCongr.lean)TODO
 

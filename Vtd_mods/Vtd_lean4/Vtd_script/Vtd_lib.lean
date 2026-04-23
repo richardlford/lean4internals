@@ -29,11 +29,10 @@ tag := "mods/lean4/script/lib-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/lib/README.md)TODO
 
-: `update-stage0`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/lib/update-stage0)TODO
-
 : `rebase-editor.sh`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/lib/rebase-editor.sh)TODO
+: `update-stage0`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/lib/update-stage0)TODO
 

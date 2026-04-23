@@ -34,31 +34,30 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Init/Data/Iterators/Combinators-files"
 %%%
 
-: `FilterMap.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Combinators/FilterMap.c)TODO
-
-: `ULift.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Combinators/ULift.c)TODO
-
-: `FlatMap.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Combinators/FlatMap.c)TODO
-
 : `Append.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Combinators/Append.c)TODO
-
-: `Take.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Combinators/Take.c)TODO
 
 : `Attach.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Combinators/Attach.c)TODO
 
+: `FilterMap.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Combinators/FilterMap.c)TODO
+
+: `FlatMap.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Combinators/FlatMap.c)TODO
+
 : `Monadic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Combinators/Monadic.c)TODO
+: `Take.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Combinators/Take.c)TODO
+
+: `ULift.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Combinators/ULift.c)TODO
 

@@ -25,11 +25,10 @@ TODO
 tag := "mods/vscode-lean4/vscode-lean4/abbreviationview-files"
 %%%
 
-: `tsconfig.json`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/abbreviationview/tsconfig.json)TODO
-
 : `index.ts`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/abbreviationview/index.ts)TODO
+: `tsconfig.json`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/abbreviationview/tsconfig.json)TODO
 

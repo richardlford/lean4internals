@@ -33,11 +33,10 @@ tag := "mods/lean4/src/Init/Data/String/Lemmas/Pattern/TakeDrop-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/String/Lemmas/Pattern/TakeDrop/Char.lean)TODO
 
-: `String.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/String/Lemmas/Pattern/TakeDrop/String.lean)TODO
-
 : `Pred.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/String/Lemmas/Pattern/TakeDrop/Pred.lean)TODO
+: `String.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/String/Lemmas/Pattern/TakeDrop/String.lean)TODO
 

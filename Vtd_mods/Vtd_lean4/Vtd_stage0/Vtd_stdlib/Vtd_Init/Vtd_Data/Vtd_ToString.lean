@@ -29,10 +29,6 @@ tag := "mods/lean4/stage0/stdlib/Init/Data/ToString-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/ToString/Basic.c)TODO
 
-: `Name.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/ToString/Name.c)TODO
-
 : `Extra.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/ToString/Extra.c)TODO
@@ -40,4 +36,7 @@ tag := "mods/lean4/stage0/stdlib/Init/Data/ToString-files"
 : `Macro.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/ToString/Macro.c)TODO
+: `Name.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/ToString/Name.c)TODO
 

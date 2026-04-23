@@ -25,19 +25,18 @@ TODO
 tag := "mods/lean4/src/Init/Data/ByteArray-files"
 %%%
 
-: `Lemmas.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/ByteArray/Lemmas.lean)TODO
-
 : `Basic.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/ByteArray/Basic.lean)TODO
 
+: `Bootstrap.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/ByteArray/Bootstrap.lean)TODO
 : `Extra.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/ByteArray/Extra.lean)TODO
 
-: `Bootstrap.lean`
+: `Lemmas.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/ByteArray/Bootstrap.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/ByteArray/Lemmas.lean)TODO
 

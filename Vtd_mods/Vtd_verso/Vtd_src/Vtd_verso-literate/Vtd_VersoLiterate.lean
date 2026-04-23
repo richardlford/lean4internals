@@ -29,19 +29,18 @@ tag := "mods/verso/src/verso-literate/VersoLiterate-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-literate/VersoLiterate/Basic.lean)TODO
 
-: `Search.lean`
+: `Config.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-literate/VersoLiterate/Search.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-literate/VersoLiterate/Config.lean)TODO
+: `Exported.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-literate/VersoLiterate/Exported.lean)TODO
 
 : `Module.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-literate/VersoLiterate/Module.lean)TODO
 
-: `Exported.lean`
+: `Search.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-literate/VersoLiterate/Exported.lean)TODO
-
-: `Config.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-literate/VersoLiterate/Config.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-literate/VersoLiterate/Search.lean)TODO
 

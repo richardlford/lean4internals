@@ -25,18 +25,13 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Std/Time/Date/Unit-files"
 %%%
 
-: `Weekday.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Time/Date/Unit/Weekday.c)TODO
-
-: `Year.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Time/Date/Unit/Year.c)TODO
-
 : `Basic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Time/Date/Unit/Basic.c)TODO
 
+: `Day.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Time/Date/Unit/Day.c)TODO
 : `Month.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Time/Date/Unit/Month.c)TODO
@@ -45,7 +40,11 @@ tag := "mods/lean4/stage0/stdlib/Std/Time/Date/Unit-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Time/Date/Unit/Week.c)TODO
 
-: `Day.c`
+: `Weekday.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Time/Date/Unit/Day.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Time/Date/Unit/Weekday.c)TODO
+
+: `Year.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Time/Date/Unit/Year.c)TODO
 

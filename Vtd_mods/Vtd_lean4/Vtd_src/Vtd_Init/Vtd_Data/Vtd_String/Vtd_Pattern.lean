@@ -33,11 +33,10 @@ tag := "mods/lean4/src/Init/Data/String/Pattern-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/String/Pattern/Char.lean)TODO
 
-: `String.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/String/Pattern/String.lean)TODO
-
 : `Pred.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/String/Pattern/Pred.lean)TODO
+: `String.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/String/Pattern/String.lean)TODO
 

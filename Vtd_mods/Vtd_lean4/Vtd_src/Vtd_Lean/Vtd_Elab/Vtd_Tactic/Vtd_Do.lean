@@ -40,23 +40,22 @@ tag := "mods/lean4/src/Lean/Elab/Tactic/Do-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/Attr.lean)TODO
 
-: `VCGen.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/VCGen.lean)TODO
-
 : `LetElim.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/LetElim.lean)TODO
-
-: `Spec.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/Spec.lean)TODO
 
 : `ProofMode.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/ProofMode.lean)TODO
 
+: `Spec.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/Spec.lean)TODO
+
 : `Syntax.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/Syntax.lean)TODO
+: `VCGen.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/VCGen.lean)TODO
 

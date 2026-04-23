@@ -25,35 +25,34 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Lean/Server/FileWorker-files"
 %%%
 
-: `RequestHandling.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/FileWorker/RequestHandling.c)TODO
-
-: `WidgetRequests.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/FileWorker/WidgetRequests.c)TODO
-
-: `SetupFile.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/FileWorker/SetupFile.c)TODO
-
 : `ExampleHover.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/FileWorker/ExampleHover.c)TODO
-
-: `Utils.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/FileWorker/Utils.c)TODO
 
 : `InlayHints.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/FileWorker/InlayHints.c)TODO
 
+: `RequestHandling.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/FileWorker/RequestHandling.c)TODO
+
 : `SemanticHighlighting.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/FileWorker/SemanticHighlighting.c)TODO
 
+: `SetupFile.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/FileWorker/SetupFile.c)TODO
+
 : `SignatureHelp.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/FileWorker/SignatureHelp.c)TODO
+: `Utils.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/FileWorker/Utils.c)TODO
+
+: `WidgetRequests.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/FileWorker/WidgetRequests.c)TODO
 

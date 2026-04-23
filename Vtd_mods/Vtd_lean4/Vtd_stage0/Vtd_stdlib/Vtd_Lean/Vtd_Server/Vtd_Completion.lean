@@ -29,6 +29,25 @@ tag := "mods/lean4/stage0/stdlib/Lean/Server/Completion-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/Completion/CompletionCollectors.c)TODO
 
+: `CompletionInfoSelection.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/Completion/CompletionInfoSelection.c)TODO
+
+: `CompletionItemCompression.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/Completion/CompletionItemCompression.c)TODO
+
+: `CompletionResolution.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/Completion/CompletionResolution.c)TODO
+
+: `CompletionUtils.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/Completion/CompletionUtils.c)TODO
+: `EligibleHeaderDecls.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/Completion/EligibleHeaderDecls.c)TODO
+
 : `ImportCompletion.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/Completion/ImportCompletion.c)TODO
@@ -36,24 +55,4 @@ tag := "mods/lean4/stage0/stdlib/Lean/Server/Completion-files"
 : `SyntheticCompletion.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/Completion/SyntheticCompletion.c)TODO
-
-: `CompletionInfoSelection.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/Completion/CompletionInfoSelection.c)TODO
-
-: `CompletionResolution.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/Completion/CompletionResolution.c)TODO
-
-: `EligibleHeaderDecls.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/Completion/EligibleHeaderDecls.c)TODO
-
-: `CompletionItemCompression.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/Completion/CompletionItemCompression.c)TODO
-
-: `CompletionUtils.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/Completion/CompletionUtils.c)TODO
 

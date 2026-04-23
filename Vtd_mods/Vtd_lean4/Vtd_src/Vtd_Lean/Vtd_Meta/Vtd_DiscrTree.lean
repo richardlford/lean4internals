@@ -33,11 +33,10 @@ tag := "mods/lean4/src/Lean/Meta/DiscrTree-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/DiscrTree/Main.lean)TODO
 
-: `Util.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/DiscrTree/Util.lean)TODO
-
 : `Types.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/DiscrTree/Types.lean)TODO
+: `Util.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/DiscrTree/Util.lean)TODO
 

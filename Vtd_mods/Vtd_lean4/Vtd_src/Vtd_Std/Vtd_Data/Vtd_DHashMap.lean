@@ -34,43 +34,42 @@ TODO
 tag := "mods/lean4/src/Std/Data/DHashMap-files"
 %%%
 
-: `Lemmas.lean`
+: `AdditionalOperations.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DHashMap/Lemmas.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DHashMap/AdditionalOperations.lean)TODO
 
 : `Basic.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DHashMap/Basic.lean)TODO
 
-: `RawLemmas.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DHashMap/RawLemmas.lean)TODO
-
-: `RawDef.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DHashMap/RawDef.lean)TODO
-
-: `AdditionalOperations.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DHashMap/AdditionalOperations.lean)TODO
-
 : `DecidableEquiv.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DHashMap/DecidableEquiv.lean)TODO
-
-: `Raw.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DHashMap/Raw.lean)TODO
-
-: `IteratorLemmas.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DHashMap/IteratorLemmas.lean)TODO
 
 : `Iterator.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DHashMap/Iterator.lean)TODO
 
+: `IteratorLemmas.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DHashMap/IteratorLemmas.lean)TODO
+
+: `Lemmas.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DHashMap/Lemmas.lean)TODO
+
+: `Raw.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DHashMap/Raw.lean)TODO
+
 : `RawDecidableEquiv.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DHashMap/RawDecidableEquiv.lean)TODO
+: `RawDef.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DHashMap/RawDef.lean)TODO
+
+: `RawLemmas.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DHashMap/RawLemmas.lean)TODO
 

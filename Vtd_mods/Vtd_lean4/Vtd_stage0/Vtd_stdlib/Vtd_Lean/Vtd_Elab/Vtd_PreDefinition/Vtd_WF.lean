@@ -25,37 +25,13 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/WF-files"
 %%%
 
-: `Rel.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/WF/Rel.c)TODO
-
 : `Basic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/WF/Basic.c)TODO
 
-: `Unfold.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/WF/Unfold.c)TODO
-
-: `PackMutual.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/WF/PackMutual.c)TODO
-
 : `Eqns.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/WF/Eqns.c)TODO
-
-: `Preprocess.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/WF/Preprocess.c)TODO
-
-: `GuessLex.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/WF/GuessLex.c)TODO
-
-: `Main.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/WF/Main.c)TODO
 
 : `Fix.c`
 
@@ -64,4 +40,27 @@ tag := "mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/WF-files"
 : `FloatRecApp.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/WF/FloatRecApp.c)TODO
+: `GuessLex.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/WF/GuessLex.c)TODO
+
+: `Main.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/WF/Main.c)TODO
+
+: `PackMutual.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/WF/PackMutual.c)TODO
+
+: `Preprocess.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/WF/Preprocess.c)TODO
+
+: `Rel.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/WF/Rel.c)TODO
+
+: `Unfold.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/WF/Unfold.c)TODO
 

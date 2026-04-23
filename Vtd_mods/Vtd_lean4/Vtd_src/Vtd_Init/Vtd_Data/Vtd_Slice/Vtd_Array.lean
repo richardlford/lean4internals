@@ -25,10 +25,6 @@ TODO
 tag := "mods/lean4/src/Init/Data/Slice/Array-files"
 %%%
 
-: `Lemmas.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Slice/Array/Lemmas.lean)TODO
-
 : `Basic.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Slice/Array/Basic.lean)TODO
@@ -36,4 +32,7 @@ tag := "mods/lean4/src/Init/Data/Slice/Array-files"
 : `Iterator.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Slice/Array/Iterator.lean)TODO
+: `Lemmas.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Slice/Array/Lemmas.lean)TODO
 

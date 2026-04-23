@@ -25,11 +25,10 @@ TODO
 tag := "mods/lean4/src/Init/Data/Int/Bitwise-files"
 %%%
 
-: `Lemmas.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Int/Bitwise/Lemmas.lean)TODO
-
 : `Basic.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Int/Bitwise/Basic.lean)TODO
+: `Lemmas.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Int/Bitwise/Lemmas.lean)TODO
 

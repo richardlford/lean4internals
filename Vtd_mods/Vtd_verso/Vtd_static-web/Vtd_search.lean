@@ -25,51 +25,50 @@ TODO
 tag := "mods/verso/static-web/search-files"
 %%%
 
-: `search-highlight.js`
+: `fuzzysort.d.ts`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/static-web/search/search-highlight.js)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/static-web/search/fuzzysort.d.ts)TODO
+: `fuzzysort.min.js`
 
-: `licenses.md`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/static-web/search/licenses.md)TODO
-
-: `unicode-input-component.min.js`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/static-web/search/unicode-input-component.min.js)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/static-web/search/fuzzysort.min.js)TODO
 
 : `jsconfig.json`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/static-web/search/jsconfig.json)TODO
 
-: `unicode-input.min.js`
+: `licenses.md`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/static-web/search/unicode-input.min.js)TODO
-
-: `search-highlight.css`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/static-web/search/search-highlight.css)TODO
-
-: `search-box.js`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/static-web/search/search-box.js)TODO
-
-: `search-box.css`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/static-web/search/search-box.css)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/static-web/search/licenses.md)TODO
 
 : `README.txt`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/static-web/search/README.txt)TODO
 
-: `fuzzysort.min.js`
+: `search-box.css`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/static-web/search/fuzzysort.min.js)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/static-web/search/search-box.css)TODO
+
+: `search-box.js`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/static-web/search/search-box.js)TODO
+
+: `search-highlight.css`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/static-web/search/search-highlight.css)TODO
+
+: `search-highlight.js`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/static-web/search/search-highlight.js)TODO
 
 : `search-init.js`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/static-web/search/search-init.js)TODO
 
-: `fuzzysort.d.ts`
+: `unicode-input-component.min.js`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/static-web/search/fuzzysort.d.ts)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/static-web/search/unicode-input-component.min.js)TODO
+
+: `unicode-input.min.js`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/static-web/search/unicode-input.min.js)TODO
 

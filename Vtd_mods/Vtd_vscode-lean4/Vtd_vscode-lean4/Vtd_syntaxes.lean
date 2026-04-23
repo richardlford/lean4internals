@@ -29,11 +29,10 @@ tag := "mods/vscode-lean4/vscode-lean4/syntaxes-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/syntaxes/codeblock.json)TODO
 
-: `lean4.json`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/syntaxes/lean4.json)TODO
-
 : `lean4-markdown.json`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/syntaxes/lean4-markdown.json)TODO
+: `lean4.json`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/syntaxes/lean4.json)TODO
 

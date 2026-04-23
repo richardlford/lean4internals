@@ -25,10 +25,6 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Init/Data/Slice/Array-files"
 %%%
 
-: `Lemmas.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Slice/Array/Lemmas.c)TODO
-
 : `Basic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Slice/Array/Basic.c)TODO
@@ -36,4 +32,7 @@ tag := "mods/lean4/stage0/stdlib/Init/Data/Slice/Array-files"
 : `Iterator.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Slice/Array/Iterator.c)TODO
+: `Lemmas.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Slice/Array/Lemmas.c)TODO
 

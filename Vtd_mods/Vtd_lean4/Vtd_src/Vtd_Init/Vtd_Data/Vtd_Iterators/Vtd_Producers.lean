@@ -34,11 +34,10 @@ TODO
 tag := "mods/lean4/src/Init/Data/Iterators/Producers-files"
 %%%
 
-: `Monadic.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Producers/Monadic.lean)TODO
-
 : `List.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Producers/List.lean)TODO
+: `Monadic.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Producers/Monadic.lean)TODO
 

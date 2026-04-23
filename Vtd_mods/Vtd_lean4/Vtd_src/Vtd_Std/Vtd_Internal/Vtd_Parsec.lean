@@ -29,11 +29,10 @@ tag := "mods/lean4/src/Std/Internal/Parsec-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Parsec/Basic.lean)TODO
 
-: `String.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Parsec/String.lean)TODO
-
 : `ByteArray.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Parsec/ByteArray.lean)TODO
+: `String.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Parsec/String.lean)TODO
 

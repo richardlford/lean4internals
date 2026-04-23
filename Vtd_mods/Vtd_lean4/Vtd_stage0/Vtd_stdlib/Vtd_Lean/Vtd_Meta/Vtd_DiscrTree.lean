@@ -29,15 +29,14 @@ tag := "mods/lean4/stage0/stdlib/Lean/Meta/DiscrTree-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/DiscrTree/Basic.c)TODO
 
-: `Types.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/DiscrTree/Types.c)TODO
-
 : `Main.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/DiscrTree/Main.c)TODO
 
+: `Types.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/DiscrTree/Types.c)TODO
+
 : `Util.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/DiscrTree/Util.c)TODO
-

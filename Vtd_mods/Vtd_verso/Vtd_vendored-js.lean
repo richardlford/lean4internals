@@ -3,12 +3,12 @@
 
 -- Imports from child directories.
 
-import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex»
+import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_axe-core»
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_elasticlunr»
-import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy»
+import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex»
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_marked»
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_popper»
-import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_axe-core»
+import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy»
 
 -- End of Imports from child directories.
 
@@ -32,12 +32,12 @@ tag := "mods-verso-vendored-js"
 TODO
 
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_axe-core»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_elasticlunr»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_marked»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_popper»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_axe-core»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy»}
 
 # `mods/verso/vendored-js` Files
 %%%
@@ -51,4 +51,3 @@ tag := "mods/verso/vendored-js-files"
 : `tippy-bundle.umd.min.js`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy-bundle.umd.min.js)TODO
-

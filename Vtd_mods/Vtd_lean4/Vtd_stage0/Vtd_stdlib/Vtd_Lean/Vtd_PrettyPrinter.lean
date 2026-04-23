@@ -42,11 +42,10 @@ tag := "mods/lean4/stage0/stdlib/Lean/PrettyPrinter-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/PrettyPrinter/Delaborator.c)TODO
 
-: `Parenthesizer.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/PrettyPrinter/Parenthesizer.c)TODO
-
 : `Formatter.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/PrettyPrinter/Formatter.c)TODO
+: `Parenthesizer.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/PrettyPrinter/Parenthesizer.c)TODO
 

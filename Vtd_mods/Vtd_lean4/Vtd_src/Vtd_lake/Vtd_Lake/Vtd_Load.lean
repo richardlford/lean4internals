@@ -34,35 +34,34 @@ TODO
 tag := "mods/lean4/src/lake/Lake/Load-files"
 %%%
 
+: `Config.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Load/Config.lean)TODO
 : `Lean.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Load/Lean.lean)TODO
-
-: `Toml.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Load/Toml.lean)TODO
-
-: `Materialize.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Load/Materialize.lean)TODO
-
-: `Resolve.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Load/Resolve.lean)TODO
-
-: `Workspace.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Load/Workspace.lean)TODO
 
 : `Manifest.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Load/Manifest.lean)TODO
 
+: `Materialize.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Load/Materialize.lean)TODO
+
 : `Package.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Load/Package.lean)TODO
 
-: `Config.lean`
+: `Resolve.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Load/Config.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Load/Resolve.lean)TODO
+
+: `Toml.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Load/Toml.lean)TODO
+
+: `Workspace.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Load/Workspace.lean)TODO
 

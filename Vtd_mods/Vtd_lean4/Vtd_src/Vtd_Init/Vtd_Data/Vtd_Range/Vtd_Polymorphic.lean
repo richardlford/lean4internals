@@ -34,79 +34,78 @@ TODO
 tag := "mods/lean4/src/Init/Data/Range/Polymorphic-files"
 %%%
 
-: `Lemmas.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Range/Polymorphic/Lemmas.lean)TODO
-
 : `Basic.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Range/Polymorphic/Basic.lean)TODO
-
-: `IntLemmas.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Range/Polymorphic/IntLemmas.lean)TODO
 
 : `BitVec.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Range/Polymorphic/BitVec.lean)TODO
 
-: `Nat.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Range/Polymorphic/Nat.lean)TODO
-
-: `Map.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Range/Polymorphic/Map.lean)TODO
-
-: `UpwardEnumerable.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Range/Polymorphic/UpwardEnumerable.lean)TODO
-
 : `Char.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Range/Polymorphic/Char.lean)TODO
-
-: `GetElemTactic.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Range/Polymorphic/GetElemTactic.lean)TODO
 
 : `Fin.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Range/Polymorphic/Fin.lean)TODO
 
+: `GetElemTactic.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Range/Polymorphic/GetElemTactic.lean)TODO
+
 : `Instances.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Range/Polymorphic/Instances.lean)TODO
-
-: `Stream.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Range/Polymorphic/Stream.lean)TODO
-
-: `Iterators.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Range/Polymorphic/Iterators.lean)TODO
 
 : `Int.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Range/Polymorphic/Int.lean)TODO
 
-: `RangeIterator.lean`
+: `IntLemmas.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Range/Polymorphic/RangeIterator.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Range/Polymorphic/IntLemmas.lean)TODO
 
-: `PRange.lean`
+: `Iterators.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Range/Polymorphic/PRange.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Range/Polymorphic/Iterators.lean)TODO
+
+: `Lemmas.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Range/Polymorphic/Lemmas.lean)TODO
+
+: `Map.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Range/Polymorphic/Map.lean)TODO
+
+: `Nat.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Range/Polymorphic/Nat.lean)TODO
 
 : `NatLemmas.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Range/Polymorphic/NatLemmas.lean)TODO
 
-: `UInt.lean`
+: `PRange.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Range/Polymorphic/UInt.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Range/Polymorphic/PRange.lean)TODO
+
+: `RangeIterator.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Range/Polymorphic/RangeIterator.lean)TODO
 
 : `SInt.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Range/Polymorphic/SInt.lean)TODO
+: `Stream.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Range/Polymorphic/Stream.lean)TODO
+
+: `UInt.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Range/Polymorphic/UInt.lean)TODO
+
+: `UpwardEnumerable.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Range/Polymorphic/UpwardEnumerable.lean)TODO
 

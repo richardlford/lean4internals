@@ -25,11 +25,10 @@ TODO
 tag := "mods/lean4/src/Std/Data/ExtHashSet-files"
 %%%
 
-: `Lemmas.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/ExtHashSet/Lemmas.lean)TODO
-
 : `Basic.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/ExtHashSet/Basic.lean)TODO
+: `Lemmas.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/ExtHashSet/Lemmas.lean)TODO
 

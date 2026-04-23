@@ -29,35 +29,34 @@ tag := "mods/lean4/src/Lean/Widget-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Widget/Basic.lean)TODO
 
-: `TaggedText.lean`
+: `Commands.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Widget/TaggedText.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Widget/Commands.lean)TODO
+
+: `Diff.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Widget/Diff.lean)TODO
+: `InteractiveCode.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Widget/InteractiveCode.lean)TODO
 
 : `InteractiveDiagnostic.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Widget/InteractiveDiagnostic.lean)TODO
 
-: `Commands.lean`
+: `InteractiveGoal.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Widget/Commands.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Widget/InteractiveGoal.lean)TODO
 
-: `InteractiveCode.lean`
+: `TaggedText.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Widget/InteractiveCode.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Widget/TaggedText.lean)TODO
 
 : `Types.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Widget/Types.lean)TODO
 
-: `InteractiveGoal.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Widget/InteractiveGoal.lean)TODO
-
 : `UserWidget.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Widget/UserWidget.lean)TODO
-
-: `Diff.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Widget/Diff.lean)TODO
 

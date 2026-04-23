@@ -25,19 +25,18 @@ TODO
 tag := "mods/vscode-lean4/vscode-lean4/src/diagnostics-files"
 %%%
 
-: `setupDiagnoser.ts`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/diagnostics/setupDiagnoser.ts)TODO
-
 : `fullDiagnostics.ts`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/diagnostics/fullDiagnostics.ts)TODO
 
-: `setupNotifs.ts`
+: `setupDiagnoser.ts`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/diagnostics/setupNotifs.ts)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/diagnostics/setupDiagnoser.ts)TODO
 
 : `setupDiagnostics.ts`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/diagnostics/setupDiagnostics.ts)TODO
+: `setupNotifs.ts`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/diagnostics/setupNotifs.ts)TODO
 

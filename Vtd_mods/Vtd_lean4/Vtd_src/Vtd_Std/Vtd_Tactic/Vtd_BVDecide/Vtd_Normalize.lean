@@ -29,19 +29,18 @@ tag := "mods/lean4/src/Std/Tactic/BVDecide/Normalize-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Tactic/BVDecide/Normalize/BitVec.lean)TODO
 
-: `Equal.lean`
+: `Bool.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Tactic/BVDecide/Normalize/Equal.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Tactic/BVDecide/Normalize/Bool.lean)TODO
 
 : `Canonicalize.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Tactic/BVDecide/Normalize/Canonicalize.lean)TODO
 
-: `Bool.lean`
+: `Equal.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Tactic/BVDecide/Normalize/Bool.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Tactic/BVDecide/Normalize/Equal.lean)TODO
 
 : `Prop.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Tactic/BVDecide/Normalize/Prop.lean)TODO
-

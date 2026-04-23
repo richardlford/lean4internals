@@ -25,11 +25,10 @@ TODO
 tag := "mods/lean4/src/Init/Control/Lawful/MonadAttach-files"
 %%%
 
-: `Lemmas.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Control/Lawful/MonadAttach/Lemmas.lean)TODO
-
 : `Instances.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Control/Lawful/MonadAttach/Instances.lean)TODO
+: `Lemmas.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Control/Lawful/MonadAttach/Lemmas.lean)TODO
 

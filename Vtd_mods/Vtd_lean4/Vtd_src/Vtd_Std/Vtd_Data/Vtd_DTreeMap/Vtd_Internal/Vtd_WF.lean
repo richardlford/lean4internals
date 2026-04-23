@@ -25,11 +25,10 @@ TODO
 tag := "mods/lean4/src/Std/Data/DTreeMap/Internal/WF-files"
 %%%
 
-: `Lemmas.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DTreeMap/Internal/WF/Lemmas.lean)TODO
-
 : `Defs.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DTreeMap/Internal/WF/Defs.lean)TODO
+: `Lemmas.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DTreeMap/Internal/WF/Lemmas.lean)TODO
 

@@ -34,11 +34,10 @@ TODO
 tag := "mods/verso/test-projects/custom-genre-files"
 %%%
 
-: `SimplePageMain.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/custom-genre/SimplePageMain.lean)TODO
-
 : `SimplePage.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/custom-genre/SimplePage.lean)TODO
+: `SimplePageMain.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/custom-genre/SimplePageMain.lean)TODO
 

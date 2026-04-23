@@ -29,17 +29,40 @@ tag := "mods/lean4/src/Lean/Compiler/IR-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/IR/Basic.lean)TODO
 
-: `Sorry.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/IR/Sorry.lean)TODO
-
 : `Checker.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/IR/Checker.lean)TODO
 
+: `CompilerM.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/IR/CompilerM.lean)TODO
+
+: `EmitLLVM.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/IR/EmitLLVM.lean)TODO
+
+: `EmitUtil.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/IR/EmitUtil.lean)TODO
+
 : `Format.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/IR/Format.lean)TODO
+
+: `LLVMBindings.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/IR/LLVMBindings.lean)TODO
+
+: `Meta.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/IR/Meta.lean)TODO
+
+: `NormIds.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/IR/NormIds.lean)TODO
+: `Sorry.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/IR/Sorry.lean)TODO
 
 : `ToIR.lean`
 
@@ -49,31 +72,7 @@ tag := "mods/lean4/src/Lean/Compiler/IR-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/IR/ToIRType.lean)TODO
 
-: `CompilerM.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/IR/CompilerM.lean)TODO
-
-: `EmitUtil.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/IR/EmitUtil.lean)TODO
-
-: `LLVMBindings.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/IR/LLVMBindings.lean)TODO
-
 : `UnboxResult.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/IR/UnboxResult.lean)TODO
-
-: `EmitLLVM.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/IR/EmitLLVM.lean)TODO
-
-: `Meta.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/IR/Meta.lean)TODO
-
-: `NormIds.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/IR/NormIds.lean)TODO
 

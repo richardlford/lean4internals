@@ -25,23 +25,22 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/Normalize-files"
 %%%
 
-: `Prop.c`
+: `BitVec.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/Normalize/Prop.c)TODO
-
-: `Equal.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/Normalize/Equal.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/Normalize/BitVec.c)TODO
 
 : `Bool.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/Normalize/Bool.c)TODO
 
-: `BitVec.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/Normalize/BitVec.c)TODO
-
 : `Canonicalize.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/Normalize/Canonicalize.c)TODO
+: `Equal.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/Normalize/Equal.c)TODO
+
+: `Prop.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/Normalize/Prop.c)TODO
 

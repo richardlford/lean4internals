@@ -36,11 +36,10 @@ TODO
 tag := "mods/lean4/src/Std/Sat-files"
 %%%
 
-: `CNF.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Sat/CNF.lean)TODO
-
 : `AIG.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Sat/AIG.lean)TODO
+: `CNF.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Sat/CNF.lean)TODO
 

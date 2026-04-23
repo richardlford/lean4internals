@@ -3,12 +3,12 @@
 
 -- Imports from child directories.
 
-import «Vtd_mods».«Vtd_lean4».«Vtd_stage0»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc»
-import «Vtd_mods».«Vtd_lean4».«Vtd_src»
 import «Vtd_mods».«Vtd_lean4».«Vtd_images»
 import «Vtd_mods».«Vtd_lean4».«Vtd_releases_drafts»
 import «Vtd_mods».«Vtd_lean4».«Vtd_script»
+import «Vtd_mods».«Vtd_lean4».«Vtd_src»
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0»
 
 -- End of Imports from child directories.
 
@@ -38,73 +38,28 @@ this directory.
 We will not attempt to duplicate existing documentation, but add high level context.
 
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_doc»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_images»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_releases_drafts»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_script»}
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src»}
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0»}
 
 # `mods/lean4` Files
 %%%
 tag := "mods/lean4-files"
 %%%
 
-: `README.md`
+: `.git`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/README.md)TODO
-
-: `.gitignore`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/.gitignore)TODO
-
-: `flake.lock`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/flake.lock)TODO
-
-: `.ignore`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/.ignore)TODO
-
-: `CMakePresets.json`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/CMakePresets.json)TODO
-
-: `CODEOWNERS`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/CODEOWNERS)TODO
-
-: `flake.nix`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/flake.nix)TODO
-
-: `CONTRIBUTING.md`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/CONTRIBUTING.md)TODO
-
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/.git)TODO
 : `.gitattributes`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/.gitattributes)TODO
 
-: `CMakeLists.txt`
+: `.gitignore`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/CMakeLists.txt)TODO
-
-: `lean-toolchain`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/lean-toolchain)TODO
-
-: `LICENSES`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/LICENSES)TODO
-
-: `RELEASES.md`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/RELEASES.md)TODO
-
-: `LICENSE`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/LICENSE)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/.gitignore)TODO
 
 : `.gitpod.Dockerfile`
 
@@ -114,6 +69,51 @@ tag := "mods/lean4-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/.gitpod.yml)TODO
 
-: `.git`
+: `.ignore`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/.git)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/.ignore)TODO
+
+: `CMakeLists.txt`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/CMakeLists.txt)TODO
+
+: `CMakePresets.json`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/CMakePresets.json)TODO
+
+: `CODEOWNERS`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/CODEOWNERS)TODO
+
+: `CONTRIBUTING.md`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/CONTRIBUTING.md)TODO
+
+: `flake.lock`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/flake.lock)TODO
+
+: `flake.nix`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/flake.nix)TODO
+
+: `lean-toolchain`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/lean-toolchain)TODO
+
+: `LICENSE`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/LICENSE)TODO
+
+: `LICENSES`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/LICENSES)TODO
+
+: `README.md`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/README.md)TODO
+
+: `RELEASES.md`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/RELEASES.md)TODO
+

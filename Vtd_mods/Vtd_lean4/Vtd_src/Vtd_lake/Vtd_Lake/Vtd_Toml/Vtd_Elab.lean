@@ -25,11 +25,10 @@ TODO
 tag := "mods/lean4/src/lake/Lake/Toml/Elab-files"
 %%%
 
-: `Value.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Toml/Elab/Value.lean)TODO
-
 : `Expression.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Toml/Elab/Expression.lean)TODO
+: `Value.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Toml/Elab/Value.lean)TODO
 

@@ -29,11 +29,10 @@ tag := "mods/lean4/stage0/stdlib/Std/Do/WP-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Do/WP/Basic.c)TODO
 
-: `SimpLemmas.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Do/WP/SimpLemmas.c)TODO
-
 : `Monad.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Do/WP/Monad.c)TODO
+: `SimpLemmas.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Do/WP/SimpLemmas.c)TODO
 

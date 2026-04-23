@@ -25,27 +25,26 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Init/Omega-files"
 %%%
 
-: `Logic.c`
+: `Coeffs.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Omega/Logic.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Omega/Coeffs.c)TODO
+: `Constraint.c`
 
-: `LinearCombo.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Omega/LinearCombo.c)TODO
-
-: `IntList.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Omega/IntList.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Omega/Constraint.c)TODO
 
 : `Int.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Omega/Int.c)TODO
 
-: `Constraint.c`
+: `IntList.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Omega/Constraint.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Omega/IntList.c)TODO
 
-: `Coeffs.c`
+: `LinearCombo.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Omega/Coeffs.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Omega/LinearCombo.c)TODO
+
+: `Logic.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Omega/Logic.c)TODO
 

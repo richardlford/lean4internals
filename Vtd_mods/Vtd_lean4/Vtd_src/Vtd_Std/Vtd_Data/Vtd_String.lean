@@ -25,11 +25,10 @@ TODO
 tag := "mods/lean4/src/Std/Data/String-files"
 %%%
 
-: `ToNat.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/String/ToNat.lean)TODO
-
 : `ToInt.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/String/ToInt.lean)TODO
+: `ToNat.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/String/ToNat.lean)TODO
 

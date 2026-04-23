@@ -25,10 +25,6 @@ TODO
 tag := "mods/lean4/src/Lean/Server/Test-files"
 %%%
 
-: `Runner.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Server/Test/Runner.lean)TODO
-
 : `Cancel.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Server/Test/Cancel.lean)TODO
@@ -36,4 +32,7 @@ tag := "mods/lean4/src/Lean/Server/Test-files"
 : `Refs.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Server/Test/Refs.lean)TODO
+: `Runner.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Server/Test/Runner.lean)TODO
 

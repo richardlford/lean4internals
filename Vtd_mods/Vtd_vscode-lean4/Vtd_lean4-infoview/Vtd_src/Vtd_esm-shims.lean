@@ -25,15 +25,14 @@ TODO
 tag := "mods/vscode-lean4/lean4-infoview/src/esm-shims-files"
 %%%
 
-: `react-jsx-runtime.ts`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-infoview/src/esm-shims/react-jsx-runtime.ts)TODO
-
 : `react-dom.ts`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-infoview/src/esm-shims/react-dom.ts)TODO
 
+: `react-jsx-runtime.ts`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-infoview/src/esm-shims/react-jsx-runtime.ts)TODO
+
 : `react.ts`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-infoview/src/esm-shims/react.ts)TODO
-

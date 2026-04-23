@@ -25,6 +25,10 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Lean/LibrarySuggestions-files"
 %%%
 
+: `Basic.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/LibrarySuggestions/Basic.c)TODO
+
 : `Default.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/LibrarySuggestions/Default.c)TODO
@@ -33,15 +37,10 @@ tag := "mods/lean4/stage0/stdlib/Lean/LibrarySuggestions-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/LibrarySuggestions/MePo.c)TODO
 
-: `Basic.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/LibrarySuggestions/Basic.c)TODO
-
-: `SymbolFrequency.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/LibrarySuggestions/SymbolFrequency.c)TODO
-
 : `SineQuaNon.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/LibrarySuggestions/SineQuaNon.c)TODO
+: `SymbolFrequency.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/LibrarySuggestions/SymbolFrequency.c)TODO
 

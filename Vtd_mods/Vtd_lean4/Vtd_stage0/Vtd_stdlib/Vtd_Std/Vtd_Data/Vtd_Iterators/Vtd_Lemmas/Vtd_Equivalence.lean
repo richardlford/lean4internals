@@ -25,10 +25,6 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Std/Data/Iterators/Lemmas/Equivalence-files"
 %%%
 
-: `StepCongr.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Lemmas/Equivalence/StepCongr.c)TODO
-
 : `Basic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Lemmas/Equivalence/Basic.c)TODO
@@ -36,4 +32,7 @@ tag := "mods/lean4/stage0/stdlib/Std/Data/Iterators/Lemmas/Equivalence-files"
 : `HetT.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Lemmas/Equivalence/HetT.c)TODO
+: `StepCongr.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Lemmas/Equivalence/StepCongr.c)TODO
 

@@ -29,14 +29,6 @@ tag := "mods/lean4/stage0/stdlib/Std/Sat/CNF-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Sat/CNF/Basic.c)TODO
 
-: `Relabel.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Sat/CNF/Relabel.c)TODO
-
-: `RelabelFin.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Sat/CNF/RelabelFin.c)TODO
-
 : `Dimacs.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Sat/CNF/Dimacs.c)TODO
@@ -44,4 +36,11 @@ tag := "mods/lean4/stage0/stdlib/Std/Sat/CNF-files"
 : `Literal.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Sat/CNF/Literal.c)TODO
+: `Relabel.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Sat/CNF/Relabel.c)TODO
+
+: `RelabelFin.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Sat/CNF/RelabelFin.c)TODO
 

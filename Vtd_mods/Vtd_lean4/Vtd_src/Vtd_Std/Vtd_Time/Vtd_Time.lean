@@ -38,11 +38,10 @@ tag := "mods/lean4/src/Std/Time/Time-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Time/Time/Basic.lean)TODO
 
-: `PlainTime.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Time/Time/PlainTime.lean)TODO
-
 : `HourMarker.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Time/Time/HourMarker.lean)TODO
+: `PlainTime.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Time/Time/PlainTime.lean)TODO
 

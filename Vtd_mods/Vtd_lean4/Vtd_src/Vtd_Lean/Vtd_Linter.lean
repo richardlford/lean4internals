@@ -38,53 +38,29 @@ tag := "mods/lean4/src/Lean/Linter-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Linter/Basic.lean)TODO
 
-: `Omit.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Linter/Omit.lean)TODO
-
 : `Builtin.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Linter/Builtin.lean)TODO
-
-: `Sets.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Linter/Sets.lean)TODO
-
-: `UnusedVariables.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Linter/UnusedVariables.lean)TODO
-
-: `DocsOnAlt.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Linter/DocsOnAlt.lean)TODO
-
-: `MissingDocs.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Linter/MissingDocs.lean)TODO
 
 : `Coe.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Linter/Coe.lean)TODO
 
-: `UnusedSimpArgs.lean`
+: `ConstructorAsVariable.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Linter/UnusedSimpArgs.lean)TODO
-
-: `Util.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Linter/Util.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Linter/ConstructorAsVariable.lean)TODO
 
 : `Deprecated.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Linter/Deprecated.lean)TODO
 
+: `DocsOnAlt.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Linter/DocsOnAlt.lean)TODO
+
 : `EnvLinter.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Linter/EnvLinter.lean)TODO
-
-: `ConstructorAsVariable.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Linter/ConstructorAsVariable.lean)TODO
 
 : `GlobalAttributeIn.lean`
 
@@ -93,4 +69,27 @@ tag := "mods/lean4/src/Lean/Linter-files"
 : `List.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Linter/List.lean)TODO
+: `MissingDocs.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Linter/MissingDocs.lean)TODO
+
+: `Omit.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Linter/Omit.lean)TODO
+
+: `Sets.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Linter/Sets.lean)TODO
+
+: `UnusedSimpArgs.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Linter/UnusedSimpArgs.lean)TODO
+
+: `UnusedVariables.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Linter/UnusedVariables.lean)TODO
+
+: `Util.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Linter/Util.lean)TODO
 

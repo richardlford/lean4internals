@@ -25,51 +25,50 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Lean/Elab/Tactic/BVDecide/Frontend/Normalize-files"
 %%%
 
-: `Enums.c`
+: `AC.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/Enums.c)TODO
-
-: `Simproc.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/Simproc.c)TODO
-
-: `Basic.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/Basic.c)TODO
-
-: `IntToBitVec.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/IntToBitVec.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/AC.c)TODO
 
 : `AndFlatten.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/AndFlatten.c)TODO
 
-: `Rewrite.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/Rewrite.c)TODO
-
-: `TypeAnalysis.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/TypeAnalysis.c)TODO
-
 : `ApplyControlFlow.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/ApplyControlFlow.c)TODO
 
-: `Structures.c`
+: `Basic.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/Structures.c)TODO
-
-: `AC.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/AC.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/Basic.c)TODO
 
 : `EmbeddedConstraint.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/EmbeddedConstraint.c)TODO
 
+: `Enums.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/Enums.c)TODO
+
+: `IntToBitVec.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/IntToBitVec.c)TODO
+
+: `Rewrite.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/Rewrite.c)TODO
+
 : `ShortCircuit.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/ShortCircuit.c)TODO
+: `Simproc.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/Simproc.c)TODO
+
+: `Structures.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/Structures.c)TODO
+
+: `TypeAnalysis.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/TypeAnalysis.c)TODO
 

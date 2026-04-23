@@ -29,6 +29,17 @@ tag := "mods/lean4/src/Init/Grind/Ring-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Grind/Ring/Basic.lean)TODO
 
+: `CommSemiringAdapter.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Grind/Ring/CommSemiringAdapter.lean)TODO
+
+: `CommSolver.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Grind/Ring/CommSolver.lean)TODO
+: `Envelope.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Grind/Ring/Envelope.lean)TODO
+
 : `Field.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Grind/Ring/Field.lean)TODO
@@ -37,19 +48,7 @@ tag := "mods/lean4/src/Init/Grind/Ring-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Grind/Ring/OfScientific.lean)TODO
 
-: `Envelope.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Grind/Ring/Envelope.lean)TODO
-
-: `CommSemiringAdapter.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Grind/Ring/CommSemiringAdapter.lean)TODO
-
 : `ToInt.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Grind/Ring/ToInt.lean)TODO
-
-: `CommSolver.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Grind/Ring/CommSolver.lean)TODO
 

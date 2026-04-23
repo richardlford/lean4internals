@@ -38,23 +38,22 @@ tag := "mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/Bitblast/BVExpr/Circuit/Lem
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/Bitblast/BVExpr/Circuit/Lemmas/Basic.c)TODO
 
-: `Expr.c`
+: `Carry.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/Bitblast/BVExpr/Circuit/Lemmas/Expr.c)TODO
-
-: `Var.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/Bitblast/BVExpr/Circuit/Lemmas/Var.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/Bitblast/BVExpr/Circuit/Lemmas/Carry.c)TODO
 
 : `Const.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/Bitblast/BVExpr/Circuit/Lemmas/Const.c)TODO
 
-: `Carry.c`
+: `Expr.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/Bitblast/BVExpr/Circuit/Lemmas/Carry.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/Bitblast/BVExpr/Circuit/Lemmas/Expr.c)TODO
 
 : `Pred.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/Bitblast/BVExpr/Circuit/Lemmas/Pred.c)TODO
+: `Var.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/Bitblast/BVExpr/Circuit/Lemmas/Var.c)TODO
 

@@ -3,8 +3,8 @@
 
 -- Imports from child directories.
 
-import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-blog».«Vtd_VersoBlog».«Vtd_LiterateLeanPage»
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-blog».«Vtd_VersoBlog».«Vtd_Component»
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-blog».«Vtd_VersoBlog».«Vtd_LiterateLeanPage»
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-blog».«Vtd_VersoBlog».«Vtd_Site»
 
 -- End of Imports from child directories.
@@ -29,8 +29,8 @@ tag := "mods-verso-src-verso-blog-VersoBlog"
 TODO
 
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-blog».«Vtd_VersoBlog».«Vtd_LiterateLeanPage»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-blog».«Vtd_VersoBlog».«Vtd_Component»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-blog».«Vtd_VersoBlog».«Vtd_LiterateLeanPage»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-blog».«Vtd_VersoBlog».«Vtd_Site»}
 
 # `m/v/src/verso-blog/VersoBlog` Files
@@ -42,21 +42,17 @@ tag := "mods/verso/src/verso-blog/VersoBlog-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-blog/VersoBlog/Basic.lean)TODO
 
-: `Template.lean`
+: `Component.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-blog/VersoBlog/Template.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-blog/VersoBlog/Component.lean)TODO
+
+: `Generate.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-blog/VersoBlog/Generate.lean)TODO
 
 : `LexedText.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-blog/VersoBlog/LexedText.lean)TODO
-
-: `Site.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-blog/VersoBlog/Site.lean)TODO
-
-: `Component.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-blog/VersoBlog/Component.lean)TODO
 
 : `LiterateLeanPage.lean`
 
@@ -66,15 +62,18 @@ tag := "mods/verso/src/verso-blog/VersoBlog-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-blog/VersoBlog/LiterateModuleDocs.lean)TODO
 
-: `Generate.lean`
+: `Site.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-blog/VersoBlog/Generate.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-blog/VersoBlog/Site.lean)TODO
 
-: `Traverse.lean`
+: `Template.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-blog/VersoBlog/Traverse.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-blog/VersoBlog/Template.lean)TODO
 
 : `Theme.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-blog/VersoBlog/Theme.lean)TODO
+: `Traverse.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-blog/VersoBlog/Traverse.lean)TODO
 

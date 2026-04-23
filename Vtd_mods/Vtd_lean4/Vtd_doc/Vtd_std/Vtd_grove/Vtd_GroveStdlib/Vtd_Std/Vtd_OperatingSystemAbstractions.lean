@@ -25,6 +25,13 @@ TODO
 tag := "mods/lean4/doc/std/grove/GroveStdlib/Std/OperatingSystemAbstractions-files"
 %%%
 
+: `AsynchronousIO.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/GroveStdlib/Std/OperatingSystemAbstractions/AsynchronousIO.lean)TODO
+: `BasicIO.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/GroveStdlib/Std/OperatingSystemAbstractions/BasicIO.lean)TODO
+
 : `ConcurrencyAndParallelism.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/GroveStdlib/Std/OperatingSystemAbstractions/ConcurrencyAndParallelism.lean)TODO
@@ -33,15 +40,7 @@ tag := "mods/lean4/doc/std/grove/GroveStdlib/Std/OperatingSystemAbstractions-fil
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/GroveStdlib/Std/OperatingSystemAbstractions/EnvironmentFileSystemProcesses.lean)TODO
 
-: `BasicIO.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/GroveStdlib/Std/OperatingSystemAbstractions/BasicIO.lean)TODO
-
 : `Locales.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/GroveStdlib/Std/OperatingSystemAbstractions/Locales.lean)TODO
-
-: `AsynchronousIO.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/GroveStdlib/Std/OperatingSystemAbstractions/AsynchronousIO.lean)TODO
 

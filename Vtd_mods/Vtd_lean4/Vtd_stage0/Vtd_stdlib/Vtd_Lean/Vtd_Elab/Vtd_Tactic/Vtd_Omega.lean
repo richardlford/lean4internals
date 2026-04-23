@@ -25,19 +25,18 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Omega-files"
 %%%
 
-: `OmegaM.c`
+: `Core.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Omega/OmegaM.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Omega/Core.c)TODO
 
 : `Frontend.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Omega/Frontend.c)TODO
 
-: `Core.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Omega/Core.c)TODO
-
 : `MinNatAbs.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Omega/MinNatAbs.c)TODO
+: `OmegaM.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Omega/OmegaM.c)TODO
 

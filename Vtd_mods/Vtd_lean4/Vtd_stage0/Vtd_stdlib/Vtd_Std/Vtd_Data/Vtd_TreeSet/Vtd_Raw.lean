@@ -25,27 +25,26 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Std/Data/TreeSet/Raw-files"
 %%%
 
-: `Lemmas.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/TreeSet/Raw/Lemmas.c)TODO
-
 : `Basic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/TreeSet/Raw/Basic.c)TODO
-
-: `Iterator.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/TreeSet/Raw/Iterator.c)TODO
 
 : `DecidableEquiv.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/TreeSet/Raw/DecidableEquiv.c)TODO
 
-: `WF.c`
+: `Iterator.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/TreeSet/Raw/WF.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/TreeSet/Raw/Iterator.c)TODO
+
+: `Lemmas.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/TreeSet/Raw/Lemmas.c)TODO
 
 : `Slice.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/TreeSet/Raw/Slice.c)TODO
+: `WF.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/TreeSet/Raw/WF.c)TODO
 

@@ -34,33 +34,29 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Init/Control-files"
 %%%
 
-: `Id.c`
+: `Basic.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Control/Id.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Control/Basic.c)TODO
 
 : `Do.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Control/Do.c)TODO
 
-: `Option.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Control/Option.c)TODO
-
 : `EState.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Control/EState.c)TODO
 
-: `Basic.c`
+: `Except.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Control/Basic.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Control/Except.c)TODO
 
 : `ExceptCps.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Control/ExceptCps.c)TODO
 
-: `Except.c`
+: `Id.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Control/Except.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Control/Id.c)TODO
 
 : `Lawful.c`
 
@@ -70,13 +66,9 @@ tag := "mods/lean4/stage0/stdlib/Init/Control-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Control/MonadAttach.c)TODO
 
-: `StateRef.c`
+: `Option.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Control/StateRef.c)TODO
-
-: `StateCps.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Control/StateCps.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Control/Option.c)TODO
 
 : `Reader.c`
 
@@ -85,4 +77,11 @@ tag := "mods/lean4/stage0/stdlib/Init/Control-files"
 : `State.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Control/State.c)TODO
+: `StateCps.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Control/StateCps.c)TODO
+
+: `StateRef.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Control/StateRef.c)TODO
 

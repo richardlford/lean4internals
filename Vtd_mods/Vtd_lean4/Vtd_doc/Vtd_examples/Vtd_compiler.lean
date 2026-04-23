@@ -25,23 +25,22 @@ TODO
 tag := "mods/lean4/doc/examples/compiler-files"
 %%%
 
-: `README.md`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/examples/compiler/README.md)TODO
-
 : `.gitignore`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/examples/compiler/.gitignore)TODO
+
+: `README.md`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/examples/compiler/README.md)TODO
 
 : `run_test.sh`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/examples/compiler/run_test.sh)TODO
 
-: `test.lean.out.expected`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/examples/compiler/test.lean.out.expected)TODO
-
 : `test.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/examples/compiler/test.lean)TODO
+: `test.lean.out.expected`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/examples/compiler/test.lean.out.expected)TODO
 

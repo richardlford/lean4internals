@@ -25,19 +25,18 @@ TODO
 tag := "mods/verso/src/verso/Verso/Code/External-files"
 %%%
 
-: `Files.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Code/External/Files.lean)TODO
-
 : `Code.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Code/External/Code.lean)TODO
 
+: `Config.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Code/External/Config.lean)TODO
 : `Env.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Code/External/Env.lean)TODO
 
-: `Config.lean`
+: `Files.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Code/External/Config.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Code/External/Files.lean)TODO
 

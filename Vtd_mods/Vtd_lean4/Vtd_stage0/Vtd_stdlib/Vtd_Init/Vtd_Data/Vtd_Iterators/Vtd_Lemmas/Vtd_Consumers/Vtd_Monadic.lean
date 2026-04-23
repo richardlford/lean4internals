@@ -25,11 +25,10 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Init/Data/Iterators/Lemmas/Consumers/Monadic-files"
 %%%
 
-: `Loop.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Lemmas/Consumers/Monadic/Loop.c)TODO
-
 : `Collect.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Lemmas/Consumers/Monadic/Collect.c)TODO
+: `Loop.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Lemmas/Consumers/Monadic/Loop.c)TODO
 

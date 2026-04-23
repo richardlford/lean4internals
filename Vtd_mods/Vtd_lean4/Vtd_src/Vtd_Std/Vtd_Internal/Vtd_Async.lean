@@ -33,39 +33,38 @@ tag := "mods/lean4/src/Std/Internal/Async-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Async/ContextAsync.lean)TODO
 
-: `Process.lean`
+: `DNS.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Async/Process.lean)TODO
-
-: `Signal.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Async/Signal.lean)TODO
-
-: `Timer.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Async/Timer.lean)TODO
-
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Async/DNS.lean)TODO
 : `IO.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Async/IO.lean)TODO
+
+: `Process.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Async/Process.lean)TODO
 
 : `Select.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Async/Select.lean)TODO
 
-: `TCP.lean`
+: `Signal.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Async/TCP.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Async/Signal.lean)TODO
 
 : `System.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Async/System.lean)TODO
 
+: `TCP.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Async/TCP.lean)TODO
+
+: `Timer.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Async/Timer.lean)TODO
+
 : `UDP.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Async/UDP.lean)TODO
-
-: `DNS.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Async/DNS.lean)TODO
 

@@ -38,6 +38,14 @@ tag := "mods/lean4/stage0/stdlib/Std/Data/DTreeMap/Internal-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/DTreeMap/Internal/Balanced.c)TODO
 
+: `Balancing.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/DTreeMap/Internal/Balancing.c)TODO
+
+: `Cell.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/DTreeMap/Internal/Cell.c)TODO
+
 : `Def.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/DTreeMap/Internal/Def.c)TODO
@@ -50,27 +58,18 @@ tag := "mods/lean4/stage0/stdlib/Std/Data/DTreeMap/Internal-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/DTreeMap/Internal/Model.c)TODO
 
-: `Queries.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/DTreeMap/Internal/Queries.c)TODO
-
 : `Operations.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/DTreeMap/Internal/Operations.c)TODO
-
-: `Balancing.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/DTreeMap/Internal/Balancing.c)TODO
-
-: `Cell.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/DTreeMap/Internal/Cell.c)TODO
 
 : `Ordered.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/DTreeMap/Internal/Ordered.c)TODO
 
+: `Queries.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/DTreeMap/Internal/Queries.c)TODO
+
 : `Zipper.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/DTreeMap/Internal/Zipper.c)TODO
-

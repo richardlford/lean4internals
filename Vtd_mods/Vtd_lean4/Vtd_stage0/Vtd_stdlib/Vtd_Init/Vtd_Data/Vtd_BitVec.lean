@@ -25,31 +25,30 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Init/Data/BitVec-files"
 %%%
 
-: `Lemmas.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/BitVec/Lemmas.c)TODO
-
 : `Basic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/BitVec/Basic.c)TODO
-
-: `Decidable.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/BitVec/Decidable.c)TODO
-
-: `Bootstrap.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/BitVec/Bootstrap.c)TODO
-
-: `Bitblast.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/BitVec/Bitblast.c)TODO
 
 : `BasicAux.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/BitVec/BasicAux.c)TODO
 
+: `Bitblast.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/BitVec/Bitblast.c)TODO
+
+: `Bootstrap.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/BitVec/Bootstrap.c)TODO
+
+: `Decidable.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/BitVec/Decidable.c)TODO
+
 : `Folds.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/BitVec/Folds.c)TODO
+: `Lemmas.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/BitVec/Lemmas.c)TODO
 

@@ -25,19 +25,18 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Init/Data/Char-files"
 %%%
 
-: `Order.c`
+: `Basic.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Char/Order.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Char/Basic.c)TODO
 
 : `Lemmas.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Char/Lemmas.c)TODO
 
-: `Basic.c`
+: `Order.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Char/Basic.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Char/Order.c)TODO
 
 : `Ordinal.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Char/Ordinal.c)TODO
-

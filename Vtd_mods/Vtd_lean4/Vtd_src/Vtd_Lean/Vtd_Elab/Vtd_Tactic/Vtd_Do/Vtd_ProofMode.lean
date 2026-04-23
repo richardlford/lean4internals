@@ -25,79 +25,78 @@ TODO
 tag := "mods/lean4/src/Lean/Elab/Tactic/Do/ProofMode-files"
 %%%
 
-: `Clear.lean`
+: `Assumption.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/ProofMode/Clear.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/ProofMode/Assumption.lean)TODO
 
 : `Basic.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/ProofMode/Basic.lean)TODO
 
-: `LeftRight.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/ProofMode/LeftRight.lean)TODO
-
-: `Have.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/ProofMode/Have.lean)TODO
-
-: `RenameI.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/ProofMode/RenameI.lean)TODO
-
-: `Refine.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/ProofMode/Refine.lean)TODO
-
-: `Intro.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/ProofMode/Intro.lean)TODO
-
-: `Assumption.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/ProofMode/Assumption.lean)TODO
-
-: `MGoal.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/ProofMode/MGoal.lean)TODO
-
 : `Cases.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/ProofMode/Cases.lean)TODO
 
-: `Exfalso.lean`
+: `Clear.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/ProofMode/Exfalso.lean)TODO
-
-: `Frame.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/ProofMode/Frame.lean)TODO
-
-: `Specialize.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/ProofMode/Specialize.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/ProofMode/Clear.lean)TODO
 
 : `Constructor.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/ProofMode/Constructor.lean)TODO
 
-: `Pure.lean`
+: `Delab.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/ProofMode/Pure.lean)TODO
-
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/ProofMode/Delab.lean)TODO
 : `Exact.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/ProofMode/Exact.lean)TODO
 
-: `Revert.lean`
+: `Exfalso.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/ProofMode/Revert.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/ProofMode/Exfalso.lean)TODO
 
 : `Focus.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/ProofMode/Focus.lean)TODO
 
-: `Delab.lean`
+: `Frame.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/ProofMode/Delab.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/ProofMode/Frame.lean)TODO
+
+: `Have.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/ProofMode/Have.lean)TODO
+
+: `Intro.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/ProofMode/Intro.lean)TODO
+
+: `LeftRight.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/ProofMode/LeftRight.lean)TODO
+
+: `MGoal.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/ProofMode/MGoal.lean)TODO
+
+: `Pure.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/ProofMode/Pure.lean)TODO
+
+: `Refine.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/ProofMode/Refine.lean)TODO
+
+: `RenameI.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/ProofMode/RenameI.lean)TODO
+
+: `Revert.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/ProofMode/Revert.lean)TODO
+
+: `Specialize.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/ProofMode/Specialize.lean)TODO
 

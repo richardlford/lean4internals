@@ -25,31 +25,30 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Init/GrindInstances/Ring-files"
 %%%
 
+: `BitVec.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/GrindInstances/Ring/BitVec.c)TODO
 : `Fin.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/GrindInstances/Ring/Fin.c)TODO
-
-: `Rat.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/GrindInstances/Ring/Rat.c)TODO
-
-: `UInt.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/GrindInstances/Ring/UInt.c)TODO
-
-: `Nat.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/GrindInstances/Ring/Nat.c)TODO
-
-: `SInt.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/GrindInstances/Ring/SInt.c)TODO
 
 : `Int.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/GrindInstances/Ring/Int.c)TODO
 
-: `BitVec.c`
+: `Nat.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/GrindInstances/Ring/BitVec.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/GrindInstances/Ring/Nat.c)TODO
+
+: `Rat.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/GrindInstances/Ring/Rat.c)TODO
+
+: `SInt.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/GrindInstances/Ring/SInt.c)TODO
+
+: `UInt.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/GrindInstances/Ring/UInt.c)TODO
 

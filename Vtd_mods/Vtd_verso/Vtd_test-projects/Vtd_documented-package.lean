@@ -25,19 +25,18 @@ TODO
 tag := "mods/verso/test-projects/documented-package-files"
 %%%
 
-: `lakefile.toml`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/documented-package/lakefile.toml)TODO
-
 : `lake-manifest.json`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/documented-package/lake-manifest.json)TODO
 
-: `Zippers.lean`
+: `lakefile.toml`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/documented-package/Zippers.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/documented-package/lakefile.toml)TODO
 
 : `lean-toolchain`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/documented-package/lean-toolchain)TODO
+: `Zippers.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/documented-package/Zippers.lean)TODO
 

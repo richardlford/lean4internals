@@ -25,37 +25,17 @@ TODO
 tag := "mods/lean4/src/Lean/Meta/Tactic/Grind/Arith/CommRing-files"
 %%%
 
-: `NonCommRingM.lean`
+: `Action.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/Arith/CommRing/NonCommRingM.lean)TODO
-
-: `NonCommSemiringM.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/Arith/CommRing/NonCommSemiringM.lean)TODO
-
-: `PP.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/Arith/CommRing/PP.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/Arith/CommRing/Action.lean)TODO
 
 : `DenoteExpr.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/Arith/CommRing/DenoteExpr.lean)TODO
 
-: `RingM.lean`
+: `EqCnstr.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/Arith/CommRing/RingM.lean)TODO
-
-: `Inv.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/Arith/CommRing/Inv.lean)TODO
-
-: `Action.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/Arith/CommRing/Action.lean)TODO
-
-: `Power.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/Arith/CommRing/Power.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/Arith/CommRing/EqCnstr.lean)TODO
 
 : `Functions.lean`
 
@@ -65,39 +45,58 @@ tag := "mods/lean4/src/Lean/Meta/Tactic/Grind/Arith/CommRing-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/Arith/CommRing/Internalize.lean)TODO
 
-: `RingId.lean`
+: `Inv.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/Arith/CommRing/RingId.lean)TODO
-
-: `Reify.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/Arith/CommRing/Reify.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/Arith/CommRing/Inv.lean)TODO
 
 : `MonadRing.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/Arith/CommRing/MonadRing.lean)TODO
 
-: `SemiringM.lean`
+: `MonadSemiring.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/Arith/CommRing/SemiringM.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/Arith/CommRing/MonadSemiring.lean)TODO
 
-: `EqCnstr.lean`
+: `NonCommRingM.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/Arith/CommRing/EqCnstr.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/Arith/CommRing/NonCommRingM.lean)TODO
 
-: `Types.lean`
+: `NonCommSemiringM.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/Arith/CommRing/Types.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/Arith/CommRing/NonCommSemiringM.lean)TODO
+
+: `Power.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/Arith/CommRing/Power.lean)TODO
+
+: `PP.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/Arith/CommRing/PP.lean)TODO
 
 : `Proof.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/Arith/CommRing/Proof.lean)TODO
 
-: `MonadSemiring.lean`
+: `Reify.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/Arith/CommRing/MonadSemiring.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/Arith/CommRing/Reify.lean)TODO
+
+: `RingId.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/Arith/CommRing/RingId.lean)TODO
+
+: `RingM.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/Arith/CommRing/RingM.lean)TODO
 
 : `SafePoly.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/Arith/CommRing/SafePoly.lean)TODO
+: `SemiringM.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/Arith/CommRing/SemiringM.lean)TODO
+
+: `Types.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Tactic/Grind/Arith/CommRing/Types.lean)TODO
 

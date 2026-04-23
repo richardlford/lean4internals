@@ -25,11 +25,10 @@ TODO
 tag := "mods/lean4/src/Std/Data/ExtDTreeMap-files"
 %%%
 
-: `Lemmas.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/ExtDTreeMap/Lemmas.lean)TODO
-
 : `Basic.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/ExtDTreeMap/Basic.lean)TODO
+: `Lemmas.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/ExtDTreeMap/Lemmas.lean)TODO
 

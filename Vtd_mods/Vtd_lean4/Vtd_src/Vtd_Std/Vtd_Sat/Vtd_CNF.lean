@@ -33,15 +33,14 @@ tag := "mods/lean4/src/Std/Sat/CNF-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Sat/CNF/Dimacs.lean)TODO
 
-: `RelabelFin.lean`
+: `Literal.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Sat/CNF/RelabelFin.lean)TODO
-
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Sat/CNF/Literal.lean)TODO
 : `Relabel.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Sat/CNF/Relabel.lean)TODO
 
-: `Literal.lean`
+: `RelabelFin.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Sat/CNF/Literal.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Sat/CNF/RelabelFin.lean)TODO
 

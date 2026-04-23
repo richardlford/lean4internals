@@ -25,11 +25,10 @@ TODO
 tag := "mods/vscode-lean4/lean4-infoview/test-files"
 %%%
 
-: `tsconfig.json`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-infoview/test/tsconfig.json)TODO
-
 : `breaking.ts`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-infoview/test/breaking.ts)TODO
+: `tsconfig.json`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-infoview/test/tsconfig.json)TODO
 

@@ -25,29 +25,9 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Init/Data/List/Nat-files"
 %%%
 
-: `Pairwise.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/List/Nat/Pairwise.c)TODO
-
-: `Sublist.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/List/Nat/Sublist.c)TODO
-
-: `Prod.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/List/Nat/Prod.c)TODO
-
 : `Basic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/List/Nat/Basic.c)TODO
-
-: `Range.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/List/Nat/Range.c)TODO
-
-: `Perm.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/List/Nat/Perm.c)TODO
 
 : `BEq.c`
 
@@ -57,27 +37,46 @@ tag := "mods/lean4/stage0/stdlib/Init/Data/List/Nat-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/List/Nat/Count.c)TODO
 
-: `InsertIdx.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/List/Nat/InsertIdx.c)TODO
-
 : `Erase.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/List/Nat/Erase.c)TODO
-
-: `TakeDrop.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/List/Nat/TakeDrop.c)TODO
 
 : `Find.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/List/Nat/Find.c)TODO
 
+: `InsertIdx.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/List/Nat/InsertIdx.c)TODO
+
 : `Modify.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/List/Nat/Modify.c)TODO
 
+: `Pairwise.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/List/Nat/Pairwise.c)TODO
+
+: `Perm.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/List/Nat/Perm.c)TODO
+
+: `Prod.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/List/Nat/Prod.c)TODO
+
+: `Range.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/List/Nat/Range.c)TODO
+
+: `Sublist.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/List/Nat/Sublist.c)TODO
+
 : `Sum.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/List/Nat/Sum.c)TODO
+: `TakeDrop.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/List/Nat/TakeDrop.c)TODO
 

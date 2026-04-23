@@ -29,19 +29,18 @@ tag := "mods/lean4/stage0/stdlib/Init/Data/Iterators/Consumers/Monadic-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Consumers/Monadic/Access.c)TODO
 
-: `Partial.c`
+: `Collect.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Consumers/Monadic/Partial.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Consumers/Monadic/Collect.c)TODO
 
 : `Loop.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Consumers/Monadic/Loop.c)TODO
 
-: `Collect.c`
+: `Partial.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Consumers/Monadic/Collect.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Consumers/Monadic/Partial.c)TODO
 
 : `Total.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Consumers/Monadic/Total.c)TODO
-

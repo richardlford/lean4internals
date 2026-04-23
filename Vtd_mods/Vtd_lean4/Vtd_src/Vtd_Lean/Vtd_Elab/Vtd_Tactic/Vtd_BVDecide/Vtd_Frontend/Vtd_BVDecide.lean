@@ -25,18 +25,6 @@ TODO
 tag := "mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/BVDecide-files"
 %%%
 
-: `SatAtBVLogical.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/BVDecide/SatAtBVLogical.lean)TODO
-
-: `Reify.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/BVDecide/Reify.lean)TODO
-
-: `ReifiedBVPred.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/BVDecide/ReifiedBVPred.lean)TODO
-
 : `Reflect.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/BVDecide/Reflect.lean)TODO
@@ -45,11 +33,22 @@ tag := "mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/BVDecide-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/BVDecide/ReifiedBVExpr.lean)TODO
 
+: `ReifiedBVLogical.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/BVDecide/ReifiedBVLogical.lean)TODO
+: `ReifiedBVPred.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/BVDecide/ReifiedBVPred.lean)TODO
+
 : `ReifiedLemmas.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/BVDecide/ReifiedLemmas.lean)TODO
 
-: `ReifiedBVLogical.lean`
+: `Reify.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/BVDecide/ReifiedBVLogical.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/BVDecide/Reify.lean)TODO
+
+: `SatAtBVLogical.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/BVDecide/SatAtBVLogical.lean)TODO
 

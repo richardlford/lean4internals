@@ -25,79 +25,78 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Arith/CommRing-files"
 %%%
 
-: `EqCnstr.c`
+: `Action.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Arith/CommRing/EqCnstr.c)TODO
-
-: `MonadSemiring.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Arith/CommRing/MonadSemiring.c)TODO
-
-: `Functions.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Arith/CommRing/Functions.c)TODO
-
-: `RingM.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Arith/CommRing/RingM.c)TODO
-
-: `SemiringM.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Arith/CommRing/SemiringM.c)TODO
-
-: `Power.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Arith/CommRing/Power.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Arith/CommRing/Action.c)TODO
 
 : `DenoteExpr.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Arith/CommRing/DenoteExpr.c)TODO
 
-: `Proof.c`
+: `EqCnstr.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Arith/CommRing/Proof.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Arith/CommRing/EqCnstr.c)TODO
 
-: `NonCommSemiringM.c`
+: `Functions.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Arith/CommRing/NonCommSemiringM.c)TODO
-
-: `MonadRing.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Arith/CommRing/MonadRing.c)TODO
-
-: `NonCommRingM.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Arith/CommRing/NonCommRingM.c)TODO
-
-: `Reify.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Arith/CommRing/Reify.c)TODO
-
-: `Types.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Arith/CommRing/Types.c)TODO
-
-: `SafePoly.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Arith/CommRing/SafePoly.c)TODO
-
-: `Inv.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Arith/CommRing/Inv.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Arith/CommRing/Functions.c)TODO
 
 : `Internalize.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Arith/CommRing/Internalize.c)TODO
 
+: `Inv.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Arith/CommRing/Inv.c)TODO
+
+: `MonadRing.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Arith/CommRing/MonadRing.c)TODO
+
+: `MonadSemiring.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Arith/CommRing/MonadSemiring.c)TODO
+
+: `NonCommRingM.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Arith/CommRing/NonCommRingM.c)TODO
+
+: `NonCommSemiringM.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Arith/CommRing/NonCommSemiringM.c)TODO
+
+: `Power.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Arith/CommRing/Power.c)TODO
+
 : `PP.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Arith/CommRing/PP.c)TODO
 
-: `Action.c`
+: `Proof.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Arith/CommRing/Action.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Arith/CommRing/Proof.c)TODO
+
+: `Reify.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Arith/CommRing/Reify.c)TODO
 
 : `RingId.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Arith/CommRing/RingId.c)TODO
+: `RingM.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Arith/CommRing/RingM.c)TODO
+
+: `SafePoly.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Arith/CommRing/SafePoly.c)TODO
+
+: `SemiringM.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Arith/CommRing/SemiringM.c)TODO
+
+: `Types.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Arith/CommRing/Types.c)TODO
 

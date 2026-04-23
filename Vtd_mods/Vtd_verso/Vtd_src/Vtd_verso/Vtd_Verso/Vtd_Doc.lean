@@ -3,9 +3,9 @@
 
 -- Imports from child directories.
 
-import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Doc».«Vtd_Suggestion»
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Doc».«Vtd_Concrete»
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Doc».«Vtd_Elab»
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Doc».«Vtd_Suggestion»
 
 -- End of Imports from child directories.
 
@@ -29,56 +29,55 @@ tag := "mods-verso-src-verso-Verso-Doc"
 TODO
 
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Doc».«Vtd_Suggestion»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Doc».«Vtd_Concrete»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Doc».«Vtd_Elab»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Doc».«Vtd_Suggestion»}
 
 # `m/v/s/verso/Verso/Doc` Files
 %%%
 tag := "mods/verso/src/verso/Verso/Doc-files"
 %%%
 
-: `Name.lean`
+: `ArgParse.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Doc/Name.lean)TODO
-
-: `TeX.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Doc/TeX.lean)TODO
-
-: `PointOfInterest.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Doc/PointOfInterest.lean)TODO
-
-: `Html.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Doc/Html.lean)TODO
-
-: `Suggestion.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Doc/Suggestion.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Doc/ArgParse.lean)TODO
 
 : `Concrete.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Doc/Concrete.lean)TODO
 
+: `DocName.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Doc/DocName.lean)TODO
+: `Elab.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Doc/Elab.lean)TODO
+
 : `Helpers.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Doc/Helpers.lean)TODO
 
-: `ArgParse.lean`
+: `Html.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Doc/ArgParse.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Doc/Html.lean)TODO
 
 : `Lsp.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Doc/Lsp.lean)TODO
 
-: `Elab.lean`
+: `Name.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Doc/Elab.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Doc/Name.lean)TODO
 
-: `DocName.lean`
+: `PointOfInterest.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Doc/DocName.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Doc/PointOfInterest.lean)TODO
+
+: `Suggestion.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Doc/Suggestion.lean)TODO
+
+: `TeX.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Doc/TeX.lean)TODO
 

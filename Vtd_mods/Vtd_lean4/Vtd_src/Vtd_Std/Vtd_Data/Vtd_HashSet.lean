@@ -25,35 +25,34 @@ TODO
 tag := "mods/lean4/src/Std/Data/HashSet-files"
 %%%
 
-: `Lemmas.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/HashSet/Lemmas.lean)TODO
-
 : `Basic.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/HashSet/Basic.lean)TODO
-
-: `RawLemmas.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/HashSet/RawLemmas.lean)TODO
 
 : `DecidableEquiv.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/HashSet/DecidableEquiv.lean)TODO
 
-: `Raw.lean`
+: `Iterator.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/HashSet/Raw.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/HashSet/Iterator.lean)TODO
 
 : `IteratorLemmas.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/HashSet/IteratorLemmas.lean)TODO
 
-: `Iterator.lean`
+: `Lemmas.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/HashSet/Iterator.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/HashSet/Lemmas.lean)TODO
+
+: `Raw.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/HashSet/Raw.lean)TODO
 
 : `RawDecidableEquiv.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/HashSet/RawDecidableEquiv.lean)TODO
+: `RawLemmas.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/HashSet/RawLemmas.lean)TODO
 

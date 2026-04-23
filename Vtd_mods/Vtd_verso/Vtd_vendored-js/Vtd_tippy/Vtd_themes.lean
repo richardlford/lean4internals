@@ -29,6 +29,9 @@ tag := "mods/verso/vendored-js/tippy/themes-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/themes/light-border.css)TODO
 
+: `light.css`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/themes/light.css)TODO
 : `material.css`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/themes/material.css)TODO
@@ -36,8 +39,4 @@ tag := "mods/verso/vendored-js/tippy/themes-files"
 : `translucent.css`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/themes/translucent.css)TODO
-
-: `light.css`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/themes/light.css)TODO
 

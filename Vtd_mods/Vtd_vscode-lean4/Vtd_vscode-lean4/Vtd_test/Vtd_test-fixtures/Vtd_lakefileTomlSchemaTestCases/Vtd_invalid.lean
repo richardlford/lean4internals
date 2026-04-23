@@ -25,11 +25,10 @@ TODO
 tag := "mods/vscode-lean4/vscode-lean4/test/test-fixtures/lakefileTomlSchemaTestCases/invalid-files"
 %%%
 
-: `require_no_name.toml`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/test/test-fixtures/lakefileTomlSchemaTestCases/invalid/require_no_name.toml)TODO
-
 : `require_git_incorrect_type.toml`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/test/test-fixtures/lakefileTomlSchemaTestCases/invalid/require_git_incorrect_type.toml)TODO
+: `require_no_name.toml`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/test/test-fixtures/lakefileTomlSchemaTestCases/invalid/require_no_name.toml)TODO
 

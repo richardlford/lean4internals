@@ -29,23 +29,22 @@ tag := "mods/lean4/src/Lean/Elab/Do-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Do/Basic.lean)TODO
 
+: `Control.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Do/Control.lean)TODO
 : `InferControlInfo.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Do/InferControlInfo.lean)TODO
-
-: `PatternVar.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Do/PatternVar.lean)TODO
 
 : `Legacy.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Do/Legacy.lean)TODO
 
+: `PatternVar.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Do/PatternVar.lean)TODO
+
 : `Switch.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Do/Switch.lean)TODO
-
-: `Control.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Do/Control.lean)TODO
 

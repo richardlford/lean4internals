@@ -29,39 +29,38 @@ tag := "mods/lean4/stage0/stdlib/Init/Data/Order-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Order/Classes.c)TODO
 
-: `Opposite.c`
+: `ClassesExtra.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Order/Opposite.c)TODO
-
-: `PackageFactories.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Order/PackageFactories.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Order/ClassesExtra.c)TODO
 
 : `Factories.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Order/Factories.c)TODO
 
+: `FactoriesExtra.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Order/FactoriesExtra.c)TODO
+
 : `Lemmas.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Order/Lemmas.c)TODO
 
-: `ClassesExtra.c`
+: `LemmasExtra.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Order/ClassesExtra.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Order/LemmasExtra.c)TODO
+: `MinMaxOn.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Order/MinMaxOn.c)TODO
+
+: `Opposite.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Order/Opposite.c)TODO
 
 : `Ord.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Order/Ord.c)TODO
 
-: `MinMaxOn.c`
+: `PackageFactories.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Order/MinMaxOn.c)TODO
-
-: `FactoriesExtra.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Order/FactoriesExtra.c)TODO
-
-: `LemmasExtra.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Order/LemmasExtra.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Order/PackageFactories.c)TODO
 

@@ -33,29 +33,13 @@ tag := "mods/lean4/src/Lean/Elab/PreDefinition/Structural-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/PreDefinition/Structural/BRecOn.lean)TODO
 
-: `Main.lean`
+: `Eqns.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/PreDefinition/Structural/Main.lean)TODO
-
-: `RecArgInfo.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/PreDefinition/Structural/RecArgInfo.lean)TODO
-
-: `Preprocess.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/PreDefinition/Structural/Preprocess.lean)TODO
-
-: `SmartUnfolding.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/PreDefinition/Structural/SmartUnfolding.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/PreDefinition/Structural/Eqns.lean)TODO
 
 : `FindRecArg.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/PreDefinition/Structural/FindRecArg.lean)TODO
-
-: `Eqns.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/PreDefinition/Structural/Eqns.lean)TODO
 
 : `IndGroupInfo.lean`
 
@@ -64,4 +48,19 @@ tag := "mods/lean4/src/Lean/Elab/PreDefinition/Structural-files"
 : `IndPred.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/PreDefinition/Structural/IndPred.lean)TODO
+: `Main.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/PreDefinition/Structural/Main.lean)TODO
+
+: `Preprocess.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/PreDefinition/Structural/Preprocess.lean)TODO
+
+: `RecArgInfo.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/PreDefinition/Structural/RecArgInfo.lean)TODO
+
+: `SmartUnfolding.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/PreDefinition/Structural/SmartUnfolding.lean)TODO
 

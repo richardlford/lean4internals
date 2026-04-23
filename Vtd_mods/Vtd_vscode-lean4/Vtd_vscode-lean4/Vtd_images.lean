@@ -25,19 +25,18 @@ TODO
 tag := "mods/vscode-lean4/vscode-lean4/images-files"
 %%%
 
-: `setup_guide.png`
+: `lean_logo.png`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/images/setup_guide.png)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/images/lean_logo.png)TODO
+: `lean_logo.svg`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/images/lean_logo.svg)TODO
 
 : `manual.png`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/images/manual.png)TODO
 
-: `lean_logo.svg`
+: `setup_guide.png`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/images/lean_logo.svg)TODO
-
-: `lean_logo.png`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/images/lean_logo.png)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/images/setup_guide.png)TODO
 

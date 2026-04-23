@@ -25,6 +25,9 @@ TODO
 tag := "mods/lean4/src/Std/Internal/UV-files"
 %%%
 
+: `DNS.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/UV/DNS.lean)TODO
 : `Loop.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/UV/Loop.lean)TODO
@@ -33,23 +36,19 @@ tag := "mods/lean4/src/Std/Internal/UV-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/UV/Signal.lean)TODO
 
-: `Timer.lean`
+: `System.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/UV/Timer.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/UV/System.lean)TODO
 
 : `TCP.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/UV/TCP.lean)TODO
 
-: `System.lean`
+: `Timer.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/UV/System.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/UV/Timer.lean)TODO
 
 : `UDP.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/UV/UDP.lean)TODO
-
-: `DNS.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/UV/DNS.lean)TODO
 

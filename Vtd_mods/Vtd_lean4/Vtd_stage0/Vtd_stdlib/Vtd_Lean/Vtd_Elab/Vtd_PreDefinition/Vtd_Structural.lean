@@ -25,25 +25,13 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/Structural-files"
 %%%
 
-: `IndGroupInfo.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/Structural/IndGroupInfo.c)TODO
-
 : `Basic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/Structural/Basic.c)TODO
 
-: `SmartUnfolding.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/Structural/SmartUnfolding.c)TODO
-
 : `BRecOn.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/Structural/BRecOn.c)TODO
-
-: `RecArgInfo.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/Structural/RecArgInfo.c)TODO
 
 : `Eqns.c`
 
@@ -53,15 +41,26 @@ tag := "mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/Structural-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/Structural/FindRecArg.c)TODO
 
-: `Preprocess.c`
+: `IndGroupInfo.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/Structural/Preprocess.c)TODO
-
-: `Main.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/Structural/Main.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/Structural/IndGroupInfo.c)TODO
 
 : `IndPred.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/Structural/IndPred.c)TODO
+: `Main.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/Structural/Main.c)TODO
+
+: `Preprocess.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/Structural/Preprocess.c)TODO
+
+: `RecArgInfo.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/Structural/RecArgInfo.c)TODO
+
+: `SmartUnfolding.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/Structural/SmartUnfolding.c)TODO
 

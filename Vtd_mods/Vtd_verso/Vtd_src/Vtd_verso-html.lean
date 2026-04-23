@@ -25,11 +25,10 @@ TODO
 tag := "mods/verso/src/verso-html-files"
 %%%
 
-: `VersoHtmlMain.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-html/VersoHtmlMain.lean)TODO
-
 : `code.css`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-html/code.css)TODO
+: `VersoHtmlMain.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-html/VersoHtmlMain.lean)TODO
 

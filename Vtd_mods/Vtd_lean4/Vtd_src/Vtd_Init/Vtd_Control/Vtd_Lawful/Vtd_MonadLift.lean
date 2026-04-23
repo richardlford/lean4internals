@@ -25,10 +25,6 @@ TODO
 tag := "mods/lean4/src/Init/Control/Lawful/MonadLift-files"
 %%%
 
-: `Lemmas.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Control/Lawful/MonadLift/Lemmas.lean)TODO
-
 : `Basic.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Control/Lawful/MonadLift/Basic.lean)TODO
@@ -36,4 +32,7 @@ tag := "mods/lean4/src/Init/Control/Lawful/MonadLift-files"
 : `Instances.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Control/Lawful/MonadLift/Instances.lean)TODO
+: `Lemmas.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Control/Lawful/MonadLift/Lemmas.lean)TODO
 

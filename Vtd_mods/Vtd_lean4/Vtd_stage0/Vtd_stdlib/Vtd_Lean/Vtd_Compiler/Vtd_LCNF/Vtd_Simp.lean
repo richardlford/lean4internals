@@ -25,41 +25,9 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Lean/Compiler/LCNF/Simp-files"
 %%%
 
-: `InlineProj.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/LCNF/Simp/InlineProj.c)TODO
-
-: `DefaultAlt.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/LCNF/Simp/DefaultAlt.c)TODO
-
-: `SimpM.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/LCNF/Simp/SimpM.c)TODO
-
-: `JpCases.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/LCNF/Simp/JpCases.c)TODO
-
-: `FunDeclInfo.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/LCNF/Simp/FunDeclInfo.c)TODO
-
 : `Basic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/LCNF/Simp/Basic.c)TODO
-
-: `InlineCandidate.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/LCNF/Simp/InlineCandidate.c)TODO
-
-: `Used.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/LCNF/Simp/Used.c)TODO
-
-: `DiscrM.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/LCNF/Simp/DiscrM.c)TODO
 
 : `Config.c`
 
@@ -69,11 +37,42 @@ tag := "mods/lean4/stage0/stdlib/Lean/Compiler/LCNF/Simp-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/LCNF/Simp/ConstantFold.c)TODO
 
+: `DefaultAlt.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/LCNF/Simp/DefaultAlt.c)TODO
+
+: `DiscrM.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/LCNF/Simp/DiscrM.c)TODO
+
+: `FunDeclInfo.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/LCNF/Simp/FunDeclInfo.c)TODO
+
+: `InlineCandidate.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/LCNF/Simp/InlineCandidate.c)TODO
+
+: `InlineProj.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/LCNF/Simp/InlineProj.c)TODO
+
+: `JpCases.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/LCNF/Simp/JpCases.c)TODO
+
 : `Main.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/LCNF/Simp/Main.c)TODO
 
+: `SimpM.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/LCNF/Simp/SimpM.c)TODO
+
 : `SimpValue.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/LCNF/Simp/SimpValue.c)TODO
+: `Used.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/LCNF/Simp/Used.c)TODO
 

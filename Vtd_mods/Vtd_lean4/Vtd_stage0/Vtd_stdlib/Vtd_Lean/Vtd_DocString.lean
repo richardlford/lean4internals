@@ -29,26 +29,6 @@ tag := "mods/lean4/stage0/stdlib/Lean/DocString-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/DocString/Add.c)TODO
 
-: `Markdown.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/DocString/Markdown.c)TODO
-
-: `Syntax.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/DocString/Syntax.c)TODO
-
-: `Links.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/DocString/Links.c)TODO
-
-: `Types.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/DocString/Types.c)TODO
-
-: `Parser.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/DocString/Parser.c)TODO
-
 : `Extension.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/DocString/Extension.c)TODO
@@ -56,4 +36,23 @@ tag := "mods/lean4/stage0/stdlib/Lean/DocString-files"
 : `Formatter.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/DocString/Formatter.c)TODO
+: `Links.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/DocString/Links.c)TODO
+
+: `Markdown.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/DocString/Markdown.c)TODO
+
+: `Parser.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/DocString/Parser.c)TODO
+
+: `Syntax.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/DocString/Syntax.c)TODO
+
+: `Types.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/DocString/Types.c)TODO
 

@@ -29,9 +29,13 @@ tag := "mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal/Formula-files
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal/Formula/Class.c)TODO
 
-: `RatAddSound.c`
+: `Implementation.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal/Formula/RatAddSound.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal/Formula/Implementation.c)TODO
+
+: `Instance.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal/Formula/Instance.c)TODO
 
 : `Lemmas.c`
 
@@ -41,19 +45,14 @@ tag := "mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal/Formula-files
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal/Formula/RatAddResult.c)TODO
 
-: `Instance.c`
+: `RatAddSound.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal/Formula/Instance.c)TODO
-
-: `RupAddSound.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal/Formula/RupAddSound.c)TODO
-
-: `Implementation.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal/Formula/Implementation.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal/Formula/RatAddSound.c)TODO
 
 : `RupAddResult.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal/Formula/RupAddResult.c)TODO
+: `RupAddSound.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal/Formula/RupAddSound.c)TODO
 

@@ -25,61 +25,32 @@ TODO
 tag := "mods/lean4/src/Lean/Elab/Tactic/Grind-files"
 %%%
 
-: `Basic.lean`
+: `Anchor.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Grind/Basic.lean)TODO
-
-: `RegisterSymSimp.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Grind/RegisterSymSimp.lean)TODO
-
-: `Trace.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Grind/Trace.lean)TODO
-
-: `Param.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Grind/Param.lean)TODO
-
-: `Main.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Grind/Main.lean)TODO
-
-: `Have.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Grind/Have.lean)TODO
-
-: `Sym.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Grind/Sym.lean)TODO
-
-: `ShowState.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Grind/ShowState.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Grind/Anchor.lean)TODO
 
 : `Annotated.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Grind/Annotated.lean)TODO
 
-: `Anchor.lean`
+: `Basic.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Grind/Anchor.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Grind/Basic.lean)TODO
 
 : `BuiltinTactic.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Grind/BuiltinTactic.lean)TODO
 
+: `Config.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Grind/Config.lean)TODO
 : `Filter.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Grind/Filter.lean)TODO
 
-: `SimprocDSL.lean`
+: `Have.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Grind/SimprocDSL.lean)TODO
-
-: `SimprocDSLBuiltin.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Grind/SimprocDSLBuiltin.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Grind/Have.lean)TODO
 
 : `Lint.lean`
 
@@ -89,7 +60,35 @@ tag := "mods/lean4/src/Lean/Elab/Tactic/Grind-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Grind/LintExceptions.lean)TODO
 
-: `Config.lean`
+: `Main.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Grind/Config.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Grind/Main.lean)TODO
+
+: `Param.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Grind/Param.lean)TODO
+
+: `RegisterSymSimp.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Grind/RegisterSymSimp.lean)TODO
+
+: `ShowState.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Grind/ShowState.lean)TODO
+
+: `SimprocDSL.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Grind/SimprocDSL.lean)TODO
+
+: `SimprocDSLBuiltin.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Grind/SimprocDSLBuiltin.lean)TODO
+
+: `Sym.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Grind/Sym.lean)TODO
+
+: `Trace.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Grind/Trace.lean)TODO
 

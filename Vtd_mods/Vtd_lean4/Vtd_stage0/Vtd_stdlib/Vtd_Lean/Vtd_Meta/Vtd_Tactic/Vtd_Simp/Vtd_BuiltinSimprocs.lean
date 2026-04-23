@@ -25,6 +25,22 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Simp/BuiltinSimprocs-files"
 %%%
 
+: `Array.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Simp/BuiltinSimprocs/Array.c)TODO
+
+: `BitVec.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Simp/BuiltinSimprocs/BitVec.c)TODO
+
+: `Char.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Simp/BuiltinSimprocs/Char.c)TODO
+
+: `Core.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Simp/BuiltinSimprocs/Core.c)TODO
+
 : `CtorIdx.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Simp/BuiltinSimprocs/CtorIdx.c)TODO
@@ -33,51 +49,34 @@ tag := "mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Simp/BuiltinSimprocs-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Simp/BuiltinSimprocs/Fin.c)TODO
 
-: `Array.c`
+: `Int.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Simp/BuiltinSimprocs/Array.c)TODO
-
-: `UInt.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Simp/BuiltinSimprocs/UInt.c)TODO
-
-: `Nat.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Simp/BuiltinSimprocs/Nat.c)TODO
-
-: `Core.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Simp/BuiltinSimprocs/Core.c)TODO
-
-: `Char.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Simp/BuiltinSimprocs/Char.c)TODO
-
-: `SInt.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Simp/BuiltinSimprocs/SInt.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Simp/BuiltinSimprocs/Int.c)TODO
 
 : `List.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Simp/BuiltinSimprocs/List.c)TODO
 
-: `Int.c`
+: `MethodSpecs.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Simp/BuiltinSimprocs/Int.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Simp/BuiltinSimprocs/MethodSpecs.c)TODO
+: `Nat.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Simp/BuiltinSimprocs/Nat.c)TODO
+
+: `SInt.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Simp/BuiltinSimprocs/SInt.c)TODO
 
 : `String.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Simp/BuiltinSimprocs/String.c)TODO
 
-: `BitVec.c`
+: `UInt.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Simp/BuiltinSimprocs/BitVec.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Simp/BuiltinSimprocs/UInt.c)TODO
 
 : `Util.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Simp/BuiltinSimprocs/Util.c)TODO
-
-: `MethodSpecs.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Simp/BuiltinSimprocs/MethodSpecs.c)TODO
 

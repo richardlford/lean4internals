@@ -29,11 +29,10 @@ tag := "mods/lean4/src/Lean/Elab/Tactic/Do/VCGen-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/VCGen/Basic.lean)TODO
 
-: `SuggestInvariant.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/VCGen/SuggestInvariant.lean)TODO
-
 : `Split.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/VCGen/Split.lean)TODO
+: `SuggestInvariant.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Do/VCGen/SuggestInvariant.lean)TODO
 

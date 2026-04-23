@@ -33,11 +33,10 @@ tag := "mods/lean4/src/Init/Data/Format-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Format/Instances.lean)TODO
 
-: `Syntax.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Format/Syntax.lean)TODO
-
 : `Macro.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Format/Macro.lean)TODO
+: `Syntax.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Format/Syntax.lean)TODO
 

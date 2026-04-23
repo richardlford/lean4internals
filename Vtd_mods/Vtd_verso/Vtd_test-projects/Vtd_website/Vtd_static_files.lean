@@ -25,11 +25,10 @@ TODO
 tag := "mods/verso/test-projects/website/static_files-files"
 %%%
 
-: `style.css`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/website/static_files/style.css)TODO
-
 : `logo.png`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/website/static_files/logo.png)TODO
+: `style.css`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/website/static_files/style.css)TODO
 

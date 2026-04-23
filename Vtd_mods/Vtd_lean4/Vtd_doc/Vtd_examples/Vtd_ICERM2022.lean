@@ -25,15 +25,14 @@ TODO
 tag := "mods/lean4/doc/examples/ICERM2022-files"
 %%%
 
-: `meta.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/examples/ICERM2022/meta.lean)TODO
-
 : `ctor.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/examples/ICERM2022/ctor.lean)TODO
 
+: `meta.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/examples/ICERM2022/meta.lean)TODO
+
 : `notation.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/examples/ICERM2022/notation.lean)TODO
-

@@ -25,6 +25,10 @@ TODO
 tag := "mods/lean4/src/Init/Data/Ord-files"
 %%%
 
+: `Array.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Ord/Array.lean)TODO
+
 : `Basic.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Ord/Basic.lean)TODO
@@ -33,23 +37,18 @@ tag := "mods/lean4/src/Init/Data/Ord-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Ord/BitVec.lean)TODO
 
+: `SInt.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Ord/SInt.lean)TODO
 : `String.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Ord/String.lean)TODO
-
-: `Array.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Ord/Array.lean)TODO
-
-: `Vector.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Ord/Vector.lean)TODO
 
 : `UInt.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Ord/UInt.lean)TODO
 
-: `SInt.lean`
+: `Vector.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Ord/SInt.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Ord/Vector.lean)TODO
 

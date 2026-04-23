@@ -25,54 +25,41 @@ TODO
 tag := "mods/vscode-lean4/vscode-lean4/src/utils-files"
 %%%
 
-: `projectInfo.ts`
+: `batch.ts`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/projectInfo.ts)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/batch.ts)TODO
 
-: `leanCmdRunner.ts`
+: `clientProvider.ts`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/leanCmdRunner.ts)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/clientProvider.ts)TODO
 
-: `elanCommands.ts`
+: `coalescingSyncQueue.ts`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/elanCommands.ts)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/coalescingSyncQueue.ts)TODO
 
 : `converters.ts`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/converters.ts)TODO
 
-: `leanEditorProvider.ts`
+: `depInstaller.ts`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/leanEditorProvider.ts)TODO
-
-: `manifest.ts`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/manifest.ts)TODO
-
-: `zod.ts`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/zod.ts)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/depInstaller.ts)TODO
 
 : `elan.ts`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/elan.ts)TODO
 
+: `elanCommands.ts`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/elanCommands.ts)TODO
+
 : `envPath.ts`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/envPath.ts)TODO
 
-: `logger.ts`
+: `events.ts`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/logger.ts)TODO
-
-: `internalErrors.ts`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/internalErrors.ts)TODO
-
-: `moduleTreeViewProvider.ts`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/moduleTreeViewProvider.ts)TODO
-
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/events.ts)TODO
 : `exturi.ts`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/exturi.ts)TODO
@@ -81,59 +68,71 @@ tag := "mods/vscode-lean4/vscode-lean4/src/utils-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/fsHelper.ts)TODO
 
-: `pathExtensionProvider.ts`
+: `fullInstaller.ts`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/pathExtensionProvider.ts)TODO
-
-: `leanInstaller.ts`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/leanInstaller.ts)TODO
-
-: `releaseQuery.ts`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/releaseQuery.ts)TODO
-
-: `lake.ts`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/lake.ts)TODO
-
-: `uriHandlerService.ts`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/uriHandlerService.ts)TODO
-
-: `clientProvider.ts`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/clientProvider.ts)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/fullInstaller.ts)TODO
 
 : `groupBy.ts`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/groupBy.ts)TODO
 
-: `fullInstaller.ts`
+: `internalErrors.ts`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/fullInstaller.ts)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/internalErrors.ts)TODO
 
-: `viewColumn.ts`
+: `lake.ts`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/viewColumn.ts)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/lake.ts)TODO
 
-: `batch.ts`
+: `leanCmdRunner.ts`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/batch.ts)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/leanCmdRunner.ts)TODO
+
+: `leanEditorProvider.ts`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/leanEditorProvider.ts)TODO
+
+: `leanInstaller.ts`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/leanInstaller.ts)TODO
+
+: `logger.ts`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/logger.ts)TODO
+
+: `manifest.ts`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/manifest.ts)TODO
+
+: `moduleTreeViewProvider.ts`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/moduleTreeViewProvider.ts)TODO
 
 : `notifs.ts`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/notifs.ts)TODO
 
-: `coalescingSyncQueue.ts`
+: `pathExtensionProvider.ts`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/coalescingSyncQueue.ts)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/pathExtensionProvider.ts)TODO
 
-: `depInstaller.ts`
+: `projectInfo.ts`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/depInstaller.ts)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/projectInfo.ts)TODO
 
-: `events.ts`
+: `releaseQuery.ts`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/events.ts)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/releaseQuery.ts)TODO
+
+: `uriHandlerService.ts`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/uriHandlerService.ts)TODO
+
+: `viewColumn.ts`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/viewColumn.ts)TODO
+
+: `zod.ts`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/utils/zod.ts)TODO
 

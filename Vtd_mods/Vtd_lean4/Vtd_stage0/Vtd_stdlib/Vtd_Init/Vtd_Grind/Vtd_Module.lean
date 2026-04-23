@@ -29,6 +29,9 @@ tag := "mods/lean4/stage0/stdlib/Init/Grind/Module-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Grind/Module/Basic.c)TODO
 
+: `Envelope.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Grind/Module/Envelope.c)TODO
 : `NatModuleNorm.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Grind/Module/NatModuleNorm.c)TODO
@@ -36,8 +39,4 @@ tag := "mods/lean4/stage0/stdlib/Init/Grind/Module-files"
 : `OfNatModule.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Grind/Module/OfNatModule.c)TODO
-
-: `Envelope.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Grind/Module/Envelope.c)TODO
 

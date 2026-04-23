@@ -36,13 +36,13 @@ TODO
 tag := "mods/verso/test-projects/literate-multi-root-files"
 %%%
 
-: `lakefile.toml`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/literate-multi-root/lakefile.toml)TODO
-
 : `lake-manifest.json`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/literate-multi-root/lake-manifest.json)TODO
+
+: `lakefile.toml`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/literate-multi-root/lakefile.toml)TODO
 
 : `lean-toolchain`
 
@@ -55,4 +55,3 @@ tag := "mods/verso/test-projects/literate-multi-root-files"
 : `LibB.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/literate-multi-root/LibB.lean)TODO
-

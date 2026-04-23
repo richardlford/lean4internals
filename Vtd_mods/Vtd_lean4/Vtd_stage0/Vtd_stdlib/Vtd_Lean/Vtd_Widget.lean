@@ -25,33 +25,33 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Lean/Widget-files"
 %%%
 
-: `TaggedText.c`
+: `Basic.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Widget/TaggedText.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Widget/Basic.c)TODO
 
 : `Commands.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Widget/Commands.c)TODO
 
-: `Basic.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Widget/Basic.c)TODO
-
-: `InteractiveGoal.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Widget/InteractiveGoal.c)TODO
-
 : `Diff.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Widget/Diff.c)TODO
+
+: `InteractiveCode.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Widget/InteractiveCode.c)TODO
 
 : `InteractiveDiagnostic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Widget/InteractiveDiagnostic.c)TODO
 
-: `InteractiveCode.c`
+: `InteractiveGoal.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Widget/InteractiveCode.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Widget/InteractiveGoal.c)TODO
+
+: `TaggedText.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Widget/TaggedText.c)TODO
 
 : `Types.c`
 
@@ -60,4 +60,3 @@ tag := "mods/lean4/stage0/stdlib/Lean/Widget-files"
 : `UserWidget.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Widget/UserWidget.c)TODO
-

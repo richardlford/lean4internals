@@ -25,13 +25,17 @@ TODO
 tag := "mods/lean4/src/Lean/Meta/Sym/Arith-files"
 %%%
 
+: `Classify.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Arith/Classify.lean)TODO
+
 : `DenoteExpr.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Arith/DenoteExpr.lean)TODO
 
-: `Classify.lean`
+: `EvalNum.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Arith/Classify.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Arith/EvalNum.lean)TODO
 
 : `Functions.lean`
 
@@ -41,25 +45,24 @@ tag := "mods/lean4/src/Lean/Meta/Sym/Arith-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Arith/MonadCanon.lean)TODO
 
-: `VarRename.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Arith/VarRename.lean)TODO
-
-: `EvalNum.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Arith/EvalNum.lean)TODO
-
-: `Reify.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Arith/Reify.lean)TODO
-
 : `MonadRing.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Arith/MonadRing.lean)TODO
 
+: `MonadSemiring.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Arith/MonadSemiring.lean)TODO
 : `MonadVar.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Arith/MonadVar.lean)TODO
+
+: `Poly.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Arith/Poly.lean)TODO
+
+: `Reify.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Arith/Reify.lean)TODO
 
 : `ToExpr.lean`
 
@@ -69,11 +72,7 @@ tag := "mods/lean4/src/Lean/Meta/Sym/Arith-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Arith/Types.lean)TODO
 
-: `Poly.lean`
+: `VarRename.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Arith/Poly.lean)TODO
-
-: `MonadSemiring.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Arith/MonadSemiring.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Meta/Sym/Arith/VarRename.lean)TODO
 

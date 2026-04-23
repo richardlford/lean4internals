@@ -29,6 +29,9 @@ tag := "mods/lean4/stage0/stdlib/Std/Data/Iterators/Lemmas/Producers/Monadic-fil
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Lemmas/Producers/Monadic/Array.c)TODO
 
+: `Empty.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Lemmas/Producers/Monadic/Empty.c)TODO
 : `List.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Lemmas/Producers/Monadic/List.c)TODO
@@ -36,8 +39,4 @@ tag := "mods/lean4/stage0/stdlib/Std/Data/Iterators/Lemmas/Producers/Monadic-fil
 : `Vector.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Lemmas/Producers/Monadic/Vector.c)TODO
-
-: `Empty.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Lemmas/Producers/Monadic/Empty.c)TODO
 

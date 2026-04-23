@@ -34,37 +34,36 @@ TODO
 tag := "mods/lean4/src/Std/Tactic/BVDecide/LRAT/Internal-files"
 %%%
 
-: `Entails.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Tactic/BVDecide/LRAT/Internal/Entails.lean)TODO
-
-: `CompactLRATChecker.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Tactic/BVDecide/LRAT/Internal/CompactLRATChecker.lean)TODO
-
 : `Actions.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Tactic/BVDecide/LRAT/Internal/Actions.lean)TODO
-
-: `PosFin.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Tactic/BVDecide/LRAT/Internal/PosFin.lean)TODO
-
-: `LRATCheckerSound.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Tactic/BVDecide/LRAT/Internal/LRATCheckerSound.lean)TODO
 
 : `Assignment.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Tactic/BVDecide/LRAT/Internal/Assignment.lean)TODO
 
+: `Clause.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Tactic/BVDecide/LRAT/Internal/Clause.lean)TODO
+: `CNF.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Tactic/BVDecide/LRAT/Internal/CNF.lean)TODO
+
+: `CompactLRATChecker.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Tactic/BVDecide/LRAT/Internal/CompactLRATChecker.lean)TODO
+
 : `CompactLRATCheckerSound.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Tactic/BVDecide/LRAT/Internal/CompactLRATCheckerSound.lean)TODO
 
-: `CNF.lean`
+: `Convert.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Tactic/BVDecide/LRAT/Internal/CNF.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Tactic/BVDecide/LRAT/Internal/Convert.lean)TODO
+
+: `Entails.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Tactic/BVDecide/LRAT/Internal/Entails.lean)TODO
 
 : `Formula.lean`
 
@@ -74,11 +73,11 @@ tag := "mods/lean4/src/Std/Tactic/BVDecide/LRAT/Internal-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Tactic/BVDecide/LRAT/Internal/LRATChecker.lean)TODO
 
-: `Convert.lean`
+: `LRATCheckerSound.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Tactic/BVDecide/LRAT/Internal/Convert.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Tactic/BVDecide/LRAT/Internal/LRATCheckerSound.lean)TODO
 
-: `Clause.lean`
+: `PosFin.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Tactic/BVDecide/LRAT/Internal/Clause.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Tactic/BVDecide/LRAT/Internal/PosFin.lean)TODO
 

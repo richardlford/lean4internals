@@ -25,55 +25,54 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Lean/Compiler/IR-files"
 %%%
 
-: `Checker.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/IR/Checker.c)TODO
-
-: `UnboxResult.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/IR/UnboxResult.c)TODO
-
-: `LLVMBindings.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/IR/LLVMBindings.c)TODO
-
-: `NormIds.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/IR/NormIds.c)TODO
-
-: `EmitUtil.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/IR/EmitUtil.c)TODO
-
-: `Sorry.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/IR/Sorry.c)TODO
-
 : `Basic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/IR/Basic.c)TODO
 
-: `ToIR.c`
+: `Checker.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/IR/ToIR.c)TODO
-
-: `EmitLLVM.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/IR/EmitLLVM.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/IR/Checker.c)TODO
 
 : `CompilerM.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/IR/CompilerM.c)TODO
 
-: `Meta.c`
+: `EmitLLVM.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/IR/Meta.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/IR/EmitLLVM.c)TODO
+
+: `EmitUtil.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/IR/EmitUtil.c)TODO
 
 : `Format.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/IR/Format.c)TODO
 
+: `LLVMBindings.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/IR/LLVMBindings.c)TODO
+
+: `Meta.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/IR/Meta.c)TODO
+
+: `NormIds.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/IR/NormIds.c)TODO
+
+: `Sorry.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/IR/Sorry.c)TODO
+
+: `ToIR.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/IR/ToIR.c)TODO
+
 : `ToIRType.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/IR/ToIRType.c)TODO
+: `UnboxResult.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/IR/UnboxResult.c)TODO
 

@@ -25,19 +25,18 @@ TODO
 tag := "mods/lean4/src/Init/Data/Int/DivMod-files"
 %%%
 
-: `Lemmas.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Int/DivMod/Lemmas.lean)TODO
-
 : `Basic.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Int/DivMod/Basic.lean)TODO
 
-: `Pow.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Int/DivMod/Pow.lean)TODO
-
 : `Bootstrap.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Int/DivMod/Bootstrap.lean)TODO
+: `Lemmas.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Int/DivMod/Lemmas.lean)TODO
+
+: `Pow.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Int/DivMod/Pow.lean)TODO
 

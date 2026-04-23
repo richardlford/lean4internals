@@ -29,41 +29,9 @@ tag := "mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/Assumption.c)TODO
 
-: `Delab.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/Delab.c)TODO
-
-: `Frame.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/Frame.c)TODO
-
-: `Exfalso.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/Exfalso.c)TODO
-
-: `Revert.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/Revert.c)TODO
-
 : `Basic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/Basic.c)TODO
-
-: `Constructor.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/Constructor.c)TODO
-
-: `RenameI.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/RenameI.c)TODO
-
-: `Have.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/Have.c)TODO
-
-: `Exact.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/Exact.c)TODO
 
 : `Cases.c`
 
@@ -73,31 +41,62 @@ tag := "mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/Clear.c)TODO
 
-: `Refine.c`
+: `Constructor.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/Refine.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/Constructor.c)TODO
 
-: `Pure.c`
+: `Delab.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/Pure.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/Delab.c)TODO
 
-: `LeftRight.c`
+: `Exact.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/LeftRight.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/Exact.c)TODO
+
+: `Exfalso.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/Exfalso.c)TODO
 
 : `Focus.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/Focus.c)TODO
 
-: `MGoal.c`
+: `Frame.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/MGoal.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/Frame.c)TODO
+
+: `Have.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/Have.c)TODO
 
 : `Intro.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/Intro.c)TODO
 
+: `LeftRight.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/LeftRight.c)TODO
+
+: `MGoal.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/MGoal.c)TODO
+
+: `Pure.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/Pure.c)TODO
+
+: `Refine.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/Refine.c)TODO
+
+: `RenameI.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/RenameI.c)TODO
+
+: `Revert.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/Revert.c)TODO
+
 : `Specialize.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/Specialize.c)TODO
-

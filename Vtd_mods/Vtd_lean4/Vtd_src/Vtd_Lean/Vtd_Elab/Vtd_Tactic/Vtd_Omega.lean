@@ -33,11 +33,10 @@ tag := "mods/lean4/src/Lean/Elab/Tactic/Omega-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Omega/Frontend.lean)TODO
 
-: `OmegaM.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Omega/OmegaM.lean)TODO
-
 : `MinNatAbs.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Omega/MinNatAbs.lean)TODO
+: `OmegaM.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Omega/OmegaM.lean)TODO
 

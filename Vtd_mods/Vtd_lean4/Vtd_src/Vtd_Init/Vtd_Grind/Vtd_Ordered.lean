@@ -29,13 +29,20 @@ tag := "mods/lean4/src/Init/Grind/Ordered-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Grind/Ordered/Field.lean)TODO
 
-: `Order.lean`
+: `Int.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Grind/Ordered/Order.lean)TODO
-
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Grind/Ordered/Int.lean)TODO
 : `Linarith.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Grind/Ordered/Linarith.lean)TODO
+
+: `Module.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Grind/Ordered/Module.lean)TODO
+
+: `Order.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Grind/Ordered/Order.lean)TODO
 
 : `Rat.lean`
 
@@ -44,12 +51,4 @@ tag := "mods/lean4/src/Init/Grind/Ordered-files"
 : `Ring.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Grind/Ordered/Ring.lean)TODO
-
-: `Module.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Grind/Ordered/Module.lean)TODO
-
-: `Int.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Grind/Ordered/Int.lean)TODO
 

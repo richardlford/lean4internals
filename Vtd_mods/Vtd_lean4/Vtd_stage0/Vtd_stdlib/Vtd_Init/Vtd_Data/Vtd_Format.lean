@@ -33,11 +33,10 @@ tag := "mods/lean4/stage0/stdlib/Init/Data/Format-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Format/Instances.c)TODO
 
-: `Syntax.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Format/Syntax.c)TODO
-
 : `Macro.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Format/Macro.c)TODO
+: `Syntax.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Format/Syntax.c)TODO
 

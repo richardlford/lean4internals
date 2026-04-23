@@ -25,13 +25,13 @@ TODO
 tag := "mods/lean4/src/Init/Data/Char-files"
 %%%
 
-: `Lemmas.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Char/Lemmas.lean)TODO
-
 : `Basic.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Char/Basic.lean)TODO
+
+: `Lemmas.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Char/Lemmas.lean)TODO
 
 : `Order.lean`
 
@@ -40,4 +40,3 @@ tag := "mods/lean4/src/Init/Data/Char-files"
 : `Ordinal.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Char/Ordinal.lean)TODO
-

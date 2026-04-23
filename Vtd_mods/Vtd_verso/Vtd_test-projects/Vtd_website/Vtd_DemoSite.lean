@@ -34,23 +34,22 @@ TODO
 tag := "mods/verso/test-projects/website/DemoSite-files"
 %%%
 
-: `Front.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/website/DemoSite/Front.lean)TODO
-
 : `About.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/website/DemoSite/About.lean)TODO
-
-: `Categories.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/website/DemoSite/Categories.lean)TODO
 
 : `Blog.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/website/DemoSite/Blog.lean)TODO
 
+: `Categories.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/website/DemoSite/Categories.lean)TODO
+
+: `Front.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/website/DemoSite/Front.lean)TODO
+
 : `LiteratePage.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/website/DemoSite/LiteratePage.lean)TODO
-

@@ -25,23 +25,22 @@ TODO
 tag := "mods/verso/vendored-js/marked-files"
 %%%
 
-: `marked.umd.min.js`
+: `LICENSE.md`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/marked/marked.umd.min.js)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/marked/LICENSE.md)TODO
 
 : `marked.umd.js`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/marked/marked.umd.js)TODO
 
-: `LICENSE.md`
+: `marked.umd.js.map`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/marked/LICENSE.md)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/marked/marked.umd.js.map)TODO
+: `marked.umd.min.js`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/marked/marked.umd.min.js)TODO
 
 : `marked.umd.min.js.map`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/marked/marked.umd.min.js.map)TODO
-
-: `marked.umd.js.map`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/marked/marked.umd.js.map)TODO
 

@@ -25,13 +25,13 @@ TODO
 tag := "mods/lean4/src/Lean/Server/CodeActions-files"
 %%%
 
-: `Basic.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Server/CodeActions/Basic.lean)TODO
-
 : `Attr.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Server/CodeActions/Attr.lean)TODO
+
+: `Basic.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Server/CodeActions/Basic.lean)TODO
 
 : `Provider.lean`
 
@@ -40,4 +40,3 @@ tag := "mods/lean4/src/Lean/Server/CodeActions-files"
 : `UnknownIdentifier.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Server/CodeActions/UnknownIdentifier.lean)TODO
-

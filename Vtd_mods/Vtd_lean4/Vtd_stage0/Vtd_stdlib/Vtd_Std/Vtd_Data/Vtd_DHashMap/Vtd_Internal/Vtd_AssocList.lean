@@ -25,10 +25,6 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Std/Data/DHashMap/Internal/AssocList-files"
 %%%
 
-: `Lemmas.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/DHashMap/Internal/AssocList/Lemmas.c)TODO
-
 : `Basic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/DHashMap/Internal/AssocList/Basic.c)TODO
@@ -36,4 +32,7 @@ tag := "mods/lean4/stage0/stdlib/Std/Data/DHashMap/Internal/AssocList-files"
 : `Iterator.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/DHashMap/Internal/AssocList/Iterator.c)TODO
+: `Lemmas.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/DHashMap/Internal/AssocList/Lemmas.c)TODO
 

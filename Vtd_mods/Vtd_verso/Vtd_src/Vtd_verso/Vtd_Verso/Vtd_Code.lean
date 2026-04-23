@@ -3,8 +3,8 @@
 
 -- Imports from child directories.
 
-import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Code».«Vtd_Highlighted»
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Code».«Vtd_External»
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Code».«Vtd_Highlighted»
 
 -- End of Imports from child directories.
 
@@ -28,23 +28,22 @@ tag := "mods-verso-src-verso-Verso-Code"
 TODO
 
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Code».«Vtd_Highlighted»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Code».«Vtd_External»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Code».«Vtd_Highlighted»}
 
 # `m/v/s/verso/Verso/Code` Files
 %%%
 tag := "mods/verso/src/verso/Verso/Code-files"
 %%%
 
-: `HighlightedToTex.lean`
+: `External.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Code/HighlightedToTex.lean)TODO
-
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Code/External.lean)TODO
 : `Highlighted.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Code/Highlighted.lean)TODO
 
-: `External.lean`
+: `HighlightedToTex.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Code/External.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Code/HighlightedToTex.lean)TODO
 

@@ -25,10 +25,6 @@ TODO
 tag := "mods/lean4/src/Init/Data/UInt-files"
 %%%
 
-: `Lemmas.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/UInt/Lemmas.lean)TODO
-
 : `Basic.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/UInt/Basic.lean)TODO
@@ -41,7 +37,10 @@ tag := "mods/lean4/src/Init/Data/UInt-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/UInt/Bitwise.lean)TODO
 
+: `Lemmas.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/UInt/Lemmas.lean)TODO
+
 : `Log2.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/UInt/Log2.lean)TODO
-

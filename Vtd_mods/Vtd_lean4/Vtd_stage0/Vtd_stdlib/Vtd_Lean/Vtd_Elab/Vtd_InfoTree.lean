@@ -25,10 +25,6 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Lean/Elab/InfoTree-files"
 %%%
 
-: `Types.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/InfoTree/Types.c)TODO
-
 : `InlayHints.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/InfoTree/InlayHints.c)TODO
@@ -36,4 +32,7 @@ tag := "mods/lean4/stage0/stdlib/Lean/Elab/InfoTree-files"
 : `Main.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/InfoTree/Main.c)TODO
+: `Types.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/InfoTree/Types.c)TODO
 

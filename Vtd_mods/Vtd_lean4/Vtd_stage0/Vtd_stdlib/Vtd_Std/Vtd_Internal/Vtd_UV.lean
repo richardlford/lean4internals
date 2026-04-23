@@ -25,6 +25,13 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Std/Internal/UV-files"
 %%%
 
+: `DNS.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Internal/UV/DNS.c)TODO
+
+: `Loop.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Internal/UV/Loop.c)TODO
 : `Signal.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Internal/UV/Signal.c)TODO
@@ -44,12 +51,4 @@ tag := "mods/lean4/stage0/stdlib/Std/Internal/UV-files"
 : `UDP.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Internal/UV/UDP.c)TODO
-
-: `DNS.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Internal/UV/DNS.c)TODO
-
-: `Loop.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Internal/UV/Loop.c)TODO
 

@@ -34,11 +34,10 @@ TODO
 tag := "mods/verso/test-projects/textbook-files"
 %%%
 
-: `DemoTextbookMain.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/textbook/DemoTextbookMain.lean)TODO
-
 : `DemoTextbook.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/textbook/DemoTextbook.lean)TODO
+: `DemoTextbookMain.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/textbook/DemoTextbookMain.lean)TODO
 

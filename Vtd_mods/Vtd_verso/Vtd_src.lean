@@ -3,19 +3,19 @@
 
 -- Imports from child directories.
 
-import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-html»
-import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_multi-verso»
-import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate-code»
-import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-blog»
-import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-util»
-import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual»
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_cli»
-import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-search»
-import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate-html»
-import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-tutorial»
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_multi-verso»
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso»
-import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate-plan»
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-blog»
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-html»
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate»
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate-code»
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate-html»
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate-plan»
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual»
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-search»
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-tutorial»
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-util»
 
 -- End of Imports from child directories.
 
@@ -41,16 +41,16 @@ It does not immediately contain any file, but just has subdirectories
 that implement parts of its functionality.s
 
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-html»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_multi-verso»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate-code»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-blog»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-util»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_cli»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-search»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate-html»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-tutorial»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_multi-verso»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate-plan»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-blog»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-html»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate-code»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate-html»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate-plan»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-search»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-tutorial»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-util»}

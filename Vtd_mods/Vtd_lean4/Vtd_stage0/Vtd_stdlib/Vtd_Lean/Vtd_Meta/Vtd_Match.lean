@@ -34,61 +34,61 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Lean/Meta/Match-files"
 %%%
 
-: `MatchEqsExt.c`
+: `AltTelescopes.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Match/MatchEqsExt.c)TODO
-
-: `MatcherInfo.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Match/MatcherInfo.c)TODO
-
-: `MVarRenaming.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Match/MVarRenaming.c)TODO
-
-: `MatchPatternAttr.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Match/MatchPatternAttr.c)TODO
-
-: `MatchEqs.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Match/MatchEqs.c)TODO
-
-: `MatcherApp.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Match/MatcherApp.c)TODO
-
-: `NamedPatterns.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Match/NamedPatterns.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Match/AltTelescopes.c)TODO
 
 : `Basic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Match/Basic.c)TODO
 
-: `Match.c`
+: `CaseArraySizes.c`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Match/Match.c)TODO
-
-: `AltTelescopes.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Match/AltTelescopes.c)TODO
-
-: `Rewrite.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Match/Rewrite.c)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Match/CaseArraySizes.c)TODO
 
 : `CaseValues.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Match/CaseValues.c)TODO
 
+: `Match.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Match/Match.c)TODO
+
+: `MatchEqs.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Match/MatchEqs.c)TODO
+
+: `MatchEqsExt.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Match/MatchEqsExt.c)TODO
+
+: `MatcherApp.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Match/MatcherApp.c)TODO
+
+: `MatcherInfo.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Match/MatcherInfo.c)TODO
+
+: `MatchPatternAttr.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Match/MatchPatternAttr.c)TODO
+
+: `MVarRenaming.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Match/MVarRenaming.c)TODO
+
+: `NamedPatterns.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Match/NamedPatterns.c)TODO
+
+: `Rewrite.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Match/Rewrite.c)TODO
+
 : `SimpH.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Match/SimpH.c)TODO
-
-: `CaseArraySizes.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Match/CaseArraySizes.c)TODO
 
 : `SolveOverlap.c`
 
@@ -97,4 +97,3 @@ tag := "mods/lean4/stage0/stdlib/Lean/Meta/Match-files"
 : `Value.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Match/Value.c)TODO
-

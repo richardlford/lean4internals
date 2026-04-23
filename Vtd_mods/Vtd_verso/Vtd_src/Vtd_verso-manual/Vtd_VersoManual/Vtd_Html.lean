@@ -29,31 +29,30 @@ tag := "mods/verso/src/verso-manual/VersoManual/Html-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/Html/Basic.lean)TODO
 
-: `SoftHyphenate.lean`
+: `Config.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/Html/SoftHyphenate.lean)TODO
-
-: `JsFile.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/Html/JsFile.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/Html/Config.lean)TODO
 
 : `CssFile.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/Html/CssFile.lean)TODO
 
-: `Style.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/Html/Style.lean)TODO
-
 : `DataFile.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/Html/DataFile.lean)TODO
 
-: `Config.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/Html/Config.lean)TODO
-
 : `Features.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/Html/Features.lean)TODO
+: `JsFile.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/Html/JsFile.lean)TODO
+
+: `SoftHyphenate.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/Html/SoftHyphenate.lean)TODO
+
+: `Style.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/Html/Style.lean)TODO
 

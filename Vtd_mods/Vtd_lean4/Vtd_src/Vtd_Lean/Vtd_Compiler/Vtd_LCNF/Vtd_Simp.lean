@@ -29,51 +29,50 @@ tag := "mods/lean4/src/Lean/Compiler/LCNF/Simp-files"
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/LCNF/Simp/Basic.lean)TODO
 
-: `Used.lean`
+: `Config.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/LCNF/Simp/Used.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/LCNF/Simp/Config.lean)TODO
+: `ConstantFold.lean`
 
-: `InlineCandidate.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/LCNF/Simp/InlineCandidate.lean)TODO
-
-: `Main.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/LCNF/Simp/Main.lean)TODO
-
-: `SimpValue.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/LCNF/Simp/SimpValue.lean)TODO
-
-: `JpCases.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/LCNF/Simp/JpCases.lean)TODO
-
-: `FunDeclInfo.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/LCNF/Simp/FunDeclInfo.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/LCNF/Simp/ConstantFold.lean)TODO
 
 : `DefaultAlt.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/LCNF/Simp/DefaultAlt.lean)TODO
 
-: `ConstantFold.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/LCNF/Simp/ConstantFold.lean)TODO
-
 : `DiscrM.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/LCNF/Simp/DiscrM.lean)TODO
 
-: `SimpM.lean`
+: `FunDeclInfo.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/LCNF/Simp/SimpM.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/LCNF/Simp/FunDeclInfo.lean)TODO
+
+: `InlineCandidate.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/LCNF/Simp/InlineCandidate.lean)TODO
 
 : `InlineProj.lean`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/LCNF/Simp/InlineProj.lean)TODO
 
-: `Config.lean`
+: `JpCases.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/LCNF/Simp/Config.lean)TODO
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/LCNF/Simp/JpCases.lean)TODO
+
+: `Main.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/LCNF/Simp/Main.lean)TODO
+
+: `SimpM.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/LCNF/Simp/SimpM.lean)TODO
+
+: `SimpValue.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/LCNF/Simp/SimpValue.lean)TODO
+
+: `Used.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/LCNF/Simp/Used.lean)TODO
 

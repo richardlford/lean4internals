@@ -25,15 +25,14 @@ TODO
 tag := "mods/lean4/stage0/stdlib/Init/Data/Subtype-files"
 %%%
 
-: `Order.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Subtype/Order.c)TODO
-
 : `Basic.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Subtype/Basic.c)TODO
 
+: `Order.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Subtype/Order.c)TODO
+
 : `OrderExtra.c`
 
   [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Subtype/OrderExtra.c)TODO
-
