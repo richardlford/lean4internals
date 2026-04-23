@@ -1,5 +1,5 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_src.lean
-        
+
 
 -- Imports from child directories.
 
@@ -36,7 +36,9 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-src"
 %%%
 
-TODO
+The `verso/src` directory contains the logic that actually implements Verso.
+It does not immediately contain any file, but just has subdirectories
+that implement parts of its functionality.s
 
 
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-html»}

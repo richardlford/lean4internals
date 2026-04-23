@@ -1,5 +1,5 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_doc.lean
-        
+
 
 -- Imports from child directories.
 
@@ -24,7 +24,7 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-doc"
 %%%
 
-TODO
+The `verso/doc` directory contains the verso source of the verso user's manual.
 
 
 {include «Vtd_mods».«Vtd_verso».«Vtd_doc».«Vtd_UsersGuide»}
@@ -40,5 +40,4 @@ tag := "mods/verso/doc-files"
 
 : `UsersGuide.lean`
 
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/doc/UsersGuide.lean)TODO
-
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/doc/UsersGuide.lean)

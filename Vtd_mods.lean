@@ -46,6 +46,27 @@ tool, so `Vtd` stands for `VersoTreeDoc`.
 
 The major top-level comment on Lean 4 will be in {ref "mods-lean4"}[mods/lean4] section.
 
+This document has a section for each directory, and directories that have leaf files
+have them listed in a section called "_directory_ Files".
+That section has a description list for each file. The description of a given file starts
+with a link to the source-code of that file. The link is a "vscode:" link, which will
+open the vscode editor to that source file. If the reader has cloned the repository for
+this document and built all of the sources in the `mods` directory, then when
+vscode opens one of these file the reader should be able to use all the capabilities
+of the Lean 4 VSCODE extensions to study the code.
+
+The reader may need to take some actions to get the "vscode:" protocol working. In particular,
+to make sure vscode will go to the desired file, you may want to invoke vscode through
+a script like this (mycode.sh):
+
+```
+#!/bin/bash
+url=$1
+thepath=${url:7}
+# echo "mycode.sh:url=$url, thepath=$thepath, args=$*" >> /someplace/mycode.log
+/usr/bin/code --goto $thepath
+```
+
 
 {include «Vtd_mods».«Vtd_lean4»}
 {include «Vtd_mods».«Vtd_verso»}
