@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Server».«Vtd_Rpc_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,21 +21,4 @@ tag := "mods-lean4-src-Lean-Server-Rpc"
 
 TODO
 
-
-# `m/l/s/Lean/Server/Rpc` Files
-%%%
-tag := "mods/lean4/src/Lean/Server/Rpc-files"
-%%%
-
-: `Basic.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Server/Rpc/Basic.lean)TODO
-
-: `Deriving.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Server/Rpc/Deriving.lean)TODO
-
-: `RequestHandling.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Server/Rpc/RequestHandling.lean)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Server».«Vtd_Rpc_Files»}

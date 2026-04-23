@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Lean/Vtd_Linter.lean
         
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Linter_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Linter».«Vtd_EnvLinter»
@@ -27,69 +29,5 @@ tag := "mods-lean4-stage0-stdlib-Lean-Linter"
 TODO
 
 
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Linter_Files»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Linter».«Vtd_EnvLinter»}
-
-# `m/l/s/stdlib/Lean/Linter` Files
-%%%
-tag := "mods/lean4/stage0/stdlib/Lean/Linter-files"
-%%%
-
-: `Basic.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Linter/Basic.c)TODO
-
-: `Builtin.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Linter/Builtin.c)TODO
-
-: `Coe.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Linter/Coe.c)TODO
-
-: `ConstructorAsVariable.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Linter/ConstructorAsVariable.c)TODO
-
-: `Deprecated.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Linter/Deprecated.c)TODO
-
-: `DocsOnAlt.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Linter/DocsOnAlt.c)TODO
-
-: `EnvLinter.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Linter/EnvLinter.c)TODO
-
-: `GlobalAttributeIn.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Linter/GlobalAttributeIn.c)TODO
-
-: `List.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Linter/List.c)TODO
-
-: `MissingDocs.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Linter/MissingDocs.c)TODO
-
-: `Omit.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Linter/Omit.c)TODO
-
-: `Sets.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Linter/Sets.c)TODO
-: `UnusedSimpArgs.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Linter/UnusedSimpArgs.c)TODO
-
-: `UnusedVariables.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Linter/UnusedVariables.c)TODO
-
-: `Util.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Linter/Util.c)TODO
-

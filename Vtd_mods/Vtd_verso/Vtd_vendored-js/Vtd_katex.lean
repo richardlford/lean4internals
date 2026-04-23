@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_katex.lean
         
 
+import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_contrib»
@@ -28,34 +30,6 @@ tag := "mods-verso-vendored-js-katex"
 TODO
 
 
+{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex_Files»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_contrib»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts»}
-
-# `m/verso/vendored-js/katex` Files
-%%%
-tag := "mods/verso/vendored-js/katex-files"
-%%%
-
-: `katex.css`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/katex.css)TODO
-
-: `katex.js`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/katex.js)TODO
-
-: `katex.min.css`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/katex.min.css)TODO
-: `katex.min.js`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/katex.min.js)TODO
-
-: `katex.mjs`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/katex.mjs)TODO
-
-: `README.md`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/README.md)TODO
-

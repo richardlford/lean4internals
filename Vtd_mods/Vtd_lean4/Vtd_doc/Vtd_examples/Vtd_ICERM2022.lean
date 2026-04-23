@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_ICERM2022_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,20 +21,4 @@ tag := "mods-lean4-doc-examples-ICERM2022"
 
 TODO
 
-
-# `m/l/doc/examples/ICERM2022` Files
-%%%
-tag := "mods/lean4/doc/examples/ICERM2022-files"
-%%%
-
-: `ctor.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/examples/ICERM2022/ctor.lean)TODO
-
-: `meta.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/examples/ICERM2022/meta.lean)TODO
-
-: `notation.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/examples/ICERM2022/notation.lean)TODO
+{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_ICERM2022_Files»}

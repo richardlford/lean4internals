@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Do.lean
         
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Do_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Do».«Vtd_SPred»
@@ -29,31 +31,7 @@ tag := "mods-lean4-src-Std-Do"
 TODO
 
 
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Do_Files»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Do».«Vtd_SPred»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Do».«Vtd_Triple»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Do».«Vtd_WP»}
-
-# `m/l/src/Std/Do` Files
-%%%
-tag := "mods/lean4/src/Std/Do-files"
-%%%
-
-: `PostCond.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Do/PostCond.lean)TODO
-
-: `PredTrans.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Do/PredTrans.lean)TODO
-
-: `SPred.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Do/SPred.lean)TODO
-
-: `Triple.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Do/Triple.lean)TODO
-
-: `WP.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Do/WP.lean)TODO

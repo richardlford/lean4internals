@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_vscode-lean4/Vtd_manual.lean
         
 
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images»
@@ -27,14 +29,5 @@ tag := "mods-vscode-lean4-vscode-lean4-manual"
 TODO
 
 
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual_Files»}
 {include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images»}
-
-# `m/vscode-lean4/vscode-lean4/manual` Files
-%%%
-tag := "mods/vscode-lean4/vscode-lean4/manual-files"
-%%%
-
-: `manual.md`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/manual/manual.md)TODO
-

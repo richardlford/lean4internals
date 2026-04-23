@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_std/Vtd_grove/Vtd_GroveStdlib.lean
         
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Generated»
@@ -28,19 +30,6 @@ tag := "mods-lean4-doc-std-grove-GroveStdlib"
 TODO
 
 
+{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib_Files»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Generated»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Std»}
-
-# `m/l/d/std/grove/GroveStdlib` Files
-%%%
-tag := "mods/lean4/doc/std/grove/GroveStdlib-files"
-%%%
-
-: `Generated.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/GroveStdlib/Generated.lean)TODO
-
-: `Std.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/GroveStdlib/Std.lean)TODO
-

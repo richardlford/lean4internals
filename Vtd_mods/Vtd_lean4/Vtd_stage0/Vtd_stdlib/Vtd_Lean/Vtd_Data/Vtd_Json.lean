@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Lean/Vtd_Data/Vtd_Json.lean
         
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_Json_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_Json».«Vtd_FromToJson»
@@ -27,33 +29,5 @@ tag := "mods-lean4-stage0-stdlib-Lean-Data-Json"
 TODO
 
 
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_Json_Files»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_Json».«Vtd_FromToJson»}
-
-# `m/l/s/s/Lean/Data/Json` Files
-%%%
-tag := "mods/lean4/stage0/stdlib/Lean/Data/Json-files"
-%%%
-
-: `Basic.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Data/Json/Basic.c)TODO
-
-: `Elab.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Data/Json/Elab.c)TODO
-
-: `FromToJson.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Data/Json/FromToJson.c)TODO
-
-: `Parser.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Data/Json/Parser.c)TODO
-: `Printer.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Data/Json/Printer.c)TODO
-
-: `Stream.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Data/Json/Stream.c)TODO
-

@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Ord_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,36 +21,4 @@ tag := "mods-lean4-src-Init-Data-Ord"
 
 TODO
 
-
-# `m/l/s/Init/Data/Ord` Files
-%%%
-tag := "mods/lean4/src/Init/Data/Ord-files"
-%%%
-
-: `Array.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Ord/Array.lean)TODO
-
-: `Basic.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Ord/Basic.lean)TODO
-
-: `BitVec.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Ord/BitVec.lean)TODO
-
-: `SInt.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Ord/SInt.lean)TODO
-: `String.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Ord/String.lean)TODO
-
-: `UInt.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Ord/UInt.lean)TODO
-
-: `Vector.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Ord/Vector.lean)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Ord_Files»}

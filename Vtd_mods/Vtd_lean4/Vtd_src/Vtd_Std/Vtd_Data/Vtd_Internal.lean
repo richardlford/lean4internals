@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Data/Vtd_Internal.lean
         
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Internal_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Internal».«Vtd_List»
@@ -27,14 +29,5 @@ tag := "mods-lean4-src-Std-Data-Internal"
 TODO
 
 
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Internal_Files»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Internal».«Vtd_List»}
-
-# `m/l/s/Std/Data/Internal` Files
-%%%
-tag := "mods/lean4/src/Std/Data/Internal-files"
-%%%
-
-: `Cut.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/Internal/Cut.lean)TODO
-

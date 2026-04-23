@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Data/Vtd_Range.lean
         
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Range_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Range».«Vtd_Polymorphic»
@@ -27,21 +29,5 @@ tag := "mods-lean4-src-Init-Data-Range"
 TODO
 
 
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Range_Files»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Range».«Vtd_Polymorphic»}
-
-# `m/l/s/Init/Data/Range` Files
-%%%
-tag := "mods/lean4/src/Init/Data/Range-files"
-%%%
-
-: `Basic.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Range/Basic.lean)TODO
-
-: `Lemmas.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Range/Lemmas.lean)TODO
-
-: `Polymorphic.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Range/Polymorphic.lean)TODO

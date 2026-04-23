@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_Elab/Vtd_Tactic/Vtd_BVDecide.lean
         
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Elab».«Vtd_Tactic».«Vtd_BVDecide_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Elab».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_Frontend»
@@ -28,22 +30,6 @@ tag := "mods-lean4-src-Lean-Elab-Tactic-BVDecide"
 TODO
 
 
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Elab».«Vtd_Tactic».«Vtd_BVDecide_Files»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Elab».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_Frontend»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Elab».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_LRAT»}
-
-# `m/l/s/L/Elab/Tactic/BVDecide` Files
-%%%
-tag := "mods/lean4/src/Lean/Elab/Tactic/BVDecide-files"
-%%%
-
-: `External.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/External.lean)TODO
-
-: `Frontend.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend.lean)TODO
-
-: `LRAT.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/LRAT.lean)TODO

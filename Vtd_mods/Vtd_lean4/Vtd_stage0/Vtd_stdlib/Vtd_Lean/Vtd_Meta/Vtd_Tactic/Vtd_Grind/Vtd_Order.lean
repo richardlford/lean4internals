@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Meta».«Vtd_Tactic».«Vtd_Grind».«Vtd_Order_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,36 +21,4 @@ tag := "mods-lean4-stage0-stdlib-Lean-Meta-Tactic-Grind-Order"
 
 TODO
 
-
-# `m/l/s/s/L/M/Tactic/Grind/Order` Files
-%%%
-tag := "mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Order-files"
-%%%
-
-: `Assert.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Order/Assert.c)TODO
-
-: `Internalize.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Order/Internalize.c)TODO
-
-: `OrderM.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Order/OrderM.c)TODO
-
-: `Proof.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Order/Proof.c)TODO
-
-: `StructId.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Order/StructId.c)TODO
-
-: `Types.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Order/Types.c)TODO
-
-: `Util.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Order/Util.c)TODO
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Meta».«Vtd_Tactic».«Vtd_Grind».«Vtd_Order_Files»}

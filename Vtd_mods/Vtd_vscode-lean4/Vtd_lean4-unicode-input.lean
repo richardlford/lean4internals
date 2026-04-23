@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_lean4-unicode-input.lean
         
 
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input».«Vtd_src»
@@ -27,21 +29,5 @@ tag := "mods-vscode-lean4-lean4-unicode-input"
 TODO
 
 
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input_Files»}
 {include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input».«Vtd_src»}
-
-# `mods/vscode-lean4/lean4-unicode-input` Files
-%%%
-tag := "mods/vscode-lean4/lean4-unicode-input-files"
-%%%
-
-: `LICENSE`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-unicode-input/LICENSE)TODO
-: `package.json`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-unicode-input/package.json)TODO
-
-: `tsconfig.json`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-unicode-input/tsconfig.json)TODO
-

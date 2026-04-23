@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Range».«Vtd_Polymorphic».«Vtd_Internal_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,13 +21,4 @@ tag := "mods-lean4-src-Init-Data-Range-Polymorphic-Internal"
 
 TODO
 
-
-# `m/l/s/I/D/Range/Polymorphic/Internal` Files
-%%%
-tag := "mods/lean4/src/Init/Data/Range/Polymorphic/Internal-files"
-%%%
-
-: `SignedBitVec.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Range/Polymorphic/Internal/SignedBitVec.lean)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Range».«Vtd_Polymorphic».«Vtd_Internal_Files»}

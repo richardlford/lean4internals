@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Lean/Vtd_Meta/Vtd_Tactic/Vtd_Cbv.lean
         
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Meta».«Vtd_Tactic».«Vtd_Cbv_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Meta».«Vtd_Tactic».«Vtd_Cbv».«Vtd_BuiltinCbvSimprocs»
@@ -27,37 +29,5 @@ tag := "mods-lean4-stage0-stdlib-Lean-Meta-Tactic-Cbv"
 TODO
 
 
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Meta».«Vtd_Tactic».«Vtd_Cbv_Files»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Meta».«Vtd_Tactic».«Vtd_Cbv».«Vtd_BuiltinCbvSimprocs»}
-
-# `m/l/s/s/L/Meta/Tactic/Cbv` Files
-%%%
-tag := "mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Cbv-files"
-%%%
-
-: `CbvEvalExt.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Cbv/CbvEvalExt.c)TODO
-
-: `CbvSimproc.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Cbv/CbvSimproc.c)TODO
-
-: `ControlFlow.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Cbv/ControlFlow.c)TODO
-
-: `Main.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Cbv/Main.c)TODO
-
-: `Opaque.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Cbv/Opaque.c)TODO
-
-: `TheoremsLookup.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Cbv/TheoremsLookup.c)TODO
-
-: `Util.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Cbv/Util.c)TODO

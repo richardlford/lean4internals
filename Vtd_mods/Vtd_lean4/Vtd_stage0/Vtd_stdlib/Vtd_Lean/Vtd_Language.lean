@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Lean/Vtd_Language.lean
         
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Language_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Language».«Vtd_Lean»
@@ -27,22 +29,5 @@ tag := "mods-lean4-stage0-stdlib-Lean-Language"
 TODO
 
 
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Language_Files»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Language».«Vtd_Lean»}
-
-# `m/l/s/stdlib/Lean/Language` Files
-%%%
-tag := "mods/lean4/stage0/stdlib/Lean/Language-files"
-%%%
-
-: `Basic.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Language/Basic.c)TODO
-
-: `Lean.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Language/Lean.c)TODO
-
-: `Util.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Language/Util.c)TODO
-

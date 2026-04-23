@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_website-examples.lean
         
 
+import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website-examples_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website-examples».«Vtd_Examples»
@@ -27,29 +29,5 @@ tag := "mods-verso-test-projects-website-examples"
 TODO
 
 
+{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website-examples_Files»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website-examples».«Vtd_Examples»}
-
-# `m/verso/test-projects/website-examples` Files
-%%%
-tag := "mods/verso/test-projects/website-examples-files"
-%%%
-
-: `.gitignore`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/website-examples/.gitignore)TODO
-
-: `Examples.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/website-examples/Examples.lean)TODO
-
-: `lake-manifest.json`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/website-examples/lake-manifest.json)TODO
-
-: `lakefile.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/website-examples/lakefile.lean)TODO
-
-: `lean-toolchain`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/website-examples/lean-toolchain)TODO

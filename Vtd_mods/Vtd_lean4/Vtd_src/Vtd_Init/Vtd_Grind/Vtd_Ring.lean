@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Grind».«Vtd_Ring_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,36 +21,4 @@ tag := "mods-lean4-src-Init-Grind-Ring"
 
 TODO
 
-
-# `m/l/s/Init/Grind/Ring` Files
-%%%
-tag := "mods/lean4/src/Init/Grind/Ring-files"
-%%%
-
-: `Basic.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Grind/Ring/Basic.lean)TODO
-
-: `CommSemiringAdapter.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Grind/Ring/CommSemiringAdapter.lean)TODO
-
-: `CommSolver.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Grind/Ring/CommSolver.lean)TODO
-: `Envelope.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Grind/Ring/Envelope.lean)TODO
-
-: `Field.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Grind/Ring/Field.lean)TODO
-
-: `OfScientific.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Grind/Ring/OfScientific.lean)TODO
-
-: `ToInt.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Grind/Ring/ToInt.lean)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Grind».«Vtd_Ring_Files»}

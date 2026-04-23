@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso.lean
 
 
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso»
@@ -27,14 +29,5 @@ tag := "mods-verso-src-verso"
 TODO
 
 
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso_Files»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso»}
-
-# `m/verso/src/verso` Files
-%%%
-tag := "mods/verso/src/verso-files"
-%%%
-
-: `Verso.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso.lean)
-  This is the root Verso file that imports all of the constituent parts.

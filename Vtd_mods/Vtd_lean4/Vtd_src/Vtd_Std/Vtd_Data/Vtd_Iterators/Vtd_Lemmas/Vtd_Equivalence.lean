@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Equivalence_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,20 +21,4 @@ tag := "mods-lean4-src-Std-Data-Iterators-Lemmas-Equivalence"
 
 TODO
 
-
-# `m/l/s/S/D/Iterators/Lemmas/Equivalence` Files
-%%%
-tag := "mods/lean4/src/Std/Data/Iterators/Lemmas/Equivalence-files"
-%%%
-
-: `Basic.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/Iterators/Lemmas/Equivalence/Basic.lean)TODO
-
-: `HetT.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/Iterators/Lemmas/Equivalence/HetT.lean)TODO
-: `StepCongr.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/Iterators/Lemmas/Equivalence/StepCongr.lean)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Equivalence_Files»}

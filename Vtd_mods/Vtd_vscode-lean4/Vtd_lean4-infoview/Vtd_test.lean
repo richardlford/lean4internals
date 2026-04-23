@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_test_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,16 +21,4 @@ tag := "mods-vscode-lean4-lean4-infoview-test"
 
 TODO
 
-
-# `m/vscode-lean4/lean4-infoview/test` Files
-%%%
-tag := "mods/vscode-lean4/lean4-infoview/test-files"
-%%%
-
-: `breaking.ts`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-infoview/test/breaking.ts)TODO
-: `tsconfig.json`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-infoview/test/tsconfig.json)TODO
-
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_test_Files»}

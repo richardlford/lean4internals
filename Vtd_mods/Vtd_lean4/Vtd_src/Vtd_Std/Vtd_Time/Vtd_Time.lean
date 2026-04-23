@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Time/Vtd_Time.lean
         
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Time».«Vtd_Time_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Time».«Vtd_Time».«Vtd_Unit»
@@ -27,21 +29,5 @@ tag := "mods-lean4-src-Std-Time-Time"
 TODO
 
 
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Time».«Vtd_Time_Files»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Time».«Vtd_Time».«Vtd_Unit»}
-
-# `m/l/s/Std/Time/Time` Files
-%%%
-tag := "mods/lean4/src/Std/Time/Time-files"
-%%%
-
-: `Basic.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Time/Time/Basic.lean)TODO
-
-: `HourMarker.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Time/Time/HourMarker.lean)TODO
-: `PlainTime.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Time/Time/PlainTime.lean)TODO
-

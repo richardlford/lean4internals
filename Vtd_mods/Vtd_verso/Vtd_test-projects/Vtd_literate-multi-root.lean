@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_literate-multi-root.lean
         
 
+import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-multi-root_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-multi-root».«Vtd_LibA»
@@ -28,30 +30,6 @@ tag := "mods-verso-test-projects-literate-multi-root"
 TODO
 
 
+{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-multi-root_Files»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-multi-root».«Vtd_LibA»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-multi-root».«Vtd_LibB»}
-
-# `m/verso/test-projects/literate-multi-root` Files
-%%%
-tag := "mods/verso/test-projects/literate-multi-root-files"
-%%%
-
-: `lake-manifest.json`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/literate-multi-root/lake-manifest.json)TODO
-
-: `lakefile.toml`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/literate-multi-root/lakefile.toml)TODO
-
-: `lean-toolchain`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/literate-multi-root/lean-toolchain)TODO
-
-: `LibA.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/literate-multi-root/LibA.lean)TODO
-
-: `LibB.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/literate-multi-root/LibB.lean)TODO

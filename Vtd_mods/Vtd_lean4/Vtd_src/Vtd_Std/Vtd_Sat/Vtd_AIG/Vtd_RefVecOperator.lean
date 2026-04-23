@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Sat».«Vtd_AIG».«Vtd_RefVecOperator_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,20 +21,4 @@ tag := "mods-lean4-src-Std-Sat-AIG-RefVecOperator"
 
 TODO
 
-
-# `m/l/s/S/Sat/AIG/RefVecOperator` Files
-%%%
-tag := "mods/lean4/src/Std/Sat/AIG/RefVecOperator-files"
-%%%
-
-: `Fold.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Sat/AIG/RefVecOperator/Fold.lean)TODO
-
-: `Map.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Sat/AIG/RefVecOperator/Map.lean)TODO
-
-: `Zip.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Sat/AIG/RefVecOperator/Zip.lean)TODO
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Sat».«Vtd_AIG».«Vtd_RefVecOperator_Files»}

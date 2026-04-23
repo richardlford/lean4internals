@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_Lsp_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,76 +21,4 @@ tag := "mods-lean4-stage0-stdlib-Lean-Data-Lsp"
 
 TODO
 
-
-# `m/l/s/s/Lean/Data/Lsp` Files
-%%%
-tag := "mods/lean4/stage0/stdlib/Lean/Data/Lsp-files"
-%%%
-
-: `Basic.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Data/Lsp/Basic.c)TODO
-
-: `BasicAux.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Data/Lsp/BasicAux.c)TODO
-
-: `CancelParams.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Data/Lsp/CancelParams.c)TODO
-
-: `Capabilities.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Data/Lsp/Capabilities.c)TODO
-
-: `Client.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Data/Lsp/Client.c)TODO
-
-: `CodeActions.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Data/Lsp/CodeActions.c)TODO
-
-: `Communication.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Data/Lsp/Communication.c)TODO
-
-: `Diagnostics.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Data/Lsp/Diagnostics.c)TODO
-
-: `Extra.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Data/Lsp/Extra.c)TODO
-
-: `InitShutdown.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Data/Lsp/InitShutdown.c)TODO
-
-: `Internal.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Data/Lsp/Internal.c)TODO
-
-: `Ipc.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Data/Lsp/Ipc.c)TODO
-
-: `LanguageFeatures.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Data/Lsp/LanguageFeatures.c)TODO
-
-: `TextSync.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Data/Lsp/TextSync.c)TODO
-
-: `Utf16.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Data/Lsp/Utf16.c)TODO
-
-: `Window.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Data/Lsp/Window.c)TODO
-
-: `Workspace.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Data/Lsp/Workspace.c)TODO
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_Lsp_Files»}

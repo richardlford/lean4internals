@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Std/Vtd_Data/Vtd_Iterators/Vtd_Producers.lean
         
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Producers_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Producers».«Vtd_Monadic»
@@ -27,37 +29,5 @@ tag := "mods-lean4-stage0-stdlib-Std-Data-Iterators-Producers"
 TODO
 
 
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Producers_Files»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Producers».«Vtd_Monadic»}
-
-# `m/l/s/s/S/Data/Iterators/Producers` Files
-%%%
-tag := "mods/lean4/stage0/stdlib/Std/Data/Iterators/Producers-files"
-%%%
-
-: `Array.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Producers/Array.c)TODO
-
-: `Empty.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Producers/Empty.c)TODO
-: `Monadic.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Producers/Monadic.c)TODO
-
-: `Range.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Producers/Range.c)TODO
-
-: `Repeat.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Producers/Repeat.c)TODO
-
-: `Slice.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Producers/Slice.c)TODO
-
-: `Vector.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Producers/Vector.c)TODO
-

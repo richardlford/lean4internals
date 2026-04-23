@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_website.lean
         
 
+import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website».«Vtd_DemoSite»
@@ -28,18 +30,6 @@ tag := "mods-verso-test-projects-website"
 TODO
 
 
+{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website_Files»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website».«Vtd_DemoSite»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website».«Vtd_static_files»}
-
-# `m/verso/test-projects/website` Files
-%%%
-tag := "mods/verso/test-projects/website-files"
-%%%
-
-: `DemoSite.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/website/DemoSite.lean)TODO
-: `DemoSiteMain.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/website/DemoSiteMain.lean)TODO
-

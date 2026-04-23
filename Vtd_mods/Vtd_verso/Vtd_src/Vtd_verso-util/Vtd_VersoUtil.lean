@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-util/Vtd_VersoUtil.lean
         
 
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-util».«Vtd_VersoUtil_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-util».«Vtd_VersoUtil».«Vtd_BinFiles»
@@ -27,25 +29,5 @@ tag := "mods-verso-src-verso-util-VersoUtil"
 TODO
 
 
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-util».«Vtd_VersoUtil_Files»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-util».«Vtd_VersoUtil».«Vtd_BinFiles»}
-
-# `m/v/src/verso-util/VersoUtil` Files
-%%%
-tag := "mods/verso/src/verso-util/VersoUtil-files"
-%%%
-
-: `BinFiles.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-util/VersoUtil/BinFiles.lean)TODO
-
-: `LzCompress.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-util/VersoUtil/LzCompress.lean)TODO
-
-: `WfRec.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-util/VersoUtil/WfRec.lean)TODO
-: `Zip.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-util/VersoUtil/Zip.lean)TODO
-

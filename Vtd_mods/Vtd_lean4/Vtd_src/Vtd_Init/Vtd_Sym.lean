@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Sym.lean
         
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Sym_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Sym».«Vtd_Simp»
@@ -27,14 +29,5 @@ tag := "mods-lean4-src-Init-Sym"
 TODO
 
 
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Sym_Files»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Sym».«Vtd_Simp»}
-
-# `m/l/src/Init/Sym` Files
-%%%
-tag := "mods/lean4/src/Init/Sym-files"
-%%%
-
-: `Lemmas.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Sym/Lemmas.lean)TODO
-

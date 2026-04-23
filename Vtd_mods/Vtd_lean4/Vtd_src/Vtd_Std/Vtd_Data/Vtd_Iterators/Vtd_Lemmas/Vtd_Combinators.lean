@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Data/Vtd_Iterators/Vtd_Lemmas/Vtd_Combinators.lean
         
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Combinators_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Combinators».«Vtd_Monadic»
@@ -27,29 +29,5 @@ tag := "mods-lean4-src-Std-Data-Iterators-Lemmas-Combinators"
 TODO
 
 
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Combinators_Files»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Combinators».«Vtd_Monadic»}
-
-# `m/l/s/S/D/Iterators/Lemmas/Combinators` Files
-%%%
-tag := "mods/lean4/src/Std/Data/Iterators/Lemmas/Combinators-files"
-%%%
-
-: `Drop.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/Iterators/Lemmas/Combinators/Drop.lean)TODO
-
-: `DropWhile.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/Iterators/Lemmas/Combinators/DropWhile.lean)TODO
-
-: `Monadic.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/Iterators/Lemmas/Combinators/Monadic.lean)TODO
-
-: `TakeWhile.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/Iterators/Lemmas/Combinators/TakeWhile.lean)TODO
-: `Zip.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/Iterators/Lemmas/Combinators/Zip.lean)TODO
-

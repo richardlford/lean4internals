@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Internal».«Vtd_Order_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,20 +21,4 @@ tag := "mods-lean4-src-Init-Internal-Order"
 
 TODO
 
-
-# `m/l/s/Init/Internal/Order` Files
-%%%
-tag := "mods/lean4/src/Init/Internal/Order-files"
-%%%
-
-: `Basic.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Internal/Order/Basic.lean)TODO
-
-: `Lemmas.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Internal/Order/Lemmas.lean)TODO
-
-: `Tactic.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Internal/Order/Tactic.lean)TODO
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Internal».«Vtd_Order_Files»}

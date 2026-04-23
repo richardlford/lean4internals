@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Internal».«Vtd_List_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,16 +21,4 @@ tag := "mods-lean4-src-Std-Data-Internal-List"
 
 TODO
 
-
-# `m/l/s/S/Data/Internal/List` Files
-%%%
-tag := "mods/lean4/src/Std/Data/Internal/List-files"
-%%%
-
-: `Associative.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/Internal/List/Associative.lean)TODO
-: `Defs.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/Internal/List/Defs.lean)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Internal».«Vtd_List_Files»}

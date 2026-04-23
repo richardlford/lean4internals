@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Elab».«Vtd_Command_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,16 +21,4 @@ tag := "mods-lean4-src-Lean-Elab-Command"
 
 TODO
 
-
-# `m/l/s/Lean/Elab/Command` Files
-%%%
-tag := "mods/lean4/src/Lean/Elab/Command-files"
-%%%
-
-: `Scope.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Command/Scope.lean)TODO
-: `WithWeakNamespace.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Command/WithWeakNamespace.lean)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Elab».«Vtd_Command_Files»}

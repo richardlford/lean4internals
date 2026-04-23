@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_make_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,32 +21,4 @@ tag := "mods-lean4-doc-make"
 
 TODO
 
-
-# `m/lean4/doc/make` Files
-%%%
-tag := "mods/lean4/doc/make-files"
-%%%
-
-: `emscripten.md`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/make/emscripten.md)TODO
-
-: `index.md`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/make/index.md)TODO
-
-: `msys2.md`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/make/msys2.md)TODO
-: `osx-10.9.md`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/make/osx-10.9.md)TODO
-
-: `ubuntu.md`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/make/ubuntu.md)TODO
-
-: `wsl.md`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/make/wsl.md)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_make_Files»}

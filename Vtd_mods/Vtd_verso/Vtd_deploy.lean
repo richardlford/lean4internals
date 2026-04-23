@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_verso».«Vtd_deploy_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,32 +21,4 @@ tag := "mods-verso-deploy"
 
 TODO
 
-
-# `mods/verso/deploy` Files
-%%%
-tag := "mods/verso/deploy-files"
-%%%
-
-: `build.sh`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/deploy/build.sh)TODO
-
-: `generate.sh`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/deploy/generate.sh)TODO
-
-: `overlay.py`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/deploy/overlay.py)TODO
-: `prep.sh`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/deploy/prep.sh)TODO
-
-: `release.py`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/deploy/release.py)TODO
-
-: `release_utils.py`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/deploy/release_utils.py)TODO
-
+{include «Vtd_mods».«Vtd_verso».«Vtd_deploy_Files»}

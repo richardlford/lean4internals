@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Control».«Vtd_Lawful».«Vtd_MonadAttach_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,16 +21,4 @@ tag := "mods-lean4-src-Init-Control-Lawful-MonadAttach"
 
 TODO
 
-
-# `m/l/s/I/Control/Lawful/MonadAttach` Files
-%%%
-tag := "mods/lean4/src/Init/Control/Lawful/MonadAttach-files"
-%%%
-
-: `Instances.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Control/Lawful/MonadAttach/Instances.lean)TODO
-: `Lemmas.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Control/Lawful/MonadAttach/Lemmas.lean)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Control».«Vtd_Lawful».«Vtd_MonadAttach_Files»}

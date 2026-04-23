@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_GrindInstances».«Vtd_Ring_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,36 +21,4 @@ tag := "mods-lean4-stage0-stdlib-Init-GrindInstances-Ring"
 
 TODO
 
-
-# `m/l/s/s/Init/GrindInstances/Ring` Files
-%%%
-tag := "mods/lean4/stage0/stdlib/Init/GrindInstances/Ring-files"
-%%%
-
-: `BitVec.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/GrindInstances/Ring/BitVec.c)TODO
-: `Fin.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/GrindInstances/Ring/Fin.c)TODO
-
-: `Int.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/GrindInstances/Ring/Int.c)TODO
-
-: `Nat.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/GrindInstances/Ring/Nat.c)TODO
-
-: `Rat.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/GrindInstances/Ring/Rat.c)TODO
-
-: `SInt.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/GrindInstances/Ring/SInt.c)TODO
-
-: `UInt.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/GrindInstances/Ring/UInt.c)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_GrindInstances».«Vtd_Ring_Files»}

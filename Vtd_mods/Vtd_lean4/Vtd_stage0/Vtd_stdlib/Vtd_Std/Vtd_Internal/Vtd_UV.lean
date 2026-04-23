@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Internal».«Vtd_UV_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,36 +21,4 @@ tag := "mods-lean4-stage0-stdlib-Std-Internal-UV"
 
 TODO
 
-
-# `m/l/s/s/Std/Internal/UV` Files
-%%%
-tag := "mods/lean4/stage0/stdlib/Std/Internal/UV-files"
-%%%
-
-: `DNS.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Internal/UV/DNS.c)TODO
-
-: `Loop.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Internal/UV/Loop.c)TODO
-: `Signal.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Internal/UV/Signal.c)TODO
-
-: `System.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Internal/UV/System.c)TODO
-
-: `TCP.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Internal/UV/TCP.c)TODO
-
-: `Timer.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Internal/UV/Timer.c)TODO
-
-: `UDP.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Internal/UV/UDP.c)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Internal».«Vtd_UV_Files»}

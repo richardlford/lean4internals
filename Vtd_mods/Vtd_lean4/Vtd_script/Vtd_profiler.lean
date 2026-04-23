@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_profiler_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,28 +21,4 @@ tag := "mods-lean4-script-profiler"
 
 TODO
 
-
-# `m/lean4/script/profiler` Files
-%%%
-tag := "mods/lean4/script/profiler-files"
-%%%
-
-: `lean_demangle.py`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/profiler/lean_demangle.py)TODO
-
-: `lean_demangle_cli.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/profiler/lean_demangle_cli.lean)TODO
-
-: `lean_demangle_profile.py`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/profiler/lean_demangle_profile.py)TODO
-
-: `serve_profile.py`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/profiler/serve_profile.py)TODO
-
-: `symbolicate_profile.py`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/profiler/symbolicate_profile.py)TODO
+{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_profiler_Files»}

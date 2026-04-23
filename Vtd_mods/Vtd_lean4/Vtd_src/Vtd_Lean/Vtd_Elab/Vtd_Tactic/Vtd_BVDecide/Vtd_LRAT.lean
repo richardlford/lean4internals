@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Elab».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_LRAT_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,13 +21,4 @@ tag := "mods-lean4-src-Lean-Elab-Tactic-BVDecide-LRAT"
 
 TODO
 
-
-# `m/l/s/L/E/Tactic/BVDecide/LRAT` Files
-%%%
-tag := "mods/lean4/src/Lean/Elab/Tactic/BVDecide/LRAT-files"
-%%%
-
-: `Trim.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/LRAT/Trim.lean)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Elab».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_LRAT_Files»}

@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DTreeMap».«Vtd_Raw_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,36 +21,4 @@ tag := "mods-lean4-src-Std-Data-DTreeMap-Raw"
 
 TODO
 
-
-# `m/l/s/S/Data/DTreeMap/Raw` Files
-%%%
-tag := "mods/lean4/src/Std/Data/DTreeMap/Raw-files"
-%%%
-
-: `AdditionalOperations.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DTreeMap/Raw/AdditionalOperations.lean)TODO
-
-: `Basic.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DTreeMap/Raw/Basic.lean)TODO
-
-: `DecidableEquiv.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DTreeMap/Raw/DecidableEquiv.lean)TODO
-
-: `Iterator.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DTreeMap/Raw/Iterator.lean)TODO
-: `Lemmas.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DTreeMap/Raw/Lemmas.lean)TODO
-
-: `Slice.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DTreeMap/Raw/Slice.lean)TODO
-
-: `WF.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DTreeMap/Raw/WF.lean)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DTreeMap».«Vtd_Raw_Files»}

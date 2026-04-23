@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_lib_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,20 +21,4 @@ tag := "mods-lean4-script-lib"
 
 TODO
 
-
-# `m/lean4/script/lib` Files
-%%%
-tag := "mods/lean4/script/lib-files"
-%%%
-
-: `README.md`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/lib/README.md)TODO
-
-: `rebase-editor.sh`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/lib/rebase-editor.sh)TODO
-: `update-stage0`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/lib/update-stage0)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_lib_Files»}

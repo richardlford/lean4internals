@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Producers».«Vtd_Monadic_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,20 +21,4 @@ tag := "mods-lean4-stage0-stdlib-Std-Data-Iterators-Producers-Monadic"
 
 TODO
 
-
-# `m/l/s/s/S/D/Iterators/Producers/Monadic` Files
-%%%
-tag := "mods/lean4/stage0/stdlib/Std/Data/Iterators/Producers/Monadic-files"
-%%%
-
-: `Array.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Producers/Monadic/Array.c)TODO
-
-: `Empty.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Producers/Monadic/Empty.c)TODO
-: `Vector.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Producers/Monadic/Vector.c)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Producers».«Vtd_Monadic_Files»}

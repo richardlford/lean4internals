@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Slice».«Vtd_Array_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,20 +21,4 @@ tag := "mods-lean4-src-Init-Data-Slice-Array"
 
 TODO
 
-
-# `m/l/s/I/Data/Slice/Array` Files
-%%%
-tag := "mods/lean4/src/Init/Data/Slice/Array-files"
-%%%
-
-: `Basic.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Slice/Array/Basic.lean)TODO
-
-: `Iterator.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Slice/Array/Iterator.lean)TODO
-: `Lemmas.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Slice/Array/Lemmas.lean)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Slice».«Vtd_Array_Files»}

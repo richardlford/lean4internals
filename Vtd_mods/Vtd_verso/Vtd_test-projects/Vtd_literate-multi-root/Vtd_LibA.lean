@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-multi-root».«Vtd_LibA_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,13 +21,4 @@ tag := "mods-verso-test-projects-literate-multi-root-LibA"
 
 TODO
 
-
-# `m/v/test-projects/literate-multi-root/LibA` Files
-%%%
-tag := "mods/verso/test-projects/literate-multi-root/LibA-files"
-%%%
-
-: `Core.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/literate-multi-root/LibA/Core.lean)TODO
-
+{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-multi-root».«Vtd_LibA_Files»}

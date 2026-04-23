@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_ExtHashSet_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,16 +21,4 @@ tag := "mods-lean4-stage0-stdlib-Std-Data-ExtHashSet"
 
 TODO
 
-
-# `m/l/s/s/Std/Data/ExtHashSet` Files
-%%%
-tag := "mods/lean4/stage0/stdlib/Std/Data/ExtHashSet-files"
-%%%
-
-: `Basic.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/ExtHashSet/Basic.c)TODO
-: `Lemmas.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/ExtHashSet/Lemmas.c)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_ExtHashSet_Files»}

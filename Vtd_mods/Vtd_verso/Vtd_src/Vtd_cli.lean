@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_cli_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,13 +21,4 @@ tag := "mods-verso-src-cli"
 
 TODO
 
-
-# `m/verso/src/cli` Files
-%%%
-tag := "mods/verso/src/cli-files"
-%%%
-
-: `VersoMain.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/cli/VersoMain.lean)TODO
-
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_cli_Files»}

@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Combinators».«Vtd_Monadic_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,28 +21,4 @@ tag := "mods-lean4-src-Std-Data-Iterators-Combinators-Monadic"
 
 TODO
 
-
-# `m/l/s/S/D/Iterators/Combinators/Monadic` Files
-%%%
-tag := "mods/lean4/src/Std/Data/Iterators/Combinators/Monadic-files"
-%%%
-
-: `Drop.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/Iterators/Combinators/Monadic/Drop.lean)TODO
-
-: `DropWhile.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/Iterators/Combinators/Monadic/DropWhile.lean)TODO
-
-: `StepSize.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/Iterators/Combinators/Monadic/StepSize.lean)TODO
-
-: `TakeWhile.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/Iterators/Combinators/Monadic/TakeWhile.lean)TODO
-: `Zip.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/Iterators/Combinators/Monadic/Zip.lean)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Combinators».«Vtd_Monadic_Files»}

@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Grind».«Vtd_Module_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,24 +21,4 @@ tag := "mods-lean4-src-Init-Grind-Module"
 
 TODO
 
-
-# `m/l/s/Init/Grind/Module` Files
-%%%
-tag := "mods/lean4/src/Init/Grind/Module-files"
-%%%
-
-: `Basic.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Grind/Module/Basic.lean)TODO
-
-: `Envelope.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Grind/Module/Envelope.lean)TODO
-: `NatModuleNorm.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Grind/Module/NatModuleNorm.lean)TODO
-
-: `OfNatModule.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Grind/Module/OfNatModule.lean)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Grind».«Vtd_Module_Files»}

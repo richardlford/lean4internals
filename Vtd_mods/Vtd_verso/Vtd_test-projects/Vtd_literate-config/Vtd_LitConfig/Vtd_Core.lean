@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-config».«Vtd_LitConfig».«Vtd_Core_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,13 +21,4 @@ tag := "mods-verso-test-projects-literate-config-LitConfig-Core"
 
 TODO
 
-
-# `m/v/t/literate-config/LitConfig/Core` Files
-%%%
-tag := "mods/verso/test-projects/literate-config/LitConfig/Core-files"
-%%%
-
-: `Basic.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/literate-config/LitConfig/Core/Basic.lean)TODO
-
+{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-config».«Vtd_LitConfig».«Vtd_Core_Files»}

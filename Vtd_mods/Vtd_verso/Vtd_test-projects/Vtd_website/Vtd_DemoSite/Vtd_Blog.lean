@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website».«Vtd_DemoSite».«Vtd_Blog_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,24 +21,4 @@ tag := "mods-verso-test-projects-website-DemoSite-Blog"
 
 TODO
 
-
-# `m/v/t/website/DemoSite/Blog` Files
-%%%
-tag := "mods/verso/test-projects/website/DemoSite/Blog-files"
-%%%
-
-: `AnchorBased.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/website/DemoSite/Blog/AnchorBased.lean)TODO
-
-: `Conditionals.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/website/DemoSite/Blog/Conditionals.lean)TODO
-
-: `FirstPost.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/website/DemoSite/Blog/FirstPost.lean)TODO
-: `Subprojects.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/website/DemoSite/Blog/Subprojects.lean)TODO
-
+{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website».«Vtd_DemoSite».«Vtd_Blog_Files»}

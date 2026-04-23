@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-search».«Vtd_VersoSearch_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,16 +21,4 @@ tag := "mods-verso-src-verso-search-VersoSearch"
 
 TODO
 
-
-# `m/v/src/verso-search/VersoSearch` Files
-%%%
-tag := "mods/verso/src/verso-search/VersoSearch-files"
-%%%
-
-: `DomainSearch.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-search/VersoSearch/DomainSearch.lean)TODO
-: `PorterStemmer.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-search/VersoSearch/PorterStemmer.lean)TODO
-
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-search».«Vtd_VersoSearch_Files»}

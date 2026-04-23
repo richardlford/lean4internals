@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Server».«Vtd_Completion_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,40 +21,4 @@ tag := "mods-lean4-stage0-stdlib-Lean-Server-Completion"
 
 TODO
 
-
-# `m/l/s/s/Lean/Server/Completion` Files
-%%%
-tag := "mods/lean4/stage0/stdlib/Lean/Server/Completion-files"
-%%%
-
-: `CompletionCollectors.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/Completion/CompletionCollectors.c)TODO
-
-: `CompletionInfoSelection.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/Completion/CompletionInfoSelection.c)TODO
-
-: `CompletionItemCompression.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/Completion/CompletionItemCompression.c)TODO
-
-: `CompletionResolution.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/Completion/CompletionResolution.c)TODO
-
-: `CompletionUtils.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/Completion/CompletionUtils.c)TODO
-: `EligibleHeaderDecls.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/Completion/EligibleHeaderDecls.c)TODO
-
-: `ImportCompletion.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/Completion/ImportCompletion.c)TODO
-
-: `SyntheticCompletion.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/Completion/SyntheticCompletion.c)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Server».«Vtd_Completion_Files»}

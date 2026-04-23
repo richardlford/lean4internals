@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_literate-multi-root_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,17 +21,4 @@ tag := "mods-verso-browser-tests-literate-multi-root"
 
 TODO
 
-
-# `m/verso/browser-tests/literate-multi-root` Files
-%%%
-tag := "mods/verso/browser-tests/literate-multi-root-files"
-%%%
-
-: `__init__.py`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/browser-tests/literate-multi-root/__init__.py)TODO
-
-: `test_navigation.py`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/browser-tests/literate-multi-root/test_navigation.py)TODO
-
+{include «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_literate-multi-root_Files»}

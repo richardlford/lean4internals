@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_tutorial-test.lean
         
 
+import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_tutorial-test_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_tutorial-test».«Vtd_TutorialExample»
@@ -27,18 +29,5 @@ tag := "mods-verso-test-projects-tutorial-test"
 TODO
 
 
+{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_tutorial-test_Files»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_tutorial-test».«Vtd_TutorialExample»}
-
-# `m/verso/test-projects/tutorial-test` Files
-%%%
-tag := "mods/verso/test-projects/tutorial-test-files"
-%%%
-
-: `TutorialExample.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/tutorial-test/TutorialExample.lean)TODO
-
-: `TutorialExampleMain.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/tutorial-test/TutorialExampleMain.lean)TODO
-

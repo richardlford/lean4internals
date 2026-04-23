@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_latex_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,13 +21,4 @@ tag := "mods-lean4-doc-latex"
 
 TODO
 
-
-# `m/lean4/doc/latex` Files
-%%%
-tag := "mods/lean4/doc/latex-files"
-%%%
-
-: `lstlean.tex`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/latex/lstlean.tex)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_latex_Files»}

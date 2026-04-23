@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_anchor-examples».«Vtd_AnchorExamples_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,13 +21,4 @@ tag := "mods-verso-test-projects-anchor-examples-AnchorExamples"
 
 TODO
 
-
-# `m/v/test-projects/anchor-examples/AnchorExamples` Files
-%%%
-tag := "mods/verso/test-projects/anchor-examples/AnchorExamples-files"
-%%%
-
-: `Basic.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/anchor-examples/AnchorExamples/Basic.lean)TODO
-
+{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_anchor-examples».«Vtd_AnchorExamples_Files»}

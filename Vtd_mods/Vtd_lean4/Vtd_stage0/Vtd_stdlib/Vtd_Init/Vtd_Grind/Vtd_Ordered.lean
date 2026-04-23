@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Grind».«Vtd_Ordered_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,36 +21,4 @@ tag := "mods-lean4-stage0-stdlib-Init-Grind-Ordered"
 
 TODO
 
-
-# `m/l/s/s/Init/Grind/Ordered` Files
-%%%
-tag := "mods/lean4/stage0/stdlib/Init/Grind/Ordered-files"
-%%%
-
-: `Field.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Grind/Ordered/Field.c)TODO
-
-: `Int.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Grind/Ordered/Int.c)TODO
-
-: `Linarith.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Grind/Ordered/Linarith.c)TODO
-: `Module.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Grind/Ordered/Module.c)TODO
-
-: `Order.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Grind/Ordered/Order.c)TODO
-
-: `Rat.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Grind/Ordered/Rat.c)TODO
-
-: `Ring.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Grind/Ordered/Ring.c)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Grind».«Vtd_Ordered_Files»}

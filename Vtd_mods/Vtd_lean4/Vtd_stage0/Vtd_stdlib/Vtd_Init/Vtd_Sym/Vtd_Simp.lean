@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Sym».«Vtd_Simp_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,13 +21,4 @@ tag := "mods-lean4-stage0-stdlib-Init-Sym-Simp"
 
 TODO
 
-
-# `m/l/s/s/Init/Sym/Simp` Files
-%%%
-tag := "mods/lean4/stage0/stdlib/Init/Sym/Simp-files"
-%%%
-
-: `SimprocDSL.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Sym/Simp/SimprocDSL.c)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Sym».«Vtd_Simp_Files»}

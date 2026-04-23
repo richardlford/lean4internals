@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_elasticlunr_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,17 +21,4 @@ tag := "mods-verso-vendored-js-elasticlunr"
 
 TODO
 
-
-# `m/verso/vendored-js/elasticlunr` Files
-%%%
-tag := "mods/verso/vendored-js/elasticlunr-files"
-%%%
-
-: `elasticlunr.js`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/elasticlunr/elasticlunr.js)TODO
-
-: `elasticlunr.min.js`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/elasticlunr/elasticlunr.min.js)TODO
-
+{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_elasticlunr_Files»}

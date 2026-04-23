@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Output».«Vtd_Html_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,40 +21,4 @@ tag := "mods-verso-src-verso-Verso-Output-Html"
 
 TODO
 
-
-# `m/v/s/v/Verso/Output/Html` Files
-%%%
-tag := "mods/verso/src/verso/Verso/Output/Html-files"
-%%%
-
-: `AttributeName.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Output/Html/AttributeName.lean)TODO
-
-: `Comments.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Output/Html/Comments.lean)TODO
-
-: `CssVars.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Output/Html/CssVars.lean)TODO
-
-: `ElasticLunr.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Output/Html/ElasticLunr.lean)TODO
-
-: `entities.json`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Output/Html/entities.json)TODO
-
-: `Entities.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Output/Html/Entities.lean)TODO
-
-: `KaTeX.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Output/Html/KaTeX.lean)TODO
-: `Tags.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Output/Html/Tags.lean)TODO
-
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Output».«Vtd_Html_Files»}

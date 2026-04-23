@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Do».«Vtd_Triple_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,17 +21,4 @@ tag := "mods-lean4-stage0-stdlib-Std-Do-Triple"
 
 TODO
 
-
-# `m/l/s/s/Std/Do/Triple` Files
-%%%
-tag := "mods/lean4/stage0/stdlib/Std/Do/Triple-files"
-%%%
-
-: `Basic.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Do/Triple/Basic.c)TODO
-
-: `SpecLemmas.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Do/Triple/SpecLemmas.c)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Do».«Vtd_Triple_Files»}

@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Time».«Vtd_Time».«Vtd_Unit_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,32 +21,4 @@ tag := "mods-lean4-stage0-stdlib-Std-Time-Time-Unit"
 
 TODO
 
-
-# `m/l/s/s/S/Time/Time/Unit` Files
-%%%
-tag := "mods/lean4/stage0/stdlib/Std/Time/Time/Unit-files"
-%%%
-
-: `Basic.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Time/Time/Unit/Basic.c)TODO
-
-: `Hour.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Time/Time/Unit/Hour.c)TODO
-
-: `Millisecond.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Time/Time/Unit/Millisecond.c)TODO
-
-: `Minute.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Time/Time/Unit/Minute.c)TODO
-
-: `Nanosecond.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Time/Time/Unit/Nanosecond.c)TODO
-
-: `Second.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Time/Time/Unit/Second.c)TODO
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Time».«Vtd_Time».«Vtd_Unit_Files»}

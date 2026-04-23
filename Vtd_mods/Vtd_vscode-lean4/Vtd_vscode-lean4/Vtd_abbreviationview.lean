@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_abbreviationview_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,16 +21,4 @@ tag := "mods-vscode-lean4-vscode-lean4-abbreviationview"
 
 TODO
 
-
-# `m/vscode-lean4/vscode-lean4/abbreviationview` Files
-%%%
-tag := "mods/vscode-lean4/vscode-lean4/abbreviationview-files"
-%%%
-
-: `index.ts`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/abbreviationview/index.ts)TODO
-: `tsconfig.json`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/abbreviationview/tsconfig.json)TODO
-
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_abbreviationview_Files»}

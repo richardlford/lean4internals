@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_vscode-lean4/Vtd_loogleview.lean
         
 
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_loogleview_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_loogleview».«Vtd_static»
@@ -27,17 +29,5 @@ tag := "mods-vscode-lean4-vscode-lean4-loogleview"
 TODO
 
 
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_loogleview_Files»}
 {include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_loogleview».«Vtd_static»}
-
-# `m/vscode-lean4/vscode-lean4/loogleview` Files
-%%%
-tag := "mods/vscode-lean4/vscode-lean4/loogleview-files"
-%%%
-
-: `index.ts`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/loogleview/index.ts)TODO
-: `tsconfig.json`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/loogleview/tsconfig.json)TODO
-

@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Data/Vtd_String/Vtd_Lemmas.lean
         
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_String».«Vtd_Lemmas_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_String».«Vtd_Lemmas».«Vtd_Pattern»
@@ -27,69 +29,5 @@ tag := "mods-lean4-src-Init-Data-String-Lemmas"
 TODO
 
 
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_String».«Vtd_Lemmas_Files»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_String».«Vtd_Lemmas».«Vtd_Pattern»}
-
-# `m/l/s/I/Data/String/Lemmas` Files
-%%%
-tag := "mods/lean4/src/Init/Data/String/Lemmas-files"
-%%%
-
-: `Basic.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/String/Lemmas/Basic.lean)TODO
-
-: `FindPos.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/String/Lemmas/FindPos.lean)TODO
-
-: `Hashable.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/String/Lemmas/Hashable.lean)TODO
-
-: `Intercalate.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/String/Lemmas/Intercalate.lean)TODO
-
-: `IsEmpty.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/String/Lemmas/IsEmpty.lean)TODO
-
-: `Iter.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/String/Lemmas/Iter.lean)TODO
-
-: `Iterate.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/String/Lemmas/Iterate.lean)TODO
-
-: `Modify.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/String/Lemmas/Modify.lean)TODO
-
-: `Order.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/String/Lemmas/Order.lean)TODO
-
-: `Pattern.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/String/Lemmas/Pattern.lean)TODO
-
-: `Search.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/String/Lemmas/Search.lean)TODO
-
-: `Slice.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/String/Lemmas/Slice.lean)TODO
-
-: `Splits.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/String/Lemmas/Splits.lean)TODO
-
-: `StringOrder.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/String/Lemmas/StringOrder.lean)TODO
-
-: `TakeDrop.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/String/Lemmas/TakeDrop.lean)TODO

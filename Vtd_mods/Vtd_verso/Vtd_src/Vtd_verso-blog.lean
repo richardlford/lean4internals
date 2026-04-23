@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-blog.lean
         
 
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-blog_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-blog».«Vtd_VersoBlog»
@@ -27,14 +29,5 @@ tag := "mods-verso-src-verso-blog"
 TODO
 
 
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-blog_Files»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-blog».«Vtd_VersoBlog»}
-
-# `m/verso/src/verso-blog` Files
-%%%
-tag := "mods/verso/src/verso-blog-files"
-%%%
-
-: `VersoBlog.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-blog/VersoBlog.lean)TODO
-

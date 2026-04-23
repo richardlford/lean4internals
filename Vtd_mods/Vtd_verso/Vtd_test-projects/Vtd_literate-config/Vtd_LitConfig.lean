@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_literate-config/Vtd_LitConfig.lean
         
 
+import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-config».«Vtd_LitConfig_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-config».«Vtd_LitConfig».«Vtd_Core»
@@ -27,18 +29,5 @@ tag := "mods-verso-test-projects-literate-config-LitConfig"
 TODO
 
 
+{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-config».«Vtd_LitConfig_Files»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-config».«Vtd_LitConfig».«Vtd_Core»}
-
-# `m/v/test-projects/literate-config/LitConfig` Files
-%%%
-tag := "mods/verso/test-projects/literate-config/LitConfig-files"
-%%%
-
-: `Core.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/literate-config/LitConfig/Core.lean)TODO
-
-: `NoDocstrings.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/literate-config/LitConfig/NoDocstrings.lean)TODO
-

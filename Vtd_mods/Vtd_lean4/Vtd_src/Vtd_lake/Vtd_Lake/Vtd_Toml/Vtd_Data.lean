@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_Lake».«Vtd_Toml».«Vtd_Data_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,20 +21,4 @@ tag := "mods-lean4-src-lake-Lake-Toml-Data"
 
 TODO
 
-
-# `m/l/s/l/Lake/Toml/Data` Files
-%%%
-tag := "mods/lean4/src/lake/Lake/Toml/Data-files"
-%%%
-
-: `DateTime.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Toml/Data/DateTime.lean)TODO
-: `Dict.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Toml/Data/Dict.lean)TODO
-
-: `Value.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Toml/Data/Value.lean)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_Lake».«Vtd_Toml».«Vtd_Data_Files»}

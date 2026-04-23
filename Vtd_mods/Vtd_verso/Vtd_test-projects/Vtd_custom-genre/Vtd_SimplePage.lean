@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_custom-genre».«Vtd_SimplePage_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,16 +21,4 @@ tag := "mods-verso-test-projects-custom-genre-SimplePage"
 
 TODO
 
-
-# `m/v/test-projects/custom-genre/SimplePage` Files
-%%%
-tag := "mods/verso/test-projects/custom-genre/SimplePage-files"
-%%%
-
-: `AnotherSection.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/custom-genre/SimplePage/AnotherSection.lean)TODO
-: `Demo.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/custom-genre/SimplePage/Demo.lean)TODO
-
+{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_custom-genre».«Vtd_SimplePage_Files»}

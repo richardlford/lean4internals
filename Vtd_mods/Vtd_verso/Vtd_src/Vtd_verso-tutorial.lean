@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-tutorial.lean
         
 
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-tutorial_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-tutorial».«Vtd_VersoTutorial»
@@ -27,18 +29,5 @@ tag := "mods-verso-src-verso-tutorial"
 TODO
 
 
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-tutorial_Files»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-tutorial».«Vtd_VersoTutorial»}
-
-# `m/verso/src/verso-tutorial` Files
-%%%
-tag := "mods/verso/src/verso-tutorial-files"
-%%%
-
-: `default.css`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-tutorial/default.css)TODO
-
-: `VersoTutorial.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-tutorial/VersoTutorial.lean)TODO
-

@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Std/Vtd_Do/Vtd_SPred.lean
         
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Do».«Vtd_SPred_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Do».«Vtd_SPred».«Vtd_Notation»
@@ -27,29 +29,5 @@ tag := "mods-lean4-stage0-stdlib-Std-Do-SPred"
 TODO
 
 
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Do».«Vtd_SPred_Files»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Do».«Vtd_SPred».«Vtd_Notation»}
-
-# `m/l/s/s/Std/Do/SPred` Files
-%%%
-tag := "mods/lean4/stage0/stdlib/Std/Do/SPred-files"
-%%%
-
-: `DerivedLaws.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Do/SPred/DerivedLaws.c)TODO
-: `Laws.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Do/SPred/Laws.c)TODO
-
-: `Notation.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Do/SPred/Notation.c)TODO
-
-: `SPred.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Do/SPred/SPred.c)TODO
-
-: `SVal.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Do/SPred/SVal.c)TODO
-

@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso/Vtd_Verso/Vtd_Output.lean
         
 
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Output_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Output».«Vtd_Html»
@@ -27,17 +29,5 @@ tag := "mods-verso-src-verso-Verso-Output"
 TODO
 
 
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Output_Files»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Output».«Vtd_Html»}
-
-# `m/v/s/verso/Verso/Output` Files
-%%%
-tag := "mods/verso/src/verso/Verso/Output-files"
-%%%
-
-: `Html.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Output/Html.lean)TODO
-: `TeX.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Output/TeX.lean)TODO
-

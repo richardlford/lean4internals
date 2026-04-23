@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate-plan_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,13 +21,4 @@ tag := "mods-verso-src-verso-literate-plan"
 
 TODO
 
-
-# `m/verso/src/verso-literate-plan` Files
-%%%
-tag := "mods/verso/src/verso-literate-plan-files"
-%%%
-
-: `LiteratePlanMain.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-literate-plan/LiteratePlanMain.lean)TODO
-
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate-plan_Files»}

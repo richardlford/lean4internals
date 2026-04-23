@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Data/Vtd_Iterators/Vtd_Lemmas/Vtd_Consumers.lean
         
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Consumers_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Consumers».«Vtd_Monadic»
@@ -27,25 +29,5 @@ tag := "mods-lean4-src-Std-Data-Iterators-Lemmas-Consumers"
 TODO
 
 
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Consumers_Files»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Consumers».«Vtd_Monadic»}
-
-# `m/l/s/S/D/Iterators/Lemmas/Consumers` Files
-%%%
-tag := "mods/lean4/src/Std/Data/Iterators/Lemmas/Consumers-files"
-%%%
-
-: `Collect.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/Iterators/Lemmas/Consumers/Collect.lean)TODO
-
-: `Loop.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/Iterators/Lemmas/Consumers/Loop.lean)TODO
-
-: `Monadic.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/Iterators/Lemmas/Consumers/Monadic.lean)TODO
-
-: `Set.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/Iterators/Lemmas/Consumers/Set.lean)TODO

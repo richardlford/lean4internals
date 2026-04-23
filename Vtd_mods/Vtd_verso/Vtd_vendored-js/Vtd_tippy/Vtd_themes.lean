@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy».«Vtd_themes_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,24 +21,4 @@ tag := "mods-verso-vendored-js-tippy-themes"
 
 TODO
 
-
-# `m/v/vendored-js/tippy/themes` Files
-%%%
-tag := "mods/verso/vendored-js/tippy/themes-files"
-%%%
-
-: `light-border.css`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/themes/light-border.css)TODO
-
-: `light.css`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/themes/light.css)TODO
-: `material.css`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/themes/material.css)TODO
-
-: `translucent.css`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/themes/translucent.css)TODO
-
+{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy».«Vtd_themes_Files»}

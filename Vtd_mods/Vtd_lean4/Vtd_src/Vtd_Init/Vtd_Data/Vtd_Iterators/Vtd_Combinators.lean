@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Data/Vtd_Iterators/Vtd_Combinators.lean
         
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Iterators».«Vtd_Combinators_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Iterators».«Vtd_Combinators».«Vtd_Monadic»
@@ -27,37 +29,5 @@ tag := "mods-lean4-src-Init-Data-Iterators-Combinators"
 TODO
 
 
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Iterators».«Vtd_Combinators_Files»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Iterators».«Vtd_Combinators».«Vtd_Monadic»}
-
-# `m/l/s/I/Data/Iterators/Combinators` Files
-%%%
-tag := "mods/lean4/src/Init/Data/Iterators/Combinators-files"
-%%%
-
-: `Append.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Combinators/Append.lean)TODO
-
-: `Attach.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Combinators/Attach.lean)TODO
-
-: `FilterMap.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Combinators/FilterMap.lean)TODO
-
-: `FlatMap.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Combinators/FlatMap.lean)TODO
-: `Monadic.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Combinators/Monadic.lean)TODO
-
-: `Take.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Combinators/Take.lean)TODO
-
-: `ULift.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Combinators/ULift.lean)TODO
-

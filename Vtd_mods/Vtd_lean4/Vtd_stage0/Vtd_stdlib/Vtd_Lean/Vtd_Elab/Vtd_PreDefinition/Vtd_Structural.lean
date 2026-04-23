@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Elab».«Vtd_PreDefinition».«Vtd_Structural_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,48 +21,4 @@ tag := "mods-lean4-stage0-stdlib-Lean-Elab-PreDefinition-Structural"
 
 TODO
 
-
-# `m/l/s/s/L/Elab/PreDefinition/Structural` Files
-%%%
-tag := "mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/Structural-files"
-%%%
-
-: `Basic.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/Structural/Basic.c)TODO
-
-: `BRecOn.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/Structural/BRecOn.c)TODO
-
-: `Eqns.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/Structural/Eqns.c)TODO
-
-: `FindRecArg.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/Structural/FindRecArg.c)TODO
-
-: `IndGroupInfo.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/Structural/IndGroupInfo.c)TODO
-
-: `IndPred.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/Structural/IndPred.c)TODO
-: `Main.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/Structural/Main.c)TODO
-
-: `Preprocess.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/Structural/Preprocess.c)TODO
-
-: `RecArgInfo.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/Structural/RecArgInfo.c)TODO
-
-: `SmartUnfolding.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/Structural/SmartUnfolding.c)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Elab».«Vtd_PreDefinition».«Vtd_Structural_Files»}

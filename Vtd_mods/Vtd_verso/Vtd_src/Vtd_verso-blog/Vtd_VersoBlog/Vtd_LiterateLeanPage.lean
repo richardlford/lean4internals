@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-blog».«Vtd_VersoBlog».«Vtd_LiterateLeanPage_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,13 +21,4 @@ tag := "mods-verso-src-verso-blog-VersoBlog-LiterateLeanPage"
 
 TODO
 
-
-# `m/v/s/verso-blog/VersoBlog/LiterateLeanPage` Files
-%%%
-tag := "mods/verso/src/verso-blog/VersoBlog/LiterateLeanPage-files"
-%%%
-
-: `Options.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-blog/VersoBlog/LiterateLeanPage/Options.lean)TODO
-
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-blog».«Vtd_VersoBlog».«Vtd_LiterateLeanPage_Files»}

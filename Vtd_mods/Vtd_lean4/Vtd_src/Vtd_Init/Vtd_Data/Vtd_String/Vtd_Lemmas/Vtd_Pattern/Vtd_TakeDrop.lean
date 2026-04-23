@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_String».«Vtd_Lemmas».«Vtd_Pattern».«Vtd_TakeDrop_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,24 +21,4 @@ tag := "mods-lean4-src-Init-Data-String-Lemmas-Pattern-TakeDrop"
 
 TODO
 
-
-# `m/l/s/I/D/S/Lemmas/Pattern/TakeDrop` Files
-%%%
-tag := "mods/lean4/src/Init/Data/String/Lemmas/Pattern/TakeDrop-files"
-%%%
-
-: `Basic.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/String/Lemmas/Pattern/TakeDrop/Basic.lean)TODO
-
-: `Char.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/String/Lemmas/Pattern/TakeDrop/Char.lean)TODO
-
-: `Pred.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/String/Lemmas/Pattern/TakeDrop/Pred.lean)TODO
-: `String.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/String/Lemmas/Pattern/TakeDrop/String.lean)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_String».«Vtd_Lemmas».«Vtd_Pattern».«Vtd_TakeDrop_Files»}

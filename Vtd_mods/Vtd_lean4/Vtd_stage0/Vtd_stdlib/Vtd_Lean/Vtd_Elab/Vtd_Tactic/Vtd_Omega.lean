@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Elab».«Vtd_Tactic».«Vtd_Omega_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,24 +21,4 @@ tag := "mods-lean4-stage0-stdlib-Lean-Elab-Tactic-Omega"
 
 TODO
 
-
-# `m/l/s/s/L/Elab/Tactic/Omega` Files
-%%%
-tag := "mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Omega-files"
-%%%
-
-: `Core.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Omega/Core.c)TODO
-
-: `Frontend.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Omega/Frontend.c)TODO
-
-: `MinNatAbs.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Omega/MinNatAbs.c)TODO
-: `OmegaM.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Omega/OmegaM.c)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Elab».«Vtd_Tactic».«Vtd_Omega_Files»}

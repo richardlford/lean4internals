@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Std».«Vtd_Libraries_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,17 +21,4 @@ tag := "mods-lean4-doc-std-grove-GroveStdlib-Std-Libraries"
 
 TODO
 
-
-# `m/l/d/s/g/GroveStdlib/Std/Libraries` Files
-%%%
-tag := "mods/lean4/doc/std/grove/GroveStdlib/Std/Libraries-files"
-%%%
-
-: `DateAndTime.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/GroveStdlib/Std/Libraries/DateAndTime.lean)TODO
-
-: `RandomNumbers.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/GroveStdlib/Std/Libraries/RandomNumbers.lean)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Std».«Vtd_Libraries_Files»}

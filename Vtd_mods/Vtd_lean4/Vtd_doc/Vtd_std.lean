@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_std.lean
         
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove»
@@ -27,29 +29,5 @@ tag := "mods-lean4-doc-std"
 TODO
 
 
+{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std_Files»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove»}
-
-# `m/lean4/doc/std` Files
-%%%
-tag := "mods/lean4/doc/std-files"
-%%%
-
-: `naming-tree.svg`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/naming-tree.svg)TODO
-
-: `naming.md`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/naming.md)TODO
-: `README.md`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/README.md)TODO
-
-: `style.md`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/style.md)TODO
-
-: `vision.md`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/vision.md)TODO
-

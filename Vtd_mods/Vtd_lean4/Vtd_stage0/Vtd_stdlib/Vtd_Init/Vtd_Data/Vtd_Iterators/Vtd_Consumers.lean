@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Init/Vtd_Data/Vtd_Iterators/Vtd_Consumers.lean
         
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Data».«Vtd_Iterators».«Vtd_Consumers_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Data».«Vtd_Iterators».«Vtd_Consumers».«Vtd_Monadic»
@@ -27,37 +29,5 @@ tag := "mods-lean4-stage0-stdlib-Init-Data-Iterators-Consumers"
 TODO
 
 
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Data».«Vtd_Iterators».«Vtd_Consumers_Files»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Data».«Vtd_Iterators».«Vtd_Consumers».«Vtd_Monadic»}
-
-# `m/l/s/s/I/Data/Iterators/Consumers` Files
-%%%
-tag := "mods/lean4/stage0/stdlib/Init/Data/Iterators/Consumers-files"
-%%%
-
-: `Access.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Consumers/Access.c)TODO
-
-: `Collect.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Consumers/Collect.c)TODO
-
-: `Loop.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Consumers/Loop.c)TODO
-
-: `Monadic.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Consumers/Monadic.c)TODO
-
-: `Partial.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Consumers/Partial.c)TODO
-
-: `Stream.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Consumers/Stream.c)TODO
-
-: `Total.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Consumers/Total.c)TODO

@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Doc».«Vtd_Elab_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,36 +21,4 @@ tag := "mods-verso-src-verso-Verso-Doc-Elab"
 
 TODO
 
-
-# `m/v/s/v/Verso/Doc/Elab` Files
-%%%
-tag := "mods/verso/src/verso/Verso/Doc/Elab-files"
-%%%
-
-: `Basic.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Doc/Elab/Basic.lean)TODO
-
-: `Block.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Doc/Elab/Block.lean)TODO
-
-: `ExpanderAttribute.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Doc/Elab/ExpanderAttribute.lean)TODO
-
-: `Incremental.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Doc/Elab/Incremental.lean)TODO
-
-: `Inline.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Doc/Elab/Inline.lean)TODO
-
-: `InlineString.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Doc/Elab/InlineString.lean)TODO
-
-: `Monad.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Doc/Elab/Monad.lean)TODO
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Doc».«Vtd_Elab_Files»}

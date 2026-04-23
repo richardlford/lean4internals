@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Compiler».«Vtd_LCNF».«Vtd_Simp_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,60 +21,4 @@ tag := "mods-lean4-stage0-stdlib-Lean-Compiler-LCNF-Simp"
 
 TODO
 
-
-# `m/l/s/s/L/Compiler/LCNF/Simp` Files
-%%%
-tag := "mods/lean4/stage0/stdlib/Lean/Compiler/LCNF/Simp-files"
-%%%
-
-: `Basic.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/LCNF/Simp/Basic.c)TODO
-
-: `Config.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/LCNF/Simp/Config.c)TODO
-
-: `ConstantFold.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/LCNF/Simp/ConstantFold.c)TODO
-
-: `DefaultAlt.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/LCNF/Simp/DefaultAlt.c)TODO
-
-: `DiscrM.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/LCNF/Simp/DiscrM.c)TODO
-
-: `FunDeclInfo.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/LCNF/Simp/FunDeclInfo.c)TODO
-
-: `InlineCandidate.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/LCNF/Simp/InlineCandidate.c)TODO
-
-: `InlineProj.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/LCNF/Simp/InlineProj.c)TODO
-
-: `JpCases.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/LCNF/Simp/JpCases.c)TODO
-
-: `Main.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/LCNF/Simp/Main.c)TODO
-
-: `SimpM.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/LCNF/Simp/SimpM.c)TODO
-
-: `SimpValue.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/LCNF/Simp/SimpValue.c)TODO
-: `Used.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Compiler/LCNF/Simp/Used.c)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Compiler».«Vtd_LCNF».«Vtd_Simp_Files»}

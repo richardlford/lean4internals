@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_images_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,16 +21,4 @@ tag := "mods-lean4-images"
 
 TODO
 
-
-# `mods/lean4/images` Files
-%%%
-tag := "mods/lean4/images-files"
-%%%
-
-: `lean.png`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/images/lean.png)TODO
-: `lean.xbm`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/images/lean.xbm)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_images_Files»}

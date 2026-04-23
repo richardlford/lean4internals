@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_docs.lean
         
 
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs».«Vtd_images»
@@ -27,18 +29,5 @@ tag := "mods-vscode-lean4-docs"
 TODO
 
 
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs_Files»}
 {include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs».«Vtd_images»}
-
-# `mods/vscode-lean4/docs` Files
-%%%
-tag := "mods/vscode-lean4/docs-files"
-%%%
-
-: `dev.md`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/docs/dev.md)TODO
-
-: `language-configuration.md`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/docs/language-configuration.md)TODO
-

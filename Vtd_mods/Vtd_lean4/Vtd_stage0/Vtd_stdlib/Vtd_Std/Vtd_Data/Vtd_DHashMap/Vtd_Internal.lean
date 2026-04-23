@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Std/Vtd_Data/Vtd_DHashMap/Vtd_Internal.lean
         
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_DHashMap».«Vtd_Internal_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_DHashMap».«Vtd_Internal».«Vtd_AssocList»
@@ -27,37 +29,5 @@ tag := "mods-lean4-stage0-stdlib-Std-Data-DHashMap-Internal"
 TODO
 
 
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_DHashMap».«Vtd_Internal_Files»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_DHashMap».«Vtd_Internal».«Vtd_AssocList»}
-
-# `m/l/s/s/S/Data/DHashMap/Internal` Files
-%%%
-tag := "mods/lean4/stage0/stdlib/Std/Data/DHashMap/Internal-files"
-%%%
-
-: `Defs.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/DHashMap/Internal/Defs.c)TODO
-
-: `HashesTo.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/DHashMap/Internal/HashesTo.c)TODO
-
-: `Index.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/DHashMap/Internal/Index.c)TODO
-
-: `Model.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/DHashMap/Internal/Model.c)TODO
-
-: `Raw.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/DHashMap/Internal/Raw.c)TODO
-
-: `RawLemmas.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/DHashMap/Internal/RawLemmas.c)TODO
-: `WF.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/DHashMap/Internal/WF.c)TODO
-

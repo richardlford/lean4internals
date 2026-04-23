@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_package-manual.lean
         
 
+import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_package-manual_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_package-manual».«Vtd_PackageManual»
@@ -27,18 +29,5 @@ tag := "mods-verso-test-projects-package-manual"
 TODO
 
 
+{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_package-manual_Files»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_package-manual».«Vtd_PackageManual»}
-
-# `m/verso/test-projects/package-manual` Files
-%%%
-tag := "mods/verso/test-projects/package-manual-files"
-%%%
-
-: `PackageManual.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/package-manual/PackageManual.lean)TODO
-
-: `PackageManualMain.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/package-manual/PackageManualMain.lean)TODO
-

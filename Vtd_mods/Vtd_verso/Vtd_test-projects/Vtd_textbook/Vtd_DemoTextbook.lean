@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_textbook/Vtd_DemoTextbook.lean
         
 
+import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_textbook».«Vtd_DemoTextbook_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_textbook».«Vtd_DemoTextbook».«Vtd_Meta»
@@ -27,21 +29,5 @@ tag := "mods-verso-test-projects-textbook-DemoTextbook"
 TODO
 
 
+{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_textbook».«Vtd_DemoTextbook_Files»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_textbook».«Vtd_DemoTextbook».«Vtd_Meta»}
-
-# `m/v/test-projects/textbook/DemoTextbook` Files
-%%%
-tag := "mods/verso/test-projects/textbook/DemoTextbook-files"
-%%%
-
-: `ListSet.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/textbook/DemoTextbook/ListSet.lean)TODO
-
-: `Nat.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/textbook/DemoTextbook/Nat.lean)TODO
-
-: `Papers.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/textbook/DemoTextbook/Papers.lean)TODO

@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_literate_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,13 +21,4 @@ tag := "mods-verso-static-web-literate"
 
 TODO
 
-
-# `m/verso/static-web/literate` Files
-%%%
-tag := "mods/verso/static-web/literate-files"
-%%%
-
-: `copy-button.js`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/static-web/literate/copy-button.js)TODO
-
+{include «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_literate_Files»}

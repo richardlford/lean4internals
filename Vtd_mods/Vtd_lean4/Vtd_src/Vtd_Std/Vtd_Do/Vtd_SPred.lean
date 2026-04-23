@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Do/Vtd_SPred.lean
         
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Do».«Vtd_SPred_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Do».«Vtd_SPred».«Vtd_Notation»
@@ -27,29 +29,5 @@ tag := "mods-lean4-src-Std-Do-SPred"
 TODO
 
 
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Do».«Vtd_SPred_Files»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Do».«Vtd_SPred».«Vtd_Notation»}
-
-# `m/l/s/Std/Do/SPred` Files
-%%%
-tag := "mods/lean4/src/Std/Do/SPred-files"
-%%%
-
-: `DerivedLaws.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Do/SPred/DerivedLaws.lean)TODO
-
-: `Laws.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Do/SPred/Laws.lean)TODO
-: `Notation.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Do/SPred/Notation.lean)TODO
-
-: `SPred.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Do/SPred/SPred.lean)TODO
-
-: `SVal.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Do/SPred/SVal.lean)TODO
-

@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-search.lean
         
 
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-search_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-search».«Vtd_VersoSearch»
@@ -27,14 +29,5 @@ tag := "mods-verso-src-verso-search"
 TODO
 
 
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-search_Files»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-search».«Vtd_VersoSearch»}
-
-# `m/verso/src/verso-search` Files
-%%%
-tag := "mods/verso/src/verso-search-files"
-%%%
-
-: `VersoSearch.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-search/VersoSearch.lean)TODO
-

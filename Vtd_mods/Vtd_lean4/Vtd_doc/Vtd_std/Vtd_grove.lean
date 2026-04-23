@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_std/Vtd_grove.lean
         
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib»
@@ -27,41 +29,5 @@ tag := "mods-lean4-doc-std-grove"
 TODO
 
 
+{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove_Files»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib»}
-
-# `m/l/doc/std/grove` Files
-%%%
-tag := "mods/lean4/doc/std/grove-files"
-%%%
-
-: `.gitignore`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/.gitignore)TODO
-
-: `grove-local.sh`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/grove-local.sh)TODO
-
-: `lake-manifest.json`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/lake-manifest.json)TODO
-
-: `lakefile.toml`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/lakefile.toml)TODO
-
-: `lean-toolchain`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/lean-toolchain)TODO
-: `Main.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/Main.lean)TODO
-
-: `README.md`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/README.md)TODO
-
-: `update_invalidated.sh`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/update_invalidated.sh)TODO
-

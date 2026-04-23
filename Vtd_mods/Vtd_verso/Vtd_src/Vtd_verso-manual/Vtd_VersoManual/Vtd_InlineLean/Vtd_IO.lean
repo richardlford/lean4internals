@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_InlineLean».«Vtd_IO_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,13 +21,4 @@ tag := "mods-verso-src-verso-manual-VersoManual-InlineLean-IO"
 
 TODO
 
-
-# `m/v/s/v/VersoManual/InlineLean/IO` Files
-%%%
-tag := "mods/verso/src/verso-manual/VersoManual/InlineLean/IO-files"
-%%%
-
-: `Context.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/InlineLean/IO/Context.lean)TODO
-
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_InlineLean».«Vtd_IO_Files»}

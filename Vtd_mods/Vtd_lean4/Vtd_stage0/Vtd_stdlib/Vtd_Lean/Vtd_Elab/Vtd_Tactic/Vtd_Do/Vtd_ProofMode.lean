@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Elab».«Vtd_Tactic».«Vtd_Do».«Vtd_ProofMode_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,84 +21,4 @@ tag := "mods-lean4-stage0-stdlib-Lean-Elab-Tactic-Do-ProofMode"
 
 TODO
 
-
-# `m/l/s/s/L/E/Tactic/Do/ProofMode` Files
-%%%
-tag := "mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode-files"
-%%%
-
-: `Assumption.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/Assumption.c)TODO
-
-: `Basic.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/Basic.c)TODO
-
-: `Cases.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/Cases.c)TODO
-
-: `Clear.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/Clear.c)TODO
-
-: `Constructor.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/Constructor.c)TODO
-
-: `Delab.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/Delab.c)TODO
-
-: `Exact.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/Exact.c)TODO
-
-: `Exfalso.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/Exfalso.c)TODO
-
-: `Focus.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/Focus.c)TODO
-
-: `Frame.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/Frame.c)TODO
-
-: `Have.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/Have.c)TODO
-
-: `Intro.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/Intro.c)TODO
-
-: `LeftRight.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/LeftRight.c)TODO
-
-: `MGoal.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/MGoal.c)TODO
-
-: `Pure.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/Pure.c)TODO
-
-: `Refine.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/Refine.c)TODO
-
-: `RenameI.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/RenameI.c)TODO
-
-: `Revert.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/Revert.c)TODO
-
-: `Specialize.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Do/ProofMode/Specialize.c)TODO
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Elab».«Vtd_Tactic».«Vtd_Do».«Vtd_ProofMode_Files»}

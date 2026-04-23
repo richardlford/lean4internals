@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_Lake».«Vtd_Build».«Vtd_Target_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,17 +21,4 @@ tag := "mods-lean4-src-lake-Lake-Build-Target"
 
 TODO
 
-
-# `m/l/s/l/Lake/Build/Target` Files
-%%%
-tag := "mods/lean4/src/lake/Lake/Build/Target-files"
-%%%
-
-: `Basic.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Build/Target/Basic.lean)TODO
-
-: `Fetch.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Build/Target/Fetch.lean)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_Lake».«Vtd_Build».«Vtd_Target_Files»}

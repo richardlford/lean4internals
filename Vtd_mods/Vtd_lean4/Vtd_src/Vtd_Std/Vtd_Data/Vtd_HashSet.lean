@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_HashSet_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,40 +21,4 @@ tag := "mods-lean4-src-Std-Data-HashSet"
 
 TODO
 
-
-# `m/l/s/Std/Data/HashSet` Files
-%%%
-tag := "mods/lean4/src/Std/Data/HashSet-files"
-%%%
-
-: `Basic.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/HashSet/Basic.lean)TODO
-
-: `DecidableEquiv.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/HashSet/DecidableEquiv.lean)TODO
-
-: `Iterator.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/HashSet/Iterator.lean)TODO
-
-: `IteratorLemmas.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/HashSet/IteratorLemmas.lean)TODO
-
-: `Lemmas.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/HashSet/Lemmas.lean)TODO
-
-: `Raw.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/HashSet/Raw.lean)TODO
-
-: `RawDecidableEquiv.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/HashSet/RawDecidableEquiv.lean)TODO
-: `RawLemmas.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/HashSet/RawLemmas.lean)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_HashSet_Files»}

@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Data».«Vtd_List».«Vtd_Nat_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,64 +21,4 @@ tag := "mods-lean4-stage0-stdlib-Init-Data-List-Nat"
 
 TODO
 
-
-# `m/l/s/s/I/Data/List/Nat` Files
-%%%
-tag := "mods/lean4/stage0/stdlib/Init/Data/List/Nat-files"
-%%%
-
-: `Basic.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/List/Nat/Basic.c)TODO
-
-: `BEq.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/List/Nat/BEq.c)TODO
-
-: `Count.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/List/Nat/Count.c)TODO
-
-: `Erase.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/List/Nat/Erase.c)TODO
-
-: `Find.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/List/Nat/Find.c)TODO
-
-: `InsertIdx.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/List/Nat/InsertIdx.c)TODO
-
-: `Modify.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/List/Nat/Modify.c)TODO
-
-: `Pairwise.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/List/Nat/Pairwise.c)TODO
-
-: `Perm.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/List/Nat/Perm.c)TODO
-
-: `Prod.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/List/Nat/Prod.c)TODO
-
-: `Range.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/List/Nat/Range.c)TODO
-
-: `Sublist.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/List/Nat/Sublist.c)TODO
-
-: `Sum.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/List/Nat/Sum.c)TODO
-: `TakeDrop.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/List/Nat/TakeDrop.c)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Data».«Vtd_List».«Vtd_Nat_Files»}

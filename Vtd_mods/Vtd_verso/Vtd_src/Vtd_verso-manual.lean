@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-manual.lean
         
 
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual»
@@ -27,14 +29,5 @@ tag := "mods-verso-src-verso-manual"
 TODO
 
 
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual_Files»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual»}
-
-# `m/verso/src/verso-manual` Files
-%%%
-tag := "mods/verso/src/verso-manual-files"
-%%%
-
-: `VersoManual.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual.lean)TODO
-

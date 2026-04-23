@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_static-web.lean
         
 
+import «Vtd_mods».«Vtd_verso».«Vtd_static-web_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_literate»
@@ -28,26 +30,6 @@ tag := "mods-verso-static-web"
 TODO
 
 
+{include «Vtd_mods».«Vtd_verso».«Vtd_static-web_Files»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_literate»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search»}
-
-# `mods/verso/static-web` Files
-%%%
-tag := "mods/verso/static-web-files"
-%%%
-
-: `find.js`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/static-web/find.js)TODO
-
-: `jsconfig.json`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/static-web/jsconfig.json)TODO
-
-: `math.js`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/static-web/math.js)TODO
-
-: `verso-vars.css`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/static-web/verso-vars.css)TODO

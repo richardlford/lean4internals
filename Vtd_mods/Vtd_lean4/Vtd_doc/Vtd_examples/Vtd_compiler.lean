@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_compiler_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,28 +21,4 @@ tag := "mods-lean4-doc-examples-compiler"
 
 TODO
 
-
-# `m/l/doc/examples/compiler` Files
-%%%
-tag := "mods/lean4/doc/examples/compiler-files"
-%%%
-
-: `.gitignore`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/examples/compiler/.gitignore)TODO
-
-: `README.md`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/examples/compiler/README.md)TODO
-
-: `run_test.sh`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/examples/compiler/run_test.sh)TODO
-
-: `test.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/examples/compiler/test.lean)TODO
-: `test.lean.out.expected`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/examples/compiler/test.lean.out.expected)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_compiler_Files»}

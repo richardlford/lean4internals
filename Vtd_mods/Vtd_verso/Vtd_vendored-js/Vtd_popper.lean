@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_popper_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,21 +21,4 @@ tag := "mods-verso-vendored-js-popper"
 
 TODO
 
-
-# `m/verso/vendored-js/popper` Files
-%%%
-tag := "mods/verso/vendored-js/popper-files"
-%%%
-
-: `LICENSE.md`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/popper/LICENSE.md)TODO
-
-: `popper.min.js`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/popper/popper.min.js)TODO
-
-: `popper.min.js.map`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/popper/popper.min.js.map)TODO
-
+{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_popper_Files»}

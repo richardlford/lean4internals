@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_webview_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,16 +21,4 @@ tag := "mods-vscode-lean4-vscode-lean4-webview"
 
 TODO
 
-
-# `m/vscode-lean4/vscode-lean4/webview` Files
-%%%
-tag := "mods/vscode-lean4/vscode-lean4/webview-files"
-%%%
-
-: `index.ts`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/webview/index.ts)TODO
-: `tsconfig.json`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/webview/tsconfig.json)TODO
-
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_webview_Files»}

@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_include».«Vtd_lean_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,20 +21,4 @@ tag := "mods-lean4-stage0-src-include-lean"
 
 TODO
 
-
-# `m/l/s/src/include/lean` Files
-%%%
-tag := "mods/lean4/stage0/src/include/lean-files"
-%%%
-
-: `lean.h`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/include/lean/lean.h)TODO
-
-: `lean_gmp.h`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/include/lean/lean_gmp.h)TODO
-: `lean_libuv.h`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/include/lean/lean_libuv.h)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_include».«Vtd_lean_Files»}

@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Time».«Vtd_DateTime_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,17 +21,4 @@ tag := "mods-lean4-stage0-stdlib-Std-Time-DateTime"
 
 TODO
 
-
-# `m/l/s/s/Std/Time/DateTime` Files
-%%%
-tag := "mods/lean4/stage0/stdlib/Std/Time/DateTime-files"
-%%%
-
-: `PlainDateTime.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Time/DateTime/PlainDateTime.c)TODO
-
-: `Timestamp.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Time/DateTime/Timestamp.c)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Time».«Vtd_DateTime_Files»}

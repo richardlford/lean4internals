@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-literate.lean
         
 
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate».«Vtd_VersoLiterate»
@@ -27,18 +29,5 @@ tag := "mods-verso-src-verso-literate"
 TODO
 
 
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate_Files»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate».«Vtd_VersoLiterate»}
-
-# `m/verso/src/verso-literate` Files
-%%%
-tag := "mods/verso/src/verso-literate-files"
-%%%
-
-: `VersoLiterate.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-literate/VersoLiterate.lean)TODO
-
-: `VersoLiterateMain.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-literate/VersoLiterateMain.lean)TODO
-

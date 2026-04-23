@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-blog».«Vtd_VersoBlog».«Vtd_Component_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,13 +21,4 @@ tag := "mods-verso-src-verso-blog-VersoBlog-Component"
 
 TODO
 
-
-# `m/v/s/verso-blog/VersoBlog/Component` Files
-%%%
-tag := "mods/verso/src/verso-blog/VersoBlog/Component-files"
-%%%
-
-: `Ext.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-blog/VersoBlog/Component/Ext.lean)TODO
-
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-blog».«Vtd_VersoBlog».«Vtd_Component_Files»}

@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_verso».«Vtd_doc».«Vtd_UsersGuide».«Vtd_Releases_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,17 +21,4 @@ tag := "mods-verso-doc-UsersGuide-Releases"
 
 TODO
 
-
-# `m/v/doc/UsersGuide/Releases` Files
-%%%
-tag := "mods/verso/doc/UsersGuide/Releases-files"
-%%%
-
-: `v4_28_0.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/doc/UsersGuide/Releases/v4_28_0.lean)TODO
-
-: `v4_29_0.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/doc/UsersGuide/Releases/v4_29_0.lean)TODO
-
+{include «Vtd_mods».«Vtd_verso».«Vtd_doc».«Vtd_UsersGuide».«Vtd_Releases_Files»}

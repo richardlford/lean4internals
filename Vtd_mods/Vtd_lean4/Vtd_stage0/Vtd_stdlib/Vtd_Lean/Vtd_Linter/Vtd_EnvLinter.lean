@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Linter».«Vtd_EnvLinter_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,16 +21,4 @@ tag := "mods-lean4-stage0-stdlib-Lean-Linter-EnvLinter"
 
 TODO
 
-
-# `m/l/s/s/Lean/Linter/EnvLinter` Files
-%%%
-tag := "mods/lean4/stage0/stdlib/Lean/Linter/EnvLinter-files"
-%%%
-
-: `Basic.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Linter/EnvLinter/Basic.c)TODO
-: `Frontend.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Linter/EnvLinter/Frontend.c)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Linter».«Vtd_EnvLinter_Files»}

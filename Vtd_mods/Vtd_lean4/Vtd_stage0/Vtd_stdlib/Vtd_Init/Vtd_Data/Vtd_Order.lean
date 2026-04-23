@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Data».«Vtd_Order_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,48 +21,4 @@ tag := "mods-lean4-stage0-stdlib-Init-Data-Order"
 
 TODO
 
-
-# `m/l/s/s/Init/Data/Order` Files
-%%%
-tag := "mods/lean4/stage0/stdlib/Init/Data/Order-files"
-%%%
-
-: `Classes.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Order/Classes.c)TODO
-
-: `ClassesExtra.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Order/ClassesExtra.c)TODO
-
-: `Factories.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Order/Factories.c)TODO
-
-: `FactoriesExtra.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Order/FactoriesExtra.c)TODO
-
-: `Lemmas.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Order/Lemmas.c)TODO
-
-: `LemmasExtra.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Order/LemmasExtra.c)TODO
-: `MinMaxOn.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Order/MinMaxOn.c)TODO
-
-: `Opposite.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Order/Opposite.c)TODO
-
-: `Ord.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Order/Ord.c)TODO
-
-: `PackageFactories.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Order/PackageFactories.c)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Data».«Vtd_Order_Files»}

@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_test».«Vtd_suite».«Vtd_utils_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,13 +21,4 @@ tag := "mods-vscode-lean4-vscode-lean4-test-suite-utils"
 
 TODO
 
-
-# `m/v/v/test/suite/utils` Files
-%%%
-tag := "mods/vscode-lean4/vscode-lean4/test/suite/utils-files"
-%%%
-
-: `helpers.ts`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/test/suite/utils/helpers.ts)TODO
-
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_test».«Vtd_suite».«Vtd_utils_Files»}

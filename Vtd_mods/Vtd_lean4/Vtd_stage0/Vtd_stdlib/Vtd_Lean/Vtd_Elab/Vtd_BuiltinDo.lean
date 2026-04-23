@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Elab».«Vtd_BuiltinDo_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,48 +21,4 @@ tag := "mods-lean4-stage0-stdlib-Lean-Elab-BuiltinDo"
 
 TODO
 
-
-# `m/l/s/s/Lean/Elab/BuiltinDo` Files
-%%%
-tag := "mods/lean4/stage0/stdlib/Lean/Elab/BuiltinDo-files"
-%%%
-
-: `Basic.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/BuiltinDo/Basic.c)TODO
-
-: `For.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/BuiltinDo/For.c)TODO
-
-: `If.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/BuiltinDo/If.c)TODO
-
-: `Jump.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/BuiltinDo/Jump.c)TODO
-
-: `Let.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/BuiltinDo/Let.c)TODO
-
-: `Match.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/BuiltinDo/Match.c)TODO
-
-: `MatchExpr.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/BuiltinDo/MatchExpr.c)TODO
-
-: `Misc.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/BuiltinDo/Misc.c)TODO
-
-: `Repeat.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/BuiltinDo/Repeat.c)TODO
-
-: `TryCatch.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/BuiltinDo/TryCatch.c)TODO
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Elab».«Vtd_BuiltinDo_Files»}

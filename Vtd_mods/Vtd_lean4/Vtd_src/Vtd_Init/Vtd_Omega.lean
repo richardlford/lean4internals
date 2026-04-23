@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Omega_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,32 +21,4 @@ tag := "mods-lean4-src-Init-Omega"
 
 TODO
 
-
-# `m/l/src/Init/Omega` Files
-%%%
-tag := "mods/lean4/src/Init/Omega-files"
-%%%
-
-: `Coeffs.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Omega/Coeffs.lean)TODO
-
-: `Constraint.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Omega/Constraint.lean)TODO
-
-: `Int.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Omega/Int.lean)TODO
-
-: `IntList.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Omega/IntList.lean)TODO
-: `LinearCombo.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Omega/LinearCombo.lean)TODO
-
-: `Logic.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Omega/Logic.lean)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Omega_Files»}

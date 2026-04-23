@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Widget_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,44 +21,4 @@ tag := "mods-lean4-stage0-stdlib-Lean-Widget"
 
 TODO
 
-
-# `m/l/s/stdlib/Lean/Widget` Files
-%%%
-tag := "mods/lean4/stage0/stdlib/Lean/Widget-files"
-%%%
-
-: `Basic.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Widget/Basic.c)TODO
-
-: `Commands.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Widget/Commands.c)TODO
-
-: `Diff.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Widget/Diff.c)TODO
-
-: `InteractiveCode.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Widget/InteractiveCode.c)TODO
-
-: `InteractiveDiagnostic.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Widget/InteractiveDiagnostic.c)TODO
-
-: `InteractiveGoal.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Widget/InteractiveGoal.c)TODO
-
-: `TaggedText.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Widget/TaggedText.c)TODO
-
-: `Types.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Widget/Types.c)TODO
-
-: `UserWidget.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Widget/UserWidget.c)TODO
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Widget_Files»}

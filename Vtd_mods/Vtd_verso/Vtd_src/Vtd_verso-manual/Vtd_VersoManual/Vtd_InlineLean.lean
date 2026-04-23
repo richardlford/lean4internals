@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-manual/Vtd_VersoManual/Vtd_InlineLean.lean
         
 
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_InlineLean_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_InlineLean».«Vtd_IO»
@@ -27,41 +29,5 @@ tag := "mods-verso-src-verso-manual-VersoManual-InlineLean"
 TODO
 
 
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_InlineLean_Files»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_InlineLean».«Vtd_IO»}
-
-# `m/v/s/verso-manual/VersoManual/InlineLean` Files
-%%%
-tag := "mods/verso/src/verso-manual/VersoManual/InlineLean-files"
-%%%
-
-: `Block.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/InlineLean/Block.lean)TODO
-
-: `IO.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/InlineLean/IO.lean)TODO
-
-: `LongLines.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/InlineLean/LongLines.lean)TODO
-
-: `Option.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/InlineLean/Option.lean)TODO
-: `Outputs.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/InlineLean/Outputs.lean)TODO
-
-: `Scopes.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/InlineLean/Scopes.lean)TODO
-
-: `Signature.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/InlineLean/Signature.lean)TODO
-
-: `SyntaxError.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/InlineLean/SyntaxError.lean)TODO
-

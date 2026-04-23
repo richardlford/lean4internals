@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_ParserCompiler_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,13 +21,4 @@ tag := "mods-lean4-src-Lean-ParserCompiler"
 
 TODO
 
-
-# `m/l/src/Lean/ParserCompiler` Files
-%%%
-tag := "mods/lean4/src/Lean/ParserCompiler-files"
-%%%
-
-: `Attribute.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/ParserCompiler/Attribute.lean)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_ParserCompiler_Files»}

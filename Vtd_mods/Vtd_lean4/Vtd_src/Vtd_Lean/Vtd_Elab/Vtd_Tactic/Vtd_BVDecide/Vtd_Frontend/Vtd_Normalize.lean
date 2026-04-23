@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Elab».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_Frontend».«Vtd_Normalize_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,56 +21,4 @@ tag := "mods-lean4-src-Lean-Elab-Tactic-BVDecide-Frontend-Normalize"
 
 TODO
 
-
-# `m/l/s/L/E/T/BVDecide/Frontend/Normalize` Files
-%%%
-tag := "mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/Normalize-files"
-%%%
-
-: `AC.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/AC.lean)TODO
-
-: `AndFlatten.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/AndFlatten.lean)TODO
-
-: `ApplyControlFlow.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/ApplyControlFlow.lean)TODO
-
-: `Basic.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/Basic.lean)TODO
-
-: `EmbeddedConstraint.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/EmbeddedConstraint.lean)TODO
-
-: `Enums.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/Enums.lean)TODO
-
-: `IntToBitVec.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/IntToBitVec.lean)TODO
-
-: `Rewrite.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/Rewrite.lean)TODO
-: `ShortCircuit.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/ShortCircuit.lean)TODO
-
-: `Simproc.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/Simproc.lean)TODO
-
-: `Structures.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/Structures.lean)TODO
-
-: `TypeAnalysis.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/BVDecide/Frontend/Normalize/TypeAnalysis.lean)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Elab».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_Frontend».«Vtd_Normalize_Files»}

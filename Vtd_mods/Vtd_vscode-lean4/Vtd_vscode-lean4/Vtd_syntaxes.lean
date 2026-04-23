@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_syntaxes_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,20 +21,4 @@ tag := "mods-vscode-lean4-vscode-lean4-syntaxes"
 
 TODO
 
-
-# `m/vscode-lean4/vscode-lean4/syntaxes` Files
-%%%
-tag := "mods/vscode-lean4/vscode-lean4/syntaxes-files"
-%%%
-
-: `codeblock.json`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/syntaxes/codeblock.json)TODO
-
-: `lean4-markdown.json`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/syntaxes/lean4-markdown.json)TODO
-: `lean4.json`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/syntaxes/lean4.json)TODO
-
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_syntaxes_Files»}

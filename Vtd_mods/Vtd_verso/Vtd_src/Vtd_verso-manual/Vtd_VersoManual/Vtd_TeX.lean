@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_TeX_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,13 +21,4 @@ tag := "mods-verso-src-verso-manual-VersoManual-TeX"
 
 TODO
 
-
-# `m/v/s/verso-manual/VersoManual/TeX` Files
-%%%
-tag := "mods/verso/src/verso-manual/VersoManual/TeX-files"
-%%%
-
-: `Config.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/TeX/Config.lean)TODO
-
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_TeX_Files»}

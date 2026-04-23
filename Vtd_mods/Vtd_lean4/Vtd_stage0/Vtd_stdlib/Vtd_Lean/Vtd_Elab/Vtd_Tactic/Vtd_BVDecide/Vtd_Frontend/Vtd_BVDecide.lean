@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Elab».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_Frontend».«Vtd_BVDecide_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,36 +21,4 @@ tag := "mods-lean4-stage0-stdlib-Lean-Elab-Tactic-BVDecide-Frontend-BVDecide"
 
 TODO
 
-
-# `m/l/s/s/L/E/T/BVDecide/Frontend/BVDecide` Files
-%%%
-tag := "mods/lean4/stage0/stdlib/Lean/Elab/Tactic/BVDecide/Frontend/BVDecide-files"
-%%%
-
-: `Reflect.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/BVDecide/Frontend/BVDecide/Reflect.c)TODO
-
-: `ReifiedBVExpr.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/BVDecide/Frontend/BVDecide/ReifiedBVExpr.c)TODO
-: `ReifiedBVLogical.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/BVDecide/Frontend/BVDecide/ReifiedBVLogical.c)TODO
-
-: `ReifiedBVPred.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/BVDecide/Frontend/BVDecide/ReifiedBVPred.c)TODO
-
-: `ReifiedLemmas.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/BVDecide/Frontend/BVDecide/ReifiedLemmas.c)TODO
-
-: `Reify.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/BVDecide/Frontend/BVDecide/Reify.c)TODO
-
-: `SatAtBVLogical.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/Tactic/BVDecide/Frontend/BVDecide/SatAtBVLogical.c)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Elab».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_Frontend».«Vtd_BVDecide_Files»}

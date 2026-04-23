@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_LRAT».«Vtd_Internal».«Vtd_Formula_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,40 +21,4 @@ tag := "mods-lean4-stage0-stdlib-Std-Tactic-BVDecide-LRAT-Internal-Formula"
 
 TODO
 
-
-# `m/l/s/s/S/T/B/LRAT/Internal/Formula` Files
-%%%
-tag := "mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal/Formula-files"
-%%%
-
-: `Class.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal/Formula/Class.c)TODO
-
-: `Implementation.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal/Formula/Implementation.c)TODO
-
-: `Instance.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal/Formula/Instance.c)TODO
-
-: `Lemmas.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal/Formula/Lemmas.c)TODO
-
-: `RatAddResult.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal/Formula/RatAddResult.c)TODO
-
-: `RatAddSound.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal/Formula/RatAddSound.c)TODO
-
-: `RupAddResult.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal/Formula/RupAddResult.c)TODO
-: `RupAddSound.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Tactic/BVDecide/LRAT/Internal/Formula/RupAddSound.c)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_LRAT».«Vtd_Internal».«Vtd_Formula_Files»}

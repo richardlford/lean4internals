@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Elab».«Vtd_PreDefinition».«Vtd_PartialFixpoint_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,20 +21,4 @@ tag := "mods-lean4-stage0-stdlib-Lean-Elab-PreDefinition-PartialFixpoint"
 
 TODO
 
-
-# `m/l/s/s/L/Elab/PreDefinition/PartialFixpoint` Files
-%%%
-tag := "mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/PartialFixpoint-files"
-%%%
-
-: `Eqns.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/PartialFixpoint/Eqns.c)TODO
-
-: `Induction.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/PartialFixpoint/Induction.c)TODO
-
-: `Main.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/PartialFixpoint/Main.c)TODO
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Elab».«Vtd_PreDefinition».«Vtd_PartialFixpoint_Files»}

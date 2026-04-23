@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_NameMap_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,16 +21,4 @@ tag := "mods-lean4-stage0-stdlib-Lean-Data-NameMap"
 
 TODO
 
-
-# `m/l/s/s/Lean/Data/NameMap` Files
-%%%
-tag := "mods/lean4/stage0/stdlib/Lean/Data/NameMap-files"
-%%%
-
-: `AdditionalOperations.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Data/NameMap/AdditionalOperations.c)TODO
-: `Basic.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Data/NameMap/Basic.c)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_NameMap_Files»}

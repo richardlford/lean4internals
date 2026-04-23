@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DHashMap».«Vtd_Internal».«Vtd_AssocList_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,20 +21,4 @@ tag := "mods-lean4-src-Std-Data-DHashMap-Internal-AssocList"
 
 TODO
 
-
-# `m/l/s/S/D/DHashMap/Internal/AssocList` Files
-%%%
-tag := "mods/lean4/src/Std/Data/DHashMap/Internal/AssocList-files"
-%%%
-
-: `Basic.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DHashMap/Internal/AssocList/Basic.lean)TODO
-
-: `Iterator.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DHashMap/Internal/AssocList/Iterator.lean)TODO
-: `Lemmas.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DHashMap/Internal/AssocList/Lemmas.lean)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DHashMap».«Vtd_Internal».«Vtd_AssocList_Files»}

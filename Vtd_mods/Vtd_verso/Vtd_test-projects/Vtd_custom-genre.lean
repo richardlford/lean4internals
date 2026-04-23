@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_custom-genre.lean
         
 
+import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_custom-genre_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_custom-genre».«Vtd_SimplePage»
@@ -27,17 +29,5 @@ tag := "mods-verso-test-projects-custom-genre"
 TODO
 
 
+{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_custom-genre_Files»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_custom-genre».«Vtd_SimplePage»}
-
-# `m/verso/test-projects/custom-genre` Files
-%%%
-tag := "mods/verso/test-projects/custom-genre-files"
-%%%
-
-: `SimplePage.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/custom-genre/SimplePage.lean)TODO
-: `SimplePageMain.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/custom-genre/SimplePageMain.lean)TODO
-

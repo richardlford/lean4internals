@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_test».«Vtd_suite».«Vtd_lakefileTomlSchema_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,13 +21,4 @@ tag := "mods-vscode-lean4-vscode-lean4-test-suite-lakefileTomlSchema"
 
 TODO
 
-
-# `m/v/v/test/suite/lakefileTomlSchema` Files
-%%%
-tag := "mods/vscode-lean4/vscode-lean4/test/suite/lakefileTomlSchema-files"
-%%%
-
-: `lakefileTomlSchema.test.ts`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/test/suite/lakefileTomlSchema/lakefileTomlSchema.test.ts)TODO
-
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_test».«Vtd_suite».«Vtd_lakefileTomlSchema_Files»}

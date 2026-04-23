@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_LicenseInfo_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,13 +21,4 @@ tag := "mods-verso-src-verso-manual-VersoManual-LicenseInfo"
 
 TODO
 
-
-# `m/v/s/verso-manual/VersoManual/LicenseInfo` Files
-%%%
-tag := "mods/verso/src/verso-manual/VersoManual/LicenseInfo-files"
-%%%
-
-: `Licenses.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/LicenseInfo/Licenses.lean)TODO
-
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_LicenseInfo_Files»}

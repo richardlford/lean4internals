@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Meta».«Vtd_Match».«Vtd_MatcherApp_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,16 +21,4 @@ tag := "mods-lean4-stage0-stdlib-Lean-Meta-Match-MatcherApp"
 
 TODO
 
-
-# `m/l/s/s/L/Meta/Match/MatcherApp` Files
-%%%
-tag := "mods/lean4/stage0/stdlib/Lean/Meta/Match/MatcherApp-files"
-%%%
-
-: `Basic.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Match/MatcherApp/Basic.c)TODO
-: `Transform.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Match/MatcherApp/Transform.c)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Meta».«Vtd_Match».«Vtd_MatcherApp_Files»}

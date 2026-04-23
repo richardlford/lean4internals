@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_Lake».«Vtd_DSL_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,60 +21,4 @@ tag := "mods-lean4-src-lake-Lake-DSL"
 
 TODO
 
-
-# `m/l/s/lake/Lake/DSL` Files
-%%%
-tag := "mods/lean4/src/lake/Lake/DSL-files"
-%%%
-
-: `Attributes.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/DSL/Attributes.lean)TODO
-
-: `AttributesCore.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/DSL/AttributesCore.lean)TODO
-
-: `Config.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/DSL/Config.lean)TODO
-
-: `DeclUtil.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/DSL/DeclUtil.lean)TODO
-
-: `Extensions.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/DSL/Extensions.lean)TODO
-
-: `Key.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/DSL/Key.lean)TODO
-: `Meta.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/DSL/Meta.lean)TODO
-
-: `Package.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/DSL/Package.lean)TODO
-
-: `Require.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/DSL/Require.lean)TODO
-
-: `Script.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/DSL/Script.lean)TODO
-
-: `Syntax.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/DSL/Syntax.lean)TODO
-
-: `Targets.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/DSL/Targets.lean)TODO
-
-: `VerLit.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/DSL/VerLit.lean)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_Lake».«Vtd_DSL_Files»}

@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_multi-verso.lean
         
 
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_multi-verso_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_multi-verso».«Vtd_MultiVerso»
@@ -27,14 +29,5 @@ tag := "mods-verso-src-multi-verso"
 TODO
 
 
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_multi-verso_Files»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_multi-verso».«Vtd_MultiVerso»}
-
-# `m/verso/src/multi-verso` Files
-%%%
-tag := "mods/verso/src/multi-verso-files"
-%%%
-
-: `MultiVerso.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/multi-verso/MultiVerso.lean)TODO
-

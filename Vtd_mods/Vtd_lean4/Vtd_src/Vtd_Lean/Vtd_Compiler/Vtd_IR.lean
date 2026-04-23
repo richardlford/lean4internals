@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Compiler».«Vtd_IR_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,60 +21,4 @@ tag := "mods-lean4-src-Lean-Compiler-IR"
 
 TODO
 
-
-# `m/l/s/Lean/Compiler/IR` Files
-%%%
-tag := "mods/lean4/src/Lean/Compiler/IR-files"
-%%%
-
-: `Basic.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/IR/Basic.lean)TODO
-
-: `Checker.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/IR/Checker.lean)TODO
-
-: `CompilerM.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/IR/CompilerM.lean)TODO
-
-: `EmitLLVM.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/IR/EmitLLVM.lean)TODO
-
-: `EmitUtil.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/IR/EmitUtil.lean)TODO
-
-: `Format.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/IR/Format.lean)TODO
-
-: `LLVMBindings.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/IR/LLVMBindings.lean)TODO
-
-: `Meta.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/IR/Meta.lean)TODO
-
-: `NormIds.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/IR/NormIds.lean)TODO
-: `Sorry.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/IR/Sorry.lean)TODO
-
-: `ToIR.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/IR/ToIR.lean)TODO
-
-: `ToIRType.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/IR/ToIRType.lean)TODO
-
-: `UnboxResult.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Compiler/IR/UnboxResult.lean)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Compiler».«Vtd_IR_Files»}

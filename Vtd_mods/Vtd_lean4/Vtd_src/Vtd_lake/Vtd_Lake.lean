@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_lake/Vtd_Lake.lean
         
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_Lake_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_Lake».«Vtd_Build»
@@ -33,6 +35,7 @@ tag := "mods-lean4-src-lake-Lake"
 TODO
 
 
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_Lake_Files»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_Lake».«Vtd_Build»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_Lake».«Vtd_CLI»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_Lake».«Vtd_Config»}
@@ -40,44 +43,3 @@ TODO
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_Lake».«Vtd_Load»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_Lake».«Vtd_Toml»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_Lake».«Vtd_Util»}
-
-# `m/l/src/lake/Lake` Files
-%%%
-tag := "mods/lean4/src/lake/Lake-files"
-%%%
-
-: `Build.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Build.lean)TODO
-
-: `CLI.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/CLI.lean)TODO
-
-: `Config.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config.lean)TODO
-: `DSL.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/DSL.lean)TODO
-
-: `Load.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Load.lean)TODO
-
-: `Reservoir.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Reservoir.lean)TODO
-
-: `Toml.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Toml.lean)TODO
-
-: `Util.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Util.lean)TODO
-
-: `Version.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Version.lean)TODO
-

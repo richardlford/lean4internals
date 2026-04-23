@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Time».«Vtd_Internal_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,17 +21,4 @@ tag := "mods-lean4-stage0-stdlib-Std-Time-Internal"
 
 TODO
 
-
-# `m/l/s/s/Std/Time/Internal` Files
-%%%
-tag := "mods/lean4/stage0/stdlib/Std/Time/Internal-files"
-%%%
-
-: `Bounded.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Time/Internal/Bounded.c)TODO
-
-: `UnitVal.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Time/Internal/UnitVal.c)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Time».«Vtd_Internal_Files»}

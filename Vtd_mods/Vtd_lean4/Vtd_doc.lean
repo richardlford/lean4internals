@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc.lean
         
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_doc_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_dev»
@@ -32,38 +34,10 @@ tag := "mods-lean4-doc"
 TODO
 
 
+{include «Vtd_mods».«Vtd_lean4».«Vtd_doc_Files»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_dev»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_images»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_latex»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_make»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std»}
-
-# `mods/lean4/doc` Files
-%%%
-tag := "mods/lean4/doc-files"
-%%%
-
-: `BoolExpr.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/BoolExpr.lean)TODO
-: `metaprogramming-arith.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/metaprogramming-arith.lean)TODO
-
-: `perf.md`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/perf.md)TODO
-
-: `README.md`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/README.md)TODO
-
-: `style.md`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/style.md)TODO
-
-: `syntax_example.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/syntax_example.lean)TODO
-

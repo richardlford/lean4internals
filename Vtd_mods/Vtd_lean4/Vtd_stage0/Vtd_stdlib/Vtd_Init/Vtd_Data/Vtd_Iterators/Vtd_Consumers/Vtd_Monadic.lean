@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Data».«Vtd_Iterators».«Vtd_Consumers».«Vtd_Monadic_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,28 +21,4 @@ tag := "mods-lean4-stage0-stdlib-Init-Data-Iterators-Consumers-Monadic"
 
 TODO
 
-
-# `m/l/s/s/I/D/Iterators/Consumers/Monadic` Files
-%%%
-tag := "mods/lean4/stage0/stdlib/Init/Data/Iterators/Consumers/Monadic-files"
-%%%
-
-: `Access.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Consumers/Monadic/Access.c)TODO
-
-: `Collect.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Consumers/Monadic/Collect.c)TODO
-
-: `Loop.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Consumers/Monadic/Loop.c)TODO
-
-: `Partial.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Consumers/Monadic/Partial.c)TODO
-
-: `Total.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Iterators/Consumers/Monadic/Total.c)TODO
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Data».«Vtd_Iterators».«Vtd_Consumers».«Vtd_Monadic_Files»}

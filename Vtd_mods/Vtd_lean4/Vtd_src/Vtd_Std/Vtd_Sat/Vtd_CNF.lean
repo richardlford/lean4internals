@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Sat».«Vtd_CNF_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,28 +21,4 @@ tag := "mods-lean4-src-Std-Sat-CNF"
 
 TODO
 
-
-# `m/l/s/Std/Sat/CNF` Files
-%%%
-tag := "mods/lean4/src/Std/Sat/CNF-files"
-%%%
-
-: `Basic.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Sat/CNF/Basic.lean)TODO
-
-: `Dimacs.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Sat/CNF/Dimacs.lean)TODO
-
-: `Literal.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Sat/CNF/Literal.lean)TODO
-: `Relabel.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Sat/CNF/Relabel.lean)TODO
-
-: `RelabelFin.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Sat/CNF/RelabelFin.lean)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Sat».«Vtd_CNF_Files»}

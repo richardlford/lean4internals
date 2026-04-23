@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Server».«Vtd_CodeActions_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,24 +21,4 @@ tag := "mods-lean4-src-Lean-Server-CodeActions"
 
 TODO
 
-
-# `m/l/s/Lean/Server/CodeActions` Files
-%%%
-tag := "mods/lean4/src/Lean/Server/CodeActions-files"
-%%%
-
-: `Attr.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Server/CodeActions/Attr.lean)TODO
-
-: `Basic.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Server/CodeActions/Basic.lean)TODO
-
-: `Provider.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Server/CodeActions/Provider.lean)TODO
-
-: `UnknownIdentifier.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Server/CodeActions/UnknownIdentifier.lean)TODO
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Server».«Vtd_CodeActions_Files»}

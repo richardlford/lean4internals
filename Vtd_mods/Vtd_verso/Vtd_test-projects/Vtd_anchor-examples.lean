@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_anchor-examples.lean
         
 
+import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_anchor-examples_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_anchor-examples».«Vtd_AnchorExamples»
@@ -27,29 +29,5 @@ tag := "mods-verso-test-projects-anchor-examples"
 TODO
 
 
+{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_anchor-examples_Files»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_anchor-examples».«Vtd_AnchorExamples»}
-
-# `m/verso/test-projects/anchor-examples` Files
-%%%
-tag := "mods/verso/test-projects/anchor-examples-files"
-%%%
-
-: `.gitignore`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/anchor-examples/.gitignore)TODO
-
-: `AnchorExamples.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/anchor-examples/AnchorExamples.lean)TODO
-
-: `lake-manifest.json`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/anchor-examples/lake-manifest.json)TODO
-
-: `lakefile.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/anchor-examples/lakefile.lean)TODO
-
-: `lean-toolchain`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/anchor-examples/lean-toolchain)TODO

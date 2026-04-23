@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Std».«Vtd_LanguageConstructs_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,20 +21,4 @@ tag := "mods-lean4-doc-std-grove-GroveStdlib-Std-LanguageConstructs"
 
 TODO
 
-
-# `m/l/d/s/g/GroveStdlib/Std/LanguageConstructs` Files
-%%%
-tag := "mods/lean4/doc/std/grove/GroveStdlib/Std/LanguageConstructs-files"
-%%%
-
-: `ComparisonOrderingHashing.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/GroveStdlib/Std/LanguageConstructs/ComparisonOrderingHashing.lean)TODO
-
-: `Monads.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/GroveStdlib/Std/LanguageConstructs/Monads.lean)TODO
-
-: `RangesAndIterators.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/GroveStdlib/Std/LanguageConstructs/RangesAndIterators.lean)TODO
+{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Std».«Vtd_LanguageConstructs_Files»}

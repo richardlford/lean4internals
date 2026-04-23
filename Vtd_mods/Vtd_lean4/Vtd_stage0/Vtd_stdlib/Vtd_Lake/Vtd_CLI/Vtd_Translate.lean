@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lake».«Vtd_CLI».«Vtd_Translate_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,17 +21,4 @@ tag := "mods-lean4-stage0-stdlib-Lake-CLI-Translate"
 
 TODO
 
-
-# `m/l/s/s/Lake/CLI/Translate` Files
-%%%
-tag := "mods/lean4/stage0/stdlib/Lake/CLI/Translate-files"
-%%%
-
-: `Lean.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/CLI/Translate/Lean.c)TODO
-
-: `Toml.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/CLI/Translate/Toml.c)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lake».«Vtd_CLI».«Vtd_Translate_Files»}

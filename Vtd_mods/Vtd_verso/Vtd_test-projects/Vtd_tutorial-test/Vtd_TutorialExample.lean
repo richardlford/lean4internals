@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_tutorial-test».«Vtd_TutorialExample_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,24 +21,4 @@ tag := "mods-verso-test-projects-tutorial-test-TutorialExample"
 
 TODO
 
-
-# `m/v/test-projects/tutorial-test/TutorialExample` Files
-%%%
-tag := "mods/verso/test-projects/tutorial-test/TutorialExample-files"
-%%%
-
-: `Data.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/tutorial-test/TutorialExample/Data.lean)TODO
-
-: `HashMap.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/tutorial-test/TutorialExample/HashMap.lean)TODO
-
-: `Lit.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/tutorial-test/TutorialExample/Lit.lean)TODO
-: `RCases.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/tutorial-test/TutorialExample/RCases.lean)TODO
-
+{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_tutorial-test».«Vtd_TutorialExample_Files»}

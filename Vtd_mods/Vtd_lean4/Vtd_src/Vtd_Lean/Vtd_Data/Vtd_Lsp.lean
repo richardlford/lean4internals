@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Data».«Vtd_Lsp_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,76 +21,4 @@ tag := "mods-lean4-src-Lean-Data-Lsp"
 
 TODO
 
-
-# `m/l/s/Lean/Data/Lsp` Files
-%%%
-tag := "mods/lean4/src/Lean/Data/Lsp-files"
-%%%
-
-: `Basic.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Data/Lsp/Basic.lean)TODO
-
-: `BasicAux.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Data/Lsp/BasicAux.lean)TODO
-
-: `CancelParams.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Data/Lsp/CancelParams.lean)TODO
-
-: `Capabilities.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Data/Lsp/Capabilities.lean)TODO
-
-: `Client.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Data/Lsp/Client.lean)TODO
-
-: `CodeActions.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Data/Lsp/CodeActions.lean)TODO
-
-: `Communication.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Data/Lsp/Communication.lean)TODO
-: `Diagnostics.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Data/Lsp/Diagnostics.lean)TODO
-
-: `Extra.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Data/Lsp/Extra.lean)TODO
-
-: `InitShutdown.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Data/Lsp/InitShutdown.lean)TODO
-
-: `Internal.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Data/Lsp/Internal.lean)TODO
-
-: `Ipc.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Data/Lsp/Ipc.lean)TODO
-
-: `LanguageFeatures.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Data/Lsp/LanguageFeatures.lean)TODO
-
-: `TextSync.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Data/Lsp/TextSync.lean)TODO
-
-: `Utf16.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Data/Lsp/Utf16.lean)TODO
-
-: `Window.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Data/Lsp/Window.lean)TODO
-
-: `Workspace.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Data/Lsp/Workspace.lean)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Data».«Vtd_Lsp_Files»}

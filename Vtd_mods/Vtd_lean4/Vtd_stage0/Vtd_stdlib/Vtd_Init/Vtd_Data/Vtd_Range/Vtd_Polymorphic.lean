@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Init/Vtd_Data/Vtd_Range/Vtd_Polymorphic.lean
         
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Data».«Vtd_Range».«Vtd_Polymorphic_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Data».«Vtd_Range».«Vtd_Polymorphic».«Vtd_Internal»
@@ -27,85 +29,5 @@ tag := "mods-lean4-stage0-stdlib-Init-Data-Range-Polymorphic"
 TODO
 
 
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Data».«Vtd_Range».«Vtd_Polymorphic_Files»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Data».«Vtd_Range».«Vtd_Polymorphic».«Vtd_Internal»}
-
-# `m/l/s/s/I/Data/Range/Polymorphic` Files
-%%%
-tag := "mods/lean4/stage0/stdlib/Init/Data/Range/Polymorphic-files"
-%%%
-
-: `Basic.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Range/Polymorphic/Basic.c)TODO
-
-: `BitVec.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Range/Polymorphic/BitVec.c)TODO
-: `Char.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Range/Polymorphic/Char.c)TODO
-
-: `Fin.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Range/Polymorphic/Fin.c)TODO
-
-: `GetElemTactic.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Range/Polymorphic/GetElemTactic.c)TODO
-
-: `Instances.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Range/Polymorphic/Instances.c)TODO
-
-: `Int.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Range/Polymorphic/Int.c)TODO
-
-: `IntLemmas.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Range/Polymorphic/IntLemmas.c)TODO
-
-: `Iterators.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Range/Polymorphic/Iterators.c)TODO
-
-: `Lemmas.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Range/Polymorphic/Lemmas.c)TODO
-
-: `Map.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Range/Polymorphic/Map.c)TODO
-
-: `Nat.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Range/Polymorphic/Nat.c)TODO
-
-: `NatLemmas.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Range/Polymorphic/NatLemmas.c)TODO
-
-: `PRange.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Range/Polymorphic/PRange.c)TODO
-
-: `RangeIterator.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Range/Polymorphic/RangeIterator.c)TODO
-
-: `SInt.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Range/Polymorphic/SInt.c)TODO
-
-: `Stream.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Range/Polymorphic/Stream.c)TODO
-
-: `UInt.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Range/Polymorphic/UInt.c)TODO
-
-: `UpwardEnumerable.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Range/Polymorphic/UpwardEnumerable.c)TODO
-

@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_esm-shims_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,20 +21,4 @@ tag := "mods-vscode-lean4-lean4-infoview-src-esm-shims"
 
 TODO
 
-
-# `m/v/lean4-infoview/src/esm-shims` Files
-%%%
-tag := "mods/vscode-lean4/lean4-infoview/src/esm-shims-files"
-%%%
-
-: `react-dom.ts`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-infoview/src/esm-shims/react-dom.ts)TODO
-
-: `react-jsx-runtime.ts`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-infoview/src/esm-shims/react-jsx-runtime.ts)TODO
-
-: `react.ts`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-infoview/src/esm-shims/react.ts)TODO
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_esm-shims_Files»}

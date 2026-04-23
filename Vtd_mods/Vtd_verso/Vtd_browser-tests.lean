@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_browser-tests.lean
         
 
+import «Vtd_mods».«Vtd_verso».«Vtd_browser-tests_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_literate»
@@ -28,34 +30,6 @@ tag := "mods-verso-browser-tests"
 TODO
 
 
+{include «Vtd_mods».«Vtd_verso».«Vtd_browser-tests_Files»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_literate»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_literate-multi-root»}
-
-# `mods/verso/browser-tests` Files
-%%%
-tag := "mods/verso/browser-tests-files"
-%%%
-
-: `conftest.py`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/browser-tests/conftest.py)TODO
-
-: `pyproject.toml`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/browser-tests/pyproject.toml)TODO
-
-: `test_katex.py`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/browser-tests/test_katex.py)TODO
-: `test_redirect.py`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/browser-tests/test_redirect.py)TODO
-
-: `test_search.py`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/browser-tests/test_search.py)TODO
-
-: `uv.lock`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/browser-tests/uv.lock)TODO
-

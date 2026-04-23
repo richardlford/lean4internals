@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_initialize_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,20 +21,4 @@ tag := "mods-lean4-stage0-src-initialize"
 
 TODO
 
-
-# `m/l/stage0/src/initialize` Files
-%%%
-tag := "mods/lean4/stage0/src/initialize-files"
-%%%
-
-: `CMakeLists.txt`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/initialize/CMakeLists.txt)TODO
-: `init.cpp`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/initialize/init.cpp)TODO
-
-: `init.h`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/initialize/init.h)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_initialize_Files»}

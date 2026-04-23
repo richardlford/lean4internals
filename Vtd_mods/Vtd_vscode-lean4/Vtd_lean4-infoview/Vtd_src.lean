@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_lean4-infoview/Vtd_src.lean
         
 
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_esm-shims»
@@ -28,18 +30,6 @@ tag := "mods-vscode-lean4-lean4-infoview-src"
 TODO
 
 
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src_Files»}
 {include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_esm-shims»}
 {include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview»}
-
-# `m/vscode-lean4/lean4-infoview/src` Files
-%%%
-tag := "mods/vscode-lean4/lean4-infoview/src-files"
-%%%
-
-: `index.tsx`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-infoview/src/index.tsx)TODO
-: `loader.ts`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-infoview/src/loader.ts)TODO
-

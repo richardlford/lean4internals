@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Consumers».«Vtd_Monadic_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,13 +21,4 @@ tag := "mods-lean4-src-Std-Data-Iterators-Consumers-Monadic"
 
 TODO
 
-
-# `m/l/s/S/D/Iterators/Consumers/Monadic` Files
-%%%
-tag := "mods/lean4/src/Std/Data/Iterators/Consumers/Monadic-files"
-%%%
-
-: `Set.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/Iterators/Consumers/Monadic/Set.lean)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Consumers».«Vtd_Monadic_Files»}

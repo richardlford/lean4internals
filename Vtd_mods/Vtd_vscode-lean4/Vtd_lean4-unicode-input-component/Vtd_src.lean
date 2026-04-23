@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input-component».«Vtd_src_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,13 +21,4 @@ tag := "mods-vscode-lean4-lean4-unicode-input-component-src"
 
 TODO
 
-
-# `m/vscode-lean4/lean4-unicode-input-component/src` Files
-%%%
-tag := "mods/vscode-lean4/lean4-unicode-input-component/src-files"
-%%%
-
-: `index.ts`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-unicode-input-component/src/index.ts)TODO
-
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input-component».«Vtd_src_Files»}

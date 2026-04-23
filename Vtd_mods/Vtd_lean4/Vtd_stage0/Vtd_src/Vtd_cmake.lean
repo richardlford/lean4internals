@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_src/Vtd_cmake.lean
         
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_cmake_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_cmake».«Vtd_Modules»
@@ -27,17 +29,5 @@ tag := "mods-lean4-stage0-src-cmake"
 TODO
 
 
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_cmake_Files»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_cmake».«Vtd_Modules»}
-
-# `m/l/stage0/src/cmake` Files
-%%%
-tag := "mods/lean4/stage0/src/cmake-files"
-%%%
-
-: `check_failure.sh`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/cmake/check_failure.sh)TODO
-: `run_checker.sh`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/cmake/run_checker.sh)TODO
-

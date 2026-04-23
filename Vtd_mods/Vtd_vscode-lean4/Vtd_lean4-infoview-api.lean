@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_lean4-infoview-api.lean
         
 
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview-api_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview-api».«Vtd_src»
@@ -27,17 +29,5 @@ tag := "mods-vscode-lean4-lean4-infoview-api"
 TODO
 
 
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview-api_Files»}
 {include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview-api».«Vtd_src»}
-
-# `mods/vscode-lean4/lean4-infoview-api` Files
-%%%
-tag := "mods/vscode-lean4/lean4-infoview-api-files"
-%%%
-
-: `package.json`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-infoview-api/package.json)TODO
-: `tsconfig.json`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-infoview-api/tsconfig.json)TODO
-

@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Internal».«Vtd_Http».«Vtd_Data».«Vtd_Body_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,32 +21,4 @@ tag := "mods-lean4-src-Std-Internal-Http-Data-Body"
 
 TODO
 
-
-# `m/l/s/S/I/Http/Data/Body` Files
-%%%
-tag := "mods/lean4/src/Std/Internal/Http/Data/Body-files"
-%%%
-
-: `Any.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Data/Body/Any.lean)TODO
-
-: `Basic.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Data/Body/Basic.lean)TODO
-
-: `Empty.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Data/Body/Empty.lean)TODO
-
-: `Full.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Data/Body/Full.lean)TODO
-: `Length.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Data/Body/Length.lean)TODO
-
-: `Stream.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Http/Data/Body/Stream.lean)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Internal».«Vtd_Http».«Vtd_Data».«Vtd_Body_Files»}

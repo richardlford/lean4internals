@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_GrindInstances.lean
         
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_GrindInstances_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_GrindInstances».«Vtd_Ring»
@@ -27,22 +29,5 @@ tag := "mods-lean4-src-Init-GrindInstances"
 TODO
 
 
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_GrindInstances_Files»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_GrindInstances».«Vtd_Ring»}
-
-# `m/l/src/Init/GrindInstances` Files
-%%%
-tag := "mods/lean4/src/Init/GrindInstances-files"
-%%%
-
-: `Nat.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/GrindInstances/Nat.lean)TODO
-
-: `Ring.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/GrindInstances/Ring.lean)TODO
-
-: `ToInt.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/GrindInstances/ToInt.lean)TODO
-

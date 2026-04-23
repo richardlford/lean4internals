@@ -2,6 +2,8 @@
         
 
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Data».«Vtd_String».«Vtd_Lemmas».«Vtd_Pattern».«Vtd_Split_Files»
+
 import VersoManual
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
@@ -19,21 +21,4 @@ tag := "mods-lean4-stage0-stdlib-Init-Data-String-Lemmas-Pattern-Split"
 
 TODO
 
-
-# `m/l/s/s/I/D/S/Lemmas/Pattern/Split` Files
-%%%
-tag := "mods/lean4/stage0/stdlib/Init/Data/String/Lemmas/Pattern/Split-files"
-%%%
-
-: `Basic.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/String/Lemmas/Pattern/Split/Basic.c)TODO
-
-: `Char.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/String/Lemmas/Pattern/Split/Char.c)TODO
-
-: `Pred.c`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/String/Lemmas/Pattern/Split/Pred.c)TODO
-
+{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Data».«Vtd_String».«Vtd_Lemmas».«Vtd_Pattern».«Vtd_Split_Files»}

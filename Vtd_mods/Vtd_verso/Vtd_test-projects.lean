@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects.lean
         
 
+import «Vtd_mods».«Vtd_verso».«Vtd_test-projects_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_anchor-examples»
@@ -37,6 +39,7 @@ tag := "mods-verso-test-projects"
 TODO
 
 
+{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects_Files»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_anchor-examples»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_custom-genre»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_documented-package»}
@@ -48,12 +51,3 @@ TODO
 {include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website-examples»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website-literate»}
-
-# `mods/verso/test-projects` Files
-%%%
-tag := "mods/verso/test-projects-files"
-%%%
-
-: `README.md`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/README.md)TODO

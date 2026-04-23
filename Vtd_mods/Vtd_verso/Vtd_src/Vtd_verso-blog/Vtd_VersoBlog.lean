@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-blog/Vtd_VersoBlog.lean
         
 
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-blog».«Vtd_VersoBlog_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-blog».«Vtd_VersoBlog».«Vtd_Component»
@@ -29,51 +31,7 @@ tag := "mods-verso-src-verso-blog-VersoBlog"
 TODO
 
 
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-blog».«Vtd_VersoBlog_Files»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-blog».«Vtd_VersoBlog».«Vtd_Component»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-blog».«Vtd_VersoBlog».«Vtd_LiterateLeanPage»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-blog».«Vtd_VersoBlog».«Vtd_Site»}
-
-# `m/v/src/verso-blog/VersoBlog` Files
-%%%
-tag := "mods/verso/src/verso-blog/VersoBlog-files"
-%%%
-
-: `Basic.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-blog/VersoBlog/Basic.lean)TODO
-
-: `Component.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-blog/VersoBlog/Component.lean)TODO
-
-: `Generate.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-blog/VersoBlog/Generate.lean)TODO
-
-: `LexedText.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-blog/VersoBlog/LexedText.lean)TODO
-
-: `LiterateLeanPage.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-blog/VersoBlog/LiterateLeanPage.lean)TODO
-
-: `LiterateModuleDocs.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-blog/VersoBlog/LiterateModuleDocs.lean)TODO
-
-: `Site.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-blog/VersoBlog/Site.lean)TODO
-
-: `Template.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-blog/VersoBlog/Template.lean)TODO
-
-: `Theme.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-blog/VersoBlog/Theme.lean)TODO
-: `Traverse.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-blog/VersoBlog/Traverse.lean)TODO
-

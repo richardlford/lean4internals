@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_lake.lean
         
 
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_Lake»
@@ -28,22 +30,6 @@ tag := "mods-lean4-src-lake"
 TODO
 
 
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake_Files»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_Lake»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_schemas»}
-
-# `m/lean4/src/lake` Files
-%%%
-tag := "mods/lean4/src/lake-files"
-%%%
-
-: `Lake.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake.lean)TODO
-
-: `LakeMain.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/LakeMain.lean)TODO
-: `README.md`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/README.md)TODO
-

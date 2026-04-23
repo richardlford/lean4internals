@@ -1,6 +1,8 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-util.lean
         
 
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-util_Files»
+
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-util».«Vtd_VersoUtil»
@@ -27,14 +29,5 @@ tag := "mods-verso-src-verso-util"
 TODO
 
 
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-util_Files»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-util».«Vtd_VersoUtil»}
-
-# `m/verso/src/verso-util` Files
-%%%
-tag := "mods/verso/src/verso-util-files"
-%%%
-
-: `VersoUtil.lean`
-
-  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-util/VersoUtil.lean)TODO
-
