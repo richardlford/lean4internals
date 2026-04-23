@@ -18,11 +18,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Lean/Meta/Sym`"  =>
+#doc (Manual) "`m/l/s/s/Lean/Meta/Sym`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Lean/Meta/Sym"
+tag := "mods-lean4-stage0-stdlib-Lean-Meta-Sym"
 %%%
 
 TODO
@@ -31,7 +31,7 @@ TODO
 {include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Meta».«Vtd_Sym».«Vtd_Arith»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Meta».«Vtd_Sym».«Vtd_Simp»}
 
-# Files in `mods/lean4/stage0/stdlib/Lean/Meta/Sym`
+# `m/l/s/s/Lean/Meta/Sym` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Lean/Meta/Sym-files"
 %%%

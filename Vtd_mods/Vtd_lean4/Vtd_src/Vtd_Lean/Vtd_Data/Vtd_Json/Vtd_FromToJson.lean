@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/Lean/Data/Json/FromToJson`"  =>
+#doc (Manual) "`m/l/s/L/Data/Json/FromToJson`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/Lean/Data/Json/FromToJson"
+tag := "mods-lean4-src-Lean-Data-Json-FromToJson"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/src/Lean/Data/Json/FromToJson`
+# `m/l/s/L/Data/Json/FromToJson` Files
 %%%
 tag := "mods/lean4/src/Lean/Data/Json/FromToJson-files"
 %%%

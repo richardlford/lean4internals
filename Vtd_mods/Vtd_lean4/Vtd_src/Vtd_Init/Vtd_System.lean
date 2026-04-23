@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/Init/System`"  =>
+#doc (Manual) "`m/l/src/Init/System`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/Init/System"
+tag := "mods-lean4-src-Init-System"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/src/Init/System`
+# `m/l/src/Init/System` Files
 %%%
 tag := "mods/lean4/src/Init/System-files"
 %%%

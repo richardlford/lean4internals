@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Grind`"  =>
+#doc (Manual) "`m/l/s/s/L/Elab/Tactic/Grind`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Grind"
+tag := "mods-lean4-stage0-stdlib-Lean-Elab-Tactic-Grind"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Grind`
+# `m/l/s/s/L/Elab/Tactic/Grind` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Lean/Elab/Tactic/Grind-files"
 %%%

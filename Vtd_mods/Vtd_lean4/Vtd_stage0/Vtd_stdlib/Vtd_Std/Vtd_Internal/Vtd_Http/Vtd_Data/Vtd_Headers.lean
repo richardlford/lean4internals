@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Std/Internal/Http/Data/Headers`"  =>
+#doc (Manual) "`m/l/s/s/S/I/Http/Data/Headers`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Std/Internal/Http/Data/Headers"
+tag := "mods-lean4-stage0-stdlib-Std-Internal-Http-Data-Headers"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/stage0/stdlib/Std/Internal/Http/Data/Headers`
+# `m/l/s/s/S/I/Http/Data/Headers` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Std/Internal/Http/Data/Headers-files"
 %%%

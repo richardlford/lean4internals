@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/verso/vendored-js/popper`"  =>
+#doc (Manual) "`m/verso/vendored-js/popper`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/verso/vendored-js/popper"
+tag := "mods-verso-vendored-js-popper"
 %%%
 
 TODO
 
 
-# Files in `mods/verso/vendored-js/popper`
+# `m/verso/vendored-js/popper` Files
 %%%
 tag := "mods/verso/vendored-js/popper-files"
 %%%

@@ -17,11 +17,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Lean/Meta/Match`"  =>
+#doc (Manual) "`m/l/s/s/Lean/Meta/Match`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Lean/Meta/Match"
+tag := "mods-lean4-stage0-stdlib-Lean-Meta-Match"
 %%%
 
 TODO
@@ -29,7 +29,7 @@ TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Meta».«Vtd_Match».«Vtd_MatcherApp»}
 
-# Files in `mods/lean4/stage0/stdlib/Lean/Meta/Match`
+# `m/l/s/s/Lean/Meta/Match` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Lean/Meta/Match-files"
 %%%

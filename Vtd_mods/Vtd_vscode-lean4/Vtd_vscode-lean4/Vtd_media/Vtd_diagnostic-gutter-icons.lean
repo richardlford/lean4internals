@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/vscode-lean4/vscode-lean4/media/diagnostic-gutter-icons`"  =>
+#doc (Manual) "`m/v/vscode-lean4/media/diagnostic-gutter-icons`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/vscode-lean4/vscode-lean4/media/diagnostic-gutter-icons"
+tag := "mods-vscode-lean4-vscode-lean4-media-diagnostic-gutter-icons"
 %%%
 
 TODO
 
 
-# Files in `mods/vscode-lean4/vscode-lean4/media/diagnostic-gutter-icons`
+# `m/v/vscode-lean4/media/diagnostic-gutter-icons` Files
 %%%
 tag := "mods/vscode-lean4/vscode-lean4/media/diagnostic-gutter-icons-files"
 %%%

@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Init/Data/Array/QSort`"  =>
+#doc (Manual) "`m/l/s/s/I/Data/Array/QSort`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Init/Data/Array/QSort"
+tag := "mods-lean4-stage0-stdlib-Init-Data-Array-QSort"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/stage0/stdlib/Init/Data/Array/QSort`
+# `m/l/s/s/I/Data/Array/QSort` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Init/Data/Array/QSort-files"
 %%%

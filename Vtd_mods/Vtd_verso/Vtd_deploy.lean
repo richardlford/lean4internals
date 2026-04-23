@@ -14,13 +14,13 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/verso/deploy"
+tag := "mods-verso-deploy"
 %%%
 
 TODO
 
 
-# Files in `mods/verso/deploy`
+# `mods/verso/deploy` Files
 %%%
 tag := "mods/verso/deploy-files"
 %%%

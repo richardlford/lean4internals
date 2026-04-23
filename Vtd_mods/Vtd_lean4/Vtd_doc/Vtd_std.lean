@@ -17,11 +17,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/doc/std`"  =>
+#doc (Manual) "`m/lean4/doc/std`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/doc/std"
+tag := "mods-lean4-doc-std"
 %%%
 
 TODO
@@ -29,7 +29,7 @@ TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove»}
 
-# Files in `mods/lean4/doc/std`
+# `m/lean4/doc/std` Files
 %%%
 tag := "mods/lean4/doc/std-files"
 %%%

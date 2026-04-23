@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/Lean/Meta/Tactic/Grind/Arith/CommRing`"  =>
+#doc (Manual) "`m/l/s/L/M/T/Grind/Arith/CommRing`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/Lean/Meta/Tactic/Grind/Arith/CommRing"
+tag := "mods-lean4-src-Lean-Meta-Tactic-Grind-Arith-CommRing"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/src/Lean/Meta/Tactic/Grind/Arith/CommRing`
+# `m/l/s/L/M/T/Grind/Arith/CommRing` Files
 %%%
 tag := "mods/lean4/src/Lean/Meta/Tactic/Grind/Arith/CommRing-files"
 %%%

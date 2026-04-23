@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Simp/BuiltinSimprocs`"  =>
+#doc (Manual) "`m/l/s/s/L/M/Tactic/Simp/BuiltinSimprocs`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Simp/BuiltinSimprocs"
+tag := "mods-lean4-stage0-stdlib-Lean-Meta-Tactic-Simp-BuiltinSimprocs"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Simp/BuiltinSimprocs`
+# `m/l/s/s/L/M/Tactic/Simp/BuiltinSimprocs` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Simp/BuiltinSimprocs-files"
 %%%

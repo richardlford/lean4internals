@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Init/Control/Lawful/MonadLift`"  =>
+#doc (Manual) "`m/l/s/s/I/Control/Lawful/MonadLift`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Init/Control/Lawful/MonadLift"
+tag := "mods-lean4-stage0-stdlib-Init-Control-Lawful-MonadLift"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/stage0/stdlib/Init/Control/Lawful/MonadLift`
+# `m/l/s/s/I/Control/Lawful/MonadLift` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Init/Control/Lawful/MonadLift-files"
 %%%

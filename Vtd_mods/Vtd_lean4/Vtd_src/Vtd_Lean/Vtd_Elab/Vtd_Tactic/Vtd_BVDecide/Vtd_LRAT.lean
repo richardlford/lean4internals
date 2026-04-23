@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/Lean/Elab/Tactic/BVDecide/LRAT`"  =>
+#doc (Manual) "`m/l/s/L/E/Tactic/BVDecide/LRAT`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/Lean/Elab/Tactic/BVDecide/LRAT"
+tag := "mods-lean4-src-Lean-Elab-Tactic-BVDecide-LRAT"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/src/Lean/Elab/Tactic/BVDecide/LRAT`
+# `m/l/s/L/E/Tactic/BVDecide/LRAT` Files
 %%%
 tag := "mods/lean4/src/Lean/Elab/Tactic/BVDecide/LRAT-files"
 %%%

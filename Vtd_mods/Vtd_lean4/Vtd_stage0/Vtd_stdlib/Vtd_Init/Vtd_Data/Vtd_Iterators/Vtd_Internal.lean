@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Init/Data/Iterators/Internal`"  =>
+#doc (Manual) "`m/l/s/s/I/Data/Iterators/Internal`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Init/Data/Iterators/Internal"
+tag := "mods-lean4-stage0-stdlib-Init-Data-Iterators-Internal"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/stage0/stdlib/Init/Data/Iterators/Internal`
+# `m/l/s/s/I/Data/Iterators/Internal` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Init/Data/Iterators/Internal-files"
 %%%

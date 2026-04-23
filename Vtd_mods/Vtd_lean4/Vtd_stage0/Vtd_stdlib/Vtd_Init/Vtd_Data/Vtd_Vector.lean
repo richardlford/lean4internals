@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Init/Data/Vector`"  =>
+#doc (Manual) "`m/l/s/s/Init/Data/Vector`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Init/Data/Vector"
+tag := "mods-lean4-stage0-stdlib-Init-Data-Vector"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/stage0/stdlib/Init/Data/Vector`
+# `m/l/s/s/Init/Data/Vector` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Init/Data/Vector-files"
 %%%

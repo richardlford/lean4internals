@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/verso/browser-tests/literate-multi-root`"  =>
+#doc (Manual) "`m/verso/browser-tests/literate-multi-root`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/verso/browser-tests/literate-multi-root"
+tag := "mods-verso-browser-tests-literate-multi-root"
 %%%
 
 TODO
 
 
-# Files in `mods/verso/browser-tests/literate-multi-root`
+# `m/verso/browser-tests/literate-multi-root` Files
 %%%
 tag := "mods/verso/browser-tests/literate-multi-root-files"
 %%%

@@ -28,7 +28,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/verso"
+tag := "mods-verso"
 %%%
 
 TODO
@@ -43,7 +43,7 @@ TODO
 {include «Vtd_mods».«Vtd_verso».«Vtd_browser-tests»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_test-projects»}
 
-# Files in `mods/verso`
+# `mods/verso` Files
 %%%
 tag := "mods/verso-files"
 %%%

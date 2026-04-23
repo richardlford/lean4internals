@@ -19,11 +19,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition`"  =>
+#doc (Manual) "`m/l/s/s/Lean/Elab/PreDefinition`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition"
+tag := "mods-lean4-stage0-stdlib-Lean-Elab-PreDefinition"
 %%%
 
 TODO
@@ -33,7 +33,7 @@ TODO
 {include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Elab».«Vtd_PreDefinition».«Vtd_WF»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Elab».«Vtd_PreDefinition».«Vtd_Structural»}
 
-# Files in `mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition`
+# `m/l/s/s/Lean/Elab/PreDefinition` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition-files"
 %%%

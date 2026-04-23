@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Std/Data/ExtHashSet`"  =>
+#doc (Manual) "`m/l/s/s/Std/Data/ExtHashSet`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Std/Data/ExtHashSet"
+tag := "mods-lean4-stage0-stdlib-Std-Data-ExtHashSet"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/stage0/stdlib/Std/Data/ExtHashSet`
+# `m/l/s/s/Std/Data/ExtHashSet` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Std/Data/ExtHashSet-files"
 %%%

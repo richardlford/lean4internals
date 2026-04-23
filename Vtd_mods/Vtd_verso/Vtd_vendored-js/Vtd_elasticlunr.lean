@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/verso/vendored-js/elasticlunr`"  =>
+#doc (Manual) "`m/verso/vendored-js/elasticlunr`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/verso/vendored-js/elasticlunr"
+tag := "mods-verso-vendored-js-elasticlunr"
 %%%
 
 TODO
 
 
-# Files in `mods/verso/vendored-js/elasticlunr`
+# `m/verso/vendored-js/elasticlunr` Files
 %%%
 tag := "mods/verso/vendored-js/elasticlunr-files"
 %%%

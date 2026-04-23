@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Init/Data/Iterators/Producers/Monadic`"  =>
+#doc (Manual) "`m/l/s/s/I/D/Iterators/Producers/Monadic`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Init/Data/Iterators/Producers/Monadic"
+tag := "mods-lean4-stage0-stdlib-Init-Data-Iterators-Producers-Monadic"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/stage0/stdlib/Init/Data/Iterators/Producers/Monadic`
+# `m/l/s/s/I/D/Iterators/Producers/Monadic` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Init/Data/Iterators/Producers/Monadic-files"
 %%%

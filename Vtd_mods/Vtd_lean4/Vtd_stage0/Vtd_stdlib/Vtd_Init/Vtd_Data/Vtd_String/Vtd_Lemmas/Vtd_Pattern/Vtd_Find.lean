@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Init/Data/String/Lemmas/Pattern/Find`"  =>
+#doc (Manual) "`m/l/s/s/I/D/S/Lemmas/Pattern/Find`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Init/Data/String/Lemmas/Pattern/Find"
+tag := "mods-lean4-stage0-stdlib-Init-Data-String-Lemmas-Pattern-Find"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/stage0/stdlib/Init/Data/String/Lemmas/Pattern/Find`
+# `m/l/s/s/I/D/S/Lemmas/Pattern/Find` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Init/Data/String/Lemmas/Pattern/Find-files"
 %%%

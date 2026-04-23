@@ -18,11 +18,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Init/Control/Lawful`"  =>
+#doc (Manual) "`m/l/s/s/Init/Control/Lawful`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Init/Control/Lawful"
+tag := "mods-lean4-stage0-stdlib-Init-Control-Lawful"
 %%%
 
 TODO
@@ -31,7 +31,7 @@ TODO
 {include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Control».«Vtd_Lawful».«Vtd_MonadAttach»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Control».«Vtd_Lawful».«Vtd_MonadLift»}
 
-# Files in `mods/lean4/stage0/stdlib/Init/Control/Lawful`
+# `m/l/s/s/Init/Control/Lawful` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Init/Control/Lawful-files"
 %%%

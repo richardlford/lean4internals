@@ -19,11 +19,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/Lean/Parser`"  =>
+#doc (Manual) "`m/l/src/Lean/Parser`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/Lean/Parser"
+tag := "mods-lean4-src-Lean-Parser"
 %%%
 
 TODO
@@ -33,7 +33,7 @@ TODO
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Parser».«Vtd_Module»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Parser».«Vtd_Tactic»}
 
-# Files in `mods/lean4/src/Lean/Parser`
+# `m/l/src/Lean/Parser` Files
 %%%
 tag := "mods/lean4/src/Lean/Parser-files"
 %%%

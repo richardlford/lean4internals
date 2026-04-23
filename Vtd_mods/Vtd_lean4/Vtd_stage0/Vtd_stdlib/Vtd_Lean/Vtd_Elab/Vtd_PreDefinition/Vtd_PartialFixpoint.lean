@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/PartialFixpoint`"  =>
+#doc (Manual) "`m/l/s/s/L/Elab/PreDefinition/PartialFixpoint`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/PartialFixpoint"
+tag := "mods-lean4-stage0-stdlib-Lean-Elab-PreDefinition-PartialFixpoint"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/PartialFixpoint`
+# `m/l/s/s/L/Elab/PreDefinition/PartialFixpoint` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/PartialFixpoint-files"
 %%%

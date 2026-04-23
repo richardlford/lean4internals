@@ -18,11 +18,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/verso/test-projects/literate-config`"  =>
+#doc (Manual) "`m/verso/test-projects/literate-config`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/verso/test-projects/literate-config"
+tag := "mods-verso-test-projects-literate-config"
 %%%
 
 TODO
@@ -31,7 +31,7 @@ TODO
 {include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-config».«Vtd_images»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-config».«Vtd_LitConfig»}
 
-# Files in `mods/verso/test-projects/literate-config`
+# `m/verso/test-projects/literate-config` Files
 %%%
 tag := "mods/verso/test-projects/literate-config-files"
 %%%

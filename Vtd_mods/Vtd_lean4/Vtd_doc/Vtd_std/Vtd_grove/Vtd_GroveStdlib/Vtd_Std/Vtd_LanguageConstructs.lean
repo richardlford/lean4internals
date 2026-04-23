@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/doc/std/grove/GroveStdlib/Std/LanguageConstructs`"  =>
+#doc (Manual) "`m/l/d/s/g/GroveStdlib/Std/LanguageConstructs`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/doc/std/grove/GroveStdlib/Std/LanguageConstructs"
+tag := "mods-lean4-doc-std-grove-GroveStdlib-Std-LanguageConstructs"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/doc/std/grove/GroveStdlib/Std/LanguageConstructs`
+# `m/l/d/s/g/GroveStdlib/Std/LanguageConstructs` Files
 %%%
 tag := "mods/lean4/doc/std/grove/GroveStdlib/Std/LanguageConstructs-files"
 %%%

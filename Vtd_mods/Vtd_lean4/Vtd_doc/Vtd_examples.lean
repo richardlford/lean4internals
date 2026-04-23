@@ -21,11 +21,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/doc/examples`"  =>
+#doc (Manual) "`m/lean4/doc/examples`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/doc/examples"
+tag := "mods-lean4-doc-examples"
 %%%
 
 TODO
@@ -37,7 +37,7 @@ TODO
 {include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_NFM2022»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_ICERM2022»}
 
-# Files in `mods/lean4/doc/examples`
+# `m/lean4/doc/examples` Files
 %%%
 tag := "mods/lean4/doc/examples-files"
 %%%

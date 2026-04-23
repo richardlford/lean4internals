@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Init/Data/Nat/Bitwise`"  =>
+#doc (Manual) "`m/l/s/s/I/Data/Nat/Bitwise`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Init/Data/Nat/Bitwise"
+tag := "mods-lean4-stage0-stdlib-Init-Data-Nat-Bitwise"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/stage0/stdlib/Init/Data/Nat/Bitwise`
+# `m/l/s/s/I/Data/Nat/Bitwise` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Init/Data/Nat/Bitwise-files"
 %%%

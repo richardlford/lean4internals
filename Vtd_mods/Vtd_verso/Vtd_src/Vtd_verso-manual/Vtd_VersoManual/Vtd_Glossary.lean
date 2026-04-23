@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/verso/src/verso-manual/VersoManual/Glossary`"  =>
+#doc (Manual) "`m/v/s/verso-manual/VersoManual/Glossary`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/verso/src/verso-manual/VersoManual/Glossary"
+tag := "mods-verso-src-verso-manual-VersoManual-Glossary"
 %%%
 
 TODO
 
 
-# Files in `mods/verso/src/verso-manual/VersoManual/Glossary`
+# `m/v/s/verso-manual/VersoManual/Glossary` Files
 %%%
 tag := "mods/verso/src/verso-manual/VersoManual/Glossary-files"
 %%%

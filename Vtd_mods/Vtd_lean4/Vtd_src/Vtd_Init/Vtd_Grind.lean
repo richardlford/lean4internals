@@ -19,11 +19,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/Init/Grind`"  =>
+#doc (Manual) "`m/l/src/Init/Grind`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/Init/Grind"
+tag := "mods-lean4-src-Init-Grind"
 %%%
 
 TODO
@@ -33,7 +33,7 @@ TODO
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Grind».«Vtd_Ring»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Grind».«Vtd_Ordered»}
 
-# Files in `mods/lean4/src/Init/Grind`
+# `m/l/src/Init/Grind` Files
 %%%
 tag := "mods/lean4/src/Init/Grind-files"
 %%%

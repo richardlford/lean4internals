@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/Lean/Data/NameMap`"  =>
+#doc (Manual) "`m/l/s/Lean/Data/NameMap`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/Lean/Data/NameMap"
+tag := "mods-lean4-src-Lean-Data-NameMap"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/src/Lean/Data/NameMap`
+# `m/l/s/Lean/Data/NameMap` Files
 %%%
 tag := "mods/lean4/src/Lean/Data/NameMap-files"
 %%%

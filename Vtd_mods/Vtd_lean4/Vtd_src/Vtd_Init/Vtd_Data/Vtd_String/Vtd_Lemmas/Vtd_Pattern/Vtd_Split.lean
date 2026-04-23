@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/Init/Data/String/Lemmas/Pattern/Split`"  =>
+#doc (Manual) "`m/l/s/I/D/S/Lemmas/Pattern/Split`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/Init/Data/String/Lemmas/Pattern/Split"
+tag := "mods-lean4-src-Init-Data-String-Lemmas-Pattern-Split"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/src/Init/Data/String/Lemmas/Pattern/Split`
+# `m/l/s/I/D/S/Lemmas/Pattern/Split` Files
 %%%
 tag := "mods/lean4/src/Init/Data/String/Lemmas/Pattern/Split-files"
 %%%

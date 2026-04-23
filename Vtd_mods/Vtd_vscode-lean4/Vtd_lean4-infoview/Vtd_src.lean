@@ -18,11 +18,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/vscode-lean4/lean4-infoview/src`"  =>
+#doc (Manual) "`m/vscode-lean4/lean4-infoview/src`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/vscode-lean4/lean4-infoview/src"
+tag := "mods-vscode-lean4-lean4-infoview-src"
 %%%
 
 TODO
@@ -31,7 +31,7 @@ TODO
 {include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_esm-shims»}
 {include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview»}
 
-# Files in `mods/vscode-lean4/lean4-infoview/src`
+# `m/vscode-lean4/lean4-infoview/src` Files
 %%%
 tag := "mods/vscode-lean4/lean4-infoview/src-files"
 %%%

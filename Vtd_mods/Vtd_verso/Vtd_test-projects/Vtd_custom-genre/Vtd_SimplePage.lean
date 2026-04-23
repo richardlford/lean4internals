@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/verso/test-projects/custom-genre/SimplePage`"  =>
+#doc (Manual) "`m/v/test-projects/custom-genre/SimplePage`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/verso/test-projects/custom-genre/SimplePage"
+tag := "mods-verso-test-projects-custom-genre-SimplePage"
 %%%
 
 TODO
 
 
-# Files in `mods/verso/test-projects/custom-genre/SimplePage`
+# `m/v/test-projects/custom-genre/SimplePage` Files
 %%%
 tag := "mods/verso/test-projects/custom-genre/SimplePage-files"
 %%%

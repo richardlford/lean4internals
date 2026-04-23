@@ -18,11 +18,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/Std/Data/DTreeMap`"  =>
+#doc (Manual) "`m/l/s/Std/Data/DTreeMap`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/Std/Data/DTreeMap"
+tag := "mods-lean4-src-Std-Data-DTreeMap"
 %%%
 
 TODO
@@ -31,7 +31,7 @@ TODO
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DTreeMap».«Vtd_Internal»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DTreeMap».«Vtd_Raw»}
 
-# Files in `mods/lean4/src/Std/Data/DTreeMap`
+# `m/l/s/Std/Data/DTreeMap` Files
 %%%
 tag := "mods/lean4/src/Std/Data/DTreeMap-files"
 %%%

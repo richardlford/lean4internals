@@ -18,11 +18,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/verso/test-projects/literate-multi-root`"  =>
+#doc (Manual) "`m/verso/test-projects/literate-multi-root`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/verso/test-projects/literate-multi-root"
+tag := "mods-verso-test-projects-literate-multi-root"
 %%%
 
 TODO
@@ -31,7 +31,7 @@ TODO
 {include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-multi-root».«Vtd_LibA»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-multi-root».«Vtd_LibB»}
 
-# Files in `mods/verso/test-projects/literate-multi-root`
+# `m/verso/test-projects/literate-multi-root` Files
 %%%
 tag := "mods/verso/test-projects/literate-multi-root-files"
 %%%

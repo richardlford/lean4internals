@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Init/Data/BitVec`"  =>
+#doc (Manual) "`m/l/s/s/Init/Data/BitVec`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Init/Data/BitVec"
+tag := "mods-lean4-stage0-stdlib-Init-Data-BitVec"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/stage0/stdlib/Init/Data/BitVec`
+# `m/l/s/s/Init/Data/BitVec` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Init/Data/BitVec-files"
 %%%

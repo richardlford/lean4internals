@@ -20,11 +20,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/Std/Data/Iterators`"  =>
+#doc (Manual) "`m/l/s/Std/Data/Iterators`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/Std/Data/Iterators"
+tag := "mods-lean4-src-Std-Data-Iterators"
 %%%
 
 TODO
@@ -35,7 +35,7 @@ TODO
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Combinators»}
 
-# Files in `mods/lean4/src/Std/Data/Iterators`
+# `m/l/s/Std/Data/Iterators` Files
 %%%
 tag := "mods/lean4/src/Std/Data/Iterators-files"
 %%%

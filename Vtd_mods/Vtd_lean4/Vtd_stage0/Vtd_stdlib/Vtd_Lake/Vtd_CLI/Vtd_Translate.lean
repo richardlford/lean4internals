@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Lake/CLI/Translate`"  =>
+#doc (Manual) "`m/l/s/s/Lake/CLI/Translate`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Lake/CLI/Translate"
+tag := "mods-lean4-stage0-stdlib-Lake-CLI-Translate"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/stage0/stdlib/Lake/CLI/Translate`
+# `m/l/s/s/Lake/CLI/Translate` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Lake/CLI/Translate-files"
 %%%

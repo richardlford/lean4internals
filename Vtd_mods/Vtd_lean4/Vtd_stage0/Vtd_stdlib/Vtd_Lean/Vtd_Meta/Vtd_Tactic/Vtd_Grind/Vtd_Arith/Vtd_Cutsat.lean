@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Arith/Cutsat`"  =>
+#doc (Manual) "`m/l/s/s/L/M/T/Grind/Arith/Cutsat`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Arith/Cutsat"
+tag := "mods-lean4-stage0-stdlib-Lean-Meta-Tactic-Grind-Arith-Cutsat"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Arith/Cutsat`
+# `m/l/s/s/L/M/T/Grind/Arith/Cutsat` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/Arith/Cutsat-files"
 %%%

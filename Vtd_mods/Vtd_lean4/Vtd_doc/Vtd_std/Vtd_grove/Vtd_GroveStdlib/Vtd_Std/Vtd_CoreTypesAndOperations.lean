@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/doc/std/grove/GroveStdlib/Std/CoreTypesAndOperations`"  =>
+#doc (Manual) "`m/l/d/s/g/GroveStdlib/Std/CoreTypesAndOperations`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/doc/std/grove/GroveStdlib/Std/CoreTypesAndOperations"
+tag := "mods-lean4-doc-std-grove-GroveStdlib-Std-CoreTypesAndOperations"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/doc/std/grove/GroveStdlib/Std/CoreTypesAndOperations`
+# `m/l/d/s/g/GroveStdlib/Std/CoreTypesAndOperations` Files
 %%%
 tag := "mods/lean4/doc/std/grove/GroveStdlib/Std/CoreTypesAndOperations-files"
 %%%

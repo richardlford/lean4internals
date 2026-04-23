@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/Lean/Meta/DiscrTree`"  =>
+#doc (Manual) "`m/l/s/Lean/Meta/DiscrTree`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/Lean/Meta/DiscrTree"
+tag := "mods-lean4-src-Lean-Meta-DiscrTree"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/src/Lean/Meta/DiscrTree`
+# `m/l/s/Lean/Meta/DiscrTree` Files
 %%%
 tag := "mods/lean4/src/Lean/Meta/DiscrTree-files"
 %%%

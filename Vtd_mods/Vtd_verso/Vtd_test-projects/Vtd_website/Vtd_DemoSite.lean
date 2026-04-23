@@ -17,11 +17,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/verso/test-projects/website/DemoSite`"  =>
+#doc (Manual) "`m/v/test-projects/website/DemoSite`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/verso/test-projects/website/DemoSite"
+tag := "mods-verso-test-projects-website-DemoSite"
 %%%
 
 TODO
@@ -29,7 +29,7 @@ TODO
 
 {include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website».«Vtd_DemoSite».«Vtd_Blog»}
 
-# Files in `mods/verso/test-projects/website/DemoSite`
+# `m/v/test-projects/website/DemoSite` Files
 %%%
 tag := "mods/verso/test-projects/website/DemoSite-files"
 %%%

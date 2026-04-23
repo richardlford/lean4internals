@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/Lean/PrettyPrinter/Delaborator`"  =>
+#doc (Manual) "`m/l/s/Lean/PrettyPrinter/Delaborator`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/Lean/PrettyPrinter/Delaborator"
+tag := "mods-lean4-src-Lean-PrettyPrinter-Delaborator"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/src/Lean/PrettyPrinter/Delaborator`
+# `m/l/s/Lean/PrettyPrinter/Delaborator` Files
 %%%
 tag := "mods/lean4/src/Lean/PrettyPrinter/Delaborator-files"
 %%%

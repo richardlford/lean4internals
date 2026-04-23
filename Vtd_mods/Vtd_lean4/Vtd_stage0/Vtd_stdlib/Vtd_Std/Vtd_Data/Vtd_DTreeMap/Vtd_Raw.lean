@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Std/Data/DTreeMap/Raw`"  =>
+#doc (Manual) "`m/l/s/s/S/Data/DTreeMap/Raw`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Std/Data/DTreeMap/Raw"
+tag := "mods-lean4-stage0-stdlib-Std-Data-DTreeMap-Raw"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/stage0/stdlib/Std/Data/DTreeMap/Raw`
+# `m/l/s/s/S/Data/DTreeMap/Raw` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Std/Data/DTreeMap/Raw-files"
 %%%

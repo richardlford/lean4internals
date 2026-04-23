@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/verso/test-projects/anchor-examples/AnchorExamples`"  =>
+#doc (Manual) "`m/v/test-projects/anchor-examples/AnchorExamples`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/verso/test-projects/anchor-examples/AnchorExamples"
+tag := "mods-verso-test-projects-anchor-examples-AnchorExamples"
 %%%
 
 TODO
 
 
-# Files in `mods/verso/test-projects/anchor-examples/AnchorExamples`
+# `m/v/test-projects/anchor-examples/AnchorExamples` Files
 %%%
 tag := "mods/verso/test-projects/anchor-examples/AnchorExamples-files"
 %%%

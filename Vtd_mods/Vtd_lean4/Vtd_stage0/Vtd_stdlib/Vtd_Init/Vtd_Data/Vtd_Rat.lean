@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Init/Data/Rat`"  =>
+#doc (Manual) "`m/l/s/s/Init/Data/Rat`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Init/Data/Rat"
+tag := "mods-lean4-stage0-stdlib-Init-Data-Rat"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/stage0/stdlib/Init/Data/Rat`
+# `m/l/s/s/Init/Data/Rat` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Init/Data/Rat-files"
 %%%

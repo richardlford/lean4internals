@@ -18,11 +18,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Simp/Arith`"  =>
+#doc (Manual) "`m/l/s/s/L/M/Tactic/Simp/Arith`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Simp/Arith"
+tag := "mods-lean4-stage0-stdlib-Lean-Meta-Tactic-Simp-Arith"
 %%%
 
 TODO
@@ -31,7 +31,7 @@ TODO
 {include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Meta».«Vtd_Tactic».«Vtd_Simp».«Vtd_Arith».«Vtd_Int»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Meta».«Vtd_Tactic».«Vtd_Simp».«Vtd_Arith».«Vtd_Nat»}
 
-# Files in `mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Simp/Arith`
+# `m/l/s/s/L/M/Tactic/Simp/Arith` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Simp/Arith-files"
 %%%

@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/verso/vendored-js/tippy/themes`"  =>
+#doc (Manual) "`m/v/vendored-js/tippy/themes`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/verso/vendored-js/tippy/themes"
+tag := "mods-verso-vendored-js-tippy-themes"
 %%%
 
 TODO
 
 
-# Files in `mods/verso/vendored-js/tippy/themes`
+# `m/v/vendored-js/tippy/themes` Files
 %%%
 tag := "mods/verso/vendored-js/tippy/themes-files"
 %%%

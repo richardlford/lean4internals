@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/vscode-lean4/vscode-lean4/test/test-fixtures/lakefileTomlSchemaTestCases/invalid`"  =>
+#doc (Manual) "`m/v/v/t/test-fixtures/lakefileTomlSchemaTestCases/invalid`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/vscode-lean4/vscode-lean4/test/test-fixtures/lakefileTomlSchemaTestCases/invalid"
+tag := "mods-vscode-lean4-vscode-lean4-test-test-fixtures-lakefileTomlSchemaTestCases-invalid"
 %%%
 
 TODO
 
 
-# Files in `mods/vscode-lean4/vscode-lean4/test/test-fixtures/lakefileTomlSchemaTestCases/invalid`
+# `m/v/v/t/test-fixtures/lakefileTomlSchemaTestCases/invalid` Files
 %%%
 tag := "mods/vscode-lean4/vscode-lean4/test/test-fixtures/lakefileTomlSchemaTestCases/invalid-files"
 %%%

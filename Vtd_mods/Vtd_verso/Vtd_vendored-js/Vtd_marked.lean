@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/verso/vendored-js/marked`"  =>
+#doc (Manual) "`m/verso/vendored-js/marked`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/verso/vendored-js/marked"
+tag := "mods-verso-vendored-js-marked"
 %%%
 
 TODO
 
 
-# Files in `mods/verso/vendored-js/marked`
+# `m/verso/vendored-js/marked` Files
 %%%
 tag := "mods/verso/vendored-js/marked-files"
 %%%

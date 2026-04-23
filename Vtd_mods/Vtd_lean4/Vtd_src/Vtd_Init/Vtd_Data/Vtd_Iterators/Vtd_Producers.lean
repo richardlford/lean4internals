@@ -17,11 +17,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/Init/Data/Iterators/Producers`"  =>
+#doc (Manual) "`m/l/s/I/Data/Iterators/Producers`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/Init/Data/Iterators/Producers"
+tag := "mods-lean4-src-Init-Data-Iterators-Producers"
 %%%
 
 TODO
@@ -29,7 +29,7 @@ TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Iterators».«Vtd_Producers».«Vtd_Monadic»}
 
-# Files in `mods/lean4/src/Init/Data/Iterators/Producers`
+# `m/l/s/I/Data/Iterators/Producers` Files
 %%%
 tag := "mods/lean4/src/Init/Data/Iterators/Producers-files"
 %%%

@@ -17,11 +17,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/Std/Sat/AIG`"  =>
+#doc (Manual) "`m/l/s/Std/Sat/AIG`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/Std/Sat/AIG"
+tag := "mods-lean4-src-Std-Sat-AIG"
 %%%
 
 TODO
@@ -29,7 +29,7 @@ TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Sat».«Vtd_AIG».«Vtd_RefVecOperator»}
 
-# Files in `mods/lean4/src/Std/Sat/AIG`
+# `m/l/s/Std/Sat/AIG` Files
 %%%
 tag := "mods/lean4/src/Std/Sat/AIG-files"
 %%%

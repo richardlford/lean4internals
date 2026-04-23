@@ -33,7 +33,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/verso/src"
+tag := "mods-verso-src"
 %%%
 
 TODO

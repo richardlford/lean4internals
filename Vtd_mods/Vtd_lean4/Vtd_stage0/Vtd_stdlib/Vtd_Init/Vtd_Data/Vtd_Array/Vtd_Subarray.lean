@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Init/Data/Array/Subarray`"  =>
+#doc (Manual) "`m/l/s/s/I/Data/Array/Subarray`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Init/Data/Array/Subarray"
+tag := "mods-lean4-stage0-stdlib-Init-Data-Array-Subarray"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/stage0/stdlib/Init/Data/Array/Subarray`
+# `m/l/s/s/I/Data/Array/Subarray` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Init/Data/Array/Subarray-files"
 %%%

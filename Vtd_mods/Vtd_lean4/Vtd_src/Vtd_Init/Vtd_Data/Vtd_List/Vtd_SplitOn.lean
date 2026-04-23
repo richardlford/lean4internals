@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/Init/Data/List/SplitOn`"  =>
+#doc (Manual) "`m/l/s/I/Data/List/SplitOn`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/Init/Data/List/SplitOn"
+tag := "mods-lean4-src-Init-Data-List-SplitOn"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/src/Init/Data/List/SplitOn`
+# `m/l/s/I/Data/List/SplitOn` Files
 %%%
 tag := "mods/lean4/src/Init/Data/List/SplitOn-files"
 %%%

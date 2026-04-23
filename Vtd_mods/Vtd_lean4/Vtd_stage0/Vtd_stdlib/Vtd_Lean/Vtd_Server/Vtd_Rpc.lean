@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Lean/Server/Rpc`"  =>
+#doc (Manual) "`m/l/s/s/Lean/Server/Rpc`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Lean/Server/Rpc"
+tag := "mods-lean4-stage0-stdlib-Lean-Server-Rpc"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/stage0/stdlib/Lean/Server/Rpc`
+# `m/l/s/s/Lean/Server/Rpc` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Lean/Server/Rpc-files"
 %%%

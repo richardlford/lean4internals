@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/verso/test-projects/website-literate`"  =>
+#doc (Manual) "`m/verso/test-projects/website-literate`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/verso/test-projects/website-literate"
+tag := "mods-verso-test-projects-website-literate"
 %%%
 
 TODO
 
 
-# Files in `mods/verso/test-projects/website-literate`
+# `m/verso/test-projects/website-literate` Files
 %%%
 tag := "mods/verso/test-projects/website-literate-files"
 %%%

@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/Std/Data/ExtHashMap`"  =>
+#doc (Manual) "`m/l/s/Std/Data/ExtHashMap`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/Std/Data/ExtHashMap"
+tag := "mods-lean4-src-Std-Data-ExtHashMap"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/src/Std/Data/ExtHashMap`
+# `m/l/s/Std/Data/ExtHashMap` Files
 %%%
 tag := "mods/lean4/src/Std/Data/ExtHashMap-files"
 %%%

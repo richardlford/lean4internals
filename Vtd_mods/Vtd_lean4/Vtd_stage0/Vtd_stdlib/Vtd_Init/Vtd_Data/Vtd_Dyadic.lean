@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Init/Data/Dyadic`"  =>
+#doc (Manual) "`m/l/s/s/Init/Data/Dyadic`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Init/Data/Dyadic"
+tag := "mods-lean4-stage0-stdlib-Init-Data-Dyadic"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/stage0/stdlib/Init/Data/Dyadic`
+# `m/l/s/s/Init/Data/Dyadic` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Init/Data/Dyadic-files"
 %%%

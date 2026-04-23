@@ -21,11 +21,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/vscode-lean4/vscode-lean4/test/test-fixtures`"  =>
+#doc (Manual) "`m/v/vscode-lean4/test/test-fixtures`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/vscode-lean4/vscode-lean4/test/test-fixtures"
+tag := "mods-vscode-lean4-vscode-lean4-test-test-fixtures"
 %%%
 
 TODO

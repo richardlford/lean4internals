@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Init/Data/Nat/Power2`"  =>
+#doc (Manual) "`m/l/s/s/I/Data/Nat/Power2`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Init/Data/Nat/Power2"
+tag := "mods-lean4-stage0-stdlib-Init-Data-Nat-Power2"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/stage0/stdlib/Init/Data/Nat/Power2`
+# `m/l/s/s/I/Data/Nat/Power2` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Init/Data/Nat/Power2-files"
 %%%

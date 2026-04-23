@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Lake/Toml/Data`"  =>
+#doc (Manual) "`m/l/s/s/Lake/Toml/Data`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Lake/Toml/Data"
+tag := "mods-lean4-stage0-stdlib-Lake-Toml-Data"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/stage0/stdlib/Lake/Toml/Data`
+# `m/l/s/s/Lake/Toml/Data` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Lake/Toml/Data-files"
 %%%

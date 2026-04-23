@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Std/Internal/Parsec`"  =>
+#doc (Manual) "`m/l/s/s/Std/Internal/Parsec`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Std/Internal/Parsec"
+tag := "mods-lean4-stage0-stdlib-Std-Internal-Parsec"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/stage0/stdlib/Std/Internal/Parsec`
+# `m/l/s/s/Std/Internal/Parsec` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Std/Internal/Parsec-files"
 %%%

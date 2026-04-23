@@ -17,11 +17,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/Lean/Language`"  =>
+#doc (Manual) "`m/l/src/Lean/Language`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/Lean/Language"
+tag := "mods-lean4-src-Lean-Language"
 %%%
 
 TODO
@@ -29,7 +29,7 @@ TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Language».«Vtd_Lean»}
 
-# Files in `mods/lean4/src/Lean/Language`
+# `m/l/src/Lean/Language` Files
 %%%
 tag := "mods/lean4/src/Lean/Language-files"
 %%%

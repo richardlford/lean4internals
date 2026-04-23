@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/Init/Data/Subtype`"  =>
+#doc (Manual) "`m/l/s/Init/Data/Subtype`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/Init/Data/Subtype"
+tag := "mods-lean4-src-Init-Data-Subtype"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/src/Init/Data/Subtype`
+# `m/l/s/Init/Data/Subtype` Files
 %%%
 tag := "mods/lean4/src/Init/Data/Subtype-files"
 %%%

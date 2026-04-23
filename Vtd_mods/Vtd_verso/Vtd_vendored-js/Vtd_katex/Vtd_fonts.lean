@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/verso/vendored-js/katex/fonts`"  =>
+#doc (Manual) "`m/v/vendored-js/katex/fonts`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/verso/vendored-js/katex/fonts"
+tag := "mods-verso-vendored-js-katex-fonts"
 %%%
 
 TODO
 
 
-# Files in `mods/verso/vendored-js/katex/fonts`
+# `m/v/vendored-js/katex/fonts` Files
 %%%
 tag := "mods/verso/vendored-js/katex/fonts-files"
 %%%

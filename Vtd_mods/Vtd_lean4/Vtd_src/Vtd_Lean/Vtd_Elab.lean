@@ -26,11 +26,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/Lean/Elab`"  =>
+#doc (Manual) "`m/l/src/Lean/Elab`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/Lean/Elab"
+tag := "mods-lean4-src-Lean-Elab"
 %%%
 
 TODO
@@ -47,7 +47,7 @@ TODO
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Elab».«Vtd_DocString»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Elab».«Vtd_Deriving»}
 
-# Files in `mods/lean4/src/Lean/Elab`
+# `m/l/src/Lean/Elab` Files
 %%%
 tag := "mods/lean4/src/Lean/Elab-files"
 %%%

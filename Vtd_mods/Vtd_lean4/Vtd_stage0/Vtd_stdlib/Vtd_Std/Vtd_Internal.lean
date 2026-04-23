@@ -20,11 +20,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Std/Internal`"  =>
+#doc (Manual) "`m/l/s/stdlib/Std/Internal`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Std/Internal"
+tag := "mods-lean4-stage0-stdlib-Std-Internal"
 %%%
 
 TODO
@@ -35,7 +35,7 @@ TODO
 {include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Internal».«Vtd_Http»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Internal».«Vtd_Async»}
 
-# Files in `mods/lean4/stage0/stdlib/Std/Internal`
+# `m/l/s/stdlib/Std/Internal` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Std/Internal-files"
 %%%

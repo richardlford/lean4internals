@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Lean/Meta/Match/MatcherApp`"  =>
+#doc (Manual) "`m/l/s/s/L/Meta/Match/MatcherApp`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Lean/Meta/Match/MatcherApp"
+tag := "mods-lean4-stage0-stdlib-Lean-Meta-Match-MatcherApp"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/stage0/stdlib/Lean/Meta/Match/MatcherApp`
+# `m/l/s/s/L/Meta/Match/MatcherApp` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Lean/Meta/Match/MatcherApp-files"
 %%%

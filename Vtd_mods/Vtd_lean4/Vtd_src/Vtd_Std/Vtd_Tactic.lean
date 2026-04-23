@@ -18,11 +18,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/Std/Tactic`"  =>
+#doc (Manual) "`m/l/src/Std/Tactic`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/Std/Tactic"
+tag := "mods-lean4-src-Std-Tactic"
 %%%
 
 TODO
@@ -31,7 +31,7 @@ TODO
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_Do»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide»}
 
-# Files in `mods/lean4/src/Std/Tactic`
+# `m/l/src/Std/Tactic` Files
 %%%
 tag := "mods/lean4/src/Std/Tactic-files"
 %%%

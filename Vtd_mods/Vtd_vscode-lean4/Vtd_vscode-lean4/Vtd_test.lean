@@ -18,11 +18,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/vscode-lean4/vscode-lean4/test`"  =>
+#doc (Manual) "`m/vscode-lean4/vscode-lean4/test`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/vscode-lean4/vscode-lean4/test"
+tag := "mods-vscode-lean4-vscode-lean4-test"
 %%%
 
 TODO
@@ -31,7 +31,7 @@ TODO
 {include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_test».«Vtd_test-fixtures»}
 {include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_test».«Vtd_suite»}
 
-# Files in `mods/vscode-lean4/vscode-lean4/test`
+# `m/vscode-lean4/vscode-lean4/test` Files
 %%%
 tag := "mods/vscode-lean4/vscode-lean4/test-files"
 %%%

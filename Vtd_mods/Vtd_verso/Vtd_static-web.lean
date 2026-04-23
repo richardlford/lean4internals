@@ -22,7 +22,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/verso/static-web"
+tag := "mods-verso-static-web"
 %%%
 
 TODO
@@ -31,7 +31,7 @@ TODO
 {include «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_literate»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search»}
 
-# Files in `mods/verso/static-web`
+# `mods/verso/static-web` Files
 %%%
 tag := "mods/verso/static-web-files"
 %%%

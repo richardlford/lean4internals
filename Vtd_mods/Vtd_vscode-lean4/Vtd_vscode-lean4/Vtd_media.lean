@@ -17,11 +17,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/vscode-lean4/vscode-lean4/media`"  =>
+#doc (Manual) "`m/vscode-lean4/vscode-lean4/media`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/vscode-lean4/vscode-lean4/media"
+tag := "mods-vscode-lean4-vscode-lean4-media"
 %%%
 
 TODO
@@ -29,7 +29,7 @@ TODO
 
 {include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_media».«Vtd_diagnostic-gutter-icons»}
 
-# Files in `mods/vscode-lean4/vscode-lean4/media`
+# `m/vscode-lean4/vscode-lean4/media` Files
 %%%
 tag := "mods/vscode-lean4/vscode-lean4/media-files"
 %%%

@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/Structural`"  =>
+#doc (Manual) "`m/l/s/s/L/Elab/PreDefinition/Structural`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/Structural"
+tag := "mods-lean4-stage0-stdlib-Lean-Elab-PreDefinition-Structural"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/Structural`
+# `m/l/s/s/L/Elab/PreDefinition/Structural` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/Structural-files"
 %%%

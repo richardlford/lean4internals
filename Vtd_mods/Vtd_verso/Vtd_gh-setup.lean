@@ -14,13 +14,13 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/verso/gh-setup"
+tag := "mods-verso-gh-setup"
 %%%
 
 TODO
 
 
-# Files in `mods/verso/gh-setup`
+# `mods/verso/gh-setup` Files
 %%%
 tag := "mods/verso/gh-setup-files"
 %%%

@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/Init/Data/Range/Polymorphic/Internal`"  =>
+#doc (Manual) "`m/l/s/I/D/Range/Polymorphic/Internal`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/Init/Data/Range/Polymorphic/Internal"
+tag := "mods-lean4-src-Init-Data-Range-Polymorphic-Internal"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/src/Init/Data/Range/Polymorphic/Internal`
+# `m/l/s/I/D/Range/Polymorphic/Internal` Files
 %%%
 tag := "mods/lean4/src/Init/Data/Range/Polymorphic/Internal-files"
 %%%

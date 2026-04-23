@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/verso/src/cli`"  =>
+#doc (Manual) "`m/verso/src/cli`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/verso/src/cli"
+tag := "mods-verso-src-cli"
 %%%
 
 TODO
 
 
-# Files in `mods/verso/src/cli`
+# `m/verso/src/cli` Files
 %%%
 tag := "mods/verso/src/cli-files"
 %%%

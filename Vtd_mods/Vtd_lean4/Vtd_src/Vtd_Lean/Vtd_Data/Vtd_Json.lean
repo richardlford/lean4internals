@@ -17,11 +17,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/Lean/Data/Json`"  =>
+#doc (Manual) "`m/l/s/Lean/Data/Json`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/Lean/Data/Json"
+tag := "mods-lean4-src-Lean-Data-Json"
 %%%
 
 TODO
@@ -29,7 +29,7 @@ TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Data».«Vtd_Json».«Vtd_FromToJson»}
 
-# Files in `mods/lean4/src/Lean/Data/Json`
+# `m/l/s/Lean/Data/Json` Files
 %%%
 tag := "mods/lean4/src/Lean/Data/Json-files"
 %%%

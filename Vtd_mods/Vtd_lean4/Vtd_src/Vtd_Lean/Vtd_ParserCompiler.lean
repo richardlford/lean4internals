@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/Lean/ParserCompiler`"  =>
+#doc (Manual) "`m/l/src/Lean/ParserCompiler`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/Lean/ParserCompiler"
+tag := "mods-lean4-src-Lean-ParserCompiler"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/src/Lean/ParserCompiler`
+# `m/l/src/Lean/ParserCompiler` Files
 %%%
 tag := "mods/lean4/src/Lean/ParserCompiler-files"
 %%%

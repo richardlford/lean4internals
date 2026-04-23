@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/Std/Internal/Async`"  =>
+#doc (Manual) "`m/l/s/Std/Internal/Async`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/Std/Internal/Async"
+tag := "mods-lean4-src-Std-Internal-Async"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/src/Std/Internal/Async`
+# `m/l/s/Std/Internal/Async` Files
 %%%
 tag := "mods/lean4/src/Std/Internal/Async-files"
 %%%

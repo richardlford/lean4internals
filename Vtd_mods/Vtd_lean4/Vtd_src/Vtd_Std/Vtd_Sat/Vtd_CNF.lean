@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/Std/Sat/CNF`"  =>
+#doc (Manual) "`m/l/s/Std/Sat/CNF`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/Std/Sat/CNF"
+tag := "mods-lean4-src-Std-Sat-CNF"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/src/Std/Sat/CNF`
+# `m/l/s/Std/Sat/CNF` Files
 %%%
 tag := "mods/lean4/src/Std/Sat/CNF-files"
 %%%

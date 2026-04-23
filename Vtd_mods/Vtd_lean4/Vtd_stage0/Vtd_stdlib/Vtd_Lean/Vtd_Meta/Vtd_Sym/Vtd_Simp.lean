@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp`"  =>
+#doc (Manual) "`m/l/s/s/L/Meta/Sym/Simp`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp"
+tag := "mods-lean4-stage0-stdlib-Lean-Meta-Sym-Simp"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp`
+# `m/l/s/s/L/Meta/Sym/Simp` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Lean/Meta/Sym/Simp-files"
 %%%

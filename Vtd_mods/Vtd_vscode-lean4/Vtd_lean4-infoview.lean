@@ -22,7 +22,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/vscode-lean4/lean4-infoview"
+tag := "mods-vscode-lean4-lean4-infoview"
 %%%
 
 TODO
@@ -31,7 +31,7 @@ TODO
 {include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_test»}
 {include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src»}
 
-# Files in `mods/vscode-lean4/lean4-infoview`
+# `mods/vscode-lean4/lean4-infoview` Files
 %%%
 tag := "mods/vscode-lean4/lean4-infoview-files"
 %%%

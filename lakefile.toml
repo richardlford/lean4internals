@@ -4,8 +4,8 @@ defaultTargets = ["internals"]
 
 [[require]]
 name = "verso"
-git = "https://github.com/leanprover/verso"
-rev = "main"
+git = "https://github.com/richardlford/verso"
+rev = "rlf-mods"
 
 [[lean_lib]]
 name = "Vtd_mods"

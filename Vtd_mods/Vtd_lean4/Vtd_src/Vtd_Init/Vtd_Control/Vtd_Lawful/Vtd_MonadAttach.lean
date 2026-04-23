@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/Init/Control/Lawful/MonadAttach`"  =>
+#doc (Manual) "`m/l/s/I/Control/Lawful/MonadAttach`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/Init/Control/Lawful/MonadAttach"
+tag := "mods-lean4-src-Init-Control-Lawful-MonadAttach"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/src/Init/Control/Lawful/MonadAttach`
+# `m/l/s/I/Control/Lawful/MonadAttach` Files
 %%%
 tag := "mods/lean4/src/Init/Control/Lawful/MonadAttach-files"
 %%%

@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/verso/vendored-js/axe-core`"  =>
+#doc (Manual) "`m/verso/vendored-js/axe-core`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/verso/vendored-js/axe-core"
+tag := "mods-verso-vendored-js-axe-core"
 %%%
 
 TODO
 
 
-# Files in `mods/verso/vendored-js/axe-core`
+# `m/verso/vendored-js/axe-core` Files
 %%%
 tag := "mods/verso/vendored-js/axe-core-files"
 %%%

@@ -22,7 +22,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0"
+tag := "mods-lean4-stage0"
 %%%
 
 TODO

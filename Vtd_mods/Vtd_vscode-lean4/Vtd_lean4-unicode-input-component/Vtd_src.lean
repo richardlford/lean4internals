@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/vscode-lean4/lean4-unicode-input-component/src`"  =>
+#doc (Manual) "`m/vscode-lean4/lean4-unicode-input-component/src`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/vscode-lean4/lean4-unicode-input-component/src"
+tag := "mods-vscode-lean4-lean4-unicode-input-component-src"
 %%%
 
 TODO
 
 
-# Files in `mods/vscode-lean4/lean4-unicode-input-component/src`
+# `m/vscode-lean4/lean4-unicode-input-component/src` Files
 %%%
 tag := "mods/vscode-lean4/lean4-unicode-input-component/src-files"
 %%%

@@ -18,11 +18,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/verso/vendored-js/katex`"  =>
+#doc (Manual) "`m/verso/vendored-js/katex`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/verso/vendored-js/katex"
+tag := "mods-verso-vendored-js-katex"
 %%%
 
 TODO
@@ -31,7 +31,7 @@ TODO
 {include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_contrib»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts»}
 
-# Files in `mods/verso/vendored-js/katex`
+# `m/verso/vendored-js/katex` Files
 %%%
 tag := "mods/verso/vendored-js/katex-files"
 %%%

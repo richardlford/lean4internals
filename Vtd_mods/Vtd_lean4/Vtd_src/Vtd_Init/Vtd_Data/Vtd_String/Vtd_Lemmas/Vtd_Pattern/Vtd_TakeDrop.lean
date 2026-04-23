@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/Init/Data/String/Lemmas/Pattern/TakeDrop`"  =>
+#doc (Manual) "`m/l/s/I/D/S/Lemmas/Pattern/TakeDrop`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/Init/Data/String/Lemmas/Pattern/TakeDrop"
+tag := "mods-lean4-src-Init-Data-String-Lemmas-Pattern-TakeDrop"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/src/Init/Data/String/Lemmas/Pattern/TakeDrop`
+# `m/l/s/I/D/S/Lemmas/Pattern/TakeDrop` Files
 %%%
 tag := "mods/lean4/src/Init/Data/String/Lemmas/Pattern/TakeDrop-files"
 %%%

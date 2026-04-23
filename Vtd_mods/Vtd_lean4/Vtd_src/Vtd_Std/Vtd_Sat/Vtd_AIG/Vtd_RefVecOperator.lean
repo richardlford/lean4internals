@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/Std/Sat/AIG/RefVecOperator`"  =>
+#doc (Manual) "`m/l/s/S/Sat/AIG/RefVecOperator`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/Std/Sat/AIG/RefVecOperator"
+tag := "mods-lean4-src-Std-Sat-AIG-RefVecOperator"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/src/Std/Sat/AIG/RefVecOperator`
+# `m/l/s/S/Sat/AIG/RefVecOperator` Files
 %%%
 tag := "mods/lean4/src/Std/Sat/AIG/RefVecOperator-files"
 %%%

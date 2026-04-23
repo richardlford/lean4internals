@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/vscode-lean4/vscode-lean4/abbreviationview`"  =>
+#doc (Manual) "`m/vscode-lean4/vscode-lean4/abbreviationview`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/vscode-lean4/vscode-lean4/abbreviationview"
+tag := "mods-vscode-lean4-vscode-lean4-abbreviationview"
 %%%
 
 TODO
 
 
-# Files in `mods/vscode-lean4/vscode-lean4/abbreviationview`
+# `m/vscode-lean4/vscode-lean4/abbreviationview` Files
 %%%
 tag := "mods/vscode-lean4/vscode-lean4/abbreviationview-files"
 %%%

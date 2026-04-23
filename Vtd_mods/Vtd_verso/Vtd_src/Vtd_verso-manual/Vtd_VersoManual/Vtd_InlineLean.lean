@@ -17,11 +17,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/verso/src/verso-manual/VersoManual/InlineLean`"  =>
+#doc (Manual) "`m/v/s/verso-manual/VersoManual/InlineLean`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/verso/src/verso-manual/VersoManual/InlineLean"
+tag := "mods-verso-src-verso-manual-VersoManual-InlineLean"
 %%%
 
 TODO
@@ -29,7 +29,7 @@ TODO
 
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_InlineLean».«Vtd_IO»}
 
-# Files in `mods/verso/src/verso-manual/VersoManual/InlineLean`
+# `m/v/s/verso-manual/VersoManual/InlineLean` Files
 %%%
 tag := "mods/verso/src/verso-manual/VersoManual/InlineLean-files"
 %%%

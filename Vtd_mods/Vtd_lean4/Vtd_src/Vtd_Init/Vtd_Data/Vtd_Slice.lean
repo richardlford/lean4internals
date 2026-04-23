@@ -18,11 +18,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/Init/Data/Slice`"  =>
+#doc (Manual) "`m/l/s/Init/Data/Slice`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/Init/Data/Slice"
+tag := "mods-lean4-src-Init-Data-Slice"
 %%%
 
 TODO
@@ -31,7 +31,7 @@ TODO
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Slice».«Vtd_List»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Slice».«Vtd_Array»}
 
-# Files in `mods/lean4/src/Init/Data/Slice`
+# `m/l/s/Init/Data/Slice` Files
 %%%
 tag := "mods/lean4/src/Init/Data/Slice-files"
 %%%

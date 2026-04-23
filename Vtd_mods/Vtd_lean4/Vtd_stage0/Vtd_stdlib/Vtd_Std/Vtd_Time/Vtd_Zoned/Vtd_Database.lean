@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Std/Time/Zoned/Database`"  =>
+#doc (Manual) "`m/l/s/s/S/Time/Zoned/Database`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Std/Time/Zoned/Database"
+tag := "mods-lean4-stage0-stdlib-Std-Time-Zoned-Database"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/stage0/stdlib/Std/Time/Zoned/Database`
+# `m/l/s/s/S/Time/Zoned/Database` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Std/Time/Zoned/Database-files"
 %%%

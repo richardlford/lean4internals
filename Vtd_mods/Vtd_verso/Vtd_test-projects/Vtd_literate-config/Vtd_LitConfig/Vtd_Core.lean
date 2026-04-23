@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/verso/test-projects/literate-config/LitConfig/Core`"  =>
+#doc (Manual) "`m/v/t/literate-config/LitConfig/Core`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/verso/test-projects/literate-config/LitConfig/Core"
+tag := "mods-verso-test-projects-literate-config-LitConfig-Core"
 %%%
 
 TODO
 
 
-# Files in `mods/verso/test-projects/literate-config/LitConfig/Core`
+# `m/v/t/literate-config/LitConfig/Core` Files
 %%%
 tag := "mods/verso/test-projects/literate-config/LitConfig/Core-files"
 %%%

@@ -18,11 +18,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/Std/Tactic/BVDecide/Bitblast/BVExpr/Circuit`"  =>
+#doc (Manual) "`m/l/s/S/T/B/Bitblast/BVExpr/Circuit`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/Std/Tactic/BVDecide/Bitblast/BVExpr/Circuit"
+tag := "mods-lean4-src-Std-Tactic-BVDecide-Bitblast-BVExpr-Circuit"
 %%%
 
 TODO
@@ -31,7 +31,7 @@ TODO
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_Bitblast».«Vtd_BVExpr».«Vtd_Circuit».«Vtd_Impl»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_Bitblast».«Vtd_BVExpr».«Vtd_Circuit».«Vtd_Lemmas»}
 
-# Files in `mods/lean4/src/Std/Tactic/BVDecide/Bitblast/BVExpr/Circuit`
+# `m/l/s/S/T/B/Bitblast/BVExpr/Circuit` Files
 %%%
 tag := "mods/lean4/src/Std/Tactic/BVDecide/Bitblast/BVExpr/Circuit-files"
 %%%

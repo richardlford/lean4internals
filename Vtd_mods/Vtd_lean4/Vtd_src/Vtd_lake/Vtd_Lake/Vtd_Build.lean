@@ -18,11 +18,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/lake/Lake/Build`"  =>
+#doc (Manual) "`m/l/s/lake/Lake/Build`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/lake/Lake/Build"
+tag := "mods-lean4-src-lake-Lake-Build"
 %%%
 
 TODO
@@ -31,7 +31,7 @@ TODO
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_Lake».«Vtd_Build».«Vtd_Target»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_Lake».«Vtd_Build».«Vtd_Job»}
 
-# Files in `mods/lean4/src/lake/Lake/Build`
+# `m/l/s/lake/Lake/Build` Files
 %%%
 tag := "mods/lean4/src/lake/Lake/Build-files"
 %%%

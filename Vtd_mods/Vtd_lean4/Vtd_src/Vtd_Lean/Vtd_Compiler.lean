@@ -18,11 +18,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/Lean/Compiler`"  =>
+#doc (Manual) "`m/l/src/Lean/Compiler`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/Lean/Compiler"
+tag := "mods-lean4-src-Lean-Compiler"
 %%%
 
 TODO
@@ -31,7 +31,7 @@ TODO
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Compiler».«Vtd_LCNF»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Compiler».«Vtd_IR»}
 
-# Files in `mods/lean4/src/Lean/Compiler`
+# `m/l/src/Lean/Compiler` Files
 %%%
 tag := "mods/lean4/src/Lean/Compiler-files"
 %%%

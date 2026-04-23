@@ -17,11 +17,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/Init/Data/Range/Polymorphic`"  =>
+#doc (Manual) "`m/l/s/I/Data/Range/Polymorphic`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/Init/Data/Range/Polymorphic"
+tag := "mods-lean4-src-Init-Data-Range-Polymorphic"
 %%%
 
 TODO
@@ -29,7 +29,7 @@ TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Range».«Vtd_Polymorphic».«Vtd_Internal»}
 
-# Files in `mods/lean4/src/Init/Data/Range/Polymorphic`
+# `m/l/s/I/Data/Range/Polymorphic` Files
 %%%
 tag := "mods/lean4/src/Init/Data/Range/Polymorphic-files"
 %%%

@@ -17,11 +17,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/Lean/PrettyPrinter`"  =>
+#doc (Manual) "`m/l/src/Lean/PrettyPrinter`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/Lean/PrettyPrinter"
+tag := "mods-lean4-src-Lean-PrettyPrinter"
 %%%
 
 TODO
@@ -29,7 +29,7 @@ TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_PrettyPrinter».«Vtd_Delaborator»}
 
-# Files in `mods/lean4/src/Lean/PrettyPrinter`
+# `m/l/src/Lean/PrettyPrinter` Files
 %%%
 tag := "mods/lean4/src/Lean/PrettyPrinter-files"
 %%%

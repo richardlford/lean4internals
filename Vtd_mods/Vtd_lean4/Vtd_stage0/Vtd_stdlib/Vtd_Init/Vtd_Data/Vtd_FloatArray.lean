@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Init/Data/FloatArray`"  =>
+#doc (Manual) "`m/l/s/s/Init/Data/FloatArray`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Init/Data/FloatArray"
+tag := "mods-lean4-stage0-stdlib-Init-Data-FloatArray"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/stage0/stdlib/Init/Data/FloatArray`
+# `m/l/s/s/Init/Data/FloatArray` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Init/Data/FloatArray-files"
 %%%

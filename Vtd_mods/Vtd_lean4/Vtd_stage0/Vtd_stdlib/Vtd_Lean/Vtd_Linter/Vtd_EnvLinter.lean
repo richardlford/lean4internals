@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Lean/Linter/EnvLinter`"  =>
+#doc (Manual) "`m/l/s/s/Lean/Linter/EnvLinter`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Lean/Linter/EnvLinter"
+tag := "mods-lean4-stage0-stdlib-Lean-Linter-EnvLinter"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/stage0/stdlib/Lean/Linter/EnvLinter`
+# `m/l/s/s/Lean/Linter/EnvLinter` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Lean/Linter/EnvLinter-files"
 %%%

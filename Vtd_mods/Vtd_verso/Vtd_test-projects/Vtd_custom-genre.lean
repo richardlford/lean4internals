@@ -17,11 +17,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/verso/test-projects/custom-genre`"  =>
+#doc (Manual) "`m/verso/test-projects/custom-genre`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/verso/test-projects/custom-genre"
+tag := "mods-verso-test-projects-custom-genre"
 %%%
 
 TODO
@@ -29,7 +29,7 @@ TODO
 
 {include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_custom-genre».«Vtd_SimplePage»}
 
-# Files in `mods/verso/test-projects/custom-genre`
+# `m/verso/test-projects/custom-genre` Files
 %%%
 tag := "mods/verso/test-projects/custom-genre-files"
 %%%

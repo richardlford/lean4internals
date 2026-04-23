@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/vscode-lean4/lean4-infoview/src/infoview`"  =>
+#doc (Manual) "`m/v/lean4-infoview/src/infoview`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/vscode-lean4/lean4-infoview/src/infoview"
+tag := "mods-vscode-lean4-lean4-infoview-src-infoview"
 %%%
 
 TODO
 
 
-# Files in `mods/vscode-lean4/lean4-infoview/src/infoview`
+# `m/v/lean4-infoview/src/infoview` Files
 %%%
 tag := "mods/vscode-lean4/lean4-infoview/src/infoview-files"
 %%%

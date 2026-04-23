@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Std/Internal/Http/Protocol/H1`"  =>
+#doc (Manual) "`m/l/s/s/S/I/Http/Protocol/H1`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Std/Internal/Http/Protocol/H1"
+tag := "mods-lean4-stage0-stdlib-Std-Internal-Http-Protocol-H1"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/stage0/stdlib/Std/Internal/Http/Protocol/H1`
+# `m/l/s/s/S/I/Http/Protocol/H1` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Std/Internal/Http/Protocol/H1-files"
 %%%

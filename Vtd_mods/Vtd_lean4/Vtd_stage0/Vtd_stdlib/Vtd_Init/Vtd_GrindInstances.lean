@@ -17,11 +17,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Init/GrindInstances`"  =>
+#doc (Manual) "`m/l/s/stdlib/Init/GrindInstances`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Init/GrindInstances"
+tag := "mods-lean4-stage0-stdlib-Init-GrindInstances"
 %%%
 
 TODO
@@ -29,7 +29,7 @@ TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_GrindInstances».«Vtd_Ring»}
 
-# Files in `mods/lean4/stage0/stdlib/Init/GrindInstances`
+# `m/l/s/stdlib/Init/GrindInstances` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Init/GrindInstances-files"
 %%%

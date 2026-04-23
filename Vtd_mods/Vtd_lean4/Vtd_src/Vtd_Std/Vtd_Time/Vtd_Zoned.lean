@@ -17,11 +17,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/Std/Time/Zoned`"  =>
+#doc (Manual) "`m/l/s/Std/Time/Zoned`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/Std/Time/Zoned"
+tag := "mods-lean4-src-Std-Time-Zoned"
 %%%
 
 TODO
@@ -29,7 +29,7 @@ TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Time».«Vtd_Zoned».«Vtd_Database»}
 
-# Files in `mods/lean4/src/Std/Time/Zoned`
+# `m/l/s/Std/Time/Zoned` Files
 %%%
 tag := "mods/lean4/src/Std/Time/Zoned-files"
 %%%

@@ -17,11 +17,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/Std/Data/DHashMap/Internal`"  =>
+#doc (Manual) "`m/l/s/S/Data/DHashMap/Internal`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/Std/Data/DHashMap/Internal"
+tag := "mods-lean4-src-Std-Data-DHashMap-Internal"
 %%%
 
 TODO
@@ -29,7 +29,7 @@ TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DHashMap».«Vtd_Internal».«Vtd_AssocList»}
 
-# Files in `mods/lean4/src/Std/Data/DHashMap/Internal`
+# `m/l/s/S/Data/DHashMap/Internal` Files
 %%%
 tag := "mods/lean4/src/Std/Data/DHashMap/Internal-files"
 %%%

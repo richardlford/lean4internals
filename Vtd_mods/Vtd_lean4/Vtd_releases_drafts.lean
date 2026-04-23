@@ -14,13 +14,13 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/releases_drafts"
+tag := "mods-lean4-releases_drafts"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/releases_drafts`
+# `mods/lean4/releases_drafts` Files
 %%%
 tag := "mods/lean4/releases_drafts-files"
 %%%

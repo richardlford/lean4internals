@@ -19,11 +19,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/Lean/Meta/Tactic/Grind/Arith`"  =>
+#doc (Manual) "`m/l/s/L/M/Tactic/Grind/Arith`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/Lean/Meta/Tactic/Grind/Arith"
+tag := "mods-lean4-src-Lean-Meta-Tactic-Grind-Arith"
 %%%
 
 TODO
@@ -33,7 +33,7 @@ TODO
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Meta».«Vtd_Tactic».«Vtd_Grind».«Vtd_Arith».«Vtd_Linear»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Meta».«Vtd_Tactic».«Vtd_Grind».«Vtd_Arith».«Vtd_CommRing»}
 
-# Files in `mods/lean4/src/Lean/Meta/Tactic/Grind/Arith`
+# `m/l/s/L/M/Tactic/Grind/Arith` Files
 %%%
 tag := "mods/lean4/src/Lean/Meta/Tactic/Grind/Arith-files"
 %%%

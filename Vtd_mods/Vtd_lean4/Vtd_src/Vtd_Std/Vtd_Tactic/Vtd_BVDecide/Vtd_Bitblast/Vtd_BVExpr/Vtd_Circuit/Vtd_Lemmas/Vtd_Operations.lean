@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/Std/Tactic/BVDecide/Bitblast/BVExpr/Circuit/Lemmas/Operations`"  =>
+#doc (Manual) "`m/l/s/S/T/B/B/B/Circuit/Lemmas/Operations`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/Std/Tactic/BVDecide/Bitblast/BVExpr/Circuit/Lemmas/Operations"
+tag := "mods-lean4-src-Std-Tactic-BVDecide-Bitblast-BVExpr-Circuit-Lemmas-Operations"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/src/Std/Tactic/BVDecide/Bitblast/BVExpr/Circuit/Lemmas/Operations`
+# `m/l/s/S/T/B/B/B/Circuit/Lemmas/Operations` Files
 %%%
 tag := "mods/lean4/src/Std/Tactic/BVDecide/Bitblast/BVExpr/Circuit/Lemmas/Operations-files"
 %%%

@@ -18,11 +18,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/verso/vendored-js/tippy`"  =>
+#doc (Manual) "`m/verso/vendored-js/tippy`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/verso/vendored-js/tippy"
+tag := "mods-verso-vendored-js-tippy"
 %%%
 
 TODO
@@ -31,7 +31,7 @@ TODO
 {include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy».«Vtd_animations»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy».«Vtd_themes»}
 
-# Files in `mods/verso/vendored-js/tippy`
+# `m/verso/vendored-js/tippy` Files
 %%%
 tag := "mods/verso/vendored-js/tippy-files"
 %%%

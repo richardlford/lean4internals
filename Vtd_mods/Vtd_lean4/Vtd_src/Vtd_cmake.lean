@@ -17,11 +17,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/cmake`"  =>
+#doc (Manual) "`m/lean4/src/cmake`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/cmake"
+tag := "mods-lean4-src-cmake"
 %%%
 
 TODO
@@ -29,7 +29,7 @@ TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_cmake».«Vtd_Modules»}
 
-# Files in `mods/lean4/src/cmake`
+# `m/lean4/src/cmake` Files
 %%%
 tag := "mods/lean4/src/cmake-files"
 %%%

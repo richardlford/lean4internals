@@ -19,11 +19,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Std/Tactic/BVDecide`"  =>
+#doc (Manual) "`m/l/s/s/Std/Tactic/BVDecide`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Std/Tactic/BVDecide"
+tag := "mods-lean4-stage0-stdlib-Std-Tactic-BVDecide"
 %%%
 
 TODO
@@ -33,7 +33,7 @@ TODO
 {include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_LRAT»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_Bitblast»}
 
-# Files in `mods/lean4/stage0/stdlib/Std/Tactic/BVDecide`
+# `m/l/s/s/Std/Tactic/BVDecide` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Std/Tactic/BVDecide-files"
 %%%

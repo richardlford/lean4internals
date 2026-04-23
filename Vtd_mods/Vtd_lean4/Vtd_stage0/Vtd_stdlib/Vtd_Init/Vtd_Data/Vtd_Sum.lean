@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Init/Data/Sum`"  =>
+#doc (Manual) "`m/l/s/s/Init/Data/Sum`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Init/Data/Sum"
+tag := "mods-lean4-stage0-stdlib-Init-Data-Sum"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/stage0/stdlib/Init/Data/Sum`
+# `m/l/s/s/Init/Data/Sum` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Init/Data/Sum-files"
 %%%

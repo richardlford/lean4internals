@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/Std/Time/Time/Unit`"  =>
+#doc (Manual) "`m/l/s/S/Time/Time/Unit`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/Std/Time/Time/Unit"
+tag := "mods-lean4-src-Std-Time-Time-Unit"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/src/Std/Time/Time/Unit`
+# `m/l/s/S/Time/Time/Unit` Files
 %%%
 tag := "mods/lean4/src/Std/Time/Time/Unit-files"
 %%%

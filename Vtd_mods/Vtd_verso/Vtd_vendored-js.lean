@@ -26,7 +26,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/verso/vendored-js"
+tag := "mods-verso-vendored-js"
 %%%
 
 TODO
@@ -39,7 +39,7 @@ TODO
 {include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_popper»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_axe-core»}
 
-# Files in `mods/verso/vendored-js`
+# `mods/verso/vendored-js` Files
 %%%
 tag := "mods/verso/vendored-js-files"
 %%%

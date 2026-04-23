@@ -21,7 +21,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/vscode-lean4/lean4-unicode-input-component"
+tag := "mods-vscode-lean4-lean4-unicode-input-component"
 %%%
 
 TODO
@@ -29,7 +29,7 @@ TODO
 
 {include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input-component».«Vtd_src»}
 
-# Files in `mods/vscode-lean4/lean4-unicode-input-component`
+# `mods/vscode-lean4/lean4-unicode-input-component` Files
 %%%
 tag := "mods/vscode-lean4/lean4-unicode-input-component-files"
 %%%

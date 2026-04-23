@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/WF`"  =>
+#doc (Manual) "`m/l/s/s/L/Elab/PreDefinition/WF`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/WF"
+tag := "mods-lean4-stage0-stdlib-Lean-Elab-PreDefinition-WF"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/WF`
+# `m/l/s/s/L/Elab/PreDefinition/WF` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/WF-files"
 %%%

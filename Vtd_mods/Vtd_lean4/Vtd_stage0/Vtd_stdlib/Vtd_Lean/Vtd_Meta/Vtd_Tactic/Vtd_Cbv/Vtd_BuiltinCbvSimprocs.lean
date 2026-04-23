@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Cbv/BuiltinCbvSimprocs`"  =>
+#doc (Manual) "`m/l/s/s/L/M/Tactic/Cbv/BuiltinCbvSimprocs`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Cbv/BuiltinCbvSimprocs"
+tag := "mods-lean4-stage0-stdlib-Lean-Meta-Tactic-Cbv-BuiltinCbvSimprocs"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Cbv/BuiltinCbvSimprocs`
+# `m/l/s/s/L/M/Tactic/Cbv/BuiltinCbvSimprocs` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Cbv/BuiltinCbvSimprocs-files"
 %%%

@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Init/Data/String/Pattern`"  =>
+#doc (Manual) "`m/l/s/s/I/Data/String/Pattern`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Init/Data/String/Pattern"
+tag := "mods-lean4-stage0-stdlib-Init-Data-String-Pattern"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/stage0/stdlib/Init/Data/String/Pattern`
+# `m/l/s/s/I/Data/String/Pattern` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Init/Data/String/Pattern-files"
 %%%

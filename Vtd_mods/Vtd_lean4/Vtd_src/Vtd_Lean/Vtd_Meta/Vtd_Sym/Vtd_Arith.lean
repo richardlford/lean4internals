@@ -10,17 +10,17 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/src/Lean/Meta/Sym/Arith`"  =>
+#doc (Manual) "`m/l/s/L/Meta/Sym/Arith`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/src/Lean/Meta/Sym/Arith"
+tag := "mods-lean4-src-Lean-Meta-Sym-Arith"
 %%%
 
 TODO
 
 
-# Files in `mods/lean4/src/Lean/Meta/Sym/Arith`
+# `m/l/s/L/Meta/Sym/Arith` Files
 %%%
 tag := "mods/lean4/src/Lean/Meta/Sym/Arith-files"
 %%%

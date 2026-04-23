@@ -31,11 +31,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Std/Data`"  =>
+#doc (Manual) "`m/l/s/stdlib/Std/Data`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Std/Data"
+tag := "mods-lean4-stage0-stdlib-Std-Data"
 %%%
 
 TODO
@@ -57,7 +57,7 @@ TODO
 {include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_DHashMap»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_ExtDTreeMap»}
 
-# Files in `mods/lean4/stage0/stdlib/Std/Data`
+# `m/l/s/stdlib/Std/Data` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Std/Data-files"
 %%%

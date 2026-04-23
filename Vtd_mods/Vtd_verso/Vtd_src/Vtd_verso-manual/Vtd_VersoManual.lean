@@ -22,11 +22,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/verso/src/verso-manual/VersoManual`"  =>
+#doc (Manual) "`m/v/src/verso-manual/VersoManual`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/verso/src/verso-manual/VersoManual"
+tag := "mods-verso-src-verso-manual-VersoManual"
 %%%
 
 TODO
@@ -39,7 +39,7 @@ TODO
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_LicenseInfo»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_Glossary»}
 
-# Files in `mods/verso/src/verso-manual/VersoManual`
+# `m/v/src/verso-manual/VersoManual` Files
 %%%
 tag := "mods/verso/src/verso-manual/VersoManual-files"
 %%%

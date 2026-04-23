@@ -25,11 +25,11 @@ open Verso.Genre Manual
 -- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/stage0/stdlib/Init`"  =>
+#doc (Manual) "`m/l/stage0/stdlib/Init`"  =>
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods/lean4/stage0/stdlib/Init"
+tag := "mods-lean4-stage0-stdlib-Init"
 %%%
 
 TODO
@@ -45,7 +45,7 @@ TODO
 {include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Control»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_System»}
 
-# Files in `mods/lean4/stage0/stdlib/Init`
+# `m/l/stage0/stdlib/Init` Files
 %%%
 tag := "mods/lean4/stage0/stdlib/Init-files"
 %%%
