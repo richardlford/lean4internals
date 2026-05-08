@@ -1,0 +1,27 @@
+-- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_examples/Vtd_ICERM2022_Files.lean
+
+
+import VersoManual
+-- This gets access to most of the manual genre (which is also useful for textbooks)
+open Verso.Genre Manual
+
+-- This gets access to Lean code that's in code blocks, elaborated in the same process and
+-- environment as Verso
+open Verso.Genre.Manual.InlineLean
+
+#doc (Manual) "`m/l/doc/examples/ICERM2022` Files"  =>
+%%%
+tag := "mods/lean4/doc/examples/ICERM2022-files"
+%%%
+
+: `ctor.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/examples/ICERM2022/ctor.lean)TODO
+
+: `meta.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/examples/ICERM2022/meta.lean)TODO
+
+: `notation.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/examples/ICERM2022/notation.lean)TODO

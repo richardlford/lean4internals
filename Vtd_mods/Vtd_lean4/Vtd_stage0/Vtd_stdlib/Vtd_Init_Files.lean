@@ -1,0 +1,203 @@
+-- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Init_Files.lean
+
+
+import VersoManual
+-- This gets access to most of the manual genre (which is also useful for textbooks)
+open Verso.Genre Manual
+
+-- This gets access to Lean code that's in code blocks, elaborated in the same process and
+-- environment as Verso
+open Verso.Genre.Manual.InlineLean
+
+#doc (Manual) "`m/l/stage0/stdlib/Init` Files"  =>
+%%%
+tag := "mods/lean4/stage0/stdlib/Init-files"
+%%%
+
+: `BinderNameHint.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/BinderNameHint.c)TODO
+
+: `BinderPredicates.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/BinderPredicates.c)TODO
+
+: `ByCases.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/ByCases.c)TODO
+
+: `CbvSimproc.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/CbvSimproc.c)TODO
+
+: `Classical.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Classical.c)TODO
+
+: `Coe.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Coe.c)TODO
+
+: `Control.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Control.c)TODO
+
+: `Conv.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Conv.c)TODO
+
+: `Core.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Core.c)TODO
+
+: `Data.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data.c)TODO
+
+: `Dynamic.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Dynamic.c)TODO
+
+: `Ext.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Ext.c)TODO
+
+: `GetElem.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/GetElem.c)TODO
+
+: `Grind.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Grind.c)TODO
+
+: `GrindInstances.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/GrindInstances.c)TODO
+
+: `Guard.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Guard.c)TODO
+
+: `Hints.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Hints.c)TODO
+
+: `Internal.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Internal.c)TODO
+
+: `LawfulBEqTactics.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/LawfulBEqTactics.c)TODO
+
+: `MacroTrace.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/MacroTrace.c)TODO
+
+: `Meta.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Meta.c)TODO
+
+: `MetaTypes.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/MetaTypes.c)TODO
+: `MethodSpecsSimp.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/MethodSpecsSimp.c)TODO
+
+: `Notation.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Notation.c)TODO
+
+: `NotationExtra.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/NotationExtra.c)TODO
+
+: `Omega.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Omega.c)TODO
+
+: `Prelude.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Prelude.c)TODO
+
+: `PropLemmas.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/PropLemmas.c)TODO
+
+: `RCases.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/RCases.c)TODO
+
+: `ShareCommon.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/ShareCommon.c)TODO
+
+: `SimpLemmas.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/SimpLemmas.c)TODO
+
+: `Simproc.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Simproc.c)TODO
+
+: `SizeOf.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/SizeOf.c)TODO
+
+: `SizeOfLemmas.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/SizeOfLemmas.c)TODO
+
+: `Sym.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Sym.c)TODO
+
+: `Syntax.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Syntax.c)TODO
+
+: `System.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/System.c)TODO
+
+: `Tactics.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Tactics.c)TODO
+
+: `TacticsExtra.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/TacticsExtra.c)TODO
+
+: `Task.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Task.c)TODO
+
+: `Try.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Try.c)TODO
+
+: `Util.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Util.c)TODO
+
+: `WF.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/WF.c)TODO
+
+: `WFComputable.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/WFComputable.c)TODO
+
+: `WFExtrinsicFix.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/WFExtrinsicFix.c)TODO
+
+: `WFTactics.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/WFTactics.c)TODO
+
+: `While.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/While.c)TODO
+

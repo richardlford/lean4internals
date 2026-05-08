@@ -1,0 +1,67 @@
+-- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Init/Vtd_Control_Files.lean
+
+
+import VersoManual
+-- This gets access to most of the manual genre (which is also useful for textbooks)
+open Verso.Genre Manual
+
+-- This gets access to Lean code that's in code blocks, elaborated in the same process and
+-- environment as Verso
+open Verso.Genre.Manual.InlineLean
+
+#doc (Manual) "`m/l/s/stdlib/Init/Control` Files"  =>
+%%%
+tag := "mods/lean4/stage0/stdlib/Init/Control-files"
+%%%
+
+: `Basic.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Control/Basic.c)TODO
+
+: `Do.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Control/Do.c)TODO
+
+: `EState.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Control/EState.c)TODO
+
+: `Except.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Control/Except.c)TODO
+
+: `ExceptCps.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Control/ExceptCps.c)TODO
+
+: `Id.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Control/Id.c)TODO
+
+: `Lawful.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Control/Lawful.c)TODO
+
+: `MonadAttach.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Control/MonadAttach.c)TODO
+
+: `Option.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Control/Option.c)TODO
+
+: `Reader.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Control/Reader.c)TODO
+
+: `State.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Control/State.c)TODO
+: `StateCps.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Control/StateCps.c)TODO
+
+: `StateRef.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Control/StateRef.c)TODO
+

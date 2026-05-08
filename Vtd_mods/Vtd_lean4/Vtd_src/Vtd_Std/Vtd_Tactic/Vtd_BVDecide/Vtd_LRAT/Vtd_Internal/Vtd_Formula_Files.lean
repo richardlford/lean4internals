@@ -1,0 +1,47 @@
+-- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Tactic/Vtd_BVDecide/Vtd_LRAT/Vtd_Internal/Vtd_Formula_Files.lean
+
+
+import VersoManual
+-- This gets access to most of the manual genre (which is also useful for textbooks)
+open Verso.Genre Manual
+
+-- This gets access to Lean code that's in code blocks, elaborated in the same process and
+-- environment as Verso
+open Verso.Genre.Manual.InlineLean
+
+#doc (Manual) "`m/l/s/S/T/B/LRAT/Internal/Formula` Files"  =>
+%%%
+tag := "mods/lean4/src/Std/Tactic/BVDecide/LRAT/Internal/Formula-files"
+%%%
+
+: `Class.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Tactic/BVDecide/LRAT/Internal/Formula/Class.lean)TODO
+
+: `Implementation.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Tactic/BVDecide/LRAT/Internal/Formula/Implementation.lean)TODO
+
+: `Instance.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Tactic/BVDecide/LRAT/Internal/Formula/Instance.lean)TODO
+
+: `Lemmas.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Tactic/BVDecide/LRAT/Internal/Formula/Lemmas.lean)TODO
+
+: `RatAddResult.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Tactic/BVDecide/LRAT/Internal/Formula/RatAddResult.lean)TODO
+: `RatAddSound.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Tactic/BVDecide/LRAT/Internal/Formula/RatAddSound.lean)TODO
+
+: `RupAddResult.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Tactic/BVDecide/LRAT/Internal/Formula/RupAddResult.lean)TODO
+
+: `RupAddSound.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Tactic/BVDecide/LRAT/Internal/Formula/RupAddSound.lean)TODO
+

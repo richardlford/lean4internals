@@ -1,5 +1,5 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-manual/Vtd_VersoManual.lean
-        
+
 
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual_Files»
 
@@ -31,7 +31,7 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-src-verso-manual-VersoManual"
 %%%
 
-TODO
+The `verso-manual/VersoManual` directory contains additonal implementation code the is imported into the `VersoMananual.lean` file.
 
 
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual_Files»}

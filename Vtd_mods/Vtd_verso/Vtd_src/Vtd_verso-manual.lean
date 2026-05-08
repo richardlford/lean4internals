@@ -1,5 +1,5 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-manual.lean
-        
+
 
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual_Files»
 
@@ -26,7 +26,7 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-src-verso-manual"
 %%%
 
-TODO
+The verso-manual directory holds definitions specific to the `manual` genre.
 
 
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual_Files»}

@@ -1,5 +1,5 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_DocString.lean
-        
+
 
 
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_DocString_Files»
@@ -19,6 +19,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Lean-DocString"
 %%%
 
-TODO
+The DocString directory contains definitions of foundations types used to represent
+Lean documentation strings and that are also used to represent Verso files.
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_DocString_Files»}

@@ -1,0 +1,75 @@
+-- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Init/Vtd_Data/Vtd_String/Vtd_Lemmas_Files.lean
+
+
+import VersoManual
+-- This gets access to most of the manual genre (which is also useful for textbooks)
+open Verso.Genre Manual
+
+-- This gets access to Lean code that's in code blocks, elaborated in the same process and
+-- environment as Verso
+open Verso.Genre.Manual.InlineLean
+
+#doc (Manual) "`m/l/s/s/I/Data/String/Lemmas` Files"  =>
+%%%
+tag := "mods/lean4/stage0/stdlib/Init/Data/String/Lemmas-files"
+%%%
+
+: `Basic.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/String/Lemmas/Basic.c)TODO
+
+: `FindPos.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/String/Lemmas/FindPos.c)TODO
+
+: `Hashable.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/String/Lemmas/Hashable.c)TODO
+
+: `Intercalate.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/String/Lemmas/Intercalate.c)TODO
+
+: `IsEmpty.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/String/Lemmas/IsEmpty.c)TODO
+
+: `Iter.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/String/Lemmas/Iter.c)TODO
+
+: `Iterate.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/String/Lemmas/Iterate.c)TODO
+
+: `Modify.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/String/Lemmas/Modify.c)TODO
+
+: `Order.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/String/Lemmas/Order.c)TODO
+
+: `Pattern.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/String/Lemmas/Pattern.c)TODO
+
+: `Search.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/String/Lemmas/Search.c)TODO
+
+: `Slice.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/String/Lemmas/Slice.c)TODO
+: `Splits.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/String/Lemmas/Splits.c)TODO
+
+: `StringOrder.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/String/Lemmas/StringOrder.c)TODO
+
+: `TakeDrop.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/String/Lemmas/TakeDrop.c)TODO
+

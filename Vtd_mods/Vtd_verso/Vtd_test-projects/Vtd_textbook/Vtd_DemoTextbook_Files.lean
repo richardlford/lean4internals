@@ -1,0 +1,27 @@
+-- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_textbook/Vtd_DemoTextbook_Files.lean
+
+
+import VersoManual
+-- This gets access to most of the manual genre (which is also useful for textbooks)
+open Verso.Genre Manual
+
+-- This gets access to Lean code that's in code blocks, elaborated in the same process and
+-- environment as Verso
+open Verso.Genre.Manual.InlineLean
+
+#doc (Manual) "`m/v/test-projects/textbook/DemoTextbook` Files"  =>
+%%%
+tag := "mods/verso/test-projects/textbook/DemoTextbook-files"
+%%%
+
+: `ListSet.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/textbook/DemoTextbook/ListSet.lean)TODO
+
+: `Nat.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/textbook/DemoTextbook/Nat.lean)TODO
+
+: `Papers.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/textbook/DemoTextbook/Papers.lean)TODO

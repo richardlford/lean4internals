@@ -1,0 +1,39 @@
+-- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_katex_Files.lean
+
+
+import VersoManual
+-- This gets access to most of the manual genre (which is also useful for textbooks)
+open Verso.Genre Manual
+
+-- This gets access to Lean code that's in code blocks, elaborated in the same process and
+-- environment as Verso
+open Verso.Genre.Manual.InlineLean
+
+#doc (Manual) "`m/verso/vendored-js/katex` Files"  =>
+%%%
+tag := "mods/verso/vendored-js/katex-files"
+%%%
+
+: `katex.css`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/katex.css)TODO
+
+: `katex.js`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/katex.js)TODO
+
+: `katex.min.css`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/katex.min.css)TODO
+: `katex.min.js`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/katex.min.js)TODO
+
+: `katex.mjs`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/katex.mjs)TODO
+
+: `README.md`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/README.md)TODO
+

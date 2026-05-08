@@ -1,0 +1,47 @@
+-- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Lean/Vtd_Server/Vtd_FileWorker_Files.lean
+
+
+import VersoManual
+-- This gets access to most of the manual genre (which is also useful for textbooks)
+open Verso.Genre Manual
+
+-- This gets access to Lean code that's in code blocks, elaborated in the same process and
+-- environment as Verso
+open Verso.Genre.Manual.InlineLean
+
+#doc (Manual) "`m/l/s/s/Lean/Server/FileWorker` Files"  =>
+%%%
+tag := "mods/lean4/stage0/stdlib/Lean/Server/FileWorker-files"
+%%%
+
+: `ExampleHover.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/FileWorker/ExampleHover.c)TODO
+
+: `InlayHints.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/FileWorker/InlayHints.c)TODO
+
+: `RequestHandling.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/FileWorker/RequestHandling.c)TODO
+
+: `SemanticHighlighting.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/FileWorker/SemanticHighlighting.c)TODO
+
+: `SetupFile.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/FileWorker/SetupFile.c)TODO
+
+: `SignatureHelp.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/FileWorker/SignatureHelp.c)TODO
+: `Utils.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/FileWorker/Utils.c)TODO
+
+: `WidgetRequests.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/FileWorker/WidgetRequests.c)TODO
+

@@ -39,6 +39,86 @@ this directory.
 
 We will not attempt to duplicate existing documentation, but add high level context.
 
+Lean has a bootstrap build which starts with a stage0 that builds from C code produce
+by a previous version of the compiler. Once that stage builds the following
+executables are available:
+
+: lake
+
+  Lean's build system (Lean Make)
+: lean
+
+  The main Lean executable.
+
+  Execution of the lean executable starts in the main function defined in the file
+  `lean4/src/shell/lean.cpp`. This is a very short function that just calls
+  `lean_main` in `util/shell.cpp` and compiled into `libleanshared` to avoid issues with cross-lib C++. `lean_main` does some initialization, then calls
+  `run_shell_main` (still in `util/shell.cpp`). It prepares the arguments into a
+  form that can be accessed from lean code, and then calls `lean_shell_main`
+  which is defined in `lean4/src/Lean/Shell.lean` and whose lean name is `shellMain`.
+
+  Depending on the options given, it either
+
+  * parses and compiles (optionally runs) the given Lean file
+  * Starts the Lean server in "worker mode"
+  * Starts the Lean server in "watchdog mode"
+
+: leanchecker
+
+  Checks validity of `olean` files.
+
+: leanir
+
+  ```
+  usage: leanir <setup.json> <output.ir> <output.c> [--stat] <-Dopt=val>...
+  ```
+: leanmake
+
+  ```
+  #!/usr/bin/env bash
+  # A simple wrapper around `make` and the `lean.mk` makefile
+  # When called from a directory containing a `Makefile` file, calls `make` with
+  # the directory containing `lean.mk` in its path so that you can use
+  # `include lean.mk` in your code. Otherwise, run `lean.mk` directly.
+  ```
+: leantar
+
+  Lean's (de)compression utility.
+
+After stage1 is built, in addition there are the following:
+
+: leanc
+
+  This is a custom version of Clang for use in compiling the output of Lean.
+
+: cadical
+
+  This is a SAT solver which Lean uses to solve boolean and `BitVec` goals.
+  It produces a certificate which Lean can use to produce its proof objects.
+
+Lean itself is built using cmake. There are the following `CMakeLists.txt`
+files that control the build:
+
+```
+./stage0/src/util/CMakeLists.txt
+./stage0/src/initialize/CMakeLists.txt
+./stage0/src/CMakeLists.txt
+./stage0/src/shell/CMakeLists.txt
+./stage0/src/runtime/CMakeLists.txt
+./stage0/src/library/constructions/CMakeLists.txt
+./stage0/src/library/CMakeLists.txt
+./stage0/src/kernel/CMakeLists.txt
+./CMakeLists.txt
+./src/util/CMakeLists.txt
+./src/initialize/CMakeLists.txt
+./src/CMakeLists.txt
+./src/shell/CMakeLists.txt
+./src/runtime/CMakeLists.txt
+./src/library/constructions/CMakeLists.txt
+./src/library/CMakeLists.txt
+./src/kernel/CMakeLists.txt
+./tests/CMakeLists.txt
+```
 
 {include «Vtd_mods».«Vtd_lean4_Files»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_doc»}

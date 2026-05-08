@@ -1,0 +1,55 @@
+-- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-blog/Vtd_VersoBlog_Files.lean
+
+
+import VersoManual
+-- This gets access to most of the manual genre (which is also useful for textbooks)
+open Verso.Genre Manual
+
+-- This gets access to Lean code that's in code blocks, elaborated in the same process and
+-- environment as Verso
+open Verso.Genre.Manual.InlineLean
+
+#doc (Manual) "`m/v/src/verso-blog/VersoBlog` Files"  =>
+%%%
+tag := "mods/verso/src/verso-blog/VersoBlog-files"
+%%%
+
+: `Basic.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-blog/VersoBlog/Basic.lean)TODO
+
+: `Component.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-blog/VersoBlog/Component.lean)TODO
+
+: `Generate.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-blog/VersoBlog/Generate.lean)TODO
+
+: `LexedText.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-blog/VersoBlog/LexedText.lean)TODO
+
+: `LiterateLeanPage.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-blog/VersoBlog/LiterateLeanPage.lean)TODO
+
+: `LiterateModuleDocs.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-blog/VersoBlog/LiterateModuleDocs.lean)TODO
+
+: `Site.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-blog/VersoBlog/Site.lean)TODO
+
+: `Template.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-blog/VersoBlog/Template.lean)TODO
+
+: `Theme.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-blog/VersoBlog/Theme.lean)TODO
+: `Traverse.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-blog/VersoBlog/Traverse.lean)TODO
+

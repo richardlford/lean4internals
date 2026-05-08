@@ -1,0 +1,27 @@
+-- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_lake/Vtd_Lake/Vtd_Build/Vtd_Job_Files.lean
+
+
+import VersoManual
+-- This gets access to most of the manual genre (which is also useful for textbooks)
+open Verso.Genre Manual
+
+-- This gets access to Lean code that's in code blocks, elaborated in the same process and
+-- environment as Verso
+open Verso.Genre.Manual.InlineLean
+
+#doc (Manual) "`m/l/s/l/Lake/Build/Job` Files"  =>
+%%%
+tag := "mods/lean4/src/lake/Lake/Build/Job-files"
+%%%
+
+: `Basic.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Build/Job/Basic.lean)TODO
+
+: `Monad.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Build/Job/Monad.lean)TODO
+: `Register.lean`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Build/Job/Register.lean)TODO
+

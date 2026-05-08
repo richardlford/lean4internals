@@ -1,0 +1,39 @@
+-- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_vscode-lean4/Vtd_src/Vtd_abbreviation_Files.lean
+
+
+import VersoManual
+-- This gets access to most of the manual genre (which is also useful for textbooks)
+open Verso.Genre Manual
+
+-- This gets access to Lean code that's in code blocks, elaborated in the same process and
+-- environment as Verso
+open Verso.Genre.Manual.InlineLean
+
+#doc (Manual) "`m/v/vscode-lean4/src/abbreviation` Files"  =>
+%%%
+tag := "mods/vscode-lean4/vscode-lean4/src/abbreviation-files"
+%%%
+
+: `AbbreviationFeature.ts`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/abbreviation/AbbreviationFeature.ts)TODO
+: `AbbreviationHoverProvider.ts`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/abbreviation/AbbreviationHoverProvider.ts)TODO
+
+: `AbbreviationRewriterFeature.ts`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/abbreviation/AbbreviationRewriterFeature.ts)TODO
+
+: `SymbolPickerFeature.ts`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/abbreviation/SymbolPickerFeature.ts)TODO
+
+: `VSCodeAbbreviationConfig.ts`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/abbreviation/VSCodeAbbreviationConfig.ts)TODO
+
+: `VSCodeAbbreviationRewriter.ts`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/abbreviation/VSCodeAbbreviationRewriter.ts)TODO
+

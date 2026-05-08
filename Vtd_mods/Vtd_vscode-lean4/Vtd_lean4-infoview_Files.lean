@@ -1,0 +1,31 @@
+-- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_lean4-infoview_Files.lean
+
+
+import VersoManual
+-- This gets access to most of the manual genre (which is also useful for textbooks)
+open Verso.Genre Manual
+
+-- This gets access to Lean code that's in code blocks, elaborated in the same process and
+-- environment as Verso
+open Verso.Genre.Manual.InlineLean
+
+#doc (Manual) "`mods/vscode-lean4/lean4-infoview` Files"  =>
+%%%
+tag := "mods/vscode-lean4/lean4-infoview-files"
+%%%
+
+: `package.json`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-infoview/package.json)TODO
+: `README.md`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-infoview/README.md)TODO
+
+: `rollup.config.js`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-infoview/rollup.config.js)TODO
+
+: `tsconfig.json`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-infoview/tsconfig.json)TODO
+

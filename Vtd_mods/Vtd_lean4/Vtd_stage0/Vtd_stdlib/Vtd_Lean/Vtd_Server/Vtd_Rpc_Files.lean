@@ -1,0 +1,27 @@
+-- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Lean/Vtd_Server/Vtd_Rpc_Files.lean
+
+
+import VersoManual
+-- This gets access to most of the manual genre (which is also useful for textbooks)
+open Verso.Genre Manual
+
+-- This gets access to Lean code that's in code blocks, elaborated in the same process and
+-- environment as Verso
+open Verso.Genre.Manual.InlineLean
+
+#doc (Manual) "`m/l/s/s/Lean/Server/Rpc` Files"  =>
+%%%
+tag := "mods/lean4/stage0/stdlib/Lean/Server/Rpc-files"
+%%%
+
+: `Basic.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/Rpc/Basic.c)TODO
+
+: `Deriving.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/Rpc/Deriving.c)TODO
+
+: `RequestHandling.c`
+
+  [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/Rpc/RequestHandling.c)TODO
