@@ -1,7 +1,9 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_cmake.lean
-        
 
-import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_cmake_Files»
+        
+-- Imports for contained files.
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_cmake».«Vtd_check_failure.sh»
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_cmake».«Vtd_run_checker.sh»
 
 -- Imports from child directories.
 
@@ -12,14 +14,10 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_cmake».«Vtd_Modules»
 
 
 import VersoManual
--- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
-
--- This gets access to Lean code that's in code blocks, elaborated in the same process and
--- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`m/lean4/src/cmake`"  =>
+#doc (Manual) "`m/lean4/src/cmake/`"  =>
 
 %%%
 authors := ["Richard L Ford"]
@@ -28,6 +26,7 @@ tag := "mods-lean4-src-cmake"
 
 TODO
 
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_cmake».«Vtd_check_failure.sh»}
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_cmake».«Vtd_run_checker.sh»}
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_cmake_Files»}
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_cmake».«Vtd_Modules»}

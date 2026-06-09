@@ -1,18 +1,19 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_docs/Vtd_images.lean
+
         
+-- Imports for contained files.
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs».«Vtd_images».«Vtd_InstallPrompt.png»
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs».«Vtd_images».«Vtd_bootstrap.dgml»
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs».«Vtd_images».«Vtd_bootstrap.png»
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs».«Vtd_images».«Vtd_overview.dgml»
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs».«Vtd_images».«Vtd_overview.png»
 
-
-import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs».«Vtd_images_Files»
 
 import VersoManual
--- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
-
--- This gets access to Lean code that's in code blocks, elaborated in the same process and
--- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`m/vscode-lean4/docs/images`"  =>
+#doc (Manual) "`m/vscode-lean4/docs/images/`"  =>
 
 %%%
 authors := ["Richard L Ford"]
@@ -21,4 +22,8 @@ tag := "mods-vscode-lean4-docs-images"
 
 TODO
 
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs».«Vtd_images_Files»}
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs».«Vtd_images».«Vtd_InstallPrompt.png»}
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs».«Vtd_images».«Vtd_bootstrap.dgml»}
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs».«Vtd_images».«Vtd_bootstrap.png»}
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs».«Vtd_images».«Vtd_overview.dgml»}
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs».«Vtd_images».«Vtd_overview.png»}

@@ -1,7 +1,9 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_lean4-infoview-api.lean
-        
 
-import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview-api_Files»
+        
+-- Imports for contained files.
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview-api».«Vtd_package.json»
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview-api».«Vtd_tsconfig.json»
 
 -- Imports from child directories.
 
@@ -12,14 +14,10 @@ import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview-api».«Vtd_src»
 
 
 import VersoManual
--- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
-
--- This gets access to Lean code that's in code blocks, elaborated in the same process and
--- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/vscode-lean4/lean4-infoview-api`"  =>
+#doc (Manual) "`mods/vscode-lean4/lean4-infoview-api/`"  =>
 
 %%%
 authors := ["Richard L Ford"]
@@ -28,6 +26,7 @@ tag := "mods-vscode-lean4-lean4-infoview-api"
 
 TODO
 
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview-api».«Vtd_package.json»}
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview-api».«Vtd_tsconfig.json»}
 
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview-api_Files»}
 {include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview-api».«Vtd_src»}

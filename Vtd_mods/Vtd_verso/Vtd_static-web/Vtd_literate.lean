@@ -1,18 +1,15 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_static-web/Vtd_literate.lean
+
         
+-- Imports for contained files.
+import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_literate».«Vtd_copy-button.js»
 
-
-import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_literate_Files»
 
 import VersoManual
--- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
-
--- This gets access to Lean code that's in code blocks, elaborated in the same process and
--- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`m/verso/static-web/literate`"  =>
+#doc (Manual) "`m/verso/static-web/literate/`"  =>
 
 %%%
 authors := ["Richard L Ford"]
@@ -21,4 +18,4 @@ tag := "mods-verso-static-web-literate"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_literate_Files»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_literate».«Vtd_copy-button.js»}

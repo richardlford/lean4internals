@@ -1,18 +1,20 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_vscode-lean4/Vtd_src/Vtd_abbreviation.lean
+
         
+-- Imports for contained files.
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_abbreviation».«Vtd_AbbreviationFeature.ts»
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_abbreviation».«Vtd_AbbreviationHoverProvider.ts»
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_abbreviation».«Vtd_AbbreviationRewriterFeature.ts»
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_abbreviation».«Vtd_SymbolPickerFeature.ts»
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_abbreviation».«Vtd_VSCodeAbbreviationConfig.ts»
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_abbreviation».«Vtd_VSCodeAbbreviationRewriter.ts»
 
-
-import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_abbreviation_Files»
 
 import VersoManual
--- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
-
--- This gets access to Lean code that's in code blocks, elaborated in the same process and
--- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`m/v/vscode-lean4/src/abbreviation`"  =>
+#doc (Manual) "`m/v/vscode-lean4/src/abbreviation/`"  =>
 
 %%%
 authors := ["Richard L Ford"]
@@ -21,4 +23,9 @@ tag := "mods-vscode-lean4-vscode-lean4-src-abbreviation"
 
 TODO
 
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_abbreviation_Files»}
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_abbreviation».«Vtd_AbbreviationFeature.ts»}
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_abbreviation».«Vtd_AbbreviationHoverProvider.ts»}
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_abbreviation».«Vtd_AbbreviationRewriterFeature.ts»}
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_abbreviation».«Vtd_SymbolPickerFeature.ts»}
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_abbreviation».«Vtd_VSCodeAbbreviationConfig.ts»}
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_abbreviation».«Vtd_VSCodeAbbreviationRewriter.ts»}

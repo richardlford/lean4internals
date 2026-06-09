@@ -1,18 +1,29 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_static-web/Vtd_search.lean
+
         
+-- Imports for contained files.
+import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search».«Vtd_README.txt»
+import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search».«Vtd_domain-mappers.d.ts»
+import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search».«Vtd_fuzzysort.d.ts»
+import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search».«Vtd_fuzzysort.min.js»
+import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search».«Vtd_jsconfig.json»
+import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search».«Vtd_licenses.md»
+import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search».«Vtd_search-box.css»
+import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search».«Vtd_search-box.js»
+import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search».«Vtd_search-highlight.css»
+import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search».«Vtd_search-highlight.js»
+import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search».«Vtd_search-init.js»
+import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search».«Vtd_search-page.css»
+import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search».«Vtd_search-page.js»
+import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search».«Vtd_unicode-input-component.min.js»
+import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search».«Vtd_unicode-input.min.js»
 
-
-import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search_Files»
 
 import VersoManual
--- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
-
--- This gets access to Lean code that's in code blocks, elaborated in the same process and
--- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`m/verso/static-web/search`"  =>
+#doc (Manual) "`m/verso/static-web/search/`"  =>
 
 %%%
 authors := ["Richard L Ford"]
@@ -21,4 +32,18 @@ tag := "mods-verso-static-web-search"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search_Files»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search».«Vtd_README.txt»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search».«Vtd_domain-mappers.d.ts»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search».«Vtd_fuzzysort.d.ts»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search».«Vtd_fuzzysort.min.js»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search».«Vtd_jsconfig.json»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search».«Vtd_licenses.md»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search».«Vtd_search-box.css»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search».«Vtd_search-box.js»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search».«Vtd_search-highlight.css»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search».«Vtd_search-highlight.js»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search».«Vtd_search-init.js»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search».«Vtd_search-page.css»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search».«Vtd_search-page.js»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search».«Vtd_unicode-input-component.min.js»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search».«Vtd_unicode-input.min.js»}

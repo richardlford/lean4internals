@@ -1,7 +1,13 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_katex.lean
-        
 
-import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex_Files»
+        
+-- Imports for contained files.
+import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_README.md»
+import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_katex.css»
+import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_katex.js»
+import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_katex.min.css»
+import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_katex.min.js»
+import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_katex.mjs»
 
 -- Imports from child directories.
 
@@ -13,14 +19,10 @@ import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts�
 
 
 import VersoManual
--- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
-
--- This gets access to Lean code that's in code blocks, elaborated in the same process and
--- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`m/verso/vendored-js/katex`"  =>
+#doc (Manual) "`m/verso/vendored-js/katex/`"  =>
 
 %%%
 authors := ["Richard L Ford"]
@@ -29,7 +31,12 @@ tag := "mods-verso-vendored-js-katex"
 
 TODO
 
+{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_README.md»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_katex.css»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_katex.js»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_katex.min.css»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_katex.min.js»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_katex.mjs»}
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex_Files»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_contrib»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts»}

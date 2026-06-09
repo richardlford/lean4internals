@@ -1,6 +1,6 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_src.lean
 
-
+        
 -- Imports from child directories.
 
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_cli»
@@ -8,6 +8,7 @@ import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_multi-verso»
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso»
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-blog»
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-html»
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-illuminate»
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate»
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate-code»
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate-html»
@@ -22,23 +23,17 @@ import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-util»
 
 
 import VersoManual
--- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
-
--- This gets access to Lean code that's in code blocks, elaborated in the same process and
--- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/verso/src`"  =>
+#doc (Manual) "`mods/verso/src/`"  =>
 
 %%%
 authors := ["Richard L Ford"]
 tag := "mods-verso-src"
 %%%
 
-The `verso/src` directory contains the logic that actually implements Verso.
-It does not immediately contain any file, but just has subdirectories
-that implement parts of its functionality.s
+TODO
 
 
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_cli»}
@@ -46,6 +41,7 @@ that implement parts of its functionality.s
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-blog»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-html»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-illuminate»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate-code»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate-html»}

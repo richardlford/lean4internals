@@ -1,7 +1,10 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_lean4-unicode-input.lean
-        
 
-import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input_Files»
+        
+-- Imports for contained files.
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input».«Vtd_LICENSE»
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input».«Vtd_package.json»
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input».«Vtd_tsconfig.json»
 
 -- Imports from child directories.
 
@@ -12,14 +15,10 @@ import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input».«Vtd_src»
 
 
 import VersoManual
--- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
-
--- This gets access to Lean code that's in code blocks, elaborated in the same process and
--- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/vscode-lean4/lean4-unicode-input`"  =>
+#doc (Manual) "`mods/vscode-lean4/lean4-unicode-input/`"  =>
 
 %%%
 authors := ["Richard L Ford"]
@@ -28,6 +27,8 @@ tag := "mods-vscode-lean4-lean4-unicode-input"
 
 TODO
 
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input».«Vtd_LICENSE»}
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input».«Vtd_package.json»}
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input».«Vtd_tsconfig.json»}
 
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input_Files»}
 {include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input».«Vtd_src»}

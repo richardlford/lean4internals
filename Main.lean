@@ -17,6 +17,6 @@ def config : RenderConfig where
   emitTeX := false
   emitHtmlSingle := .no
   emitHtmlMulti := .immediately
-  htmlDepth := 3
+  htmlDepth := 4
 
 def main := manualMain (%doc «Vtd_mods») (config := config)

@@ -1,7 +1,16 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4.lean
-        
 
-import «Vtd_mods».«Vtd_vscode-lean4_Files»
+        
+-- Imports for contained files.
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_LICENSE»
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_README.md»
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_bump-package-version.sh»
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_flake.nix»
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lerna.json»
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_package-lock.json»
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_package.json»
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_prerelease.sh»
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_release.sh»
 
 -- Imports from child directories.
 
@@ -17,14 +26,10 @@ import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4»
 
 
 import VersoManual
--- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
-
--- This gets access to Lean code that's in code blocks, elaborated in the same process and
--- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/vscode-lean4`"  =>
+#doc (Manual) "`mods/vscode-lean4/`"  =>
 
 %%%
 authors := ["Richard L Ford"]
@@ -33,8 +38,16 @@ tag := "mods-vscode-lean4"
 
 TODO
 
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_LICENSE»}
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_README.md»}
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_bump-package-version.sh»}
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_flake.nix»}
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lerna.json»}
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_package-lock.json»}
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_package.json»}
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_prerelease.sh»}
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_release.sh»}
 
-{include «Vtd_mods».«Vtd_vscode-lean4_Files»}
 {include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs»}
 {include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview»}
 {include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview-api»}

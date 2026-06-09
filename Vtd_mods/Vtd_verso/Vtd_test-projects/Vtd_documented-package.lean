@@ -1,18 +1,18 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_documented-package.lean
+
         
+-- Imports for contained files.
+import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_documented-package».«Vtd_Zippers.lean»
+import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_documented-package».«Vtd_lake-manifest.json»
+import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_documented-package».«Vtd_lakefile.toml»
+import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_documented-package».«Vtd_lean-toolchain»
 
-
-import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_documented-package_Files»
 
 import VersoManual
--- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
-
--- This gets access to Lean code that's in code blocks, elaborated in the same process and
--- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`m/verso/test-projects/documented-package`"  =>
+#doc (Manual) "`m/verso/test-projects/documented-package/`"  =>
 
 %%%
 authors := ["Richard L Ford"]
@@ -21,4 +21,7 @@ tag := "mods-verso-test-projects-documented-package"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_documented-package_Files»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_documented-package».«Vtd_Zippers.lean»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_documented-package».«Vtd_lake-manifest.json»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_documented-package».«Vtd_lakefile.toml»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_documented-package».«Vtd_lean-toolchain»}

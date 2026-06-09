@@ -1,18 +1,16 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_vscode-lean4/Vtd_test/Vtd_test-fixtures/Vtd_lakefileTomlSchemaTestCases/Vtd_invalid.lean
+
         
+-- Imports for contained files.
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_test».«Vtd_test-fixtures».«Vtd_lakefileTomlSchemaTestCases».«Vtd_invalid».«Vtd_require_git_incorrect_type.toml»
+import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_test».«Vtd_test-fixtures».«Vtd_lakefileTomlSchemaTestCases».«Vtd_invalid».«Vtd_require_no_name.toml»
 
-
-import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_test».«Vtd_test-fixtures».«Vtd_lakefileTomlSchemaTestCases».«Vtd_invalid_Files»
 
 import VersoManual
--- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
-
--- This gets access to Lean code that's in code blocks, elaborated in the same process and
--- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`m/v/v/t/test-fixtures/lakefileTomlSchemaTestCases/invalid`"  =>
+#doc (Manual) "`m/v/v/t/test-fixtures/lakefileTomlSchemaTestCases/invalid/`"  =>
 
 %%%
 authors := ["Richard L Ford"]
@@ -21,4 +19,5 @@ tag := "mods-vscode-lean4-vscode-lean4-test-test-fixtures-lakefileTomlSchemaTest
 
 TODO
 
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_test».«Vtd_test-fixtures».«Vtd_lakefileTomlSchemaTestCases».«Vtd_invalid_Files»}
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_test».«Vtd_test-fixtures».«Vtd_lakefileTomlSchemaTestCases».«Vtd_invalid».«Vtd_require_git_incorrect_type.toml»}
+{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_test».«Vtd_test-fixtures».«Vtd_lakefileTomlSchemaTestCases».«Vtd_invalid».«Vtd_require_no_name.toml»}

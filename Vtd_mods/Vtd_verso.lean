@@ -1,7 +1,21 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso.lean
 
-
-import «Vtd_mods».«Vtd_verso_Files»
+        
+-- Imports for contained files.
+import «Vtd_mods».«Vtd_verso».«Vtd_LICENSE»
+import «Vtd_mods».«Vtd_verso».«Vtd_README-html.md»
+import «Vtd_mods».«Vtd_verso».«Vtd_README.md»
+import «Vtd_mods».«Vtd_verso».«Vtd_UsersGuideMain.lean»
+import «Vtd_mods».«Vtd_verso».«Vtd_elan-init»
+import «Vtd_mods».«Vtd_verso».«Vtd_generate.sh»
+import «Vtd_mods».«Vtd_verso».«Vtd_lake-manifest.json»
+import «Vtd_mods».«Vtd_verso».«Vtd_lakefile.lean»
+import «Vtd_mods».«Vtd_verso».«Vtd_lean-toolchain»
+import «Vtd_mods».«Vtd_verso».«Vtd_package-lock.json»
+import «Vtd_mods».«Vtd_verso».«Vtd_package.json»
+import «Vtd_mods».«Vtd_verso».«Vtd_server.py»
+import «Vtd_mods».«Vtd_verso».«Vtd_tag-subverso.sh»
+import «Vtd_mods».«Vtd_verso».«Vtd_update-subverso.sh»
 
 -- Imports from child directories.
 
@@ -19,24 +33,33 @@ import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js»
 
 
 import VersoManual
--- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
-
--- This gets access to Lean code that's in code blocks, elaborated in the same process and
--- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/verso`"  =>
+#doc (Manual) "`mods/verso/`"  =>
 
 %%%
 authors := ["Richard L Ford"]
 tag := "mods-verso"
 %%%
 
-Verso is a tool for writing about Lean. The [Verso User Manual](https://verso.lean-lang.org/doc/latest/) introduces and tells how to use Verso.
+TODO
 
+{include «Vtd_mods».«Vtd_verso».«Vtd_LICENSE»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_README-html.md»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_README.md»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_UsersGuideMain.lean»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_elan-init»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_generate.sh»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_lake-manifest.json»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_lakefile.lean»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_lean-toolchain»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_package-lock.json»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_package.json»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_server.py»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_tag-subverso.sh»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_update-subverso.sh»}
 
-{include «Vtd_mods».«Vtd_verso_Files»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_browser-tests»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_deploy»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_doc»}

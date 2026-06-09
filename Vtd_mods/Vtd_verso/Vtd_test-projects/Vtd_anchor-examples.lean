@@ -1,7 +1,11 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_anchor-examples.lean
-        
 
-import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_anchor-examples_Files»
+        
+-- Imports for contained files.
+import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_anchor-examples».«Vtd_AnchorExamples.lean»
+import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_anchor-examples».«Vtd_lake-manifest.json»
+import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_anchor-examples».«Vtd_lakefile.lean»
+import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_anchor-examples».«Vtd_lean-toolchain»
 
 -- Imports from child directories.
 
@@ -12,14 +16,10 @@ import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_anchor-examples».
 
 
 import VersoManual
--- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
-
--- This gets access to Lean code that's in code blocks, elaborated in the same process and
--- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`m/verso/test-projects/anchor-examples`"  =>
+#doc (Manual) "`m/verso/test-projects/anchor-examples/`"  =>
 
 %%%
 authors := ["Richard L Ford"]
@@ -28,6 +28,9 @@ tag := "mods-verso-test-projects-anchor-examples"
 
 TODO
 
+{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_anchor-examples».«Vtd_AnchorExamples.lean»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_anchor-examples».«Vtd_lake-manifest.json»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_anchor-examples».«Vtd_lakefile.lean»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_anchor-examples».«Vtd_lean-toolchain»}
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_anchor-examples_Files»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_anchor-examples».«Vtd_AnchorExamples»}

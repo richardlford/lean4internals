@@ -1,18 +1,16 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-search/Vtd_VersoSearch.lean
+
         
+-- Imports for contained files.
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-search».«Vtd_VersoSearch».«Vtd_DomainSearch.lean»
+import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-search».«Vtd_VersoSearch».«Vtd_PorterStemmer.lean»
 
-
-import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-search».«Vtd_VersoSearch_Files»
 
 import VersoManual
--- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
-
--- This gets access to Lean code that's in code blocks, elaborated in the same process and
--- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`m/v/src/verso-search/VersoSearch`"  =>
+#doc (Manual) "`m/v/src/verso-search/VersoSearch/`"  =>
 
 %%%
 authors := ["Richard L Ford"]
@@ -21,4 +19,5 @@ tag := "mods-verso-src-verso-search-VersoSearch"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-search».«Vtd_VersoSearch_Files»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-search».«Vtd_VersoSearch».«Vtd_DomainSearch.lean»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-search».«Vtd_VersoSearch».«Vtd_PorterStemmer.lean»}

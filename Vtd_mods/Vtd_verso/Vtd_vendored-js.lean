@@ -1,7 +1,9 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js.lean
-        
 
-import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js_Files»
+        
+-- Imports for contained files.
+import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_README»
+import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy-bundle.umd.min.js»
 
 -- Imports from child directories.
 
@@ -17,14 +19,10 @@ import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy»
 
 
 import VersoManual
--- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
-
--- This gets access to Lean code that's in code blocks, elaborated in the same process and
--- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/verso/vendored-js`"  =>
+#doc (Manual) "`mods/verso/vendored-js/`"  =>
 
 %%%
 authors := ["Richard L Ford"]
@@ -33,8 +31,9 @@ tag := "mods-verso-vendored-js"
 
 TODO
 
+{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_README»}
+{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy-bundle.umd.min.js»}
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js_Files»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_axe-core»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_elasticlunr»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex»}

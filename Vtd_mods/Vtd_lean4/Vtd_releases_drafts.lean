@@ -1,18 +1,15 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_releases_drafts.lean
+
         
+-- Imports for contained files.
+import «Vtd_mods».«Vtd_lean4».«Vtd_releases_drafts».«Vtd_README.md»
 
-
-import «Vtd_mods».«Vtd_lean4».«Vtd_releases_drafts_Files»
 
 import VersoManual
--- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
-
--- This gets access to Lean code that's in code blocks, elaborated in the same process and
--- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`mods/lean4/releases_drafts`"  =>
+#doc (Manual) "`mods/lean4/releases_drafts/`"  =>
 
 %%%
 authors := ["Richard L Ford"]
@@ -21,4 +18,4 @@ tag := "mods-lean4-releases_drafts"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_releases_drafts_Files»}
+{include «Vtd_mods».«Vtd_lean4».«Vtd_releases_drafts».«Vtd_README.md»}

@@ -1,18 +1,20 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_shell.lean
+
         
+-- Imports for contained files.
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_shell».«Vtd_CMakeLists.txt»
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_shell».«Vtd_app.manifest»
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_shell».«Vtd_lean.cpp»
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_shell».«Vtd_lean_js.cpp»
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_shell».«Vtd_manifest.rc»
+import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_shell».«Vtd_mk_lean_sh.sh»
 
-
-import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_shell_Files»
 
 import VersoManual
--- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
-
--- This gets access to Lean code that's in code blocks, elaborated in the same process and
--- environment as Verso
 open Verso.Genre.Manual.InlineLean
 
-#doc (Manual) "`m/lean4/src/shell`"  =>
+#doc (Manual) "`m/lean4/src/shell/`"  =>
 
 %%%
 authors := ["Richard L Ford"]
@@ -21,4 +23,9 @@ tag := "mods-lean4-src-shell"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_shell_Files»}
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_shell».«Vtd_CMakeLists.txt»}
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_shell».«Vtd_app.manifest»}
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_shell».«Vtd_lean.cpp»}
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_shell».«Vtd_lean_js.cpp»}
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_shell».«Vtd_manifest.rc»}
+{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_shell».«Vtd_mk_lean_sh.sh»}
