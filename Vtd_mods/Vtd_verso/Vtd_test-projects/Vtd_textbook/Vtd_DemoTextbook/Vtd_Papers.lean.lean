@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-verso-test-projects-textbook-DemoTextbook-Papers.lean"
+tag := "mods-verso-test-projects-textbook-DemoTextbook-Papers-lean"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/textbook/DemoTextbook/Papers.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_textbook/Vtd_DemoTextbook/Vtd_Papers.lean.lean)

@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-verso-vendored-js-katex-contrib-mathtex-script-type.mjs"
+tag := "mods-verso-vendored-js-katex-contrib-mathtex-script-type-mjs"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/contrib/mathtex-script-type.mjs) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_katex/Vtd_contrib/Vtd_mathtex-script-type.mjs.lean)

@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-verso-test-projects-website-examples-lakefile.lean"
+tag := "mods-verso-test-projects-website-examples-lakefile-lean"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/website-examples/lakefile.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_website-examples/Vtd_lakefile.lean.lean)

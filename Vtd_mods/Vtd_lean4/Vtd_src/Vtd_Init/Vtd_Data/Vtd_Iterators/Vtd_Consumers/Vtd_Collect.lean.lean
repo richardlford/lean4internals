@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-src-Init-Data-Iterators-Consumers-Collect.lean"
+tag := "mods-lean4-src-Init-Data-Iterators-Consumers-Collect-lean"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Consumers/Collect.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Data/Vtd_Iterators/Vtd_Consumers/Vtd_Collect.lean.lean)

@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-src-library-ir_types.h"
+tag := "mods-lean4-src-library-ir_types-h"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/ir_types.h) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_library/Vtd_ir_types.h.lean)

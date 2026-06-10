@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-src-Init-Grind-Ring-Envelope.lean"
+tag := "mods-lean4-src-Init-Grind-Ring-Envelope-lean"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Grind/Ring/Envelope.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Grind/Vtd_Ring/Vtd_Envelope.lean.lean)

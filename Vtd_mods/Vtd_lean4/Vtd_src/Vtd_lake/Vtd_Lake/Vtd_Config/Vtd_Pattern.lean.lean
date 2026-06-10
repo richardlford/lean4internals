@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-src-lake-Lake-Config-Pattern.lean"
+tag := "mods-lean4-src-lake-Lake-Config-Pattern-lean"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Config/Pattern.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_lake/Vtd_Lake/Vtd_Config/Vtd_Pattern.lean.lean)

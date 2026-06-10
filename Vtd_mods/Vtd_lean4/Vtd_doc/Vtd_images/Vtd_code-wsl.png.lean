@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-doc-images-code-wsl.png"
+tag := "mods-lean4-doc-images-code-wsl-png"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/images/code-wsl.png) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_images/Vtd_code-wsl.png.lean)

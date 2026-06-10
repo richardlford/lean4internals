@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-doc-std-grove-update_invalidated.sh"
+tag := "mods-lean4-doc-std-grove-update_invalidated-sh"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/update_invalidated.sh) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_std/Vtd_grove/Vtd_update_invalidated.sh.lean)

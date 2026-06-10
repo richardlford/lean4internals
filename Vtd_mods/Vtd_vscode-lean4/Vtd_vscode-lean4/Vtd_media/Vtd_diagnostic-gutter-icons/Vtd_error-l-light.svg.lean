@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-vscode-lean4-vscode-lean4-media-diagnostic-gutter-icons-error-l-light.svg"
+tag := "mods-vscode-lean4-vscode-lean4-media-diagnostic-gutter-icons-error-l-light-svg"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/media/diagnostic-gutter-icons/error-l-light.svg) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_vscode-lean4/Vtd_media/Vtd_diagnostic-gutter-icons/Vtd_error-l-light.svg.lean)

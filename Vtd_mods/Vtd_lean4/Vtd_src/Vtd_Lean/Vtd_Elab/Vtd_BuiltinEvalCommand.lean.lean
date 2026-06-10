@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-src-Lean-Elab-BuiltinEvalCommand.lean"
+tag := "mods-lean4-src-Lean-Elab-BuiltinEvalCommand-lean"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/BuiltinEvalCommand.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_Elab/Vtd_BuiltinEvalCommand.lean.lean)

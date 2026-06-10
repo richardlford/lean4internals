@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-stage0-src-util-ffi.cpp"
+tag := "mods-lean4-stage0-src-util-ffi-cpp"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/util/ffi.cpp) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_src/Vtd_util/Vtd_ffi.cpp.lean)

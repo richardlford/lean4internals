@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-src-Init-Data-String.lean"
+tag := "mods-lean4-src-Init-Data-String-lean"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/String.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Data/Vtd_String.lean.lean)

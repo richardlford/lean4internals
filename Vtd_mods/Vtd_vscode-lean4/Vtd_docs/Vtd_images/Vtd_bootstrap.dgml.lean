@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-vscode-lean4-docs-images-bootstrap.dgml"
+tag := "mods-vscode-lean4-docs-images-bootstrap-dgml"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/docs/images/bootstrap.dgml) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_docs/Vtd_images/Vtd_bootstrap.dgml.lean)

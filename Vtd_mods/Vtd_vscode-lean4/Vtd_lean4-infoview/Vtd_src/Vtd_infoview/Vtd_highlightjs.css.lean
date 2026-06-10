@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-vscode-lean4-lean4-infoview-src-infoview-highlightjs.css"
+tag := "mods-vscode-lean4-lean4-infoview-src-infoview-highlightjs-css"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-infoview/src/infoview/highlightjs.css) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_lean4-infoview/Vtd_src/Vtd_infoview/Vtd_highlightjs.css.lean)

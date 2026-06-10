@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-src-Std-Data-HashMap-IteratorLemmas.lean"
+tag := "mods-lean4-src-Std-Data-HashMap-IteratorLemmas-lean"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/HashMap/IteratorLemmas.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Data/Vtd_HashMap/Vtd_IteratorLemmas.lean.lean)

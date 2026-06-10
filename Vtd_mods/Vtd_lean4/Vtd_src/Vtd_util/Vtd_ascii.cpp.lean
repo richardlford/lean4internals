@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-src-util-ascii.cpp"
+tag := "mods-lean4-src-util-ascii-cpp"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/util/ascii.cpp) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_util/Vtd_ascii.cpp.lean)

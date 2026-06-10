@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-stage0-src-cmake-Modules-FindWindowsSDK.cmake"
+tag := "mods-lean4-stage0-src-cmake-Modules-FindWindowsSDK-cmake"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/cmake/Modules/FindWindowsSDK.cmake) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_src/Vtd_cmake/Vtd_Modules/Vtd_FindWindowsSDK.cmake.lean)

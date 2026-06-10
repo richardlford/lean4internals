@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-verso-test-projects-website-static_files-style.css"
+tag := "mods-verso-test-projects-website-static_files-style-css"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/website/static_files/style.css) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_website/Vtd_static_files/Vtd_style.css.lean)

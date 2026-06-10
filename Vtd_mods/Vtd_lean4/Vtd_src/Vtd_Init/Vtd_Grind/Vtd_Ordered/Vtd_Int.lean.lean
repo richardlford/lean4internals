@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-src-Init-Grind-Ordered-Int.lean"
+tag := "mods-lean4-src-Init-Grind-Ordered-Int-lean"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Grind/Ordered/Int.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Grind/Vtd_Ordered/Vtd_Int.lean.lean)

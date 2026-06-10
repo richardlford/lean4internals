@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-stage0-stdlib-Lean-Elab-PreDefinition-WF-Rel.c"
+tag := "mods-lean4-stage0-stdlib-Lean-Elab-PreDefinition-WF-Rel-c"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Elab/PreDefinition/WF/Rel.c) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Lean/Vtd_Elab/Vtd_PreDefinition/Vtd_WF/Vtd_Rel.c.lean)

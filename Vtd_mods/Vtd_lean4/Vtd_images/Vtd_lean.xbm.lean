@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-images-lean.xbm"
+tag := "mods-lean4-images-lean-xbm"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/images/lean.xbm) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_images/Vtd_lean.xbm.lean)

@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-doc-std-grove-lakefile.toml"
+tag := "mods-lean4-doc-std-grove-lakefile-toml"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/lakefile.toml) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_std/Vtd_grove/Vtd_lakefile.toml.lean)

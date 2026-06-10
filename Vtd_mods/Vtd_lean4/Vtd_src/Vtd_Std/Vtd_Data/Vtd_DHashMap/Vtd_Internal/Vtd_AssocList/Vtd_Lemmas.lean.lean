@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-src-Std-Data-DHashMap-Internal-AssocList-Lemmas.lean"
+tag := "mods-lean4-src-Std-Data-DHashMap-Internal-AssocList-Lemmas-lean"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Data/DHashMap/Internal/AssocList/Lemmas.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Data/Vtd_DHashMap/Vtd_Internal/Vtd_AssocList/Vtd_Lemmas.lean.lean)

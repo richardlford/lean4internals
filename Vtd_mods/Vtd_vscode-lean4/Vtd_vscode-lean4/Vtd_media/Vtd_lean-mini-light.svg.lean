@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-vscode-lean4-vscode-lean4-media-lean-mini-light.svg"
+tag := "mods-vscode-lean4-vscode-lean4-media-lean-mini-light-svg"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/media/lean-mini-light.svg) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_vscode-lean4/Vtd_media/Vtd_lean-mini-light.svg.lean)

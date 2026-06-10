@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-verso-vendored-js-katex-contrib-auto-render.mjs"
+tag := "mods-verso-vendored-js-katex-contrib-auto-render-mjs"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/contrib/auto-render.mjs) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_katex/Vtd_contrib/Vtd_auto-render.mjs.lean)

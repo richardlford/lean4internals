@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-src-util-message_definitions.h"
+tag := "mods-lean4-src-util-message_definitions-h"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/util/message_definitions.h) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_util/Vtd_message_definitions.h.lean)

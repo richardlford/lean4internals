@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-verso-server.py"
+tag := "mods-verso-server-py"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/verso/server.py) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_server.py.lean)

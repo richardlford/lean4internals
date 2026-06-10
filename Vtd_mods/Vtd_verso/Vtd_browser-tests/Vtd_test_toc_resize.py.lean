@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-verso-browser-tests-test_toc_resize.py"
+tag := "mods-verso-browser-tests-test_toc_resize-py"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/verso/browser-tests/test_toc_resize.py) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_browser-tests/Vtd_test_toc_resize.py.lean)

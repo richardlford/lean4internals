@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-verso-test-projects-documented-package-Zippers.lean"
+tag := "mods-verso-test-projects-documented-package-Zippers-lean"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/documented-package/Zippers.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_documented-package/Vtd_Zippers.lean.lean)

@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-verso-deploy-overlay.py"
+tag := "mods-verso-deploy-overlay-py"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/verso/deploy/overlay.py) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_deploy/Vtd_overlay.py.lean)

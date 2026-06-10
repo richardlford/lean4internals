@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-stage0-stdlib-Lean-Server-FileWorker-SetupFile.c"
+tag := "mods-lean4-stage0-stdlib-Lean-Server-FileWorker-SetupFile-c"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/FileWorker/SetupFile.c) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Lean/Vtd_Server/Vtd_FileWorker/Vtd_SetupFile.c.lean)

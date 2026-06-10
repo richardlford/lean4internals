@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-stage0-stdlib-Lean-Server-CodeActions-Attr.c"
+tag := "mods-lean4-stage0-stdlib-Lean-Server-CodeActions-Attr-c"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Server/CodeActions/Attr.c) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Lean/Vtd_Server/Vtd_CodeActions/Vtd_Attr.c.lean)

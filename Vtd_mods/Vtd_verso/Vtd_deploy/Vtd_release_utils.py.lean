@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-verso-deploy-release_utils.py"
+tag := "mods-verso-deploy-release_utils-py"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/verso/deploy/release_utils.py) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_deploy/Vtd_release_utils.py.lean)

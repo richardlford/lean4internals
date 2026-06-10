@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-vscode-lean4-vscode-lean4-manual-images-update-release-channel.png"
+tag := "mods-vscode-lean4-vscode-lean4-manual-images-update-release-channel-png"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/manual/images/update-release-channel.png) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_vscode-lean4/Vtd_manual/Vtd_images/Vtd_update-release-channel.png.lean)

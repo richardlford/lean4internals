@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-src-kernel-local_ctx.h"
+tag := "mods-lean4-src-kernel-local_ctx-h"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/kernel/local_ctx.h) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_kernel/Vtd_local_ctx.h.lean)

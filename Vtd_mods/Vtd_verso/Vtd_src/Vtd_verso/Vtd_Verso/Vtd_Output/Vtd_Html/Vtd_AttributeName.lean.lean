@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-verso-src-verso-Verso-Output-Html-AttributeName.lean"
+tag := "mods-verso-src-verso-Verso-Output-Html-AttributeName-lean"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/Output/Html/AttributeName.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso/Vtd_Verso/Vtd_Output/Vtd_Html/Vtd_AttributeName.lean.lean)

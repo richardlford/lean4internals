@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-stage0-stdlib-Lean-Data-RBMap.c"
+tag := "mods-lean4-stage0-stdlib-Lean-Data-RBMap-c"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Data/RBMap.c) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Lean/Vtd_Data/Vtd_RBMap.c.lean)

@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-vscode-lean4-vscode-lean4-src-extension.ts"
+tag := "mods-vscode-lean4-vscode-lean4-src-extension-ts"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/extension.ts) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_vscode-lean4/Vtd_src/Vtd_extension.ts.lean)

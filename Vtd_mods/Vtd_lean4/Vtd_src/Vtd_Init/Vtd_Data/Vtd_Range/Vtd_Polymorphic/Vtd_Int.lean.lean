@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-src-Init-Data-Range-Polymorphic-Int.lean"
+tag := "mods-lean4-src-Init-Data-Range-Polymorphic-Int-lean"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Range/Polymorphic/Int.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Data/Vtd_Range/Vtd_Polymorphic/Vtd_Int.lean.lean)

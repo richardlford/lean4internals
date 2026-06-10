@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-verso-src-verso-Verso-SyntaxUtils.lean"
+tag := "mods-verso-src-verso-Verso-SyntaxUtils-lean"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/SyntaxUtils.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso/Vtd_Verso/Vtd_SyntaxUtils.lean.lean)

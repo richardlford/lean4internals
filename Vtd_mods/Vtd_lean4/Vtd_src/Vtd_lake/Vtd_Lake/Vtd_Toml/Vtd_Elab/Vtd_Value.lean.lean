@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-src-lake-Lake-Toml-Elab-Value.lean"
+tag := "mods-lean4-src-lake-Lake-Toml-Elab-Value-lean"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Toml/Elab/Value.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_lake/Vtd_Lake/Vtd_Toml/Vtd_Elab/Vtd_Value.lean.lean)

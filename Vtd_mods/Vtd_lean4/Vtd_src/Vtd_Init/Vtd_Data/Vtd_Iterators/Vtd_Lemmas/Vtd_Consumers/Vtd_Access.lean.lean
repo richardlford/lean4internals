@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-src-Init-Data-Iterators-Lemmas-Consumers-Access.lean"
+tag := "mods-lean4-src-Init-Data-Iterators-Lemmas-Consumers-Access-lean"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/Iterators/Lemmas/Consumers/Access.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Data/Vtd_Iterators/Vtd_Lemmas/Vtd_Consumers/Vtd_Access.lean.lean)

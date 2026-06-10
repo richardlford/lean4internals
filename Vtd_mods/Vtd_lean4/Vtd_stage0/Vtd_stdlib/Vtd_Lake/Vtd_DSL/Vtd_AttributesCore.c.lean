@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-stage0-stdlib-Lake-DSL-AttributesCore.c"
+tag := "mods-lean4-stage0-stdlib-Lake-DSL-AttributesCore-c"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lake/DSL/AttributesCore.c) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Lake/Vtd_DSL/Vtd_AttributesCore.c.lean)

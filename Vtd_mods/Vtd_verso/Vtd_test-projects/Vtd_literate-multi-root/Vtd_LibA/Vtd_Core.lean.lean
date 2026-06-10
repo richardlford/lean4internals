@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-verso-test-projects-literate-multi-root-LibA-Core.lean"
+tag := "mods-verso-test-projects-literate-multi-root-LibA-Core-lean"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/literate-multi-root/LibA/Core.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_literate-multi-root/Vtd_LibA/Vtd_Core.lean.lean)

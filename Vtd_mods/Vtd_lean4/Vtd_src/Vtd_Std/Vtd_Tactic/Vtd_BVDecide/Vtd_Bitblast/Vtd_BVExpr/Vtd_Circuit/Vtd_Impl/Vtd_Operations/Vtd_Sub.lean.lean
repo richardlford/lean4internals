@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-src-Std-Tactic-BVDecide-Bitblast-BVExpr-Circuit-Impl-Operations-Sub.lean"
+tag := "mods-lean4-src-Std-Tactic-BVDecide-Bitblast-BVExpr-Circuit-Impl-Operations-Sub-lean"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Tactic/BVDecide/Bitblast/BVExpr/Circuit/Impl/Operations/Sub.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Tactic/Vtd_BVDecide/Vtd_Bitblast/Vtd_BVExpr/Vtd_Circuit/Vtd_Impl/Vtd_Operations/Vtd_Sub.lean.lean)

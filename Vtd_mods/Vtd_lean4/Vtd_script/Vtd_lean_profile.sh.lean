@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-script-lean_profile.sh"
+tag := "mods-lean4-script-lean_profile-sh"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/lean_profile.sh) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_script/Vtd_lean_profile.sh.lean)

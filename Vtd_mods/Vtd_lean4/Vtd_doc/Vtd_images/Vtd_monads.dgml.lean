@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-doc-images-monads.dgml"
+tag := "mods-lean4-doc-images-monads-dgml"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/images/monads.dgml) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_images/Vtd_monads.dgml.lean)

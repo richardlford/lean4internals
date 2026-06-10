@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-flake.lock"
+tag := "mods-lean4-flake-lock"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/flake.lock) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_flake.lock.lean)

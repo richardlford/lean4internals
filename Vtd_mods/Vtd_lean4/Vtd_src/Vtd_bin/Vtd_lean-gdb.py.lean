@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-src-bin-lean-gdb.py"
+tag := "mods-lean4-src-bin-lean-gdb-py"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/bin/lean-gdb.py) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_bin/Vtd_lean-gdb.py.lean)

@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-src-Std-Tactic-BVDecide-LRAT-Internal-Formula-RatAddResult.lean"
+tag := "mods-lean4-src-Std-Tactic-BVDecide-LRAT-Internal-Formula-RatAddResult-lean"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Tactic/BVDecide/LRAT/Internal/Formula/RatAddResult.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Tactic/Vtd_BVDecide/Vtd_LRAT/Vtd_Internal/Vtd_Formula/Vtd_RatAddResult.lean.lean)

@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-verso-vendored-js-tippy-animations-shift-away-subtle.css"
+tag := "mods-verso-vendored-js-tippy-animations-shift-away-subtle-css"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/animations/shift-away-subtle.css) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_tippy/Vtd_animations/Vtd_shift-away-subtle.css.lean)

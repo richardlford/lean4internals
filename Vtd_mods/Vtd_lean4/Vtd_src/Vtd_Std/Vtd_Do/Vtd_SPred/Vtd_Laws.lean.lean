@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-src-Std-Do-SPred-Laws.lean"
+tag := "mods-lean4-src-Std-Do-SPred-Laws-lean"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Do/SPred/Laws.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Do/Vtd_SPred/Vtd_Laws.lean.lean)

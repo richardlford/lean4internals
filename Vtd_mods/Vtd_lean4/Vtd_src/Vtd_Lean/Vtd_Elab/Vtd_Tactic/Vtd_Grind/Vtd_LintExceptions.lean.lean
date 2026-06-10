@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-src-Lean-Elab-Tactic-Grind-LintExceptions.lean"
+tag := "mods-lean4-src-Lean-Elab-Tactic-Grind-LintExceptions-lean"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Elab/Tactic/Grind/LintExceptions.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_Elab/Vtd_Tactic/Vtd_Grind/Vtd_LintExceptions.lean.lean)

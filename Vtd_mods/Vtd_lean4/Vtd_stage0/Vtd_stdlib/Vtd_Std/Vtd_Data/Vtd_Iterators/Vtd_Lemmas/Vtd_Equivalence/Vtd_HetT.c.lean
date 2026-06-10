@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-stage0-stdlib-Std-Data-Iterators-Lemmas-Equivalence-HetT.c"
+tag := "mods-lean4-stage0-stdlib-Std-Data-Iterators-Lemmas-Equivalence-HetT-c"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Lemmas/Equivalence/HetT.c) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Std/Vtd_Data/Vtd_Iterators/Vtd_Lemmas/Vtd_Equivalence/Vtd_HetT.c.lean)

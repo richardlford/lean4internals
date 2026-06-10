@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-src-library-dynlib.h"
+tag := "mods-lean4-src-library-dynlib-h"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/library/dynlib.h) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_library/Vtd_dynlib.h.lean)

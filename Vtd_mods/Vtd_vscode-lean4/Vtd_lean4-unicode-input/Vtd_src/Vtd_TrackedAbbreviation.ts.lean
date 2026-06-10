@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-vscode-lean4-lean4-unicode-input-src-TrackedAbbreviation.ts"
+tag := "mods-vscode-lean4-lean4-unicode-input-src-TrackedAbbreviation-ts"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-unicode-input/src/TrackedAbbreviation.ts) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_lean4-unicode-input/Vtd_src/Vtd_TrackedAbbreviation.ts.lean)

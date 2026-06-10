@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-doc-examples-NFM2022-nfm23.lean"
+tag := "mods-lean4-doc-examples-NFM2022-nfm23-lean"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/examples/NFM2022/nfm23.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_examples/Vtd_NFM2022/Vtd_nfm23.lean.lean)

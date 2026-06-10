@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-verso-gh-setup-verso-literate-pages.yml"
+tag := "mods-verso-gh-setup-verso-literate-pages-yml"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/verso/gh-setup/verso-literate-pages.yml) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_gh-setup/Vtd_verso-literate-pages.yml.lean)

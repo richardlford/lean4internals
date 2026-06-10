@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-vscode-lean4-lean4-unicode-input-component-package.json"
+tag := "mods-vscode-lean4-lean4-unicode-input-component-package-json"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-unicode-input-component/package.json) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_lean4-unicode-input-component/Vtd_package.json.lean)

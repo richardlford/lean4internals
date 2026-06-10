@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-src-kernel-type_checker.h"
+tag := "mods-lean4-src-kernel-type_checker-h"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/kernel/type_checker.h) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_kernel/Vtd_type_checker.h.lean)

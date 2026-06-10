@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-src-Lean-Data-Json-FromToJson-Extra.lean"
+tag := "mods-lean4-src-Lean-Data-Json-FromToJson-Extra-lean"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Data/Json/FromToJson/Extra.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_Data/Vtd_Json/Vtd_FromToJson/Vtd_Extra.lean.lean)

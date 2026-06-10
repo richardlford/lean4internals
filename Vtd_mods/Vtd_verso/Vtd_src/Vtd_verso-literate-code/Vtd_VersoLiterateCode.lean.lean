@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-verso-src-verso-literate-code-VersoLiterateCode.lean"
+tag := "mods-verso-src-verso-literate-code-VersoLiterateCode-lean"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-literate-code/VersoLiterateCode.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-literate-code/Vtd_VersoLiterateCode.lean.lean)

@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-verso-src-verso-blog-VersoBlog-Traverse.lean"
+tag := "mods-verso-src-verso-blog-VersoBlog-Traverse-lean"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-blog/VersoBlog/Traverse.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-blog/Vtd_VersoBlog/Vtd_Traverse.lean.lean)

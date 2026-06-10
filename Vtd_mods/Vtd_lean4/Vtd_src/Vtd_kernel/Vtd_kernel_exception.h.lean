@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-src-kernel-kernel_exception.h"
+tag := "mods-lean4-src-kernel-kernel_exception-h"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/kernel/kernel_exception.h) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_kernel/Vtd_kernel_exception.h.lean)

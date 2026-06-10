@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-script-profiler-lean_demangle_cli.lean"
+tag := "mods-lean4-script-profiler-lean_demangle_cli-lean"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/profiler/lean_demangle_cli.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_script/Vtd_profiler/Vtd_lean_demangle_cli.lean.lean)

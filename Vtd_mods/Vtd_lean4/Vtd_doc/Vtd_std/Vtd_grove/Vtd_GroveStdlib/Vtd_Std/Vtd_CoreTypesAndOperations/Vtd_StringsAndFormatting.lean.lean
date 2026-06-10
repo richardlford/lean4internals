@@ -10,7 +10,7 @@ open Verso.Genre.Manual.InlineLean
 
 %%%
 authors := ["Richard L Ford"]
-tag := "mods-lean4-doc-std-grove-GroveStdlib-Std-CoreTypesAndOperations-StringsAndFormatting.lean"
+tag := "mods-lean4-doc-std-grove-GroveStdlib-Std-CoreTypesAndOperations-StringsAndFormatting-lean"
 %%%
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/GroveStdlib/Std/CoreTypesAndOperations/StringsAndFormatting.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_std/Vtd_grove/Vtd_GroveStdlib/Vtd_Std/Vtd_CoreTypesAndOperations/Vtd_StringsAndFormatting.lean.lean)
