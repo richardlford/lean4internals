@@ -23,6 +23,8 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-src-verso-Verso-Doc-Elab"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso/Vtd_Verso/Vtd_Doc/Vtd_Elab.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Doc».«Vtd_Elab».«Vtd_Basic.lean»}

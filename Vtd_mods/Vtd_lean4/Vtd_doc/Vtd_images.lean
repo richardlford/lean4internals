@@ -25,6 +25,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-doc-images"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_images.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_images».«Vtd_code-ext.png»}

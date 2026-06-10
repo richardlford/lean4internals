@@ -17,6 +17,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-stage0-stdlib-Lake-CLI-Translate"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Lake/Vtd_CLI/Vtd_Translate.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lake».«Vtd_CLI».«Vtd_Translate».«Vtd_Lean.c»}

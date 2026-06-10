@@ -19,6 +19,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Lean-Server-CodeActions"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_Server/Vtd_CodeActions.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Server».«Vtd_CodeActions».«Vtd_Attr.lean»}

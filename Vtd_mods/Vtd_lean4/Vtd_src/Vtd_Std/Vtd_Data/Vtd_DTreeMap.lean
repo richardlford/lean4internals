@@ -30,6 +30,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Std-Data-DTreeMap"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Data/Vtd_DTreeMap.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DTreeMap».«Vtd_AdditionalOperations.lean»}

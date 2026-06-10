@@ -18,6 +18,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Lean-Server-Rpc"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_Server/Vtd_Rpc.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Server».«Vtd_Rpc».«Vtd_Basic.lean»}

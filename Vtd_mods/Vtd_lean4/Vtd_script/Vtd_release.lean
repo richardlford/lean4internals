@@ -20,6 +20,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-script-release"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_script/Vtd_release.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_release».«Vtd_checklist.py»}

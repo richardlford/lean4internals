@@ -39,6 +39,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-doc-examples-NFM2022"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_examples/Vtd_NFM2022.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_NFM2022».«Vtd_nfm1.lean»}

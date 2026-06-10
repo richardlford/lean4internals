@@ -16,6 +16,8 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-src-verso-manual-VersoManual-LicenseInfo"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-manual/Vtd_VersoManual/Vtd_LicenseInfo.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_LicenseInfo».«Vtd_Licenses.lean»}

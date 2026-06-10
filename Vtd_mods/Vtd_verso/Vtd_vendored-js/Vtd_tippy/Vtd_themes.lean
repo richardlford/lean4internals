@@ -19,6 +19,8 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-vendored-js-tippy-themes"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_tippy/Vtd_themes.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy».«Vtd_themes».«Vtd_light-border.css»}

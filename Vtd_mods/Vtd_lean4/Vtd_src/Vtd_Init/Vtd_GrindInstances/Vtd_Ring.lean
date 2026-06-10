@@ -22,6 +22,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Init-GrindInstances-Ring"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_GrindInstances/Vtd_Ring.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_GrindInstances».«Vtd_Ring».«Vtd_BitVec.lean»}

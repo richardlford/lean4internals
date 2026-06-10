@@ -18,6 +18,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Std-Internal-Parsec"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Internal/Vtd_Parsec.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Internal».«Vtd_Parsec».«Vtd_Basic.lean»}

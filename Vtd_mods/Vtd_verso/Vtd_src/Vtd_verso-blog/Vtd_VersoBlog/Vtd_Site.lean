@@ -16,6 +16,8 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-src-verso-blog-VersoBlog-Site"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-blog/Vtd_VersoBlog/Vtd_Site.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-blog».«Vtd_VersoBlog».«Vtd_Site».«Vtd_Syntax.lean»}

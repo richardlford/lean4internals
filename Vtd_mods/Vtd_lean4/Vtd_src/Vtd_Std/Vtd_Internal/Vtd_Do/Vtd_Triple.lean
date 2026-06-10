@@ -18,6 +18,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Std-Internal-Do-Triple"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Internal/Vtd_Do/Vtd_Triple.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Internal».«Vtd_Do».«Vtd_Triple».«Vtd_Basic.lean»}

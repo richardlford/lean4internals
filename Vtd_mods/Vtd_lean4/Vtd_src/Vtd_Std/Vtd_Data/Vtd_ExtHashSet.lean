@@ -17,6 +17,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Std-Data-ExtHashSet"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Data/Vtd_ExtHashSet.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_ExtHashSet».«Vtd_Basic.lean»}

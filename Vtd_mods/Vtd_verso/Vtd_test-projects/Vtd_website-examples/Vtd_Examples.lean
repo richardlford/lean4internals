@@ -16,6 +16,8 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-test-projects-website-examples-Examples"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_website-examples/Vtd_Examples.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website-examples».«Vtd_Examples».«Vtd_Basic.lean»}

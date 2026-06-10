@@ -29,6 +29,8 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-vendored-js"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_README»}

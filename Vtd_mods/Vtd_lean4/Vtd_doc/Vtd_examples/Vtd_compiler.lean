@@ -19,6 +19,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-doc-examples-compiler"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_examples/Vtd_compiler.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_compiler».«Vtd_README.md»}

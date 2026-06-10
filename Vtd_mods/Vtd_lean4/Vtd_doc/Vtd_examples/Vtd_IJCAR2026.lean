@@ -18,6 +18,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-doc-examples-IJCAR2026"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_examples/Vtd_IJCAR2026.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_IJCAR2026».«Vtd_README.md»}

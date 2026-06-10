@@ -19,6 +19,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Std-Time-Zoned-Database"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Time/Vtd_Zoned/Vtd_Database.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Time».«Vtd_Zoned».«Vtd_Database».«Vtd_Basic.lean»}

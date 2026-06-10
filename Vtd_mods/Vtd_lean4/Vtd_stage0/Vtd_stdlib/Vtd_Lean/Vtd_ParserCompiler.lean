@@ -16,6 +16,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-stage0-stdlib-Lean-ParserCompiler"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Lean/Vtd_ParserCompiler.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_ParserCompiler».«Vtd_Attribute.c»}

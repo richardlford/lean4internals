@@ -19,6 +19,8 @@ authors := ["Richard L Ford"]
 tag := "mods-vscode-lean4-vscode-lean4-test-test-fixtures-multi-test"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_vscode-lean4/Vtd_test/Vtd_test-fixtures/Vtd_multi/Vtd_test.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_test».«Vtd_test-fixtures».«Vtd_multi».«Vtd_test».«Vtd_Main.lean»}

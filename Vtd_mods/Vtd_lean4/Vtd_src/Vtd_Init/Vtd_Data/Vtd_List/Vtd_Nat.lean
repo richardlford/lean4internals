@@ -29,6 +29,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Init-Data-List-Nat"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Data/Vtd_List/Vtd_Nat.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_List».«Vtd_Nat».«Vtd_BEq.lean»}

@@ -17,6 +17,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-stage0-stdlib-Init-Control-Lawful-MonadAttach"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Init/Vtd_Control/Vtd_Lawful/Vtd_MonadAttach.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Control».«Vtd_Lawful».«Vtd_MonadAttach».«Vtd_Instances.c»}

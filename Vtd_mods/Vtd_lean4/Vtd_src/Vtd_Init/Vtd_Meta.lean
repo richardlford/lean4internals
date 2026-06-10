@@ -16,6 +16,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Init-Meta"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Meta.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Meta».«Vtd_Defs.lean»}

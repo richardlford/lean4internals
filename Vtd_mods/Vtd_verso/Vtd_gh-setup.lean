@@ -16,6 +16,8 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-gh-setup"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_gh-setup.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_verso».«Vtd_gh-setup».«Vtd_verso-literate-pages.yml»}

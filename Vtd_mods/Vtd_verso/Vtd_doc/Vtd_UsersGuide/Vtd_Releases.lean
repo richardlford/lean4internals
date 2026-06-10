@@ -19,6 +19,8 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-doc-UsersGuide-Releases"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_doc/Vtd_UsersGuide/Vtd_Releases.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_verso».«Vtd_doc».«Vtd_UsersGuide».«Vtd_Releases».«Vtd_v4_28_0.lean»}

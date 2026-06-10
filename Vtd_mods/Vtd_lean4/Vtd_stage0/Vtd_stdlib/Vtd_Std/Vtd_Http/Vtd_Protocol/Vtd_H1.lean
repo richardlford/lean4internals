@@ -22,6 +22,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-stage0-stdlib-Std-Http-Protocol-H1"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Std/Vtd_Http/Vtd_Protocol/Vtd_H1.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Http».«Vtd_Protocol».«Vtd_H1».«Vtd_Config.c»}

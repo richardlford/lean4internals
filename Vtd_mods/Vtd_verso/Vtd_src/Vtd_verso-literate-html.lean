@@ -17,6 +17,8 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-src-verso-literate-html"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-literate-html.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate-html».«Vtd_LiterateHtmlMain.lean»}

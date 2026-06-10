@@ -29,6 +29,8 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-static-web"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_static-web.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_find.js»}

@@ -29,6 +29,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-stage0-stdlib-Std-Tactic-BVDecide"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Std/Vtd_Tactic/Vtd_BVDecide.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_Bitblast.c»}

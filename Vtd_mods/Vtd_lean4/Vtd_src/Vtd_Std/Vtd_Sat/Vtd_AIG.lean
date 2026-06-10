@@ -36,6 +36,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Std-Sat-AIG"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Sat/Vtd_AIG.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Sat».«Vtd_AIG».«Vtd_Basic.lean»}

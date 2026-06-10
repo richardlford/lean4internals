@@ -16,6 +16,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Init-Sym-Simp"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Sym/Vtd_Simp.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Sym».«Vtd_Simp».«Vtd_SimprocDSL.lean»}

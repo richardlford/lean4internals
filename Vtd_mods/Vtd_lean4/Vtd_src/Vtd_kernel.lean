@@ -54,6 +54,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-kernel"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_kernel.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_kernel».«Vtd_CMakeLists.txt»}

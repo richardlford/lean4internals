@@ -26,6 +26,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Lean-Meta-Tactic-Simp-Arith"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_Meta/Vtd_Tactic/Vtd_Simp/Vtd_Arith.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Meta».«Vtd_Tactic».«Vtd_Simp».«Vtd_Arith».«Vtd_Int.lean»}

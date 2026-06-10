@@ -25,6 +25,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Init-Data-Range"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Data/Vtd_Range.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Range».«Vtd_Basic.lean»}

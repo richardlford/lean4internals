@@ -30,6 +30,8 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-vendored-js-katex-contrib"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_katex/Vtd_contrib.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_contrib».«Vtd_auto-render.js»}

@@ -23,6 +23,8 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-src-verso-search"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-search.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-search».«Vtd_VersoSearch.lean»}

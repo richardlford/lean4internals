@@ -22,6 +22,8 @@ authors := ["Richard L Ford"]
 tag := "mods"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods.lean)
+
 TODO
 
 

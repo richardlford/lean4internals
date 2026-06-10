@@ -17,6 +17,8 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-vendored-js-axe-core"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_axe-core.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_axe-core».«Vtd_LICENSE»}

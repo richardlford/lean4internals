@@ -27,6 +27,8 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-vendored-js-tippy-animations"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_tippy/Vtd_animations.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy».«Vtd_animations».«Vtd_perspective-extreme.css»}

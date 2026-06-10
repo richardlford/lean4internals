@@ -23,6 +23,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Lean-Elab-DocString"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_Elab/Vtd_DocString.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Elab».«Vtd_DocString».«Vtd_Builtin.lean»}

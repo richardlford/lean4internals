@@ -21,6 +21,8 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-deploy"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_deploy.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_verso».«Vtd_deploy».«Vtd_build.sh»}

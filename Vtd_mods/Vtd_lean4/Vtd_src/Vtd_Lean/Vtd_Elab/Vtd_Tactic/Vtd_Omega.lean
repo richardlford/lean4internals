@@ -19,6 +19,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Lean-Elab-Tactic-Omega"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_Elab/Vtd_Tactic/Vtd_Omega.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Elab».«Vtd_Tactic».«Vtd_Omega».«Vtd_Core.lean»}

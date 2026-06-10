@@ -24,6 +24,8 @@ authors := ["Richard L Ford"]
 tag := "mods-vscode-lean4-vscode-lean4-loogleview"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_vscode-lean4/Vtd_loogleview.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_loogleview».«Vtd_index.ts»}

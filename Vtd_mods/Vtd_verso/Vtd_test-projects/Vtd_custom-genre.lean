@@ -24,6 +24,8 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-test-projects-custom-genre"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_custom-genre.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_custom-genre».«Vtd_SimplePage.lean»}

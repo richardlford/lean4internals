@@ -17,6 +17,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Init-Data-Nat-Bitwise"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Data/Vtd_Nat/Vtd_Bitwise.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Nat».«Vtd_Bitwise».«Vtd_Basic.lean»}

@@ -16,6 +16,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Std-Tactic-BVDecide-Bitblast-BoolExpr"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Tactic/Vtd_BVDecide/Vtd_Bitblast/Vtd_BoolExpr.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_Bitblast».«Vtd_BoolExpr».«Vtd_Basic.lean»}

@@ -16,6 +16,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Lean-Parser-Tactic"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_Parser/Vtd_Tactic.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Parser».«Vtd_Tactic».«Vtd_Doc.lean»}

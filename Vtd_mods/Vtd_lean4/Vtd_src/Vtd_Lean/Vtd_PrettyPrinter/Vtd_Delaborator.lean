@@ -24,6 +24,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Lean-PrettyPrinter-Delaborator"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_PrettyPrinter/Vtd_Delaborator.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_PrettyPrinter».«Vtd_Delaborator».«Vtd_Attributes.lean»}

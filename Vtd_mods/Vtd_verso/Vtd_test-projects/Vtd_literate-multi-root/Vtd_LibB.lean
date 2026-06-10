@@ -16,6 +16,8 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-test-projects-literate-multi-root-LibB"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_literate-multi-root/Vtd_LibB.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-multi-root».«Vtd_LibB».«Vtd_Utils.lean»}

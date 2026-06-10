@@ -19,6 +19,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Init-Data-String-Pattern"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Data/Vtd_String/Vtd_Pattern.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_String».«Vtd_Pattern».«Vtd_Basic.lean»}

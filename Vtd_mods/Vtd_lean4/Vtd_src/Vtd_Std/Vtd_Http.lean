@@ -30,6 +30,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Std-Http"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Http.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Http».«Vtd_Data.lean»}

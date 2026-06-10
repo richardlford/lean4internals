@@ -43,6 +43,8 @@ authors := ["Richard L Ford"]
 tag := "mods-verso"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_verso».«Vtd_LICENSE»}

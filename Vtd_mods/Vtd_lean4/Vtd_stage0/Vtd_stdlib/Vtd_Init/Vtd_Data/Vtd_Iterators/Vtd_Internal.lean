@@ -16,6 +16,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-stage0-stdlib-Init-Data-Iterators-Internal"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Init/Vtd_Data/Vtd_Iterators/Vtd_Internal.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Data».«Vtd_Iterators».«Vtd_Internal».«Vtd_LawfulMonadLiftFunction.c»}

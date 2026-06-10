@@ -21,6 +21,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-stage0-src-cmake-Modules"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_src/Vtd_cmake/Vtd_Modules.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_cmake».«Vtd_Modules».«Vtd_FindGMP.cmake»}

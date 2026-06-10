@@ -16,6 +16,8 @@ authors := ["Richard L Ford"]
 tag := "mods-vscode-lean4-vscode-lean4-test-suite-lakefileTomlSchema"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_vscode-lean4/Vtd_test/Vtd_suite/Vtd_lakefileTomlSchema.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_test».«Vtd_suite».«Vtd_lakefileTomlSchema».«Vtd_lakefileTomlSchema.test.ts»}

@@ -30,6 +30,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-stage0-stdlib-Std-Data-DTreeMap"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Std/Vtd_Data/Vtd_DTreeMap.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_DTreeMap».«Vtd_AdditionalOperations.c»}

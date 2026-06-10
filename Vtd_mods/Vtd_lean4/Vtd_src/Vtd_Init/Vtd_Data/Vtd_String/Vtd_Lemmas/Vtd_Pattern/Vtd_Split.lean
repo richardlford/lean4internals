@@ -18,6 +18,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Init-Data-String-Lemmas-Pattern-Split"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Data/Vtd_String/Vtd_Lemmas/Vtd_Pattern/Vtd_Split.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_String».«Vtd_Lemmas».«Vtd_Pattern».«Vtd_Split».«Vtd_Basic.lean»}

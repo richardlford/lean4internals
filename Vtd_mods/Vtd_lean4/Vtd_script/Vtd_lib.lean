@@ -18,6 +18,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-script-lib"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_script/Vtd_lib.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_lib».«Vtd_README.md»}

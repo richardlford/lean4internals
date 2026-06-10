@@ -29,6 +29,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Std-Data-TreeSet"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Data/Vtd_TreeSet.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_TreeSet».«Vtd_AdditionalOperations.lean»}

@@ -17,6 +17,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Lean-Data-Json-FromToJson"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_Data/Vtd_Json/Vtd_FromToJson.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Data».«Vtd_Json».«Vtd_FromToJson».«Vtd_Basic.lean»}

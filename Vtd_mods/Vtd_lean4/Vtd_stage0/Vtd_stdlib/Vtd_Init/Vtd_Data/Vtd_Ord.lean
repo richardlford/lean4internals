@@ -22,6 +22,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-stage0-stdlib-Init-Data-Ord"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Init/Vtd_Data/Vtd_Ord.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Data».«Vtd_Ord».«Vtd_Array.c»}

@@ -28,6 +28,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-lake-Lake-DSL"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_lake/Vtd_Lake/Vtd_DSL.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_Lake».«Vtd_DSL».«Vtd_Attributes.lean»}

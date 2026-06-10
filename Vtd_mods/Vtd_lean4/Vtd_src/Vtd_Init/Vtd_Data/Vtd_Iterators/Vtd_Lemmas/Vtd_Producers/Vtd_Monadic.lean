@@ -16,6 +16,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Init-Data-Iterators-Lemmas-Producers-Monadic"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Data/Vtd_Iterators/Vtd_Lemmas/Vtd_Producers/Vtd_Monadic.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Producers».«Vtd_Monadic».«Vtd_List.lean»}

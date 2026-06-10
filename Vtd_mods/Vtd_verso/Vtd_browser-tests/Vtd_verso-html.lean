@@ -17,6 +17,8 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-browser-tests-verso-html"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_browser-tests/Vtd_verso-html.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_verso-html».«Vtd___init__.py»}

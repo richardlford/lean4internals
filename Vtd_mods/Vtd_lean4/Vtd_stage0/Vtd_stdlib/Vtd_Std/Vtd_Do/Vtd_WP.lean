@@ -19,6 +19,8 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-stage0-stdlib-Std-Do-WP"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Std/Vtd_Do/Vtd_WP.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Do».«Vtd_WP».«Vtd_Basic.c»}

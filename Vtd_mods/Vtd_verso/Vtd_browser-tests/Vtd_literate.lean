@@ -23,6 +23,8 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-browser-tests-literate"
 %%%
 
+[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_browser-tests/Vtd_literate.lean)
+
 TODO
 
 {include «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_literate».«Vtd___init__.py»}
