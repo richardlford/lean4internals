@@ -15,5 +15,4 @@ tag := "mods-verso-doc-UsersGuide-Elab.lean"
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/verso/doc/UsersGuide/Elab.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_doc/Vtd_UsersGuide/Vtd_Elab.lean.lean)
 
-TODO
-
+This contains the source for the "Building Documents" chapter.

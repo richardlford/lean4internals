@@ -15,5 +15,4 @@ tag := "mods-verso-lakefile.lean"
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/verso/lakefile.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_lakefile.lean.lean)
 
-TODO
-
+File written in the Lake DSL desribing the compoents of the Verso project.

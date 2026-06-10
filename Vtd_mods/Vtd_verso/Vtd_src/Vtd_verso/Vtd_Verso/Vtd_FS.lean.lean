@@ -15,5 +15,4 @@ tag := "mods-verso-src-verso-Verso-FS.lean"
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso/FS.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso/Vtd_Verso/Vtd_FS.lean.lean)
 
-TODO
-
+Filesystem utilities for making directory and copying directories.

@@ -15,5 +15,4 @@ tag := "mods-verso-doc-UsersGuide-Manuals.lean"
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/verso/doc/UsersGuide/Manuals.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_doc/Vtd_UsersGuide/Vtd_Manuals.lean.lean)
 
-TODO
-
+This contains source for the "Manuals and Books" chapter.

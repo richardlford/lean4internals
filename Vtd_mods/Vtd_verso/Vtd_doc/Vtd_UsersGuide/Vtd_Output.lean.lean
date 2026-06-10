@@ -15,5 +15,4 @@ tag := "mods-verso-doc-UsersGuide-Output.lean"
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/verso/doc/UsersGuide/Output.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_doc/Vtd_UsersGuide/Vtd_Output.lean.lean)
 
-TODO
-
+This is the "Output Formats" chapter.

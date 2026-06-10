@@ -15,5 +15,4 @@ tag := "mods-verso-src-verso-Verso.lean"
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso/Verso.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso/Vtd_Verso.lean.lean)
 
-TODO
-
+This is the root Verso file that imports all of the constituent parts.

@@ -15,5 +15,4 @@ tag := "mods-verso-LICENSE"
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/verso/LICENSE) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_LICENSE.lean)
 
-TODO
-
+Verso's license (Apache License 2.0).

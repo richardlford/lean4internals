@@ -15,5 +15,4 @@ tag := "mods-verso-lake-manifest.json"
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/verso/lake-manifest.json) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_lake-manifest.json.lean)
 
-TODO
-
+Versions of Lean packages used.

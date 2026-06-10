@@ -15,5 +15,4 @@ tag := "mods-verso-doc-UsersGuide-Releases.lean"
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/verso/doc/UsersGuide/Releases.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_doc/Vtd_UsersGuide/Vtd_Releases.lean.lean)
 
-TODO
-
+This is the "Release Notes" chapter of the manual.

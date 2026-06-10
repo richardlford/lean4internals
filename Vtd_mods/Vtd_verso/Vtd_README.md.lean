@@ -15,5 +15,4 @@ tag := "mods-verso-README.md"
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/verso/README.md) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_README.md.lean)
 
-TODO
-
+Top-level information about Verso.

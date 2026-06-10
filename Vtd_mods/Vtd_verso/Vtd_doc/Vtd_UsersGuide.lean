@@ -1,6 +1,6 @@
 -- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_doc/Vtd_UsersGuide.lean
 
-        
+
 -- Imports for contained files.
 import «Vtd_mods».«Vtd_verso».«Vtd_doc».«Vtd_UsersGuide».«Vtd_Basic.lean»
 import «Vtd_mods».«Vtd_verso».«Vtd_doc».«Vtd_UsersGuide».«Vtd_Elab.lean»
@@ -33,7 +33,7 @@ tag := "mods-verso-doc-UsersGuide"
 
 [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_doc/Vtd_UsersGuide.lean)
 
-TODO
+The `verso/doc/UsersGuide` directory contains the files which make up the Verso User Guide.
 
 {include «Vtd_mods».«Vtd_verso».«Vtd_doc».«Vtd_UsersGuide».«Vtd_Basic.lean»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_doc».«Vtd_UsersGuide».«Vtd_Elab.lean»}

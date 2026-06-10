@@ -15,5 +15,4 @@ tag := "mods-verso-lean-toolchain"
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/verso/lean-toolchain) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_lean-toolchain.lean)
 
-TODO
-
+What Lean toolchain version to use.

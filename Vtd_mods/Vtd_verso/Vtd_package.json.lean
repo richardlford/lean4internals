@@ -15,5 +15,4 @@ tag := "mods-verso-package.json"
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/verso/package.json) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_package.json.lean)
 
-TODO
-
+Dependencies.

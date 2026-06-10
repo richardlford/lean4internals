@@ -15,5 +15,4 @@ tag := "mods-verso-server.py"
 
 [source](vscode:/home/fordrl/e/lean4internals/mods/verso/server.py) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_server.py.lean)
 
-TODO
-
+Script to start up a HTTP server to serve the Verso documents.
