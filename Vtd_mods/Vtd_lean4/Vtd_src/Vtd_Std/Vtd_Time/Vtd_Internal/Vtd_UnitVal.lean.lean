@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Time/Vtd_Internal/Vtd_UnitVal.lean.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Time/Vtd_Internal/Vtd_UnitVal.lean.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Std-Time-Internal-UnitVal-lean"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Time/Internal/UnitVal.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Time/Vtd_Internal/Vtd_UnitVal.lean.lean)
+{editlink "mods/lean4/src/Std/Time/Internal/UnitVal.lean"}[source] {editlink "Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Time/Vtd_Internal/Vtd_UnitVal.lean.lean"}[edit]
 
 TODO
 

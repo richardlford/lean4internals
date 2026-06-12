@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Time/Vtd_Notation/Vtd_Spec.lean.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Time/Vtd_Notation/Vtd_Spec.lean.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Std-Time-Notation-Spec-lean"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Time/Notation/Spec.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Time/Vtd_Notation/Vtd_Spec.lean.lean)
+{editlink "mods/lean4/src/Std/Time/Notation/Spec.lean"}[source] {editlink "Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Time/Vtd_Notation/Vtd_Spec.lean.lean"}[edit]
 
 TODO
 

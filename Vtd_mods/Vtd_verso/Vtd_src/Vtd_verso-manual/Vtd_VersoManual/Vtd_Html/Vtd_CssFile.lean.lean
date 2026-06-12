@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-manual/Vtd_VersoManual/Vtd_Html/Vtd_CssFile.lean.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-manual/Vtd_VersoManual/Vtd_Html/Vtd_CssFile.lean.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-src-verso-manual-VersoManual-Html-CssFile-lean"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-manual/VersoManual/Html/CssFile.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-manual/Vtd_VersoManual/Vtd_Html/Vtd_CssFile.lean.lean)
+{editlink "mods/verso/src/verso-manual/VersoManual/Html/CssFile.lean"}[source] {editlink "Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-manual/Vtd_VersoManual/Vtd_Html/Vtd_CssFile.lean.lean"}[edit]
 
 TODO
 

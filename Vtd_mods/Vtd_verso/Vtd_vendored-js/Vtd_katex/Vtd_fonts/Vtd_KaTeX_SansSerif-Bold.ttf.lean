@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_katex/Vtd_fonts/Vtd_KaTeX_SansSerif-Bold.ttf.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_katex/Vtd_fonts/Vtd_KaTeX_SansSerif-Bold.ttf.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-vendored-js-katex-fonts-KaTeX_SansSerif-Bold-ttf"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/fonts/KaTeX_SansSerif-Bold.ttf) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_katex/Vtd_fonts/Vtd_KaTeX_SansSerif-Bold.ttf.lean)
+{editlink "mods/verso/vendored-js/katex/fonts/KaTeX_SansSerif-Bold.ttf"}[source] {editlink "Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_katex/Vtd_fonts/Vtd_KaTeX_SansSerif-Bold.ttf.lean"}[edit]
 
 TODO
 

@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Std/Vtd_Data/Vtd_Iterators/Vtd_Combinators/Vtd_Monadic/Vtd_Drop.c.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Std/Vtd_Data/Vtd_Iterators/Vtd_Combinators/Vtd_Monadic/Vtd_Drop.c.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-stage0-stdlib-Std-Data-Iterators-Combinators-Monadic-Drop-c"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Combinators/Monadic/Drop.c) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Std/Vtd_Data/Vtd_Iterators/Vtd_Combinators/Vtd_Monadic/Vtd_Drop.c.lean)
+{editlink "mods/lean4/stage0/stdlib/Std/Data/Iterators/Combinators/Monadic/Drop.c"}[source] {editlink "Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Std/Vtd_Data/Vtd_Iterators/Vtd_Combinators/Vtd_Monadic/Vtd_Drop.c.lean"}[edit]
 
 TODO
 

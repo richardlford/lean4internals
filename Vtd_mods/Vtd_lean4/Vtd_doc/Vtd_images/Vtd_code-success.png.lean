@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_images/Vtd_code-success.png.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_images/Vtd_code-success.png.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-doc-images-code-success-png"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/images/code-success.png) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_images/Vtd_code-success.png.lean)
+{editlink "mods/lean4/doc/images/code-success.png"}[source] {editlink "Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_images/Vtd_code-success.png.lean"}[edit]
 
 TODO
 

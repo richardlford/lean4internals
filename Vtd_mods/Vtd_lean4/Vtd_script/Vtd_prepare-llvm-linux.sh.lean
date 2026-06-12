@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_script/Vtd_prepare-llvm-linux.sh.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_script/Vtd_prepare-llvm-linux.sh.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-script-prepare-llvm-linux-sh"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/prepare-llvm-linux.sh) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_script/Vtd_prepare-llvm-linux.sh.lean)
+{editlink "mods/lean4/script/prepare-llvm-linux.sh"}[source] {editlink "Vtd_mods/Vtd_lean4/Vtd_script/Vtd_prepare-llvm-linux.sh.lean"}[edit]
 
 TODO
 

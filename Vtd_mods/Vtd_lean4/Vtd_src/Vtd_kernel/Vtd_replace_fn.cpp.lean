@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_kernel/Vtd_replace_fn.cpp.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_kernel/Vtd_replace_fn.cpp.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-kernel-replace_fn-cpp"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/kernel/replace_fn.cpp) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_kernel/Vtd_replace_fn.cpp.lean)
+{editlink "mods/lean4/src/kernel/replace_fn.cpp"}[source] {editlink "Vtd_mods/Vtd_lean4/Vtd_src/Vtd_kernel/Vtd_replace_fn.cpp.lean"}[edit]
 
 TODO
 

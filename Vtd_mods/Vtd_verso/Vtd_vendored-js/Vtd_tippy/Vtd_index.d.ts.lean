@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_tippy/Vtd_index.d.ts.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_tippy/Vtd_index.d.ts.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-vendored-js-tippy-index-d-ts"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/index.d.ts) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_tippy/Vtd_index.d.ts.lean)
+{editlink "mods/verso/vendored-js/tippy/index.d.ts"}[source] {editlink "Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_tippy/Vtd_index.d.ts.lean"}[edit]
 
 TODO
 

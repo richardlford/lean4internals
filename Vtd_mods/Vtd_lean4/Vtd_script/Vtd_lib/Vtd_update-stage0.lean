@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_script/Vtd_lib/Vtd_update-stage0.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_script/Vtd_lib/Vtd_update-stage0.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-script-lib-update-stage0"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/lib/update-stage0) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_script/Vtd_lib/Vtd_update-stage0.lean)
+{editlink "mods/lean4/script/lib/update-stage0"}[source] {editlink "Vtd_mods/Vtd_lean4/Vtd_script/Vtd_lib/Vtd_update-stage0.lean"}[edit]
 
 TODO
 

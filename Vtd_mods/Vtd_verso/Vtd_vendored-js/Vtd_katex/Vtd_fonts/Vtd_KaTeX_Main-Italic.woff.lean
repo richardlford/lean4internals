@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_katex/Vtd_fonts/Vtd_KaTeX_Main-Italic.woff.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_katex/Vtd_fonts/Vtd_KaTeX_Main-Italic.woff.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-vendored-js-katex-fonts-KaTeX_Main-Italic-woff"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/fonts/KaTeX_Main-Italic.woff) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_katex/Vtd_fonts/Vtd_KaTeX_Main-Italic.woff.lean)
+{editlink "mods/verso/vendored-js/katex/fonts/KaTeX_Main-Italic.woff"}[source] {editlink "Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_katex/Vtd_fonts/Vtd_KaTeX_Main-Italic.woff.lean"}[edit]
 
 TODO
 

@@ -1,4 +1,4 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_lean4-infoview/Vtd_src/Vtd_infoview.lean
+-- lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_lean4-infoview/Vtd_src/Vtd_infoview.lean
 
         
 -- Imports for contained files.
@@ -26,6 +26,7 @@ import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vt
 
 
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -36,7 +37,7 @@ authors := ["Richard L Ford"]
 tag := "mods-vscode-lean4-lean4-infoview-src-infoview"
 %%%
 
-[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_lean4-infoview/Vtd_src/Vtd_infoview.lean)
+{editlink "Vtd_mods/Vtd_vscode-lean4/Vtd_lean4-infoview/Vtd_src/Vtd_infoview.lean"}[edit]
 
 TODO
 

@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_dev/Vtd_ffi.md.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_dev/Vtd_ffi.md.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-doc-dev-ffi-md"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/dev/ffi.md) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_dev/Vtd_ffi.md.lean)
+{editlink "mods/lean4/doc/dev/ffi.md"}[source] {editlink "Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_dev/Vtd_ffi.md.lean"}[edit]
 
 TODO
 

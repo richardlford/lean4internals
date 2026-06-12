@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Tactic/Vtd_BVDecide/Vtd_Bitblast/Vtd_BVExpr/Vtd_Circuit/Vtd_Lemmas/Vtd_Operations/Vtd_RotateRight.lean.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Tactic/Vtd_BVDecide/Vtd_Bitblast/Vtd_BVExpr/Vtd_Circuit/Vtd_Lemmas/Vtd_Operations/Vtd_RotateRight.lean.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Std-Tactic-BVDecide-Bitblast-BVExpr-Circuit-Lemmas-Operations-RotateRight-lean"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Tactic/BVDecide/Bitblast/BVExpr/Circuit/Lemmas/Operations/RotateRight.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Tactic/Vtd_BVDecide/Vtd_Bitblast/Vtd_BVExpr/Vtd_Circuit/Vtd_Lemmas/Vtd_Operations/Vtd_RotateRight.lean.lean)
+{editlink "mods/lean4/src/Std/Tactic/BVDecide/Bitblast/BVExpr/Circuit/Lemmas/Operations/RotateRight.lean"}[source] {editlink "Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Tactic/Vtd_BVDecide/Vtd_Bitblast/Vtd_BVExpr/Vtd_Circuit/Vtd_Lemmas/Vtd_Operations/Vtd_RotateRight.lean.lean"}[edit]
 
 TODO
 

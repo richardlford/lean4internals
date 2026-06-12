@@ -1,4 +1,4 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0.lean
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0.lean
 
         
 -- Imports from child directories.
@@ -11,6 +11,7 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib»
 
 
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -21,7 +22,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-stage0"
 %%%
 
-[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0.lean)
+{editlink "Vtd_mods/Vtd_lean4/Vtd_stage0.lean"}[edit]
 
 TODO
 

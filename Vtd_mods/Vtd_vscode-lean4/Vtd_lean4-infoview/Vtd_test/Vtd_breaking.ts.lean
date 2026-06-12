@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_lean4-infoview/Vtd_test/Vtd_breaking.ts.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_lean4-infoview/Vtd_test/Vtd_breaking.ts.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-vscode-lean4-lean4-infoview-test-breaking-ts"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/lean4-infoview/test/breaking.ts) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_lean4-infoview/Vtd_test/Vtd_breaking.ts.lean)
+{editlink "mods/vscode-lean4/lean4-infoview/test/breaking.ts"}[source] {editlink "Vtd_mods/Vtd_vscode-lean4/Vtd_lean4-infoview/Vtd_test/Vtd_breaking.ts.lean"}[edit]
 
 TODO
 

@@ -1,4 +1,4 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_vscode-lean4/Vtd_test/Vtd_test-fixtures/Vtd_lakefileTomlSchemaTestCases/Vtd_invalid.lean
+-- lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_vscode-lean4/Vtd_test/Vtd_test-fixtures/Vtd_lakefileTomlSchemaTestCases/Vtd_invalid.lean
 
         
 -- Imports for contained files.
@@ -7,6 +7,7 @@ import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_test».«Vtd
 
 
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -17,7 +18,7 @@ authors := ["Richard L Ford"]
 tag := "mods-vscode-lean4-vscode-lean4-test-test-fixtures-lakefileTomlSchemaTestCases-invalid"
 %%%
 
-[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_vscode-lean4/Vtd_test/Vtd_test-fixtures/Vtd_lakefileTomlSchemaTestCases/Vtd_invalid.lean)
+{editlink "Vtd_mods/Vtd_vscode-lean4/Vtd_vscode-lean4/Vtd_test/Vtd_test-fixtures/Vtd_lakefileTomlSchemaTestCases/Vtd_invalid.lean"}[edit]
 
 TODO
 

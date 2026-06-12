@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_doc/Vtd_UsersGuide/Vtd_Manuals.lean.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_verso/Vtd_doc/Vtd_UsersGuide/Vtd_Manuals.lean.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,6 +11,6 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-doc-UsersGuide-Manuals-lean"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/verso/doc/UsersGuide/Manuals.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_doc/Vtd_UsersGuide/Vtd_Manuals.lean.lean)
+{editlink "mods/verso/doc/UsersGuide/Manuals.lean"}[source] {editlink "Vtd_mods/Vtd_verso/Vtd_doc/Vtd_UsersGuide/Vtd_Manuals.lean.lean"}[edit]
 
 This contains source for the "Manuals and Books" chapter.

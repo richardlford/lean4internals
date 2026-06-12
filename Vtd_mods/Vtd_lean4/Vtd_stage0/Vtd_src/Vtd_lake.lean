@@ -1,4 +1,4 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_src/Vtd_lake.lean
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_src/Vtd_lake.lean
 
         
 -- Imports for contained files.
@@ -6,6 +6,7 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_lake».«Vtd_
 
 
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -16,7 +17,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-stage0-src-lake"
 %%%
 
-[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_src/Vtd_lake.lean)
+{editlink "Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_src/Vtd_lake.lean"}[edit]
 
 TODO
 

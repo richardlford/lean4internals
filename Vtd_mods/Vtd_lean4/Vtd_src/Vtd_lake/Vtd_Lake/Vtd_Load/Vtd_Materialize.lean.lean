@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_lake/Vtd_Lake/Vtd_Load/Vtd_Materialize.lean.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_lake/Vtd_Lake/Vtd_Load/Vtd_Materialize.lean.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-lake-Lake-Load-Materialize-lean"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/lake/Lake/Load/Materialize.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_lake/Vtd_Lake/Vtd_Load/Vtd_Materialize.lean.lean)
+{editlink "mods/lean4/src/lake/Lake/Load/Materialize.lean"}[source] {editlink "Vtd_mods/Vtd_lean4/Vtd_src/Vtd_lake/Vtd_Lake/Vtd_Load/Vtd_Materialize.lean.lean"}[edit]
 
 TODO
 

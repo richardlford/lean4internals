@@ -1,4 +1,4 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_textbook.lean
+-- lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_textbook.lean
 
         
 -- Imports for contained files.
@@ -14,6 +14,7 @@ import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_textbook».«Vtd_D
 
 
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -24,7 +25,7 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-test-projects-textbook"
 %%%
 
-[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_textbook.lean)
+{editlink "Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_textbook.lean"}[edit]
 
 TODO
 

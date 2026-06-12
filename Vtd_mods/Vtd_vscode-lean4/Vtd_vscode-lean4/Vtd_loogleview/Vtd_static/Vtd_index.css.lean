@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_vscode-lean4/Vtd_loogleview/Vtd_static/Vtd_index.css.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_vscode-lean4/Vtd_loogleview/Vtd_static/Vtd_index.css.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-vscode-lean4-vscode-lean4-loogleview-static-index-css"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/loogleview/static/index.css) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_vscode-lean4/Vtd_loogleview/Vtd_static/Vtd_index.css.lean)
+{editlink "mods/vscode-lean4/vscode-lean4/loogleview/static/index.css"}[source] {editlink "Vtd_mods/Vtd_vscode-lean4/Vtd_vscode-lean4/Vtd_loogleview/Vtd_static/Vtd_index.css.lean"}[edit]
 
 TODO
 

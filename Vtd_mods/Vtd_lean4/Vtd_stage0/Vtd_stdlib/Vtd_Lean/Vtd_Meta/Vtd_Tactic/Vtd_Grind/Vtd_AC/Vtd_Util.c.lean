@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Lean/Vtd_Meta/Vtd_Tactic/Vtd_Grind/Vtd_AC/Vtd_Util.c.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Lean/Vtd_Meta/Vtd_Tactic/Vtd_Grind/Vtd_AC/Vtd_Util.c.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-stage0-stdlib-Lean-Meta-Tactic-Grind-AC-Util-c"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/AC/Util.c) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Lean/Vtd_Meta/Vtd_Tactic/Vtd_Grind/Vtd_AC/Vtd_Util.c.lean)
+{editlink "mods/lean4/stage0/stdlib/Lean/Meta/Tactic/Grind/AC/Util.c"}[source] {editlink "Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Lean/Vtd_Meta/Vtd_Tactic/Vtd_Grind/Vtd_AC/Vtd_Util.c.lean"}[edit]
 
 TODO
 

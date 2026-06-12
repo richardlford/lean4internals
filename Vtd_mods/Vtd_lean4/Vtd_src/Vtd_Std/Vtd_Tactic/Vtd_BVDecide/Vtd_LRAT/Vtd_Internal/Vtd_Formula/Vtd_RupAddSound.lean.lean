@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Tactic/Vtd_BVDecide/Vtd_LRAT/Vtd_Internal/Vtd_Formula/Vtd_RupAddSound.lean.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Tactic/Vtd_BVDecide/Vtd_LRAT/Vtd_Internal/Vtd_Formula/Vtd_RupAddSound.lean.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Std-Tactic-BVDecide-LRAT-Internal-Formula-RupAddSound-lean"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Tactic/BVDecide/LRAT/Internal/Formula/RupAddSound.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Tactic/Vtd_BVDecide/Vtd_LRAT/Vtd_Internal/Vtd_Formula/Vtd_RupAddSound.lean.lean)
+{editlink "mods/lean4/src/Std/Tactic/BVDecide/LRAT/Internal/Formula/RupAddSound.lean"}[source] {editlink "Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Tactic/Vtd_BVDecide/Vtd_LRAT/Vtd_Internal/Vtd_Formula/Vtd_RupAddSound.lean.lean"}[edit]
 
 TODO
 

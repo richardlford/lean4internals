@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Internal/Vtd_Do/Vtd_Triple/Vtd_SpecLemmas.lean.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Internal/Vtd_Do/Vtd_Triple/Vtd_SpecLemmas.lean.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Std-Internal-Do-Triple-SpecLemmas-lean"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Std/Internal/Do/Triple/SpecLemmas.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Internal/Vtd_Do/Vtd_Triple/Vtd_SpecLemmas.lean.lean)
+{editlink "mods/lean4/src/Std/Internal/Do/Triple/SpecLemmas.lean"}[source] {editlink "Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Internal/Vtd_Do/Vtd_Triple/Vtd_SpecLemmas.lean.lean"}[edit]
 
 TODO
 

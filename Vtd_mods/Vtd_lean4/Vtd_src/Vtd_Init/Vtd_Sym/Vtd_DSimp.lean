@@ -1,4 +1,4 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Sym/Vtd_DSimp.lean
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Sym/Vtd_DSimp.lean
 
         
 -- Imports for contained files.
@@ -6,6 +6,7 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Sym».«Vtd_DSi
 
 
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -16,7 +17,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Init-Sym-DSimp"
 %%%
 
-[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Sym/Vtd_DSimp.lean)
+{editlink "Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Sym/Vtd_DSimp.lean"}[edit]
 
 TODO
 

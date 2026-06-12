@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Init/Vtd_Data/Vtd_Array/Vtd_Subarray/Vtd_Split.c.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Init/Vtd_Data/Vtd_Array/Vtd_Subarray/Vtd_Split.c.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-stage0-stdlib-Init-Data-Array-Subarray-Split-c"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/Array/Subarray/Split.c) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Init/Vtd_Data/Vtd_Array/Vtd_Subarray/Vtd_Split.c.lean)
+{editlink "mods/lean4/stage0/stdlib/Init/Data/Array/Subarray/Split.c"}[source] {editlink "Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Init/Vtd_Data/Vtd_Array/Vtd_Subarray/Vtd_Split.c.lean"}[edit]
 
 TODO
 

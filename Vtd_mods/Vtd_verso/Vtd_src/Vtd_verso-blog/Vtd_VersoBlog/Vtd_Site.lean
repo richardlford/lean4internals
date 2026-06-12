@@ -1,4 +1,4 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-blog/Vtd_VersoBlog/Vtd_Site.lean
+-- lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-blog/Vtd_VersoBlog/Vtd_Site.lean
 
         
 -- Imports for contained files.
@@ -6,6 +6,7 @@ import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-blog».«Vtd_VersoBlog
 
 
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -16,7 +17,7 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-src-verso-blog-VersoBlog-Site"
 %%%
 
-[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-blog/Vtd_VersoBlog/Vtd_Site.lean)
+{editlink "Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-blog/Vtd_VersoBlog/Vtd_Site.lean"}[edit]
 
 TODO
 

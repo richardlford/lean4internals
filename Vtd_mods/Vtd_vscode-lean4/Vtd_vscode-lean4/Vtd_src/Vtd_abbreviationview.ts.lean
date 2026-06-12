@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_vscode-lean4/Vtd_src/Vtd_abbreviationview.ts.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_vscode-lean4/Vtd_src/Vtd_abbreviationview.ts.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-vscode-lean4-vscode-lean4-src-abbreviationview-ts"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/src/abbreviationview.ts) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_vscode-lean4/Vtd_src/Vtd_abbreviationview.ts.lean)
+{editlink "mods/vscode-lean4/vscode-lean4/src/abbreviationview.ts"}[source] {editlink "Vtd_mods/Vtd_vscode-lean4/Vtd_vscode-lean4/Vtd_src/Vtd_abbreviationview.ts.lean"}[edit]
 
 TODO
 

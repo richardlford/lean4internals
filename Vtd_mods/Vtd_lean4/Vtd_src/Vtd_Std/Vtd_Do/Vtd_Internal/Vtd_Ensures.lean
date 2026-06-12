@@ -1,4 +1,4 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Do/Vtd_Internal/Vtd_Ensures.lean
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Do/Vtd_Internal/Vtd_Ensures.lean
 
         
 -- Imports for contained files.
@@ -7,6 +7,7 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Do».«Vtd_Inter
 
 
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -17,7 +18,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Std-Do-Internal-Ensures"
 %%%
 
-[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Do/Vtd_Internal/Vtd_Ensures.lean)
+{editlink "Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Do/Vtd_Internal/Vtd_Ensures.lean"}[edit]
 
 TODO
 

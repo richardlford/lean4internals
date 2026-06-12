@@ -1,4 +1,4 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Data.lean
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Data.lean
 
         
 -- Imports for contained files.
@@ -81,6 +81,7 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Ve
 
 
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -91,7 +92,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Init-Data"
 %%%
 
-[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Data.lean)
+{editlink "Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Data.lean"}[edit]
 
 TODO
 

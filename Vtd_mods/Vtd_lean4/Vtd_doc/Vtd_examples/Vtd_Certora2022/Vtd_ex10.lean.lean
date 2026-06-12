@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_examples/Vtd_Certora2022/Vtd_ex10.lean.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_examples/Vtd_Certora2022/Vtd_ex10.lean.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-doc-examples-Certora2022-ex10-lean"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/examples/Certora2022/ex10.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_examples/Vtd_Certora2022/Vtd_ex10.lean.lean)
+{editlink "mods/lean4/doc/examples/Certora2022/ex10.lean"}[source] {editlink "Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_examples/Vtd_Certora2022/Vtd_ex10.lean.lean"}[edit]
 
 TODO
 

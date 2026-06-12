@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_textbook/Vtd_DemoTextbook/Vtd_Nat.lean.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_textbook/Vtd_DemoTextbook/Vtd_Nat.lean.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-test-projects-textbook-DemoTextbook-Nat-lean"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/textbook/DemoTextbook/Nat.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_textbook/Vtd_DemoTextbook/Vtd_Nat.lean.lean)
+{editlink "mods/verso/test-projects/textbook/DemoTextbook/Nat.lean"}[source] {editlink "Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_textbook/Vtd_DemoTextbook/Vtd_Nat.lean.lean"}[edit]
 
 TODO
 

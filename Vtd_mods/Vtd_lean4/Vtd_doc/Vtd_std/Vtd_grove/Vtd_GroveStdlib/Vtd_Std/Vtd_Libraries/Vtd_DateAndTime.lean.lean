@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_std/Vtd_grove/Vtd_GroveStdlib/Vtd_Std/Vtd_Libraries/Vtd_DateAndTime.lean.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_std/Vtd_grove/Vtd_GroveStdlib/Vtd_Std/Vtd_Libraries/Vtd_DateAndTime.lean.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-doc-std-grove-GroveStdlib-Std-Libraries-DateAndTime-lean"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/std/grove/GroveStdlib/Std/Libraries/DateAndTime.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_std/Vtd_grove/Vtd_GroveStdlib/Vtd_Std/Vtd_Libraries/Vtd_DateAndTime.lean.lean)
+{editlink "mods/lean4/doc/std/grove/GroveStdlib/Std/Libraries/DateAndTime.lean"}[source] {editlink "Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_std/Vtd_grove/Vtd_GroveStdlib/Vtd_Std/Vtd_Libraries/Vtd_DateAndTime.lean.lean"}[edit]
 
 TODO
 

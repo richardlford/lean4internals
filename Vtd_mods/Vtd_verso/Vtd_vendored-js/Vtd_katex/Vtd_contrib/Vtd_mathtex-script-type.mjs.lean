@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_katex/Vtd_contrib/Vtd_mathtex-script-type.mjs.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_katex/Vtd_contrib/Vtd_mathtex-script-type.mjs.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-vendored-js-katex-contrib-mathtex-script-type-mjs"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/katex/contrib/mathtex-script-type.mjs) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_katex/Vtd_contrib/Vtd_mathtex-script-type.mjs.lean)
+{editlink "mods/verso/vendored-js/katex/contrib/mathtex-script-type.mjs"}[source] {editlink "Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_katex/Vtd_contrib/Vtd_mathtex-script-type.mjs.lean"}[edit]
 
 TODO
 

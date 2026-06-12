@@ -1,4 +1,4 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_tippy/Vtd_animations.lean
+-- lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_tippy/Vtd_animations.lean
 
         
 -- Imports for contained files.
@@ -17,6 +17,7 @@ import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy».«Vtd_animat
 
 
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -27,7 +28,7 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-vendored-js-tippy-animations"
 %%%
 
-[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_tippy/Vtd_animations.lean)
+{editlink "Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_tippy/Vtd_animations.lean"}[edit]
 
 TODO
 

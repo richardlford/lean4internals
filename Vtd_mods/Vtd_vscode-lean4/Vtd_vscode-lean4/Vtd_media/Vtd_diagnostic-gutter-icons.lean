@@ -1,4 +1,4 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_vscode-lean4/Vtd_media/Vtd_diagnostic-gutter-icons.lean
+-- lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_vscode-lean4/Vtd_media/Vtd_diagnostic-gutter-icons.lean
 
         
 -- Imports for contained files.
@@ -63,6 +63,7 @@ import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_media».«Vt
 
 
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -73,7 +74,7 @@ authors := ["Richard L Ford"]
 tag := "mods-vscode-lean4-vscode-lean4-media-diagnostic-gutter-icons"
 %%%
 
-[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_vscode-lean4/Vtd_media/Vtd_diagnostic-gutter-icons.lean)
+{editlink "Vtd_mods/Vtd_vscode-lean4/Vtd_vscode-lean4/Vtd_media/Vtd_diagnostic-gutter-icons.lean"}[edit]
 
 TODO
 

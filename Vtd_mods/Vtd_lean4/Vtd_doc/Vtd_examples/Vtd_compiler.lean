@@ -1,4 +1,4 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_examples/Vtd_compiler.lean
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_examples/Vtd_compiler.lean
 
         
 -- Imports for contained files.
@@ -9,6 +9,7 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_compiler».
 
 
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -19,7 +20,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-doc-examples-compiler"
 %%%
 
-[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_examples/Vtd_compiler.lean)
+{editlink "Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_examples/Vtd_compiler.lean"}[edit]
 
 TODO
 

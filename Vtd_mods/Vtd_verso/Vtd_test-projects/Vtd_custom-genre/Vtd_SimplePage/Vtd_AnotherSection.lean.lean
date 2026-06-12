@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_custom-genre/Vtd_SimplePage/Vtd_AnotherSection.lean.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_custom-genre/Vtd_SimplePage/Vtd_AnotherSection.lean.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-test-projects-custom-genre-SimplePage-AnotherSection-lean"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/custom-genre/SimplePage/AnotherSection.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_custom-genre/Vtd_SimplePage/Vtd_AnotherSection.lean.lean)
+{editlink "mods/verso/test-projects/custom-genre/SimplePage/AnotherSection.lean"}[source] {editlink "Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_custom-genre/Vtd_SimplePage/Vtd_AnotherSection.lean.lean"}[edit]
 
 TODO
 

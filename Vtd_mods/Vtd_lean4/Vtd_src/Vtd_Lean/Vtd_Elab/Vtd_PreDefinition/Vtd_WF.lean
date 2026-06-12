@@ -1,4 +1,4 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_Elab/Vtd_PreDefinition/Vtd_WF.lean
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_Elab/Vtd_PreDefinition/Vtd_WF.lean
 
         
 -- Imports for contained files.
@@ -15,6 +15,7 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Elab».«Vtd_Pr
 
 
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -25,7 +26,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Lean-Elab-PreDefinition-WF"
 %%%
 
-[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_Elab/Vtd_PreDefinition/Vtd_WF.lean)
+{editlink "Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_Elab/Vtd_PreDefinition/Vtd_WF.lean"}[edit]
 
 TODO
 

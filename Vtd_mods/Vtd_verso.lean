@@ -1,4 +1,4 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso.lean
+-- lean4internals/Vtd_mods/Vtd_verso.lean
 
 
 -- Imports for contained files.
@@ -33,6 +33,7 @@ import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js»
 
 
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -43,7 +44,7 @@ authors := ["Richard L Ford"]
 tag := "mods-verso"
 %%%
 
-[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso.lean)
+{editlink "Vtd_mods/Vtd_verso.lean"}[edit]
 
 Verso is a tool for writing about Lean. The [Verso User Manual](https://verso.lean-lang.org/doc/latest/) introduces and tells how to use Verso.
 

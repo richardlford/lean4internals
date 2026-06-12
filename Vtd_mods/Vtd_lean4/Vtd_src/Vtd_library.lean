@@ -1,4 +1,4 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_library.lean
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_library.lean
 
         
 -- Imports for contained files.
@@ -58,6 +58,7 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_library».«Vtd_construction
 
 
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -68,7 +69,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-library"
 %%%
 
-[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_library.lean)
+{editlink "Vtd_mods/Vtd_lean4/Vtd_src/Vtd_library.lean"}[edit]
 
 TODO
 

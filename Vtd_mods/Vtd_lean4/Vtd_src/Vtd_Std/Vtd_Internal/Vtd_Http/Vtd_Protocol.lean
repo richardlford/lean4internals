@@ -1,4 +1,4 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Internal/Vtd_Http/Vtd_Protocol.lean
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Internal/Vtd_Http/Vtd_Protocol.lean
         
 
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Internal».«Vtd_Http».«Vtd_Protocol_Files»
@@ -12,6 +12,7 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Internal».«Vtd
 
 
 import VersoManual
+import VersoExts
 -- This gets access to most of the manual genre (which is also useful for textbooks)
 open Verso.Genre Manual
 

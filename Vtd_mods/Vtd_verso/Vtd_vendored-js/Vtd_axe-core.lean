@@ -1,4 +1,4 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_axe-core.lean
+-- lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_axe-core.lean
 
         
 -- Imports for contained files.
@@ -7,6 +7,7 @@ import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_axe-core».«Vtd_axe
 
 
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -17,7 +18,7 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-vendored-js-axe-core"
 %%%
 
-[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_axe-core.lean)
+{editlink "Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_axe-core.lean"}[edit]
 
 TODO
 

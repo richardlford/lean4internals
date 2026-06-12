@@ -1,4 +1,4 @@
--- /home/fordrl/e/lean4internals/Vtd_mods.lean
+-- lean4internals/Vtd_mods.lean
 
 
 -- Imports from child directories.
@@ -12,6 +12,7 @@ import «Vtd_mods».«Vtd_vscode-lean4»
 
 
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -22,7 +23,7 @@ authors := ["Richard L Ford"]
 tag := "mods"
 %%%
 
-[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods.lean)
+{editlink "Vtd_mods.lean"}[edit]
 
 This document describes internal details of the Lean 4 implementation. It is organized
 by the source repositories that contain the implementation. We call these the `mods`,

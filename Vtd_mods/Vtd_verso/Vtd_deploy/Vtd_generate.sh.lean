@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_deploy/Vtd_generate.sh.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_verso/Vtd_deploy/Vtd_generate.sh.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-deploy-generate-sh"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/verso/deploy/generate.sh) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_deploy/Vtd_generate.sh.lean)
+{editlink "mods/verso/deploy/generate.sh"}[source] {editlink "Vtd_mods/Vtd_verso/Vtd_deploy/Vtd_generate.sh.lean"}[edit]
 
 TODO
 

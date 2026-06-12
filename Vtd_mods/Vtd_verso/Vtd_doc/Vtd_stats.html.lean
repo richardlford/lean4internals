@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_doc/Vtd_stats.html.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_verso/Vtd_doc/Vtd_stats.html.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-doc-stats-html"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/verso/doc/stats.html) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_doc/Vtd_stats.html.lean)
+{editlink "mods/verso/doc/stats.html"}[source] {editlink "Vtd_mods/Vtd_verso/Vtd_doc/Vtd_stats.html.lean"}[edit]
 
 TODO
 

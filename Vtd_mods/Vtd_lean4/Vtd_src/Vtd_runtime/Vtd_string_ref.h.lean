@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_runtime/Vtd_string_ref.h.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_runtime/Vtd_string_ref.h.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-runtime-string_ref-h"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/runtime/string_ref.h) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_runtime/Vtd_string_ref.h.lean)
+{editlink "mods/lean4/src/runtime/string_ref.h"}[source] {editlink "Vtd_mods/Vtd_lean4/Vtd_src/Vtd_runtime/Vtd_string_ref.h.lean"}[edit]
 
 TODO
 

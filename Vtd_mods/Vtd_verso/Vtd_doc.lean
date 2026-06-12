@@ -1,4 +1,4 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_doc.lean
+-- lean4internals/Vtd_mods/Vtd_verso/Vtd_doc.lean
 
 
 -- Imports for contained files.
@@ -14,6 +14,7 @@ import «Vtd_mods».«Vtd_verso».«Vtd_doc».«Vtd_UsersGuide»
 
 
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -24,7 +25,7 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-doc"
 %%%
 
-[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_doc.lean)
+{editlink "Vtd_mods/Vtd_verso/Vtd_doc.lean"}[edit]
 
 The `verso/doc` directory contains the verso source of the verso user's manual.
 

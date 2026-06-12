@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-literate/Vtd_VersoLiterate/Vtd_Search.lean.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-literate/Vtd_VersoLiterate/Vtd_Search.lean.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-src-verso-literate-VersoLiterate-Search-lean"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/verso/src/verso-literate/VersoLiterate/Search.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-literate/Vtd_VersoLiterate/Vtd_Search.lean.lean)
+{editlink "mods/verso/src/verso-literate/VersoLiterate/Search.lean"}[source] {editlink "Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-literate/Vtd_VersoLiterate/Vtd_Search.lean.lean"}[edit]
 
 TODO
 

@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_src/Vtd_util/Vtd_options.cpp.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_src/Vtd_util/Vtd_options.cpp.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-stage0-src-util-options-cpp"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/util/options.cpp) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_src/Vtd_util/Vtd_options.cpp.lean)
+{editlink "mods/lean4/stage0/src/util/options.cpp"}[source] {editlink "Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_src/Vtd_util/Vtd_options.cpp.lean"}[edit]
 
 TODO
 

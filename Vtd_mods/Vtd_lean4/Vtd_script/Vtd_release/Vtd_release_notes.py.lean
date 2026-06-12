@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_script/Vtd_release/Vtd_release_notes.py.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_script/Vtd_release/Vtd_release_notes.py.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-script-release-release_notes-py"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/lean4/script/release/release_notes.py) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_script/Vtd_release/Vtd_release_notes.py.lean)
+{editlink "mods/lean4/script/release/release_notes.py"}[source] {editlink "Vtd_mods/Vtd_lean4/Vtd_script/Vtd_release/Vtd_release_notes.py.lean"}[edit]
 
 TODO
 

@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Data/Vtd_String/Vtd_Lemmas/Vtd_Pattern/Vtd_Find/Vtd_Pred.lean.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Data/Vtd_String/Vtd_Lemmas/Vtd_Pattern/Vtd_Find/Vtd_Pred.lean.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Init-Data-String-Lemmas-Pattern-Find-Pred-lean"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Data/String/Lemmas/Pattern/Find/Pred.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Data/Vtd_String/Vtd_Lemmas/Vtd_Pattern/Vtd_Find/Vtd_Pred.lean.lean)
+{editlink "mods/lean4/src/Init/Data/String/Lemmas/Pattern/Find/Pred.lean"}[source] {editlink "Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Data/Vtd_String/Vtd_Lemmas/Vtd_Pattern/Vtd_Find/Vtd_Pred.lean.lean"}[edit]
 
 TODO
 

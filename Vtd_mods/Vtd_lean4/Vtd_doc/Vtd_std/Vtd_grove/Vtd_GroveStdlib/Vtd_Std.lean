@@ -1,4 +1,4 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_std/Vtd_grove/Vtd_GroveStdlib/Vtd_Std.lean
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_std/Vtd_grove/Vtd_GroveStdlib/Vtd_Std.lean
 
         
 -- Imports for contained files.
@@ -19,6 +19,7 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_Gr
 
 
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -29,7 +30,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-doc-std-grove-GroveStdlib-Std"
 %%%
 
-[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_std/Vtd_grove/Vtd_GroveStdlib/Vtd_Std.lean)
+{editlink "Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_std/Vtd_grove/Vtd_GroveStdlib/Vtd_Std.lean"}[edit]
 
 TODO
 

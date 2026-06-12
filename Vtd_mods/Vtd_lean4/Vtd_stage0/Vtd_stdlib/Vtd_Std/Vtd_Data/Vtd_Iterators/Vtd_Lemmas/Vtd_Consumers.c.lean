@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Std/Vtd_Data/Vtd_Iterators/Vtd_Lemmas/Vtd_Consumers.c.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Std/Vtd_Data/Vtd_Iterators/Vtd_Lemmas/Vtd_Consumers.c.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-stage0-stdlib-Std-Data-Iterators-Lemmas-Consumers-c"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Std/Data/Iterators/Lemmas/Consumers.c) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Std/Vtd_Data/Vtd_Iterators/Vtd_Lemmas/Vtd_Consumers.c.lean)
+{editlink "mods/lean4/stage0/stdlib/Std/Data/Iterators/Lemmas/Consumers.c"}[source] {editlink "Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Std/Vtd_Data/Vtd_Iterators/Vtd_Lemmas/Vtd_Consumers.c.lean"}[edit]
 
 TODO
 

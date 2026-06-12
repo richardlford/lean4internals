@@ -1,4 +1,4 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_Meta/Vtd_Tactic/Vtd_BVDecide/Vtd_Normalize.lean
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_Meta/Vtd_Tactic/Vtd_BVDecide/Vtd_Normalize.lean
 
         
 -- Imports for contained files.
@@ -17,6 +17,7 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Meta».«Vtd_Ta
 
 
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -27,7 +28,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Lean-Meta-Tactic-BVDecide-Normalize"
 %%%
 
-[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_Meta/Vtd_Tactic/Vtd_BVDecide/Vtd_Normalize.lean)
+{editlink "Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_Meta/Vtd_Tactic/Vtd_BVDecide/Vtd_Normalize.lean"}[edit]
 
 TODO
 

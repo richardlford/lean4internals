@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_images/Vtd_monads.svg.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_images/Vtd_monads.svg.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-doc-images-monads-svg"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/lean4/doc/images/monads.svg) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_images/Vtd_monads.svg.lean)
+{editlink "mods/lean4/doc/images/monads.svg"}[source] {editlink "Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_images/Vtd_monads.svg.lean"}[edit]
 
 TODO
 

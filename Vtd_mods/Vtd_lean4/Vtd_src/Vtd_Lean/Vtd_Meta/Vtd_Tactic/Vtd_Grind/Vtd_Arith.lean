@@ -1,4 +1,4 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_Meta/Vtd_Tactic/Vtd_Grind/Vtd_Arith.lean
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_Meta/Vtd_Tactic/Vtd_Grind/Vtd_Arith.lean
 
         
 -- Imports for contained files.
@@ -28,6 +28,7 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Meta».«Vtd_Ta
 
 
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -38,7 +39,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Lean-Meta-Tactic-Grind-Arith"
 %%%
 
-[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_Meta/Vtd_Tactic/Vtd_Grind/Vtd_Arith.lean)
+{editlink "Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_Meta/Vtd_Tactic/Vtd_Grind/Vtd_Arith.lean"}[edit]
 
 TODO
 

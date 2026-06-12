@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_tippy/Vtd_animations/Vtd_shift-away.css.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_tippy/Vtd_animations/Vtd_shift-away.css.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-vendored-js-tippy-animations-shift-away-css"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/verso/vendored-js/tippy/animations/shift-away.css) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_tippy/Vtd_animations/Vtd_shift-away.css.lean)
+{editlink "mods/verso/vendored-js/tippy/animations/shift-away.css"}[source] {editlink "Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_tippy/Vtd_animations/Vtd_shift-away.css.lean"}[edit]
 
 TODO
 

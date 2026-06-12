@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_vscode-lean4/Vtd_manual/Vtd_images/Vtd_module-hierarchy.png.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_vscode-lean4/Vtd_manual/Vtd_images/Vtd_module-hierarchy.png.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-vscode-lean4-vscode-lean4-manual-images-module-hierarchy-png"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/vscode-lean4/manual/images/module-hierarchy.png) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_vscode-lean4/Vtd_manual/Vtd_images/Vtd_module-hierarchy.png.lean)
+{editlink "mods/vscode-lean4/vscode-lean4/manual/images/module-hierarchy.png"}[source] {editlink "Vtd_mods/Vtd_vscode-lean4/Vtd_vscode-lean4/Vtd_manual/Vtd_images/Vtd_module-hierarchy.png.lean"}[edit]
 
 TODO
 

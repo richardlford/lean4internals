@@ -1,4 +1,4 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Data/Vtd_Iterators/Vtd_Producers/Vtd_Monadic.lean
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Data/Vtd_Iterators/Vtd_Producers/Vtd_Monadic.lean
 
         
 -- Imports for contained files.
@@ -8,6 +8,7 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Ite
 
 
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -18,7 +19,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Std-Data-Iterators-Producers-Monadic"
 %%%
 
-[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Data/Vtd_Iterators/Vtd_Producers/Vtd_Monadic.lean)
+{editlink "Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Data/Vtd_Iterators/Vtd_Producers/Vtd_Monadic.lean"}[edit]
 
 TODO
 

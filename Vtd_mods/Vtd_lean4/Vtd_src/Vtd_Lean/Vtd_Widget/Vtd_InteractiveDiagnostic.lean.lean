@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_Widget/Vtd_InteractiveDiagnostic.lean.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_Widget/Vtd_InteractiveDiagnostic.lean.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Lean-Widget-InteractiveDiagnostic-lean"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/Widget/InteractiveDiagnostic.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_Widget/Vtd_InteractiveDiagnostic.lean.lean)
+{editlink "mods/lean4/src/Lean/Widget/InteractiveDiagnostic.lean"}[source] {editlink "Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_Widget/Vtd_InteractiveDiagnostic.lean.lean"}[edit]
 
 TODO
 

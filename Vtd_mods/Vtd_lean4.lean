@@ -1,4 +1,4 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4.lean
+-- lean4internals/Vtd_mods/Vtd_lean4.lean
 
 
 -- Imports for contained files.
@@ -29,6 +29,7 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_stage0»
 
 
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -39,7 +40,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4"
 %%%
 
-[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4.lean)
+{editlink "Vtd_mods/Vtd_lean4.lean"}[edit]
 
 Here we describe internals of the part of the Lean 4 prover implemented in the
 [leanprover lean4 repository](https://github.com/leanprover/lean4).

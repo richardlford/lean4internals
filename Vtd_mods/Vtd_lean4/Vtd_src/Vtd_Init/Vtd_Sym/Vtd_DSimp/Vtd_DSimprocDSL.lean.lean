@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Sym/Vtd_DSimp/Vtd_DSimprocDSL.lean.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Sym/Vtd_DSimp/Vtd_DSimprocDSL.lean.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Init-Sym-DSimp-DSimprocDSL-lean"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Init/Sym/DSimp/DSimprocDSL.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Sym/Vtd_DSimp/Vtd_DSimprocDSL.lean.lean)
+{editlink "mods/lean4/src/Init/Sym/DSimp/DSimprocDSL.lean"}[source] {editlink "Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Sym/Vtd_DSimp/Vtd_DSimprocDSL.lean.lean"}[edit]
 
 TODO
 

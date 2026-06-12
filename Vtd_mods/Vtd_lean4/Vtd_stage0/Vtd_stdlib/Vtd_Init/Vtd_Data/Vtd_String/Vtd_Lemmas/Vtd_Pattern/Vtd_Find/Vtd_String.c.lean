@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Init/Vtd_Data/Vtd_String/Vtd_Lemmas/Vtd_Pattern/Vtd_Find/Vtd_String.c.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Init/Vtd_Data/Vtd_String/Vtd_Lemmas/Vtd_Pattern/Vtd_Find/Vtd_String.c.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-stage0-stdlib-Init-Data-String-Lemmas-Pattern-Find-String-c"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/stdlib/Init/Data/String/Lemmas/Pattern/Find/String.c) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Init/Vtd_Data/Vtd_String/Vtd_Lemmas/Vtd_Pattern/Vtd_Find/Vtd_String.c.lean)
+{editlink "mods/lean4/stage0/stdlib/Init/Data/String/Lemmas/Pattern/Find/String.c"}[source] {editlink "Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Init/Vtd_Data/Vtd_String/Vtd_Lemmas/Vtd_Pattern/Vtd_Find/Vtd_String.c.lean"}[edit]
 
 TODO
 

@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_tutorial-test/Vtd_TutorialExampleMain.lean.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_tutorial-test/Vtd_TutorialExampleMain.lean.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-test-projects-tutorial-test-TutorialExampleMain-lean"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/verso/test-projects/tutorial-test/TutorialExampleMain.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_tutorial-test/Vtd_TutorialExampleMain.lean.lean)
+{editlink "mods/verso/test-projects/tutorial-test/TutorialExampleMain.lean"}[source] {editlink "Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_tutorial-test/Vtd_TutorialExampleMain.lean.lean"}[edit]
 
 TODO
 

@@ -1,4 +1,4 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Control/Vtd_Lawful/Vtd_MonadAttach.lean
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Control/Vtd_Lawful/Vtd_MonadAttach.lean
 
         
 -- Imports for contained files.
@@ -7,6 +7,7 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Control».«Vtd
 
 
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -17,7 +18,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Init-Control-Lawful-MonadAttach"
 %%%
 
-[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Control/Vtd_Lawful/Vtd_MonadAttach.lean)
+{editlink "Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Control/Vtd_Lawful/Vtd_MonadAttach.lean"}[edit]
 
 TODO
 

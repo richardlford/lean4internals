@@ -1,4 +1,4 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_script/Vtd_release.lean
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_script/Vtd_release.lean
 
         
 -- Imports for contained files.
@@ -10,6 +10,7 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_release».«Vtd_util.py»
 
 
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -20,7 +21,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-script-release"
 %%%
 
-[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_script/Vtd_release.lean)
+{editlink "Vtd_mods/Vtd_lean4/Vtd_script/Vtd_release.lean"}[edit]
 
 TODO
 

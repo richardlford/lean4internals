@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_docs/Vtd_images/Vtd_overview.dgml.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_docs/Vtd_images/Vtd_overview.dgml.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-vscode-lean4-docs-images-overview-dgml"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/vscode-lean4/docs/images/overview.dgml) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_docs/Vtd_images/Vtd_overview.dgml.lean)
+{editlink "mods/vscode-lean4/docs/images/overview.dgml"}[source] {editlink "Vtd_mods/Vtd_vscode-lean4/Vtd_docs/Vtd_images/Vtd_overview.dgml.lean"}[edit]
 
 TODO
 

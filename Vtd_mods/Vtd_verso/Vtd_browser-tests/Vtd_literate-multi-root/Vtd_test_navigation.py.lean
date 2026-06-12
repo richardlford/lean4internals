@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_browser-tests/Vtd_literate-multi-root/Vtd_test_navigation.py.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_verso/Vtd_browser-tests/Vtd_literate-multi-root/Vtd_test_navigation.py.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-browser-tests-literate-multi-root-test_navigation-py"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/verso/browser-tests/literate-multi-root/test_navigation.py) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_browser-tests/Vtd_literate-multi-root/Vtd_test_navigation.py.lean)
+{editlink "mods/verso/browser-tests/literate-multi-root/test_navigation.py"}[source] {editlink "Vtd_mods/Vtd_verso/Vtd_browser-tests/Vtd_literate-multi-root/Vtd_test_navigation.py.lean"}[edit]
 
 TODO
 

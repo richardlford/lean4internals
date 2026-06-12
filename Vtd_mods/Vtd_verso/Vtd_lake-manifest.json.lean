@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_lake-manifest.json.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_verso/Vtd_lake-manifest.json.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,6 +11,6 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-lake-manifest-json"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/verso/lake-manifest.json) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_lake-manifest.json.lean)
+{editlink "mods/verso/lake-manifest.json"}[source] {editlink "Vtd_mods/Vtd_verso/Vtd_lake-manifest.json.lean"}[edit]
 
 Versions of Lean packages used.

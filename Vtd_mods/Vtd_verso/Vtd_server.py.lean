@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_server.py.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_verso/Vtd_server.py.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,6 +11,6 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-server-py"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/verso/server.py) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_server.py.lean)
+{editlink "mods/verso/server.py"}[source] {editlink "Vtd_mods/Vtd_verso/Vtd_server.py.lean"}[edit]
 
 Script to start up a HTTP server to serve the Verso documents.

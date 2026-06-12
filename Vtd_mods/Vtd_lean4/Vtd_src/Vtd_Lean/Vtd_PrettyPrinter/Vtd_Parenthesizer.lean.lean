@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_PrettyPrinter/Vtd_Parenthesizer.lean.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_PrettyPrinter/Vtd_Parenthesizer.lean.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Lean-PrettyPrinter-Parenthesizer-lean"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/Lean/PrettyPrinter/Parenthesizer.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_PrettyPrinter/Vtd_Parenthesizer.lean.lean)
+{editlink "mods/lean4/src/Lean/PrettyPrinter/Parenthesizer.lean"}[source] {editlink "Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_PrettyPrinter/Vtd_Parenthesizer.lean.lean"}[edit]
 
 TODO
 

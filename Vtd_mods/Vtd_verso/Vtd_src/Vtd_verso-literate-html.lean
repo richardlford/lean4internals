@@ -1,4 +1,4 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-literate-html.lean
+-- lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-literate-html.lean
 
         
 -- Imports for contained files.
@@ -7,6 +7,7 @@ import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate-html».«Vtd_
 
 
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -17,7 +18,7 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-src-verso-literate-html"
 %%%
 
-[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-literate-html.lean)
+{editlink "Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-literate-html.lean"}[edit]
 
 TODO
 

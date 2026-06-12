@@ -1,4 +1,4 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_examples/Vtd_NFM2022.lean
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_examples/Vtd_NFM2022.lean
 
         
 -- Imports for contained files.
@@ -29,6 +29,7 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_NFM2022».�
 
 
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -39,7 +40,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-doc-examples-NFM2022"
 %%%
 
-[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_examples/Vtd_NFM2022.lean)
+{editlink "Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_examples/Vtd_NFM2022.lean"}[edit]
 
 TODO
 

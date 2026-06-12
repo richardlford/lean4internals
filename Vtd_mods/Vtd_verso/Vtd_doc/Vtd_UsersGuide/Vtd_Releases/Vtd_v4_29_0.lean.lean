@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_doc/Vtd_UsersGuide/Vtd_Releases/Vtd_v4_29_0.lean.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_verso/Vtd_doc/Vtd_UsersGuide/Vtd_Releases/Vtd_v4_29_0.lean.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-doc-UsersGuide-Releases-v4_29_0-lean"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/verso/doc/UsersGuide/Releases/v4_29_0.lean) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_doc/Vtd_UsersGuide/Vtd_Releases/Vtd_v4_29_0.lean.lean)
+{editlink "mods/verso/doc/UsersGuide/Releases/v4_29_0.lean"}[source] {editlink "Vtd_mods/Vtd_verso/Vtd_doc/Vtd_UsersGuide/Vtd_Releases/Vtd_v4_29_0.lean.lean"}[edit]
 
 TODO
 

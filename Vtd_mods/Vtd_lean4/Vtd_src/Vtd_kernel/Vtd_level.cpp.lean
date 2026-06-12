@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_kernel/Vtd_level.cpp.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_kernel/Vtd_level.cpp.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-kernel-level-cpp"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/lean4/src/kernel/level.cpp) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_kernel/Vtd_level.cpp.lean)
+{editlink "mods/lean4/src/kernel/level.cpp"}[source] {editlink "Vtd_mods/Vtd_lean4/Vtd_src/Vtd_kernel/Vtd_level.cpp.lean"}[edit]
 
 TODO
 

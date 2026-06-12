@@ -1,4 +1,4 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_deploy.lean
+-- lean4internals/Vtd_mods/Vtd_verso/Vtd_deploy.lean
 
         
 -- Imports for contained files.
@@ -11,6 +11,7 @@ import «Vtd_mods».«Vtd_verso».«Vtd_deploy».«Vtd_release_utils.py»
 
 
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -21,7 +22,7 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-deploy"
 %%%
 
-[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_deploy.lean)
+{editlink "Vtd_mods/Vtd_verso/Vtd_deploy.lean"}[edit]
 
 TODO
 

@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_browser-tests/Vtd_search_page_a11y.py.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_verso/Vtd_browser-tests/Vtd_search_page_a11y.py.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-browser-tests-search_page_a11y-py"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/verso/browser-tests/search_page_a11y.py) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_browser-tests/Vtd_search_page_a11y.py.lean)
+{editlink "mods/verso/browser-tests/search_page_a11y.py"}[source] {editlink "Vtd_mods/Vtd_verso/Vtd_browser-tests/Vtd_search_page_a11y.py.lean"}[edit]
 
 TODO
 

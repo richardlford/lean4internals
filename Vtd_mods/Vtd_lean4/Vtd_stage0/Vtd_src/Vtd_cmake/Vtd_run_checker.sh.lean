@@ -1,8 +1,6 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_src/Vtd_cmake/Vtd_run_checker.sh.lean
-
-
-
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_src/Vtd_cmake/Vtd_run_checker.sh.lean
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -13,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-stage0-src-cmake-run_checker-sh"
 %%%
 
-[source](vscode:/home/fordrl/e/lean4internals/mods/lean4/stage0/src/cmake/run_checker.sh) [doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_src/Vtd_cmake/Vtd_run_checker.sh.lean)
+{editlink "mods/lean4/stage0/src/cmake/run_checker.sh"}[source] {editlink "Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_src/Vtd_cmake/Vtd_run_checker.sh.lean"}[edit]
 
 TODO
 

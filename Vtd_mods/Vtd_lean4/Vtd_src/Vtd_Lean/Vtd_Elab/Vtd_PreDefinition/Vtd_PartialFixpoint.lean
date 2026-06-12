@@ -1,4 +1,4 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_Elab/Vtd_PreDefinition/Vtd_PartialFixpoint.lean
+-- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_Elab/Vtd_PreDefinition/Vtd_PartialFixpoint.lean
 
         
 -- Imports for contained files.
@@ -8,6 +8,7 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Elab».«Vtd_Pr
 
 
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -18,7 +19,7 @@ authors := ["Richard L Ford"]
 tag := "mods-lean4-src-Lean-Elab-PreDefinition-PartialFixpoint"
 %%%
 
-[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_Elab/Vtd_PreDefinition/Vtd_PartialFixpoint.lean)
+{editlink "Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_Elab/Vtd_PreDefinition/Vtd_PartialFixpoint.lean"}[edit]
 
 TODO
 

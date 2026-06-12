@@ -1,4 +1,4 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_doc/Vtd_UsersGuide.lean
+-- lean4internals/Vtd_mods/Vtd_verso/Vtd_doc/Vtd_UsersGuide.lean
 
 
 -- Imports for contained files.
@@ -21,6 +21,7 @@ import «Vtd_mods».«Vtd_verso».«Vtd_doc».«Vtd_UsersGuide».«Vtd_Releases�
 
 
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -31,7 +32,7 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-doc-UsersGuide"
 %%%
 
-[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_doc/Vtd_UsersGuide.lean)
+{editlink "Vtd_mods/Vtd_verso/Vtd_doc/Vtd_UsersGuide.lean"}[edit]
 
 The `verso/doc/UsersGuide` directory contains the files which make up the Verso User Guide.
 

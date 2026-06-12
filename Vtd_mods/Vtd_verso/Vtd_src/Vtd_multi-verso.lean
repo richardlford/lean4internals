@@ -1,4 +1,4 @@
--- /home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_multi-verso.lean
+-- lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_multi-verso.lean
 
         
 -- Imports for contained files.
@@ -13,6 +13,7 @@ import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_multi-verso».«Vtd_MultiVer
 
 
 import VersoManual
+import VersoExts
 open Verso.Genre Manual
 open Verso.Genre.Manual.InlineLean
 
@@ -23,7 +24,7 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-src-multi-verso"
 %%%
 
-[doc-source](vscode:/home/fordrl/e/lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_multi-verso.lean)
+{editlink "Vtd_mods/Vtd_verso/Vtd_src/Vtd_multi-verso.lean"}[edit]
 
 TODO
 
