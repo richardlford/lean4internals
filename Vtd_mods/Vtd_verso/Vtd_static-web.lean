@@ -1,6 +1,6 @@
 -- lean4internals/Vtd_mods/Vtd_verso/Vtd_static-web.lean
 
-        
+
 -- Imports for contained files.
 import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_find.js»
 import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_jsconfig.json»
@@ -32,7 +32,8 @@ tag := "mods-verso-static-web"
 
 {editlink "Vtd_mods/Vtd_verso/Vtd_static-web.lean"}[edit]
 
-TODO
+This directory and its subdirectories contain javascript and css files that are used in the static web version of the manual. The files in this directory are mostly shared between the static and dynamic versions of the manual, but they are only used in the static version. The files in the `literate` subdirectory are used to generate the literate programming pages, and the files in the `search` subdirectory are used to generate the search index and search page.
+The above was written by AI and may be inaccurate. Please edit it to be more accurate if necessary.
 
 {include «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_find.js»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_jsconfig.json»}

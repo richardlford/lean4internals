@@ -13,5 +13,5 @@ tag := "mods-verso-src-verso-util-VersoUtil-lean"
 
 {editlink "mods/verso/src/verso-util/VersoUtil.lean"}[source] {editlink "Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-util/Vtd_VersoUtil.lean.lean"}[edit]
 
-TODO
+Just imports modules from VersoUtil directory.
 

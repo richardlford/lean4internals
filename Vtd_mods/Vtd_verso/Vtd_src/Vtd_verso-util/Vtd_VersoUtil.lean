@@ -1,6 +1,6 @@
 -- lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-util/Vtd_VersoUtil.lean
 
-        
+
 -- Imports for contained files.
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-util».«Vtd_VersoUtil».«Vtd_BinFiles.lean»
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-util».«Vtd_VersoUtil».«Vtd_LzCompress.lean»
@@ -29,7 +29,7 @@ tag := "mods-verso-src-verso-util-VersoUtil"
 
 {editlink "Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-util/Vtd_VersoUtil.lean"}[edit]
 
-TODO
+Holds utility functions used by Verso. 
 
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-util».«Vtd_VersoUtil».«Vtd_BinFiles.lean»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-util».«Vtd_VersoUtil».«Vtd_LzCompress.lean»}

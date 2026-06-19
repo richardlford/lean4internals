@@ -13,5 +13,4 @@ tag := "mods-verso-src-verso-util-VersoUtil-BinFiles-Z85-lean"
 
 {editlink "mods/verso/src/verso-util/VersoUtil/BinFiles/Z85.lean"}[source] {editlink "Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-util/Vtd_VersoUtil/Vtd_BinFiles/Vtd_Z85.lean.lean"}[edit]
 
-TODO
-
+Implements Z85 encoding and decoding. This can encode 4 bytes in 5 printable characters.

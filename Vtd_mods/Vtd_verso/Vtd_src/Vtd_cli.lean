@@ -1,6 +1,6 @@
 -- lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_cli.lean
 
-        
+
 -- Imports for contained files.
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_cli».«Vtd_VersoMain.lean»
 
@@ -19,6 +19,6 @@ tag := "mods-verso-src-cli"
 
 {editlink "Vtd_mods/Vtd_verso/Vtd_src/Vtd_cli.lean"}[edit]
 
-TODO
+Just contains `VersoMain.lean`.
 
 {include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_cli».«Vtd_VersoMain.lean»}

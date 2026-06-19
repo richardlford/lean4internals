@@ -1,6 +1,6 @@
 -- lean4internals/Vtd_mods/Vtd_verso/Vtd_browser-tests.lean
 
-        
+
 -- Imports for contained files.
 import «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_conftest.py»
 import «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_pyproject.toml»
@@ -38,7 +38,7 @@ tag := "mods-verso-browser-tests"
 
 {editlink "Vtd_mods/Vtd_verso/Vtd_browser-tests.lean"}[edit]
 
-TODO
+The browser-tests directory contains tests for the html output of Verso documents. These are implemented as Python scripts that use the Playwright library to automate a browser and check the output of a Verso document for correctness and accessibility. The tests are run in CI on GitHub Actions and can be run locally with `pytest`.
 
 {include «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_conftest.py»}
 {include «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_pyproject.toml»}

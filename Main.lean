@@ -7,6 +7,10 @@ Author: David Thrane Christiansen
 import Std.Data.HashMap
 import VersoManual
 import «Vtd_mods»
+import Lean
+import Lean.Meta
+import Lean.Elab
+import Lean.Syntax
 
 open Verso Doc
 open Verso.Genre Manual
@@ -17,6 +21,6 @@ def config : RenderConfig where
   emitTeX := false
   emitHtmlSingle := .no
   emitHtmlMulti := .immediately
-  htmlDepth := 3
+  htmlDepth := 6
 
 def main := manualMain (%doc «Vtd_mods») (config := config)

@@ -9,8 +9,6 @@ import «Vtd_mods».«Vtd_vscode-lean4»
 
 -- End of Imports from child directories.
 
-
-
 import VersoManual
 import VersoExts
 open Verso.Genre Manual
@@ -25,6 +23,8 @@ tag := "mods"
 
 {editlink "Vtd_mods.lean"}[edit]
 
+# Introduction
+
 This document describes internal details of the Lean 4 implementation. It is organized
 by the source repositories that contain the implementation. We call these the `mods`,
 short for `modules`. Currently there are the following:
@@ -36,6 +36,7 @@ short for `modules`. Currently there are the following:
 To facilitate reference to the source code, these repositories have been added as
 git submodules of this document, under the `mods` directory. That is why the
 directory and file names all appear under `mods` as the root.
+
 
 This document has a Lean source file for every file or directory in the file hierarchy rooted
 at the `mods` directory. The filename components are prefixed by `Vtd_` to avoid
@@ -72,8 +73,45 @@ thepath=${url:7}
 /usr/bin/code --goto $thepath
 ```
 
+## Undocumented Features
+In the course of writing this document, I have found some features of the code that are not documented in the reference manuals. I will mention them here so that they can be documented later.
 
+### Undocumented Lean 4 Features
 
-{include «Vtd_mods».«Vtd_lean4»}
-{include «Vtd_mods».«Vtd_verso»}
-{include «Vtd_mods».«Vtd_vscode-lean4»}
+#### `include_str` term
+
+The `include_str` term is a string literal that can be used in a Lean source file to include the contents of another file as a string. It is implemented as a macro that reads the contents of the specified file and produces a string literal containing that content. This can be useful for including large pieces of text or code in a Lean source file without having to copy and paste it.
+
+The syntax is defined in `lean4/src/Init/Notation.lean` as follows:
+
+```
+/--
+When `parent_dir` contains the current Lean file, `include_str "path" / "to" / "file"` becomes
+a string literal with the contents of the file at `"parent_dir" / "path" / "to" / "file"`. If this
+file cannot be read, elaboration fails.
+-/
+syntax (name := includeStr) "include_str " term : term
+```
+
+Its elaboration is in `lean4/src/Lean/Elab/BuiltinTerm.lean` as follows:
+
+```
+@[builtin_term_elab includeStr] def elabIncludeStr : TermElab
+  | `(include_str $path:term), _ => do
+    let path ← evalFilePath path
+    let ctx ← readThe Lean.Core.Context
+    let srcPath := System.FilePath.mk ctx.fileName
+    let some srcDir := srcPath.parent
+      | throwError "cannot compute parent directory of `{srcPath}`"
+    let path := srcDir / path
+    mkStrLit <$> IO.FS.readFile path
+  | _, _ => throwUnsupportedSyntax
+```
+
+### Undocumented Verso Features
+
+None
+
+{include 1 «Vtd_mods».«Vtd_lean4»}
+{include 1 «Vtd_mods».«Vtd_verso»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4»}

@@ -11,7 +11,7 @@ authors := ["Richard L Ford"]
 tag := "mods-verso-elan-init"
 %%%
 
-{editlink "mods/verso/elan-init"}[source] {editlink "Vtd_mods/Vtd_verso/Vtd_elan-init.lean"}[edit]
+{editlink "Vtd_mods/Vtd_verso/Vtd_elan-init.lean"}[edit]
 
-TODO
+elan-init is a binary executable that is an installer for elan.
 

@@ -13,4 +13,4 @@ tag := "mods-verso-lakefile-lean"
 
 {editlink "mods/verso/lakefile.lean"}[source] {editlink "Vtd_mods/Vtd_verso/Vtd_lakefile.lean.lean"}[edit]
 
-File written in the Lake DSL desribing the compoents of the Verso project.
+File written in the Lake DSL desribing the components of the Verso project.

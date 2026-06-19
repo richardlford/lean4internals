@@ -1,6 +1,6 @@
 -- lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects.lean
 
-        
+
 -- Imports for contained files.
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_README.md»
 
@@ -36,7 +36,14 @@ tag := "mods-verso-test-projects"
 
 {editlink "Vtd_mods/Vtd_verso/Vtd_test-projects.lean"}[edit]
 
-TODO
+This directory contains test projects that are used during the
+development of Verso. Their build processes integrate with that of
+Verso itself, and using them on a standalone basis requires
+substantial changes.
+
+Starting points for projects can be found in the
+[Verso templates repository](https://github.com/leanprover/verso-templates).
+
 
 {include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_README.md»}
 

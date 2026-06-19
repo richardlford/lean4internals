@@ -1,6 +1,7 @@
 .lake
 *~
 _out
+lake-manifest.json
 
 # Prerequisites
 *.d
