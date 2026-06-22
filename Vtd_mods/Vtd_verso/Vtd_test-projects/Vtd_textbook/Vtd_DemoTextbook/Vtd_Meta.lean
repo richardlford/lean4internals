@@ -21,4 +21,4 @@ tag := "mods-verso-test-projects-textbook-DemoTextbook-Meta"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_textbook».«Vtd_DemoTextbook».«Vtd_Meta».«Vtd_Lean.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_textbook».«Vtd_DemoTextbook».«Vtd_Meta».«Vtd_Lean.lean»}

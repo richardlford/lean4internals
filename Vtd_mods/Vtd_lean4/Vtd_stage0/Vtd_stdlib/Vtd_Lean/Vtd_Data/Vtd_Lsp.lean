@@ -37,20 +37,20 @@ tag := "mods-lean4-stage0-stdlib-Lean-Data-Lsp"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_Lsp».«Vtd_Basic.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_Lsp».«Vtd_BasicAux.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_Lsp».«Vtd_CancelParams.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_Lsp».«Vtd_Capabilities.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_Lsp».«Vtd_Client.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_Lsp».«Vtd_CodeActions.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_Lsp».«Vtd_Communication.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_Lsp».«Vtd_Diagnostics.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_Lsp».«Vtd_Extra.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_Lsp».«Vtd_InitShutdown.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_Lsp».«Vtd_Internal.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_Lsp».«Vtd_Ipc.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_Lsp».«Vtd_LanguageFeatures.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_Lsp».«Vtd_TextSync.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_Lsp».«Vtd_Utf16.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_Lsp».«Vtd_Window.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_Lsp».«Vtd_Workspace.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_Lsp».«Vtd_Basic.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_Lsp».«Vtd_BasicAux.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_Lsp».«Vtd_CancelParams.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_Lsp».«Vtd_Capabilities.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_Lsp».«Vtd_Client.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_Lsp».«Vtd_CodeActions.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_Lsp».«Vtd_Communication.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_Lsp».«Vtd_Diagnostics.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_Lsp».«Vtd_Extra.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_Lsp».«Vtd_InitShutdown.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_Lsp».«Vtd_Internal.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_Lsp».«Vtd_Ipc.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_Lsp».«Vtd_LanguageFeatures.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_Lsp».«Vtd_TextSync.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_Lsp».«Vtd_Utf16.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_Lsp».«Vtd_Window.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Data».«Vtd_Lsp».«Vtd_Workspace.c»}

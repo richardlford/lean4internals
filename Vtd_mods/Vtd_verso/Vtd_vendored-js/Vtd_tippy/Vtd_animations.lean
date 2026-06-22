@@ -32,15 +32,15 @@ tag := "mods-verso-vendored-js-tippy-animations"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy».«Vtd_animations».«Vtd_perspective-extreme.css»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy».«Vtd_animations».«Vtd_perspective-subtle.css»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy».«Vtd_animations».«Vtd_perspective.css»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy».«Vtd_animations».«Vtd_scale-extreme.css»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy».«Vtd_animations».«Vtd_scale-subtle.css»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy».«Vtd_animations».«Vtd_scale.css»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy».«Vtd_animations».«Vtd_shift-away-extreme.css»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy».«Vtd_animations».«Vtd_shift-away-subtle.css»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy».«Vtd_animations».«Vtd_shift-away.css»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy».«Vtd_animations».«Vtd_shift-toward-extreme.css»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy».«Vtd_animations».«Vtd_shift-toward-subtle.css»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy».«Vtd_animations».«Vtd_shift-toward.css»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy».«Vtd_animations».«Vtd_perspective-extreme.css»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy».«Vtd_animations».«Vtd_perspective-subtle.css»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy».«Vtd_animations».«Vtd_perspective.css»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy».«Vtd_animations».«Vtd_scale-extreme.css»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy».«Vtd_animations».«Vtd_scale-subtle.css»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy».«Vtd_animations».«Vtd_scale.css»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy».«Vtd_animations».«Vtd_shift-away-extreme.css»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy».«Vtd_animations».«Vtd_shift-away-subtle.css»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy».«Vtd_animations».«Vtd_shift-away.css»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy».«Vtd_animations».«Vtd_shift-toward-extreme.css»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy».«Vtd_animations».«Vtd_shift-toward-subtle.css»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy».«Vtd_animations».«Vtd_shift-toward.css»}

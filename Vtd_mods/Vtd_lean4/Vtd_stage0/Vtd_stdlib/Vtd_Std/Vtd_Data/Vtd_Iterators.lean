@@ -34,12 +34,12 @@ tag := "mods-lean4-stage0-stdlib-Std-Data-Iterators"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Combinators.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Consumers.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Producers.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Combinators.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Consumers.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Producers.c»}
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Combinators»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Consumers»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Producers»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Combinators»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Consumers»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Producers»}

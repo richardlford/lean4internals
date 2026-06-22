@@ -22,5 +22,5 @@ tag := "mods-verso-vendored-js-elasticlunr"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_elasticlunr».«Vtd_elasticlunr.js»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_elasticlunr».«Vtd_elasticlunr.min.js»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_elasticlunr».«Vtd_elasticlunr.js»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_elasticlunr».«Vtd_elasticlunr.min.js»}

@@ -29,7 +29,7 @@ tag := "mods-vscode-lean4-vscode-lean4-loogleview"
 
 TODO
 
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_loogleview».«Vtd_index.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_loogleview».«Vtd_tsconfig.json»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_loogleview».«Vtd_index.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_loogleview».«Vtd_tsconfig.json»}
 
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_loogleview».«Vtd_static»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_loogleview».«Vtd_static»}

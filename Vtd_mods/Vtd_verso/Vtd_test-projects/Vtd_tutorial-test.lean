@@ -29,7 +29,7 @@ tag := "mods-verso-test-projects-tutorial-test"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_tutorial-test».«Vtd_TutorialExample.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_tutorial-test».«Vtd_TutorialExampleMain.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_tutorial-test».«Vtd_TutorialExample.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_tutorial-test».«Vtd_TutorialExampleMain.lean»}
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_tutorial-test».«Vtd_TutorialExample»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_tutorial-test».«Vtd_TutorialExample»}

@@ -29,7 +29,7 @@ tag := "mods-vscode-lean4-lean4-infoview-api"
 
 TODO
 
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview-api».«Vtd_package.json»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview-api».«Vtd_tsconfig.json»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview-api».«Vtd_package.json»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview-api».«Vtd_tsconfig.json»}
 
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview-api».«Vtd_src»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview-api».«Vtd_src»}

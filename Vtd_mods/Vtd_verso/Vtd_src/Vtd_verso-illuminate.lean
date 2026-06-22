@@ -21,4 +21,4 @@ tag := "mods-verso-src-verso-illuminate"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-illuminate».«Vtd_VersoIlluminate.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-illuminate».«Vtd_VersoIlluminate.lean»}

@@ -25,8 +25,8 @@ tag := "mods-lean4-script-profiler"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_profiler».«Vtd_lean_demangle.py»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_profiler».«Vtd_lean_demangle_cli.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_profiler».«Vtd_lean_demangle_profile.py»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_profiler».«Vtd_serve_profile.py»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_profiler».«Vtd_symbolicate_profile.py»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_profiler».«Vtd_lean_demangle.py»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_profiler».«Vtd_lean_demangle_cli.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_profiler».«Vtd_lean_demangle_profile.py»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_profiler».«Vtd_serve_profile.py»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_profiler».«Vtd_symbolicate_profile.py»}

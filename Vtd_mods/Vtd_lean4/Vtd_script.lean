@@ -54,32 +54,32 @@ tag := "mods-lean4-script"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_Modulize.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_PROFILER_README.md»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_apply.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_benchReelabRss.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_benchReelabWatchdogRss.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_build_artifact.py»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_collideProfiles.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_diff_changelogs.py»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_find-deprecations.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_fmt»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_gen_constants_cpp.py»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_gen_tokens_cpp.py»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_issues_summary.sh»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_lakefile.toml»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_lean-bisect»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_lean-bisect-test.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_lean-toolchain»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_lean_profile.sh»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_mathlib-bench»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_patch.sh»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_prepare-llvm-linux.sh»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_prepare-llvm-macos.sh»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_prepare-llvm-mingw.sh»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_rebase-stage0.sh»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_reformat.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_Modulize.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_PROFILER_README.md»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_apply.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_benchReelabRss.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_benchReelabWatchdogRss.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_build_artifact.py»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_collideProfiles.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_diff_changelogs.py»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_find-deprecations.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_fmt»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_gen_constants_cpp.py»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_gen_tokens_cpp.py»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_issues_summary.sh»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_lakefile.toml»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_lean-bisect»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_lean-bisect-test.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_lean-toolchain»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_lean_profile.sh»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_mathlib-bench»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_patch.sh»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_prepare-llvm-linux.sh»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_prepare-llvm-macos.sh»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_prepare-llvm-mingw.sh»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_rebase-stage0.sh»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_reformat.lean»}
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_lib»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_profiler»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_release»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_lib»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_profiler»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_release»}

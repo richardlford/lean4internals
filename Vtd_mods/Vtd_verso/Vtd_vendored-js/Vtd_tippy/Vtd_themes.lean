@@ -24,7 +24,7 @@ tag := "mods-verso-vendored-js-tippy-themes"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy».«Vtd_themes».«Vtd_light-border.css»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy».«Vtd_themes».«Vtd_light.css»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy».«Vtd_themes».«Vtd_material.css»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy».«Vtd_themes».«Vtd_translucent.css»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy».«Vtd_themes».«Vtd_light-border.css»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy».«Vtd_themes».«Vtd_light.css»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy».«Vtd_themes».«Vtd_material.css»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy».«Vtd_themes».«Vtd_translucent.css»}

@@ -22,5 +22,5 @@ tag := "mods-verso-test-projects-custom-genre-SimplePage"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_custom-genre».«Vtd_SimplePage».«Vtd_AnotherSection.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_custom-genre».«Vtd_SimplePage».«Vtd_Demo.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_custom-genre».«Vtd_SimplePage».«Vtd_AnotherSection.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_custom-genre».«Vtd_SimplePage».«Vtd_Demo.lean»}

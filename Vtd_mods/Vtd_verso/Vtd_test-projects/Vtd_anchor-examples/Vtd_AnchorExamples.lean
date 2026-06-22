@@ -21,4 +21,4 @@ tag := "mods-verso-test-projects-anchor-examples-AnchorExamples"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_anchor-examples».«Vtd_AnchorExamples».«Vtd_Basic.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_anchor-examples».«Vtd_AnchorExamples».«Vtd_Basic.lean»}

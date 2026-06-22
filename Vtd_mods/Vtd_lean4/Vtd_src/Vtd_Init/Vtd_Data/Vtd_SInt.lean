@@ -25,8 +25,8 @@ tag := "mods-lean4-src-Init-Data-SInt"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_SInt».«Vtd_Basic.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_SInt».«Vtd_Bitwise.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_SInt».«Vtd_Float.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_SInt».«Vtd_Float32.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_SInt».«Vtd_Lemmas.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_SInt».«Vtd_Basic.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_SInt».«Vtd_Bitwise.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_SInt».«Vtd_Float.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_SInt».«Vtd_Float32.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_SInt».«Vtd_Lemmas.lean»}

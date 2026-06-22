@@ -29,7 +29,7 @@ tag := "mods-verso-src-verso-Verso-Output"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Output».«Vtd_Html.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Output».«Vtd_TeX.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Output».«Vtd_Html.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Output».«Vtd_TeX.lean»}
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Output».«Vtd_Html»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Output».«Vtd_Html»}

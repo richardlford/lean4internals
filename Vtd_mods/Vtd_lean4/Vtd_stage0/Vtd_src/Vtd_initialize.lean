@@ -23,6 +23,6 @@ tag := "mods-lean4-stage0-src-initialize"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_initialize».«Vtd_CMakeLists.txt»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_initialize».«Vtd_init.cpp»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_initialize».«Vtd_init.h»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_initialize».«Vtd_CMakeLists.txt»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_initialize».«Vtd_init.cpp»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_initialize».«Vtd_init.h»}

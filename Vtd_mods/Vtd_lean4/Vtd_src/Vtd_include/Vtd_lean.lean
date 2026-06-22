@@ -23,6 +23,6 @@ tag := "mods-lean4-src-include-lean"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_include».«Vtd_lean».«Vtd_lean.h»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_include».«Vtd_lean».«Vtd_lean_gmp.h»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_include».«Vtd_lean».«Vtd_lean_libuv.h»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_include».«Vtd_lean».«Vtd_lean.h»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_include».«Vtd_lean».«Vtd_lean_gmp.h»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_include».«Vtd_lean».«Vtd_lean_libuv.h»}

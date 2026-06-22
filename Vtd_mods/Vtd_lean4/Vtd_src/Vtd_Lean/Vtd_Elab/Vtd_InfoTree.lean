@@ -23,6 +23,6 @@ tag := "mods-lean4-src-Lean-Elab-InfoTree"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Elab».«Vtd_InfoTree».«Vtd_InlayHints.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Elab».«Vtd_InfoTree».«Vtd_Main.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Elab».«Vtd_InfoTree».«Vtd_Types.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Elab».«Vtd_InfoTree».«Vtd_InlayHints.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Elab».«Vtd_InfoTree».«Vtd_Main.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Elab».«Vtd_InfoTree».«Vtd_Types.lean»}

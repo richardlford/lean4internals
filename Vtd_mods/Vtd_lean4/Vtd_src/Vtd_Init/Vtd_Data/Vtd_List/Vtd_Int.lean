@@ -22,5 +22,5 @@ tag := "mods-lean4-src-Init-Data-List-Int"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_List».«Vtd_Int».«Vtd_Prod.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_List».«Vtd_Int».«Vtd_Sum.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_List».«Vtd_Int».«Vtd_Prod.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_List».«Vtd_Int».«Vtd_Sum.lean»}

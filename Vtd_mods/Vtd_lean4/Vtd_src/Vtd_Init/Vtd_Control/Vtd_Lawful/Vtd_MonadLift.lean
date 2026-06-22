@@ -23,6 +23,6 @@ tag := "mods-lean4-src-Init-Control-Lawful-MonadLift"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Control».«Vtd_Lawful».«Vtd_MonadLift».«Vtd_Basic.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Control».«Vtd_Lawful».«Vtd_MonadLift».«Vtd_Instances.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Control».«Vtd_Lawful».«Vtd_MonadLift».«Vtd_Lemmas.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Control».«Vtd_Lawful».«Vtd_MonadLift».«Vtd_Basic.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Control».«Vtd_Lawful».«Vtd_MonadLift».«Vtd_Instances.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Control».«Vtd_Lawful».«Vtd_MonadLift».«Vtd_Lemmas.lean»}

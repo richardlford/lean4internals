@@ -30,8 +30,8 @@ tag := "mods-lean4-src-Std-Sat"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Sat».«Vtd_AIG.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Sat».«Vtd_CNF.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Sat».«Vtd_AIG.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Sat».«Vtd_CNF.lean»}
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Sat».«Vtd_AIG»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Sat».«Vtd_CNF»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Sat».«Vtd_AIG»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Sat».«Vtd_CNF»}

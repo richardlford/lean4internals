@@ -48,31 +48,31 @@ tag := "mods-vscode-lean4-vscode-lean4-src-utils"
 
 TODO
 
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_batch.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_clientProvider.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_coalescingSyncQueue.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_converters.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_depInstaller.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_elan.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_elanCommands.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_envPath.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_events.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_exturi.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_fsHelper.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_fullInstaller.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_groupBy.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_internalErrors.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_lake.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_leanCmdRunner.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_leanEditorProvider.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_leanInstaller.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_logger.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_manifest.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_moduleTreeViewProvider.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_notifs.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_pathExtensionProvider.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_projectInfo.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_releaseQuery.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_uriHandlerService.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_viewColumn.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_zod.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_batch.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_clientProvider.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_coalescingSyncQueue.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_converters.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_depInstaller.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_elan.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_elanCommands.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_envPath.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_events.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_exturi.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_fsHelper.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_fullInstaller.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_groupBy.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_internalErrors.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_lake.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_leanCmdRunner.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_leanEditorProvider.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_leanInstaller.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_logger.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_manifest.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_moduleTreeViewProvider.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_notifs.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_pathExtensionProvider.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_projectInfo.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_releaseQuery.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_uriHandlerService.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_viewColumn.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_utils».«Vtd_zod.ts»}

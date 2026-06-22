@@ -24,7 +24,7 @@ tag := "mods-lean4-stage0-src-bin"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_bin».«Vtd_lean-gdb.py»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_bin».«Vtd_lean.in»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_bin».«Vtd_leanc.in»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_bin».«Vtd_leanmake»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_bin».«Vtd_lean-gdb.py»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_bin».«Vtd_lean.in»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_bin».«Vtd_leanc.in»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_bin».«Vtd_leanmake»}

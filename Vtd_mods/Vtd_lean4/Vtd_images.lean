@@ -22,5 +22,5 @@ tag := "mods-lean4-images"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_images».«Vtd_lean.png»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_images».«Vtd_lean.xbm»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_images».«Vtd_lean.png»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_images».«Vtd_lean.xbm»}

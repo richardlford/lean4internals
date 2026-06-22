@@ -58,36 +58,36 @@ tag := "mods-lean4-src"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_CMakeLists.txt»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_LeanChecker.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_LeanIR.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Leanc.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_cadical.mk»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_config.h.in»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_githash.h.in»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake-manifest.json»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lakefile.toml»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lakefile.toml.in»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lean-toolchain»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lean.mk.in»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_out»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_stdlib.make.in»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_stdlib_flags.h»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_version.h.in»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_CMakeLists.txt»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_LeanChecker.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_LeanIR.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Leanc.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_cadical.mk»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_config.h.in»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_githash.h.in»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake-manifest.json»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lakefile.toml»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lakefile.toml.in»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lean-toolchain»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lean.mk.in»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_out»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_stdlib.make.in»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_stdlib_flags.h»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_version.h.in»}
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_bin»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_cmake»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_include»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_initialize»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_kernel»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_library»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_runtime»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_shell»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_util»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_bin»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_cmake»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_include»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_initialize»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_kernel»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_library»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_runtime»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_shell»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_util»}

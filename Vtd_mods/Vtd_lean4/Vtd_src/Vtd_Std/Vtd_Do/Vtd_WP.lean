@@ -24,7 +24,7 @@ tag := "mods-lean4-src-Std-Do-WP"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Do».«Vtd_WP».«Vtd_Basic.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Do».«Vtd_WP».«Vtd_Monad.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Do».«Vtd_WP».«Vtd_SimpLemmas.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Do».«Vtd_WP».«Vtd_Sound.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Do».«Vtd_WP».«Vtd_Basic.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Do».«Vtd_WP».«Vtd_Monad.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Do».«Vtd_WP».«Vtd_SimpLemmas.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Do».«Vtd_WP».«Vtd_Sound.lean»}

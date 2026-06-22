@@ -24,7 +24,7 @@ tag := "mods-vscode-lean4-vscode-lean4-src-diagnostics"
 
 TODO
 
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_diagnostics».«Vtd_fullDiagnostics.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_diagnostics».«Vtd_setupDiagnoser.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_diagnostics».«Vtd_setupDiagnostics.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_diagnostics».«Vtd_setupNotifs.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_diagnostics».«Vtd_fullDiagnostics.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_diagnostics».«Vtd_setupDiagnoser.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_diagnostics».«Vtd_setupDiagnostics.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_diagnostics».«Vtd_setupNotifs.ts»}

@@ -34,12 +34,12 @@ tag := "mods-verso-vendored-js-katex"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_README.md»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_katex.css»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_katex.js»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_katex.min.css»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_katex.min.js»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_katex.mjs»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_README.md»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_katex.css»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_katex.js»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_katex.min.css»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_katex.min.js»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_katex.mjs»}
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_contrib»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_contrib»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts»}

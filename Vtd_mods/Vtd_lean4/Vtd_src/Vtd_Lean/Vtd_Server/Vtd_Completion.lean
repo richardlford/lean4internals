@@ -28,11 +28,11 @@ tag := "mods-lean4-src-Lean-Server-Completion"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Server».«Vtd_Completion».«Vtd_CompletionCollectors.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Server».«Vtd_Completion».«Vtd_CompletionInfoSelection.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Server».«Vtd_Completion».«Vtd_CompletionItemCompression.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Server».«Vtd_Completion».«Vtd_CompletionResolution.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Server».«Vtd_Completion».«Vtd_CompletionUtils.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Server».«Vtd_Completion».«Vtd_EligibleHeaderDecls.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Server».«Vtd_Completion».«Vtd_ImportCompletion.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Server».«Vtd_Completion».«Vtd_SyntheticCompletion.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Server».«Vtd_Completion».«Vtd_CompletionCollectors.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Server».«Vtd_Completion».«Vtd_CompletionInfoSelection.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Server».«Vtd_Completion».«Vtd_CompletionItemCompression.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Server».«Vtd_Completion».«Vtd_CompletionResolution.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Server».«Vtd_Completion».«Vtd_CompletionUtils.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Server».«Vtd_Completion».«Vtd_EligibleHeaderDecls.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Server».«Vtd_Completion».«Vtd_ImportCompletion.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Server».«Vtd_Completion».«Vtd_SyntheticCompletion.lean»}

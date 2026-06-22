@@ -28,6 +28,6 @@ tag := "mods-verso-src-verso"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso.lean»}
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso»}

@@ -26,4 +26,4 @@ tag := "mods-lean4-src-include"
 TODO
 
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_include».«Vtd_lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_include».«Vtd_lean»}

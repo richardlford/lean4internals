@@ -38,16 +38,16 @@ tag := "mods-lean4-doc"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_BoolExpr.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_README.md»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_metaprogramming-arith.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_perf.md»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_style.md»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_syntax_example.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_BoolExpr.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_README.md»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_metaprogramming-arith.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_perf.md»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_style.md»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_syntax_example.lean»}
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_dev»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_images»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_latex»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_make»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_dev»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_images»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_latex»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_make»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std»}

@@ -29,7 +29,7 @@ tag := "mods-verso-src-verso-literate"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate».«Vtd_VersoLiterate.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate».«Vtd_VersoLiterateMain.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate».«Vtd_VersoLiterate.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate».«Vtd_VersoLiterateMain.lean»}
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate».«Vtd_VersoLiterate»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate».«Vtd_VersoLiterate»}

@@ -31,9 +31,9 @@ tag := "mods-verso-test-projects-website-examples"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website-examples».«Vtd_Examples.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website-examples».«Vtd_lake-manifest.json»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website-examples».«Vtd_lakefile.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website-examples».«Vtd_lean-toolchain»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website-examples».«Vtd_Examples.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website-examples».«Vtd_lake-manifest.json»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website-examples».«Vtd_lakefile.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website-examples».«Vtd_lean-toolchain»}
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website-examples».«Vtd_Examples»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website-examples».«Vtd_Examples»}

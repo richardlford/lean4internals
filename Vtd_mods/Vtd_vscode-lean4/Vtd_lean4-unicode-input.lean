@@ -30,8 +30,8 @@ tag := "mods-vscode-lean4-lean4-unicode-input"
 
 TODO
 
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input».«Vtd_LICENSE»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input».«Vtd_package.json»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input».«Vtd_tsconfig.json»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input».«Vtd_LICENSE»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input».«Vtd_package.json»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input».«Vtd_tsconfig.json»}
 
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input».«Vtd_src»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input».«Vtd_src»}

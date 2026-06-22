@@ -21,4 +21,4 @@ tag := "mods-vscode-lean4-vscode-lean4-test-suite-bootstrap"
 
 TODO
 
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_test».«Vtd_suite».«Vtd_bootstrap».«Vtd_bootstrap.test.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_test».«Vtd_suite».«Vtd_bootstrap».«Vtd_bootstrap.test.ts»}

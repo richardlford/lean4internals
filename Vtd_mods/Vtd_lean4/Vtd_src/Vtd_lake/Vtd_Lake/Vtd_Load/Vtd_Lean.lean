@@ -22,5 +22,5 @@ tag := "mods-lean4-src-lake-Lake-Load-Lean"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_Lake».«Vtd_Load».«Vtd_Lean».«Vtd_Elab.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_Lake».«Vtd_Load».«Vtd_Lean».«Vtd_Eval.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_Lake».«Vtd_Load».«Vtd_Lean».«Vtd_Elab.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_Lake».«Vtd_Load».«Vtd_Lean».«Vtd_Eval.lean»}

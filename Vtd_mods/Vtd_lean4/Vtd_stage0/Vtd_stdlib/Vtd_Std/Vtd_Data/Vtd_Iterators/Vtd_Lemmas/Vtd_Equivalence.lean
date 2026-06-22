@@ -23,6 +23,6 @@ tag := "mods-lean4-stage0-stdlib-Std-Data-Iterators-Lemmas-Equivalence"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Equivalence».«Vtd_Basic.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Equivalence».«Vtd_HetT.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Equivalence».«Vtd_StepCongr.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Equivalence».«Vtd_Basic.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Equivalence».«Vtd_HetT.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Equivalence».«Vtd_StepCongr.c»}

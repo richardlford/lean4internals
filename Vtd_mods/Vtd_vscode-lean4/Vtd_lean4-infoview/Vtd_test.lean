@@ -22,5 +22,5 @@ tag := "mods-vscode-lean4-lean4-infoview-test"
 
 TODO
 
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_test».«Vtd_breaking.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_test».«Vtd_tsconfig.json»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_test».«Vtd_breaking.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_test».«Vtd_tsconfig.json»}

@@ -21,4 +21,4 @@ tag := "mods-lean4-stage0-stdlib-Init-Sym-Simp"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Sym».«Vtd_Simp».«Vtd_SimprocDSL.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Sym».«Vtd_Simp».«Vtd_SimprocDSL.c»}

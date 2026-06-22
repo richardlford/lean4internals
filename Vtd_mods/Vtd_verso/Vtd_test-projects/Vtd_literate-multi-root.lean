@@ -33,11 +33,11 @@ tag := "mods-verso-test-projects-literate-multi-root"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-multi-root».«Vtd_LibA.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-multi-root».«Vtd_LibB.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-multi-root».«Vtd_lake-manifest.json»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-multi-root».«Vtd_lakefile.toml»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-multi-root».«Vtd_lean-toolchain»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-multi-root».«Vtd_LibA.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-multi-root».«Vtd_LibB.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-multi-root».«Vtd_lake-manifest.json»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-multi-root».«Vtd_lakefile.toml»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-multi-root».«Vtd_lean-toolchain»}
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-multi-root».«Vtd_LibA»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-multi-root».«Vtd_LibB»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-multi-root».«Vtd_LibA»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-multi-root».«Vtd_LibB»}

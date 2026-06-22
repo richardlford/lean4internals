@@ -21,4 +21,4 @@ tag := "mods-lean4-stage0-stdlib-Init-Data-Array-Subarray"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Data».«Vtd_Array».«Vtd_Subarray».«Vtd_Split.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Data».«Vtd_Array».«Vtd_Subarray».«Vtd_Split.c»}

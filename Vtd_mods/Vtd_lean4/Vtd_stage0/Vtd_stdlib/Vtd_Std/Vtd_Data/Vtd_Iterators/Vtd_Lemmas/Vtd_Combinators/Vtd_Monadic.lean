@@ -25,8 +25,8 @@ tag := "mods-lean4-stage0-stdlib-Std-Data-Iterators-Lemmas-Combinators-Monadic"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Combinators».«Vtd_Monadic».«Vtd_Drop.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Combinators».«Vtd_Monadic».«Vtd_DropWhile.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Combinators».«Vtd_Monadic».«Vtd_FilterMap.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Combinators».«Vtd_Monadic».«Vtd_TakeWhile.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Combinators».«Vtd_Monadic».«Vtd_Zip.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Combinators».«Vtd_Monadic».«Vtd_Drop.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Combinators».«Vtd_Monadic».«Vtd_DropWhile.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Combinators».«Vtd_Monadic».«Vtd_FilterMap.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Combinators».«Vtd_Monadic».«Vtd_TakeWhile.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Combinators».«Vtd_Monadic».«Vtd_Zip.c»}

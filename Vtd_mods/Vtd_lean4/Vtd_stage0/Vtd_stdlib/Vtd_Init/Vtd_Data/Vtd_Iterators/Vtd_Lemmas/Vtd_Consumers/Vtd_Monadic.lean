@@ -22,5 +22,5 @@ tag := "mods-lean4-stage0-stdlib-Init-Data-Iterators-Lemmas-Consumers-Monadic"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Consumers».«Vtd_Monadic».«Vtd_Collect.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Consumers».«Vtd_Monadic».«Vtd_Loop.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Consumers».«Vtd_Monadic».«Vtd_Collect.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Consumers».«Vtd_Monadic».«Vtd_Loop.c»}

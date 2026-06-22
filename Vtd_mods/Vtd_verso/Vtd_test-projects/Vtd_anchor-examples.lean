@@ -31,9 +31,9 @@ tag := "mods-verso-test-projects-anchor-examples"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_anchor-examples».«Vtd_AnchorExamples.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_anchor-examples».«Vtd_lake-manifest.json»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_anchor-examples».«Vtd_lakefile.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_anchor-examples».«Vtd_lean-toolchain»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_anchor-examples».«Vtd_AnchorExamples.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_anchor-examples».«Vtd_lake-manifest.json»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_anchor-examples».«Vtd_lakefile.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_anchor-examples».«Vtd_lean-toolchain»}
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_anchor-examples».«Vtd_AnchorExamples»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_anchor-examples».«Vtd_AnchorExamples»}

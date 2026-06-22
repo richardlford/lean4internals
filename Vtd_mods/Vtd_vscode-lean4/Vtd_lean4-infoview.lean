@@ -32,10 +32,10 @@ tag := "mods-vscode-lean4-lean4-infoview"
 
 TODO
 
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_README.md»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_package.json»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_rollup.config.js»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_tsconfig.json»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_README.md»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_package.json»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_rollup.config.js»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_tsconfig.json»}
 
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_test»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_test»}

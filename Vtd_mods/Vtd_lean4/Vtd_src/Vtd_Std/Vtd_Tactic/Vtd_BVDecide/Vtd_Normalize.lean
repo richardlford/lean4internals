@@ -25,8 +25,8 @@ tag := "mods-lean4-src-Std-Tactic-BVDecide-Normalize"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_Normalize».«Vtd_BitVec.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_Normalize».«Vtd_Bool.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_Normalize».«Vtd_Canonicalize.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_Normalize».«Vtd_Equal.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_Normalize».«Vtd_Prop.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_Normalize».«Vtd_BitVec.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_Normalize».«Vtd_Bool.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_Normalize».«Vtd_Canonicalize.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_Normalize».«Vtd_Equal.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_Normalize».«Vtd_Prop.lean»}

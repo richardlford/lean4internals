@@ -21,4 +21,4 @@ tag := "mods-verso-src-verso-literate-plan"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate-plan».«Vtd_LiteratePlanMain.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate-plan».«Vtd_LiteratePlanMain.lean»}

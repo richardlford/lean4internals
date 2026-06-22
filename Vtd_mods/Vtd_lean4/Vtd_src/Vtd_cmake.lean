@@ -29,7 +29,7 @@ tag := "mods-lean4-src-cmake"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_cmake».«Vtd_check_failure.sh»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_cmake».«Vtd_run_checker.sh»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_cmake».«Vtd_check_failure.sh»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_cmake».«Vtd_run_checker.sh»}
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_cmake».«Vtd_Modules»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_cmake».«Vtd_Modules»}

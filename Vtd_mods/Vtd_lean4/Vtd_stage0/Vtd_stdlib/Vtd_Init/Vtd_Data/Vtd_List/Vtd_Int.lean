@@ -22,5 +22,5 @@ tag := "mods-lean4-stage0-stdlib-Init-Data-List-Int"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Data».«Vtd_List».«Vtd_Int».«Vtd_Prod.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Data».«Vtd_List».«Vtd_Int».«Vtd_Sum.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Data».«Vtd_List».«Vtd_Int».«Vtd_Prod.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Data».«Vtd_List».«Vtd_Int».«Vtd_Sum.c»}

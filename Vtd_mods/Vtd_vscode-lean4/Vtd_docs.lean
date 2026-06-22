@@ -29,7 +29,7 @@ tag := "mods-vscode-lean4-docs"
 
 TODO
 
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs».«Vtd_dev.md»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs».«Vtd_language-configuration.md»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs».«Vtd_dev.md»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs».«Vtd_language-configuration.md»}
 
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs».«Vtd_images»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs».«Vtd_images»}

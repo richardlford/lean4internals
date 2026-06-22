@@ -34,12 +34,12 @@ tag := "mods-lean4-src-Std-Internal-Do"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Internal».«Vtd_Do».«Vtd_Assertion.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Internal».«Vtd_Do».«Vtd_ExceptPost.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Internal».«Vtd_Do».«Vtd_Frame.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Internal».«Vtd_Do».«Vtd_PredTrans.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Internal».«Vtd_Do».«Vtd_Triple.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Internal».«Vtd_Do».«Vtd_WP.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Internal».«Vtd_Do».«Vtd_Assertion.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Internal».«Vtd_Do».«Vtd_ExceptPost.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Internal».«Vtd_Do».«Vtd_Frame.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Internal».«Vtd_Do».«Vtd_PredTrans.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Internal».«Vtd_Do».«Vtd_Triple.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Internal».«Vtd_Do».«Vtd_WP.lean»}
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Internal».«Vtd_Do».«Vtd_Triple»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Internal».«Vtd_Do».«Vtd_WP»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Internal».«Vtd_Do».«Vtd_Triple»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Internal».«Vtd_Do».«Vtd_WP»}

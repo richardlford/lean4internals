@@ -21,4 +21,4 @@ tag := "mods-verso-src-verso-manual-VersoManual-TeX"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_TeX».«Vtd_Config.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_TeX».«Vtd_Config.lean»}

@@ -28,11 +28,11 @@ tag := "mods-lean4-src-Std-Tactic-BVDecide-LRAT-Internal-Formula"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_LRAT».«Vtd_Internal».«Vtd_Formula».«Vtd_Class.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_LRAT».«Vtd_Internal».«Vtd_Formula».«Vtd_Implementation.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_LRAT».«Vtd_Internal».«Vtd_Formula».«Vtd_Instance.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_LRAT».«Vtd_Internal».«Vtd_Formula».«Vtd_Lemmas.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_LRAT».«Vtd_Internal».«Vtd_Formula».«Vtd_RatAddResult.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_LRAT».«Vtd_Internal».«Vtd_Formula».«Vtd_RatAddSound.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_LRAT».«Vtd_Internal».«Vtd_Formula».«Vtd_RupAddResult.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_LRAT».«Vtd_Internal».«Vtd_Formula».«Vtd_RupAddSound.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_LRAT».«Vtd_Internal».«Vtd_Formula».«Vtd_Class.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_LRAT».«Vtd_Internal».«Vtd_Formula».«Vtd_Implementation.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_LRAT».«Vtd_Internal».«Vtd_Formula».«Vtd_Instance.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_LRAT».«Vtd_Internal».«Vtd_Formula».«Vtd_Lemmas.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_LRAT».«Vtd_Internal».«Vtd_Formula».«Vtd_RatAddResult.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_LRAT».«Vtd_Internal».«Vtd_Formula».«Vtd_RatAddSound.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_LRAT».«Vtd_Internal».«Vtd_Formula».«Vtd_RupAddResult.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_LRAT».«Vtd_Internal».«Vtd_Formula».«Vtd_RupAddSound.lean»}

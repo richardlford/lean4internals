@@ -21,4 +21,4 @@ tag := "mods-lean4-stage0-stdlib-Lean-Meta-ArgsPacker"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Meta».«Vtd_ArgsPacker».«Vtd_Basic.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Meta».«Vtd_ArgsPacker».«Vtd_Basic.c»}

@@ -25,8 +25,8 @@ tag := "mods-lean4-src-Init-Data-Iterators-Consumers-Monadic"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Iterators».«Vtd_Consumers».«Vtd_Monadic».«Vtd_Access.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Iterators».«Vtd_Consumers».«Vtd_Monadic».«Vtd_Collect.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Iterators».«Vtd_Consumers».«Vtd_Monadic».«Vtd_Loop.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Iterators».«Vtd_Consumers».«Vtd_Monadic».«Vtd_Partial.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Iterators».«Vtd_Consumers».«Vtd_Monadic».«Vtd_Total.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Iterators».«Vtd_Consumers».«Vtd_Monadic».«Vtd_Access.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Iterators».«Vtd_Consumers».«Vtd_Monadic».«Vtd_Collect.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Iterators».«Vtd_Consumers».«Vtd_Monadic».«Vtd_Loop.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Iterators».«Vtd_Consumers».«Vtd_Monadic».«Vtd_Partial.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Iterators».«Vtd_Consumers».«Vtd_Monadic».«Vtd_Total.lean»}

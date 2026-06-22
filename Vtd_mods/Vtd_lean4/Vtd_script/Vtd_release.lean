@@ -25,8 +25,8 @@ tag := "mods-lean4-script-release"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_release».«Vtd_checklist.py»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_release».«Vtd_pyproject.toml»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_release».«Vtd_release_notes.py»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_release».«Vtd_repos.py»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_release».«Vtd_util.py»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_release».«Vtd_checklist.py»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_release».«Vtd_pyproject.toml»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_release».«Vtd_release_notes.py»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_release».«Vtd_repos.py»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_release».«Vtd_util.py»}

@@ -22,5 +22,5 @@ tag := "mods-verso-src-verso-search-VersoSearch"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-search».«Vtd_VersoSearch».«Vtd_DomainSearch.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-search».«Vtd_VersoSearch».«Vtd_PorterStemmer.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-search».«Vtd_VersoSearch».«Vtd_DomainSearch.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-search».«Vtd_VersoSearch».«Vtd_PorterStemmer.lean»}

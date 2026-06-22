@@ -23,6 +23,6 @@ tag := "mods-lean4-doc-examples-ICERM2022"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_ICERM2022».«Vtd_ctor.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_ICERM2022».«Vtd_meta.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_ICERM2022».«Vtd_notation.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_ICERM2022».«Vtd_ctor.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_ICERM2022».«Vtd_meta.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_ICERM2022».«Vtd_notation.lean»}

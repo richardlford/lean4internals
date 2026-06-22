@@ -22,5 +22,5 @@ tag := "mods-verso-test-projects-package-manual-PackageManual"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_package-manual».«Vtd_PackageManual».«Vtd_DocFeatures.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_package-manual».«Vtd_PackageManual».«Vtd_Papers.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_package-manual».«Vtd_PackageManual».«Vtd_DocFeatures.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_package-manual».«Vtd_PackageManual».«Vtd_Papers.lean»}

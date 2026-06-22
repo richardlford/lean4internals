@@ -28,11 +28,11 @@ tag := "mods-verso-src-verso-manual-VersoManual-Html"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_Html».«Vtd_Basic.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_Html».«Vtd_Config.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_Html».«Vtd_CssFile.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_Html».«Vtd_DataFile.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_Html».«Vtd_Features.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_Html».«Vtd_JsFile.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_Html».«Vtd_SoftHyphenate.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_Html».«Vtd_Style.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_Html».«Vtd_Basic.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_Html».«Vtd_Config.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_Html».«Vtd_CssFile.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_Html».«Vtd_DataFile.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_Html».«Vtd_Features.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_Html».«Vtd_JsFile.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_Html».«Vtd_SoftHyphenate.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_Html».«Vtd_Style.lean»}

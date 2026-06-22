@@ -22,5 +22,5 @@ tag := "mods-lean4-stage0-stdlib-Lake-Load-Lean"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lake».«Vtd_Load».«Vtd_Lean».«Vtd_Elab.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lake».«Vtd_Load».«Vtd_Lean».«Vtd_Eval.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lake».«Vtd_Load».«Vtd_Lean».«Vtd_Elab.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lake».«Vtd_Load».«Vtd_Lean».«Vtd_Eval.c»}

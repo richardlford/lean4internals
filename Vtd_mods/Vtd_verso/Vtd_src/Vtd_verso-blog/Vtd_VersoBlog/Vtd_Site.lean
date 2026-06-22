@@ -21,4 +21,4 @@ tag := "mods-verso-src-verso-blog-VersoBlog-Site"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-blog».«Vtd_VersoBlog».«Vtd_Site».«Vtd_Syntax.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-blog».«Vtd_VersoBlog».«Vtd_Site».«Vtd_Syntax.lean»}

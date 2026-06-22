@@ -27,5 +27,5 @@ tag := "mods-lean4-stage0"
 TODO
 
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib»}

@@ -26,9 +26,9 @@ tag := "mods-verso-src-multi-verso-MultiVerso"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_multi-verso».«Vtd_MultiVerso».«Vtd_InternalId.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_multi-verso».«Vtd_MultiVerso».«Vtd_Link.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_multi-verso».«Vtd_MultiVerso».«Vtd_Manifest.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_multi-verso».«Vtd_MultiVerso».«Vtd_NameMap.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_multi-verso».«Vtd_MultiVerso».«Vtd_Path.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_multi-verso».«Vtd_MultiVerso».«Vtd_Slug.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_multi-verso».«Vtd_MultiVerso».«Vtd_InternalId.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_multi-verso».«Vtd_MultiVerso».«Vtd_Link.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_multi-verso».«Vtd_MultiVerso».«Vtd_Manifest.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_multi-verso».«Vtd_MultiVerso».«Vtd_NameMap.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_multi-verso».«Vtd_MultiVerso».«Vtd_Path.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_multi-verso».«Vtd_MultiVerso».«Vtd_Slug.lean»}

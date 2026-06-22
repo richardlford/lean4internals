@@ -21,4 +21,4 @@ tag := "mods-verso-src-verso-manual-VersoManual-Glossary"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_Glossary».«Vtd_Norm.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_Glossary».«Vtd_Norm.lean»}

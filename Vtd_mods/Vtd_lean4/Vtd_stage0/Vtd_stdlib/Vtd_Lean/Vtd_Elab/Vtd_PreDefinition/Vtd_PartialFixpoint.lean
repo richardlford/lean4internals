@@ -23,6 +23,6 @@ tag := "mods-lean4-stage0-stdlib-Lean-Elab-PreDefinition-PartialFixpoint"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Elab».«Vtd_PreDefinition».«Vtd_PartialFixpoint».«Vtd_Eqns.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Elab».«Vtd_PreDefinition».«Vtd_PartialFixpoint».«Vtd_Induction.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Elab».«Vtd_PreDefinition».«Vtd_PartialFixpoint».«Vtd_Main.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Elab».«Vtd_PreDefinition».«Vtd_PartialFixpoint».«Vtd_Eqns.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Elab».«Vtd_PreDefinition».«Vtd_PartialFixpoint».«Vtd_Induction.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Elab».«Vtd_PreDefinition».«Vtd_PartialFixpoint».«Vtd_Main.c»}

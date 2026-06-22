@@ -21,4 +21,4 @@ tag := "mods-vscode-lean4-vscode-lean4-test-test-fixtures-orphan"
 
 TODO
 
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_test».«Vtd_test-fixtures».«Vtd_orphan».«Vtd_factorial.lean»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_test».«Vtd_test-fixtures».«Vtd_orphan».«Vtd_factorial.lean»}

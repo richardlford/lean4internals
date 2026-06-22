@@ -24,7 +24,7 @@ tag := "mods-lean4-src-Lean-Server-CodeActions"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Server».«Vtd_CodeActions».«Vtd_Attr.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Server».«Vtd_CodeActions».«Vtd_Basic.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Server».«Vtd_CodeActions».«Vtd_Provider.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Server».«Vtd_CodeActions».«Vtd_UnknownIdentifier.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Server».«Vtd_CodeActions».«Vtd_Attr.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Server».«Vtd_CodeActions».«Vtd_Basic.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Server».«Vtd_CodeActions».«Vtd_Provider.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Server».«Vtd_CodeActions».«Vtd_UnknownIdentifier.lean»}

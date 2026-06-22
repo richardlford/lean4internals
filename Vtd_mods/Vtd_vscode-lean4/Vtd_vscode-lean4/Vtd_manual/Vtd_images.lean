@@ -64,47 +64,47 @@ tag := "mods-vscode-lean4-vscode-lean4-manual-images"
 
 TODO
 
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_abbreviation.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_abbreviation_tips.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_auto-implicit-inlay-hint.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_breadcrumbs.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_call-hierarchy-outgoing.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_call-hierarchy.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_code-action.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_code-folding.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_command-menu.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_command-palette.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_completion.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_diagnostics.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_document-outline.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_file-explorer.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_file-progress.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_find-references.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_go-to-file.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_go-to-symbol.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_hover.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_identifier-context-menu.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_infoview-go-to-definition.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_infoview-hover.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_infoview.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_loogleview.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_module-hierarchy.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_occurrence-highlighting.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_output-view.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_problems-view.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_project-search.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_restart-file-infoview-button.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_select-default-lean-version.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_select-project-lean-version.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_semantic-highlighting.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_settings_page.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_setup-information.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_shortcut-settings.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_show-all-abbreviations.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_sticky-scroll.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_terminal-view.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_try-this.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_uninstall-lean-versions.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_update-dependency.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_update-release-channel.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_workspace-symbol-search.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_abbreviation.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_abbreviation_tips.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_auto-implicit-inlay-hint.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_breadcrumbs.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_call-hierarchy-outgoing.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_call-hierarchy.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_code-action.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_code-folding.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_command-menu.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_command-palette.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_completion.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_diagnostics.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_document-outline.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_file-explorer.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_file-progress.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_find-references.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_go-to-file.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_go-to-symbol.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_hover.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_identifier-context-menu.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_infoview-go-to-definition.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_infoview-hover.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_infoview.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_loogleview.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_module-hierarchy.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_occurrence-highlighting.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_output-view.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_problems-view.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_project-search.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_restart-file-infoview-button.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_select-default-lean-version.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_select-project-lean-version.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_semantic-highlighting.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_settings_page.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_setup-information.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_shortcut-settings.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_show-all-abbreviations.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_sticky-scroll.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_terminal-view.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_try-this.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_uninstall-lean-versions.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_update-dependency.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_update-release-channel.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_manual».«Vtd_images».«Vtd_workspace-symbol-search.png»}

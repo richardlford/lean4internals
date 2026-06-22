@@ -22,5 +22,5 @@ tag := "mods-lean4-stage0-stdlib-Std-Tactic-Do"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Tactic».«Vtd_Do».«Vtd_ProofMode.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Tactic».«Vtd_Do».«Vtd_Syntax.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Tactic».«Vtd_Do».«Vtd_ProofMode.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Tactic».«Vtd_Do».«Vtd_Syntax.c»}

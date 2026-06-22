@@ -30,8 +30,8 @@ tag := "mods-vscode-lean4-lean4-infoview-src"
 
 TODO
 
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_index.tsx»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_loader.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_index.tsx»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_loader.ts»}
 
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_esm-shims»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_esm-shims»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview»}

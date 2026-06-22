@@ -25,8 +25,8 @@ tag := "mods-verso-src-verso-literate-VersoLiterate"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate».«Vtd_VersoLiterate».«Vtd_Basic.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate».«Vtd_VersoLiterate».«Vtd_Config.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate».«Vtd_VersoLiterate».«Vtd_Exported.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate».«Vtd_VersoLiterate».«Vtd_Module.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate».«Vtd_VersoLiterate».«Vtd_Search.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate».«Vtd_VersoLiterate».«Vtd_Basic.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate».«Vtd_VersoLiterate».«Vtd_Config.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate».«Vtd_VersoLiterate».«Vtd_Exported.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate».«Vtd_VersoLiterate».«Vtd_Module.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate».«Vtd_VersoLiterate».«Vtd_Search.lean»}

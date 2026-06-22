@@ -24,7 +24,7 @@ tag := "mods-lean4-stage0-stdlib-Std-Http-Data-URI"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Http».«Vtd_Data».«Vtd_URI».«Vtd_Basic.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Http».«Vtd_Data».«Vtd_URI».«Vtd_Config.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Http».«Vtd_Data».«Vtd_URI».«Vtd_Encoding.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Http».«Vtd_Data».«Vtd_URI».«Vtd_Parser.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Http».«Vtd_Data».«Vtd_URI».«Vtd_Basic.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Http».«Vtd_Data».«Vtd_URI».«Vtd_Config.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Http».«Vtd_Data».«Vtd_URI».«Vtd_Encoding.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Http».«Vtd_Data».«Vtd_URI».«Vtd_Parser.c»}

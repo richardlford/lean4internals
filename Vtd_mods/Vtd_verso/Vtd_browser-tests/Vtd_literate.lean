@@ -28,11 +28,11 @@ tag := "mods-verso-browser-tests-literate"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_literate».«Vtd___init__.py»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_literate».«Vtd_test_accessibility.py»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_literate».«Vtd_test_content.py»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_literate».«Vtd_test_navigation.py»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_literate».«Vtd_test_nested_tactics.py»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_literate».«Vtd_test_search.py»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_literate».«Vtd_test_search_page.py»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_literate».«Vtd_test_tooltips.py»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_literate».«Vtd___init__.py»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_literate».«Vtd_test_accessibility.py»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_literate».«Vtd_test_content.py»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_literate».«Vtd_test_navigation.py»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_literate».«Vtd_test_nested_tactics.py»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_literate».«Vtd_test_search.py»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_literate».«Vtd_test_search_page.py»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_literate».«Vtd_test_tooltips.py»}

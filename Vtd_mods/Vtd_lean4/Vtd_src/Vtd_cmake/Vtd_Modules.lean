@@ -26,9 +26,9 @@ tag := "mods-lean4-src-cmake-Modules"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_cmake».«Vtd_Modules».«Vtd_FindGMP.cmake»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_cmake».«Vtd_Modules».«Vtd_FindLibUV.cmake»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_cmake».«Vtd_Modules».«Vtd_FindWindowsSDK.cmake»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_cmake».«Vtd_Modules».«Vtd_GetGitRevisionDescription.cmake»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_cmake».«Vtd_Modules».«Vtd_GetGitRevisionDescription.cmake.in»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_cmake».«Vtd_Modules».«Vtd_README.md»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_cmake».«Vtd_Modules».«Vtd_FindGMP.cmake»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_cmake».«Vtd_Modules».«Vtd_FindLibUV.cmake»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_cmake».«Vtd_Modules».«Vtd_FindWindowsSDK.cmake»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_cmake».«Vtd_Modules».«Vtd_GetGitRevisionDescription.cmake»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_cmake».«Vtd_Modules».«Vtd_GetGitRevisionDescription.cmake.in»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_cmake».«Vtd_Modules».«Vtd_README.md»}

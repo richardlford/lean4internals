@@ -24,7 +24,7 @@ tag := "mods-verso-test-projects-website-DemoSite-Blog"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website».«Vtd_DemoSite».«Vtd_Blog».«Vtd_AnchorBased.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website».«Vtd_DemoSite».«Vtd_Blog».«Vtd_Conditionals.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website».«Vtd_DemoSite».«Vtd_Blog».«Vtd_FirstPost.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website».«Vtd_DemoSite».«Vtd_Blog».«Vtd_Subprojects.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website».«Vtd_DemoSite».«Vtd_Blog».«Vtd_AnchorBased.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website».«Vtd_DemoSite».«Vtd_Blog».«Vtd_Conditionals.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website».«Vtd_DemoSite».«Vtd_Blog».«Vtd_FirstPost.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website».«Vtd_DemoSite».«Vtd_Blog».«Vtd_Subprojects.lean»}

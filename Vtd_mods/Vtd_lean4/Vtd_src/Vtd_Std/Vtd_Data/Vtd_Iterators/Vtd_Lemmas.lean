@@ -35,13 +35,13 @@ tag := "mods-lean4-src-Std-Data-Iterators-Lemmas"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Combinators.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Consumers.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Equivalence.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Monadic.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Producers.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Combinators.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Consumers.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Equivalence.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Monadic.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Producers.lean»}
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Combinators»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Consumers»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Equivalence»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Producers»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Combinators»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Consumers»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Equivalence»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Producers»}

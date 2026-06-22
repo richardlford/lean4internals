@@ -23,6 +23,6 @@ tag := "mods-lean4-script-lib"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_lib».«Vtd_README.md»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_lib».«Vtd_rebase-editor.sh»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_lib».«Vtd_update-stage0»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_lib».«Vtd_README.md»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_lib».«Vtd_rebase-editor.sh»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_lib».«Vtd_update-stage0»}

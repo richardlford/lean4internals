@@ -21,4 +21,4 @@ tag := "mods-lean4-doc-latex"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_latex».«Vtd_lstlean.tex»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_latex».«Vtd_lstlean.tex»}

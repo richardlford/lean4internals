@@ -29,7 +29,7 @@ tag := "mods-verso-doc"
 
 The `verso/doc` directory contains the verso source of the verso user's manual.
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_doc».«Vtd_UsersGuide.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_doc».«Vtd_stats.html»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_doc».«Vtd_UsersGuide.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_doc».«Vtd_stats.html»}
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_doc».«Vtd_UsersGuide»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_doc».«Vtd_UsersGuide»}

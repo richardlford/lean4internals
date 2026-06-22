@@ -21,4 +21,4 @@ tag := "mods-verso-src-verso-literate-code"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate-code».«Vtd_VersoLiterateCode.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate-code».«Vtd_VersoLiterateCode.lean»}

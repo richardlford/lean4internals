@@ -41,24 +41,24 @@ tag := "mods-vscode-lean4-lean4-infoview-src-infoview"
 
 TODO
 
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_collapsing.tsx»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_contexts.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_editorConnection.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_errors.tsx»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_event.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_goalLocation.tsx»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_goals.tsx»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_highlightjs.css»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_hoverHighlight.tsx»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_index.css»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_info.tsx»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_infos.tsx»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_interactiveCode.tsx»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_main.tsx»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_messages.tsx»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_rpcSessions.tsx»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_serverVersion.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_tooltips.tsx»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_traceExplorer.tsx»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_userWidget.tsx»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_util.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_collapsing.tsx»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_contexts.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_editorConnection.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_errors.tsx»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_event.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_goalLocation.tsx»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_goals.tsx»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_highlightjs.css»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_hoverHighlight.tsx»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_index.css»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_info.tsx»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_infos.tsx»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_interactiveCode.tsx»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_main.tsx»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_messages.tsx»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_rpcSessions.tsx»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_serverVersion.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_tooltips.tsx»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_traceExplorer.tsx»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_userWidget.tsx»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_infoview».«Vtd_util.ts»}

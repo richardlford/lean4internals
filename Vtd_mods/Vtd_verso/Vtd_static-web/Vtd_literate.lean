@@ -21,4 +21,4 @@ tag := "mods-verso-static-web-literate"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_literate».«Vtd_copy-button.js»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_literate».«Vtd_copy-button.js»}

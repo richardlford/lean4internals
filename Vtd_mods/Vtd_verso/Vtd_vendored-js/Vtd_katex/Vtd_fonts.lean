@@ -80,63 +80,63 @@ tag := "mods-verso-vendored-js-katex-fonts"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_AMS-Regular.ttf»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_AMS-Regular.woff»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_AMS-Regular.woff2»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Caligraphic-Bold.ttf»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Caligraphic-Bold.woff»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Caligraphic-Bold.woff2»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Caligraphic-Regular.ttf»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Caligraphic-Regular.woff»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Caligraphic-Regular.woff2»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Fraktur-Bold.ttf»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Fraktur-Bold.woff»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Fraktur-Bold.woff2»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Fraktur-Regular.ttf»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Fraktur-Regular.woff»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Fraktur-Regular.woff2»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Main-Bold.ttf»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Main-Bold.woff»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Main-Bold.woff2»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Main-BoldItalic.ttf»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Main-BoldItalic.woff»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Main-BoldItalic.woff2»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Main-Italic.ttf»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Main-Italic.woff»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Main-Italic.woff2»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Main-Regular.ttf»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Main-Regular.woff»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Main-Regular.woff2»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Math-BoldItalic.ttf»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Math-BoldItalic.woff»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Math-BoldItalic.woff2»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Math-Italic.ttf»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Math-Italic.woff»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Math-Italic.woff2»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_SansSerif-Bold.ttf»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_SansSerif-Bold.woff»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_SansSerif-Bold.woff2»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_SansSerif-Italic.ttf»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_SansSerif-Italic.woff»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_SansSerif-Italic.woff2»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_SansSerif-Regular.ttf»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_SansSerif-Regular.woff»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_SansSerif-Regular.woff2»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Script-Regular.ttf»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Script-Regular.woff»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Script-Regular.woff2»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Size1-Regular.ttf»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Size1-Regular.woff»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Size1-Regular.woff2»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Size2-Regular.ttf»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Size2-Regular.woff»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Size2-Regular.woff2»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Size3-Regular.ttf»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Size3-Regular.woff»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Size3-Regular.woff2»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Size4-Regular.ttf»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Size4-Regular.woff»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Size4-Regular.woff2»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Typewriter-Regular.ttf»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Typewriter-Regular.woff»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Typewriter-Regular.woff2»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_AMS-Regular.ttf»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_AMS-Regular.woff»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_AMS-Regular.woff2»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Caligraphic-Bold.ttf»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Caligraphic-Bold.woff»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Caligraphic-Bold.woff2»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Caligraphic-Regular.ttf»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Caligraphic-Regular.woff»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Caligraphic-Regular.woff2»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Fraktur-Bold.ttf»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Fraktur-Bold.woff»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Fraktur-Bold.woff2»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Fraktur-Regular.ttf»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Fraktur-Regular.woff»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Fraktur-Regular.woff2»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Main-Bold.ttf»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Main-Bold.woff»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Main-Bold.woff2»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Main-BoldItalic.ttf»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Main-BoldItalic.woff»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Main-BoldItalic.woff2»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Main-Italic.ttf»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Main-Italic.woff»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Main-Italic.woff2»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Main-Regular.ttf»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Main-Regular.woff»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Main-Regular.woff2»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Math-BoldItalic.ttf»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Math-BoldItalic.woff»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Math-BoldItalic.woff2»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Math-Italic.ttf»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Math-Italic.woff»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Math-Italic.woff2»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_SansSerif-Bold.ttf»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_SansSerif-Bold.woff»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_SansSerif-Bold.woff2»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_SansSerif-Italic.ttf»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_SansSerif-Italic.woff»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_SansSerif-Italic.woff2»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_SansSerif-Regular.ttf»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_SansSerif-Regular.woff»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_SansSerif-Regular.woff2»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Script-Regular.ttf»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Script-Regular.woff»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Script-Regular.woff2»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Size1-Regular.ttf»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Size1-Regular.woff»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Size1-Regular.woff2»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Size2-Regular.ttf»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Size2-Regular.woff»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Size2-Regular.woff2»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Size3-Regular.ttf»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Size3-Regular.woff»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Size3-Regular.woff2»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Size4-Regular.ttf»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Size4-Regular.woff»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Size4-Regular.woff2»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Typewriter-Regular.ttf»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Typewriter-Regular.woff»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Typewriter-Regular.woff2»}

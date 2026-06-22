@@ -22,5 +22,5 @@ tag := "mods-verso-src-verso-html"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-html».«Vtd_VersoHtmlMain.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-html».«Vtd_code.css»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-html».«Vtd_VersoHtmlMain.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-html».«Vtd_code.css»}

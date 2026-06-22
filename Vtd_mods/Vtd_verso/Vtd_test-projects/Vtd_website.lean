@@ -30,8 +30,8 @@ tag := "mods-verso-test-projects-website"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website».«Vtd_DemoSite.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website».«Vtd_DemoSiteMain.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website».«Vtd_DemoSite.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website».«Vtd_DemoSiteMain.lean»}
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website».«Vtd_DemoSite»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website».«Vtd_static_files»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website».«Vtd_DemoSite»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website».«Vtd_static_files»}

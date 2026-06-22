@@ -21,4 +21,4 @@ tag := "mods-lean4-src-Init-Sym-DSimp"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Sym».«Vtd_DSimp».«Vtd_DSimprocDSL.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Sym».«Vtd_DSimp».«Vtd_DSimprocDSL.lean»}

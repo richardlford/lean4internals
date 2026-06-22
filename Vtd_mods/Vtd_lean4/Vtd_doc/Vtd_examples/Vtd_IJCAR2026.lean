@@ -23,6 +23,6 @@ tag := "mods-lean4-doc-examples-IJCAR2026"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_IJCAR2026».«Vtd_README.md»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_IJCAR2026».«Vtd_analyze_grind_loc.py»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_IJCAR2026».«Vtd_examples.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_IJCAR2026».«Vtd_README.md»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_IJCAR2026».«Vtd_analyze_grind_loc.py»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_IJCAR2026».«Vtd_examples.lean»}

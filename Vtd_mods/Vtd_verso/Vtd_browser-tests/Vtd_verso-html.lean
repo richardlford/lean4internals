@@ -22,5 +22,5 @@ tag := "mods-verso-browser-tests-verso-html"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_verso-html».«Vtd___init__.py»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_verso-html».«Vtd_test_search_page.py»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_verso-html».«Vtd___init__.py»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_verso-html».«Vtd_test_search_page.py»}

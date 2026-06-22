@@ -49,12 +49,12 @@ They are:
 * [axe-core](https://github.com/dequelabs/axe-core) (MPL-2.0, test suite only)
 
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_README»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy-bundle.umd.min.js»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_README»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy-bundle.umd.min.js»}
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_axe-core»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_elasticlunr»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_marked»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_popper»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_axe-core»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_elasticlunr»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_marked»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_popper»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy»}

@@ -23,6 +23,6 @@ tag := "mods-verso-vendored-js-popper"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_popper».«Vtd_LICENSE.md»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_popper».«Vtd_popper.min.js»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_popper».«Vtd_popper.min.js.map»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_popper».«Vtd_LICENSE.md»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_popper».«Vtd_popper.min.js»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_popper».«Vtd_popper.min.js.map»}

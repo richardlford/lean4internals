@@ -29,7 +29,7 @@ tag := "mods-verso-test-projects-custom-genre"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_custom-genre».«Vtd_SimplePage.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_custom-genre».«Vtd_SimplePageMain.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_custom-genre».«Vtd_SimplePage.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_custom-genre».«Vtd_SimplePageMain.lean»}
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_custom-genre».«Vtd_SimplePage»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_custom-genre».«Vtd_SimplePage»}

@@ -22,5 +22,5 @@ tag := "mods-vscode-lean4-vscode-lean4-loogleview-static"
 
 TODO
 
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_loogleview».«Vtd_static».«Vtd_index.css»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_loogleview».«Vtd_static».«Vtd_index.html»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_loogleview».«Vtd_static».«Vtd_index.css»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_loogleview».«Vtd_static».«Vtd_index.html»}

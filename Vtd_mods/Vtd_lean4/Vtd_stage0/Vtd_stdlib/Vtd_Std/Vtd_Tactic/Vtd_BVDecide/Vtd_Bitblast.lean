@@ -30,8 +30,8 @@ tag := "mods-lean4-stage0-stdlib-Std-Tactic-BVDecide-Bitblast"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_Bitblast».«Vtd_BVExpr.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_Bitblast».«Vtd_BoolExpr.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_Bitblast».«Vtd_BVExpr.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_Bitblast».«Vtd_BoolExpr.c»}
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_Bitblast».«Vtd_BVExpr»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_Bitblast».«Vtd_BoolExpr»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_Bitblast».«Vtd_BVExpr»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_Bitblast».«Vtd_BoolExpr»}

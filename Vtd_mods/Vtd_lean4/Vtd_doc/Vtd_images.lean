@@ -30,13 +30,13 @@ tag := "mods-lean4-doc-images"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_images».«Vtd_code-ext.png»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_images».«Vtd_code-success.png»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_images».«Vtd_code-wsl.png»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_images».«Vtd_install_elan.png»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_images».«Vtd_monads.dgml»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_images».«Vtd_monads.svg»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_images».«Vtd_setup_guide.png»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_images».«Vtd_show-setup-guide.png»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_images».«Vtd_widgets_caas.png»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_images».«Vtd_widgets_rubiks.png»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_images».«Vtd_code-ext.png»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_images».«Vtd_code-success.png»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_images».«Vtd_code-wsl.png»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_images».«Vtd_install_elan.png»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_images».«Vtd_monads.dgml»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_images».«Vtd_monads.svg»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_images».«Vtd_setup_guide.png»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_images».«Vtd_show-setup-guide.png»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_images».«Vtd_widgets_caas.png»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_images».«Vtd_widgets_rubiks.png»}

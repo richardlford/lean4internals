@@ -22,5 +22,5 @@ tag := "mods-verso-src-verso-literate-html"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate-html».«Vtd_LiterateHtmlMain.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate-html».«Vtd_literate.css»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate-html».«Vtd_LiterateHtmlMain.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate-html».«Vtd_literate.css»}

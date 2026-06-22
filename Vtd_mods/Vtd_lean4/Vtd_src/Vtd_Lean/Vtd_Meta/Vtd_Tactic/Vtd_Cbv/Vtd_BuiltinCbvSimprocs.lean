@@ -23,6 +23,6 @@ tag := "mods-lean4-src-Lean-Meta-Tactic-Cbv-BuiltinCbvSimprocs"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Meta».«Vtd_Tactic».«Vtd_Cbv».«Vtd_BuiltinCbvSimprocs».«Vtd_Array.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Meta».«Vtd_Tactic».«Vtd_Cbv».«Vtd_BuiltinCbvSimprocs».«Vtd_Core.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Meta».«Vtd_Tactic».«Vtd_Cbv».«Vtd_BuiltinCbvSimprocs».«Vtd_String.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Meta».«Vtd_Tactic».«Vtd_Cbv».«Vtd_BuiltinCbvSimprocs».«Vtd_Array.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Meta».«Vtd_Tactic».«Vtd_Cbv».«Vtd_BuiltinCbvSimprocs».«Vtd_Core.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Meta».«Vtd_Tactic».«Vtd_Cbv».«Vtd_BuiltinCbvSimprocs».«Vtd_String.lean»}

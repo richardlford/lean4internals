@@ -24,7 +24,7 @@ tag := "mods-lean4-stage0-stdlib-Lean-Linter-Extra"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Linter».«Vtd_Extra».«Vtd_DupNamespace.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Linter».«Vtd_Extra».«Vtd_UnnecessarySeqFocus.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Linter».«Vtd_Extra».«Vtd_UnreachableTactic.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Linter».«Vtd_Extra».«Vtd_UnusedDecidableInType.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Linter».«Vtd_Extra».«Vtd_DupNamespace.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Linter».«Vtd_Extra».«Vtd_UnnecessarySeqFocus.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Linter».«Vtd_Extra».«Vtd_UnreachableTactic.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Linter».«Vtd_Extra».«Vtd_UnusedDecidableInType.c»}

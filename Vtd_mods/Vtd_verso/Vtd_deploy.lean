@@ -26,9 +26,9 @@ tag := "mods-verso-deploy"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_deploy».«Vtd_build.sh»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_deploy».«Vtd_generate.sh»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_deploy».«Vtd_overlay.py»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_deploy».«Vtd_prep.sh»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_deploy».«Vtd_release.py»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_deploy».«Vtd_release_utils.py»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_deploy».«Vtd_build.sh»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_deploy».«Vtd_generate.sh»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_deploy».«Vtd_overlay.py»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_deploy».«Vtd_prep.sh»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_deploy».«Vtd_release.py»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_deploy».«Vtd_release_utils.py»}

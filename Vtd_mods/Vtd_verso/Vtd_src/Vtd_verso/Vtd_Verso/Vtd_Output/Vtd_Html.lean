@@ -28,11 +28,11 @@ tag := "mods-verso-src-verso-Verso-Output-Html"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Output».«Vtd_Html».«Vtd_AttributeName.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Output».«Vtd_Html».«Vtd_Comments.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Output».«Vtd_Html».«Vtd_CssVars.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Output».«Vtd_Html».«Vtd_ElasticLunr.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Output».«Vtd_Html».«Vtd_Entities.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Output».«Vtd_Html».«Vtd_KaTeX.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Output».«Vtd_Html».«Vtd_Tags.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Output».«Vtd_Html».«Vtd_entities.json»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Output».«Vtd_Html».«Vtd_AttributeName.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Output».«Vtd_Html».«Vtd_Comments.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Output».«Vtd_Html».«Vtd_CssVars.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Output».«Vtd_Html».«Vtd_ElasticLunr.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Output».«Vtd_Html».«Vtd_Entities.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Output».«Vtd_Html».«Vtd_KaTeX.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Output».«Vtd_Html».«Vtd_Tags.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Output».«Vtd_Html».«Vtd_entities.json»}

@@ -21,4 +21,4 @@ tag := "mods-lean4-src-Std-Do-SPred-Notation"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Do».«Vtd_SPred».«Vtd_Notation».«Vtd_Basic.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Do».«Vtd_SPred».«Vtd_Notation».«Vtd_Basic.lean»}

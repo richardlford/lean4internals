@@ -45,16 +45,16 @@ Starting points for projects can be found in the
 [Verso templates repository](https://github.com/leanprover/verso-templates).
 
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_README.md»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_README.md»}
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_anchor-examples»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_custom-genre»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_documented-package»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-config»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-multi-root»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_package-manual»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_textbook»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_tutorial-test»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website-examples»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website-literate»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_anchor-examples»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_custom-genre»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_documented-package»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-config»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-multi-root»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_package-manual»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_textbook»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_tutorial-test»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website-examples»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website-literate»}

@@ -21,4 +21,4 @@ tag := "mods-verso-src-verso-blog-VersoBlog-LiterateLeanPage"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-blog».«Vtd_VersoBlog».«Vtd_LiterateLeanPage».«Vtd_Options.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-blog».«Vtd_VersoBlog».«Vtd_LiterateLeanPage».«Vtd_Options.lean»}

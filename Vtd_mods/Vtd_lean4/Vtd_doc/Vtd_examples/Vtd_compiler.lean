@@ -24,7 +24,7 @@ tag := "mods-lean4-doc-examples-compiler"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_compiler».«Vtd_README.md»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_compiler».«Vtd_run_test.sh»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_compiler».«Vtd_test.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_compiler».«Vtd_test.lean.out.expected»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_compiler».«Vtd_README.md»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_compiler».«Vtd_run_test.sh»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_compiler».«Vtd_test.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_compiler».«Vtd_test.lean.out.expected»}

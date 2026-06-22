@@ -22,5 +22,5 @@ tag := "mods-lean4-src-Std-Do-Internal-Ensures"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Do».«Vtd_Internal».«Vtd_Ensures».«Vtd_Def.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Do».«Vtd_Internal».«Vtd_Ensures».«Vtd_Lemmas.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Do».«Vtd_Internal».«Vtd_Ensures».«Vtd_Def.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Do».«Vtd_Internal».«Vtd_Ensures».«Vtd_Lemmas.lean»}

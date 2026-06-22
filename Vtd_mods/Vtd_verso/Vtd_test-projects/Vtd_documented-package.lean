@@ -24,7 +24,7 @@ tag := "mods-verso-test-projects-documented-package"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_documented-package».«Vtd_Zippers.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_documented-package».«Vtd_lake-manifest.json»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_documented-package».«Vtd_lakefile.toml»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_documented-package».«Vtd_lean-toolchain»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_documented-package».«Vtd_Zippers.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_documented-package».«Vtd_lake-manifest.json»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_documented-package».«Vtd_lakefile.toml»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_documented-package».«Vtd_lean-toolchain»}

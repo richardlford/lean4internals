@@ -23,6 +23,6 @@ tag := "mods-vscode-lean4-vscode-lean4-syntaxes"
 
 TODO
 
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_syntaxes».«Vtd_codeblock.json»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_syntaxes».«Vtd_lean4-markdown.json»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_syntaxes».«Vtd_lean4.json»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_syntaxes».«Vtd_codeblock.json»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_syntaxes».«Vtd_lean4-markdown.json»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_syntaxes».«Vtd_lean4.json»}

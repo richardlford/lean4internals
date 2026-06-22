@@ -28,11 +28,11 @@ tag := "mods-vscode-lean4-lean4-unicode-input-src"
 
 TODO
 
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input».«Vtd_src».«Vtd_AbbreviationConfig.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input».«Vtd_src».«Vtd_AbbreviationProvider.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input».«Vtd_src».«Vtd_AbbreviationRewriter.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input».«Vtd_src».«Vtd_README.md»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input».«Vtd_src».«Vtd_Range.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input».«Vtd_src».«Vtd_TrackedAbbreviation.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input».«Vtd_src».«Vtd_abbreviations.json»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input».«Vtd_src».«Vtd_index.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input».«Vtd_src».«Vtd_AbbreviationConfig.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input».«Vtd_src».«Vtd_AbbreviationProvider.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input».«Vtd_src».«Vtd_AbbreviationRewriter.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input».«Vtd_src».«Vtd_README.md»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input».«Vtd_src».«Vtd_Range.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input».«Vtd_src».«Vtd_TrackedAbbreviation.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input».«Vtd_src».«Vtd_abbreviations.json»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input».«Vtd_src».«Vtd_index.ts»}

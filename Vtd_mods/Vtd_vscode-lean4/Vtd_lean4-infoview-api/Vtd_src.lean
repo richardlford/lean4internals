@@ -26,9 +26,9 @@ tag := "mods-vscode-lean4-lean4-infoview-api-src"
 
 TODO
 
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview-api».«Vtd_src».«Vtd_index.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview-api».«Vtd_src».«Vtd_infoviewApi.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview-api».«Vtd_src».«Vtd_lspTypes.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview-api».«Vtd_src».«Vtd_rpcApi.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview-api».«Vtd_src».«Vtd_rpcSessions.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview-api».«Vtd_src».«Vtd_util.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview-api».«Vtd_src».«Vtd_index.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview-api».«Vtd_src».«Vtd_infoviewApi.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview-api».«Vtd_src».«Vtd_lspTypes.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview-api».«Vtd_src».«Vtd_rpcApi.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview-api».«Vtd_src».«Vtd_rpcSessions.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview-api».«Vtd_src».«Vtd_util.ts»}

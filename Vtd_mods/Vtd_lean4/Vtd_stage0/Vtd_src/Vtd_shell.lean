@@ -26,9 +26,9 @@ tag := "mods-lean4-stage0-src-shell"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_shell».«Vtd_CMakeLists.txt»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_shell».«Vtd_app.manifest»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_shell».«Vtd_lean.cpp»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_shell».«Vtd_lean_js.cpp»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_shell».«Vtd_manifest.rc»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_shell».«Vtd_mk_lean_sh.sh»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_shell».«Vtd_CMakeLists.txt»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_shell».«Vtd_app.manifest»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_shell».«Vtd_lean.cpp»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_shell».«Vtd_lean_js.cpp»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_shell».«Vtd_manifest.rc»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_shell».«Vtd_mk_lean_sh.sh»}

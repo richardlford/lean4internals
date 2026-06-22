@@ -22,5 +22,5 @@ tag := "mods-lean4-src-Lean-Meta-Tactic-Simp-Arith-Nat"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Meta».«Vtd_Tactic».«Vtd_Simp».«Vtd_Arith».«Vtd_Nat».«Vtd_Basic.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Meta».«Vtd_Tactic».«Vtd_Simp».«Vtd_Arith».«Vtd_Nat».«Vtd_Simp.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Meta».«Vtd_Tactic».«Vtd_Simp».«Vtd_Arith».«Vtd_Nat».«Vtd_Basic.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Meta».«Vtd_Tactic».«Vtd_Simp».«Vtd_Arith».«Vtd_Nat».«Vtd_Simp.lean»}

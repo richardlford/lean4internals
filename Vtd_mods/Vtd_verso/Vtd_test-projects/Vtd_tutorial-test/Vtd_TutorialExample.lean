@@ -24,7 +24,7 @@ tag := "mods-verso-test-projects-tutorial-test-TutorialExample"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_tutorial-test».«Vtd_TutorialExample».«Vtd_Data.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_tutorial-test».«Vtd_TutorialExample».«Vtd_HashMap.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_tutorial-test».«Vtd_TutorialExample».«Vtd_Lit.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_tutorial-test».«Vtd_TutorialExample».«Vtd_RCases.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_tutorial-test».«Vtd_TutorialExample».«Vtd_Data.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_tutorial-test».«Vtd_TutorialExample».«Vtd_HashMap.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_tutorial-test».«Vtd_TutorialExample».«Vtd_Lit.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_tutorial-test».«Vtd_TutorialExample».«Vtd_RCases.lean»}

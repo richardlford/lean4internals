@@ -21,4 +21,4 @@ tag := "mods-lean4-src-Lean-Parser-Tactic"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Parser».«Vtd_Tactic».«Vtd_Doc.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Parser».«Vtd_Tactic».«Vtd_Doc.lean»}

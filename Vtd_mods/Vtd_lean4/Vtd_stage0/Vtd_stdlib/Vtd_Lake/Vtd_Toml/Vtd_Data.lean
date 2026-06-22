@@ -23,6 +23,6 @@ tag := "mods-lean4-stage0-stdlib-Lake-Toml-Data"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lake».«Vtd_Toml».«Vtd_Data».«Vtd_DateTime.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lake».«Vtd_Toml».«Vtd_Data».«Vtd_Dict.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lake».«Vtd_Toml».«Vtd_Data».«Vtd_Value.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lake».«Vtd_Toml».«Vtd_Data».«Vtd_DateTime.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lake».«Vtd_Toml».«Vtd_Data».«Vtd_Dict.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lake».«Vtd_Toml».«Vtd_Data».«Vtd_Value.c»}

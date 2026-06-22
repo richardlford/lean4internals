@@ -40,18 +40,18 @@ tag := "mods-verso-browser-tests"
 
 The browser-tests directory contains tests for the html output of Verso documents. These are implemented as Python scripts that use the Playwright library to automate a browser and check the output of a Verso document for correctness and accessibility. The tests are run in CI on GitHub Actions and can be run locally with `pytest`.
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_conftest.py»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_pyproject.toml»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_search_page_a11y.py»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_test_katex.py»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_test_redirect.py»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_test_search.py»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_test_search_page.py»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_test_search_path_prefix.py»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_test_search_priority.py»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_test_toc_resize.py»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_uv.lock»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_conftest.py»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_pyproject.toml»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_search_page_a11y.py»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_test_katex.py»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_test_redirect.py»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_test_search.py»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_test_search_page.py»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_test_search_path_prefix.py»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_test_search_priority.py»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_test_toc_resize.py»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_uv.lock»}
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_literate»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_literate-multi-root»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_verso-html»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_literate»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_literate-multi-root»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_verso-html»}

@@ -37,15 +37,15 @@ tag := "mods-lean4-src-Std-Data-DTreeMap-Internal"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DTreeMap».«Vtd_Internal».«Vtd_Balanced.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DTreeMap».«Vtd_Internal».«Vtd_Balancing.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DTreeMap».«Vtd_Internal».«Vtd_Cell.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DTreeMap».«Vtd_Internal».«Vtd_Def.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DTreeMap».«Vtd_Internal».«Vtd_Lemmas.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DTreeMap».«Vtd_Internal».«Vtd_Model.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DTreeMap».«Vtd_Internal».«Vtd_Operations.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DTreeMap».«Vtd_Internal».«Vtd_Ordered.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DTreeMap».«Vtd_Internal».«Vtd_Queries.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DTreeMap».«Vtd_Internal».«Vtd_Zipper.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DTreeMap».«Vtd_Internal».«Vtd_Balanced.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DTreeMap».«Vtd_Internal».«Vtd_Balancing.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DTreeMap».«Vtd_Internal».«Vtd_Cell.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DTreeMap».«Vtd_Internal».«Vtd_Def.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DTreeMap».«Vtd_Internal».«Vtd_Lemmas.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DTreeMap».«Vtd_Internal».«Vtd_Model.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DTreeMap».«Vtd_Internal».«Vtd_Operations.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DTreeMap».«Vtd_Internal».«Vtd_Ordered.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DTreeMap».«Vtd_Internal».«Vtd_Queries.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DTreeMap».«Vtd_Internal».«Vtd_Zipper.lean»}
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DTreeMap».«Vtd_Internal».«Vtd_WF»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DTreeMap».«Vtd_Internal».«Vtd_WF»}

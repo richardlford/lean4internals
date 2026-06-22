@@ -34,12 +34,12 @@ tag := "mods-lean4-doc-std-grove"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_Main.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_README.md»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_grove-local.sh»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_lake-manifest.json»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_lakefile.toml»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_lean-toolchain»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_update_invalidated.sh»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_Main.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_README.md»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_grove-local.sh»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_lake-manifest.json»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_lakefile.toml»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_lean-toolchain»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_update_invalidated.sh»}
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib»}

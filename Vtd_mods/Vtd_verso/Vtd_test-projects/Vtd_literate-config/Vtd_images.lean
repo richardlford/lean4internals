@@ -21,4 +21,4 @@ tag := "mods-verso-test-projects-literate-config-images"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-config».«Vtd_images».«Vtd_test-diagram.png»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-config».«Vtd_images».«Vtd_test-diagram.png»}

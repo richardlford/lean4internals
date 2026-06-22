@@ -23,6 +23,6 @@ tag := "mods-lean4-stage0-stdlib-Init-Control-Lawful-MonadLift"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Control».«Vtd_Lawful».«Vtd_MonadLift».«Vtd_Basic.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Control».«Vtd_Lawful».«Vtd_MonadLift».«Vtd_Instances.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Control».«Vtd_Lawful».«Vtd_MonadLift».«Vtd_Lemmas.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Control».«Vtd_Lawful».«Vtd_MonadLift».«Vtd_Basic.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Control».«Vtd_Lawful».«Vtd_MonadLift».«Vtd_Instances.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Control».«Vtd_Lawful».«Vtd_MonadLift».«Vtd_Lemmas.c»}

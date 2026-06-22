@@ -26,9 +26,9 @@ tag := "mods-vscode-lean4-vscode-lean4-src-abbreviation"
 
 TODO
 
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_abbreviation».«Vtd_AbbreviationFeature.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_abbreviation».«Vtd_AbbreviationHoverProvider.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_abbreviation».«Vtd_AbbreviationRewriterFeature.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_abbreviation».«Vtd_SymbolPickerFeature.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_abbreviation».«Vtd_VSCodeAbbreviationConfig.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_abbreviation».«Vtd_VSCodeAbbreviationRewriter.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_abbreviation».«Vtd_AbbreviationFeature.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_abbreviation».«Vtd_AbbreviationHoverProvider.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_abbreviation».«Vtd_AbbreviationRewriterFeature.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_abbreviation».«Vtd_SymbolPickerFeature.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_abbreviation».«Vtd_VSCodeAbbreviationConfig.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_src».«Vtd_abbreviation».«Vtd_VSCodeAbbreviationRewriter.ts»}

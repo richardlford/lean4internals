@@ -21,4 +21,4 @@ tag := "mods-lean4-src-Lean-Language-Lean"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Language».«Vtd_Lean».«Vtd_Types.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Language».«Vtd_Lean».«Vtd_Types.lean»}

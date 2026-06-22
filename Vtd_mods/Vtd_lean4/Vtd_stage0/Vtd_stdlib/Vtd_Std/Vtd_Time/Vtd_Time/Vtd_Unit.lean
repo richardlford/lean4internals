@@ -26,9 +26,9 @@ tag := "mods-lean4-stage0-stdlib-Std-Time-Time-Unit"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Time».«Vtd_Time».«Vtd_Unit».«Vtd_Basic.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Time».«Vtd_Time».«Vtd_Unit».«Vtd_Hour.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Time».«Vtd_Time».«Vtd_Unit».«Vtd_Millisecond.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Time».«Vtd_Time».«Vtd_Unit».«Vtd_Minute.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Time».«Vtd_Time».«Vtd_Unit».«Vtd_Nanosecond.c»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Time».«Vtd_Time».«Vtd_Unit».«Vtd_Second.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Time».«Vtd_Time».«Vtd_Unit».«Vtd_Basic.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Time».«Vtd_Time».«Vtd_Unit».«Vtd_Hour.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Time».«Vtd_Time».«Vtd_Unit».«Vtd_Millisecond.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Time».«Vtd_Time».«Vtd_Unit».«Vtd_Minute.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Time».«Vtd_Time».«Vtd_Unit».«Vtd_Nanosecond.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Time».«Vtd_Time».«Vtd_Unit».«Vtd_Second.c»}

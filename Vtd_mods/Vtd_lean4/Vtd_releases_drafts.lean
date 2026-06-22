@@ -21,4 +21,4 @@ tag := "mods-lean4-releases_drafts"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_releases_drafts».«Vtd_README.md»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_releases_drafts».«Vtd_README.md»}

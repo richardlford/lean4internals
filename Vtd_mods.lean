@@ -55,23 +55,44 @@ The sections for file first have vscode links to the source file, and also
 a link to the verso source for that section. vscode links will open vscode to the
 given file (either a source file being documented, or the file with the documentation).
 
+## vscode Links
 The links are "vscode:" links, which will
 open the vscode editor to that source file. If the reader has cloned the repository for
 this document and built all of the sources in the `mods` directory, then when
 vscode opens one of these file the reader should be able to use all the capabilities
 of the Lean 4 VSCODE extensions to study the code.
 
-The reader may need to take some actions to get the "vscode:" protocol working. In particular,
-to make sure vscode will go to the desired file, you may want to invoke vscode through
-a script like this (mycode.sh):
+The reader may need to take some actions to get the "vscode:" protocol working.
+
+On Linix, create a file `~/.local/share/applications/vscode-handler.desktop` with the following content:
+```
+[Desktop Entry]
+Name=VSCode Handler
+Exec=/home/me/bin/myvscodehandler.sh %u
+Type=Application
+NoDisplay=true
+Terminal=false
+MimeType=x-scheme-handler/vscode;
+```
+
+Then create the file `/home/me/bin/myvscodehandler.sh` with the following content:
 
 ```
 #!/bin/bash
 url=$1
 thepath=${url:7}
-# echo "mycode.sh:url=$url, thepath=$thepath, args=$*" >> /someplace/mycode.log
 /usr/bin/code --goto $thepath
 ```
+
+Using the `--goto` option will open vscode to the given file.
+
+After the above, type the following command:
+```
+xdg-settings set default-url-scheme-handler vscode vscode-handler.desktop
+```
+
+In addition, in the chrome browser, the first time you click on a "vscode:" link, you will be prompted to allow it to open vscode. You should allow it. Alternatively, you can go to `chrome://settings/handlers` and select
+"Sites can ask to handle protocols".
 
 ## Undocumented Features
 In the course of writing this document, I have found some features of the code that are not documented in the reference manuals. I will mention them here so that they can be documented later.

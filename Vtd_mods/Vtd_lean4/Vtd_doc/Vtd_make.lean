@@ -26,9 +26,9 @@ tag := "mods-lean4-doc-make"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_make».«Vtd_emscripten.md»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_make».«Vtd_index.md»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_make».«Vtd_msys2.md»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_make».«Vtd_osx-10.9.md»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_make».«Vtd_ubuntu.md»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_make».«Vtd_wsl.md»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_make».«Vtd_emscripten.md»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_make».«Vtd_index.md»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_make».«Vtd_msys2.md»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_make».«Vtd_osx-10.9.md»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_make».«Vtd_ubuntu.md»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_make».«Vtd_wsl.md»}

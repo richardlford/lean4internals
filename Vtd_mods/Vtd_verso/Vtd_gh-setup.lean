@@ -21,4 +21,4 @@ tag := "mods-verso-gh-setup"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_gh-setup».«Vtd_verso-literate-pages.yml»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_gh-setup».«Vtd_verso-literate-pages.yml»}

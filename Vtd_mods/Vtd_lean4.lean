@@ -42,6 +42,8 @@ tag := "mods-lean4"
 
 {editlink "Vtd_mods/Vtd_lean4.lean"}[edit]
 
+# Overview
+
 Here we describe internals of the part of the Lean 4 prover implemented in the
 [leanprover lean4 repository](https://github.com/leanprover/lean4).
 Here is a link to the [Lean 4 Reference Manual](https://lean-lang.org/doc/reference/latest/find/?domain=Verso.Genre.Manual.section&name=lean-language-reference). See the [Lean doc directory on github](https://github.com/leanprover/lean4/tree/master/doc) to read
@@ -132,22 +134,22 @@ files that control the build:
 ./tests/CMakeLists.txt
 ```
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_AGENTS.md»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_CMakeLists.txt»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_CMakePresets.json»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_CODEOWNERS»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_CONTRIBUTING.md»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_LICENSE»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_LICENSES»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_README.md»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_RELEASES.md»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_flake.lock»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_flake.nix»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_lean-toolchain»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_AGENTS.md»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_CMakeLists.txt»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_CMakePresets.json»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_CODEOWNERS»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_CONTRIBUTING.md»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_LICENSE»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_LICENSES»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_README.md»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_RELEASES.md»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_flake.lock»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_flake.nix»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_lean-toolchain»}
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_images»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_releases_drafts»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_script»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_images»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_releases_drafts»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0»}

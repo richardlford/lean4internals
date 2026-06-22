@@ -27,10 +27,10 @@ tag := "mods-lean4-doc-dev"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_dev».«Vtd_bootstrap.md»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_dev».«Vtd_commit_convention.md»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_dev».«Vtd_debugging.md»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_dev».«Vtd_ffi.md»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_dev».«Vtd_index.md»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_dev».«Vtd_llvm_upgrade.md»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_dev».«Vtd_release.md»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_dev».«Vtd_bootstrap.md»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_dev».«Vtd_commit_convention.md»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_dev».«Vtd_debugging.md»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_dev».«Vtd_ffi.md»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_dev».«Vtd_index.md»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_dev».«Vtd_llvm_upgrade.md»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_dev».«Vtd_release.md»}

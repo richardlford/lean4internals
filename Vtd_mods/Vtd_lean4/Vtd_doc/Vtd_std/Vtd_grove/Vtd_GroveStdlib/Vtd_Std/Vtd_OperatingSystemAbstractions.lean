@@ -25,8 +25,8 @@ tag := "mods-lean4-doc-std-grove-GroveStdlib-Std-OperatingSystemAbstractions"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Std».«Vtd_OperatingSystemAbstractions».«Vtd_AsynchronousIO.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Std».«Vtd_OperatingSystemAbstractions».«Vtd_BasicIO.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Std».«Vtd_OperatingSystemAbstractions».«Vtd_ConcurrencyAndParallelism.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Std».«Vtd_OperatingSystemAbstractions».«Vtd_EnvironmentFileSystemProcesses.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Std».«Vtd_OperatingSystemAbstractions».«Vtd_Locales.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Std».«Vtd_OperatingSystemAbstractions».«Vtd_AsynchronousIO.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Std».«Vtd_OperatingSystemAbstractions».«Vtd_BasicIO.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Std».«Vtd_OperatingSystemAbstractions».«Vtd_ConcurrencyAndParallelism.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Std».«Vtd_OperatingSystemAbstractions».«Vtd_EnvironmentFileSystemProcesses.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Std».«Vtd_OperatingSystemAbstractions».«Vtd_Locales.lean»}

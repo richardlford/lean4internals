@@ -29,7 +29,7 @@ tag := "mods-verso-src-verso-tutorial"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-tutorial».«Vtd_VersoTutorial.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-tutorial».«Vtd_default.css»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-tutorial».«Vtd_VersoTutorial.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-tutorial».«Vtd_default.css»}
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-tutorial».«Vtd_VersoTutorial»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-tutorial».«Vtd_VersoTutorial»}

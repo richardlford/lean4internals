@@ -118,26 +118,26 @@ and documented in
 {editlink "Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso/Vtd_Verso/Vtd_Doc/Vtd_Concrete.lean.lean"}[here].
 
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_LICENSE»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_README-html.md»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_README.md»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_UsersGuideMain.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_elan-init»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_generate.sh»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_lake-manifest.json»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_lakefile.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_lean-toolchain»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_package-lock.json»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_package.json»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_server.py»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_tag-subverso.sh»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_update-subverso.sh»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_LICENSE»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_README-html.md»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_README.md»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_UsersGuideMain.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_elan-init»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_generate.sh»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_lake-manifest.json»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_lakefile.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_lean-toolchain»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_package-lock.json»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_package.json»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_server.py»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_tag-subverso.sh»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_update-subverso.sh»}
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_browser-tests»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_deploy»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_doc»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_gh-setup»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_static-web»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_browser-tests»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_deploy»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_doc»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_gh-setup»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_static-web»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js»}

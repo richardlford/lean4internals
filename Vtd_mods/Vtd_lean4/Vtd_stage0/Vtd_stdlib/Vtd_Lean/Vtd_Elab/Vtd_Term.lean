@@ -21,4 +21,4 @@ tag := "mods-lean4-stage0-stdlib-Lean-Elab-Term"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Elab».«Vtd_Term».«Vtd_TermElabM.c»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Lean».«Vtd_Elab».«Vtd_Term».«Vtd_TermElabM.c»}

@@ -32,10 +32,10 @@ tag := "mods-lean4-doc-std"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_README.md»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_naming-tree.svg»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_naming.md»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_style.md»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_vision.md»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_README.md»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_naming-tree.svg»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_naming.md»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_style.md»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_vision.md»}
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove»}

@@ -24,7 +24,7 @@ tag := "mods-verso-test-projects-website-literate"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website-literate».«Vtd_LitLean.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website-literate».«Vtd_lake-manifest.json»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website-literate».«Vtd_lakefile.toml»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website-literate».«Vtd_lean-toolchain»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website-literate».«Vtd_LitLean.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website-literate».«Vtd_lake-manifest.json»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website-literate».«Vtd_lakefile.toml»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website-literate».«Vtd_lean-toolchain»}

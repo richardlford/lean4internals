@@ -22,5 +22,5 @@ tag := "mods-verso-vendored-js-axe-core"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_axe-core».«Vtd_LICENSE»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_axe-core».«Vtd_axe.min.js»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_axe-core».«Vtd_LICENSE»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_axe-core».«Vtd_axe.min.js»}

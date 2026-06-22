@@ -30,8 +30,8 @@ tag := "mods-lean4-doc-std-grove-GroveStdlib"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Generated.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Std.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Generated.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Std.lean»}
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Generated»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Std»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Generated»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Std»}

@@ -21,4 +21,4 @@ tag := "mods-verso-test-projects-literate-multi-root-LibA"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-multi-root».«Vtd_LibA».«Vtd_Core.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-multi-root».«Vtd_LibA».«Vtd_Core.lean»}

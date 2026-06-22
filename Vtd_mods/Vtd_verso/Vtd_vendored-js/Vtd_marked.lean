@@ -25,8 +25,8 @@ tag := "mods-verso-vendored-js-marked"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_marked».«Vtd_LICENSE.md»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_marked».«Vtd_marked.umd.js»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_marked».«Vtd_marked.umd.js.map»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_marked».«Vtd_marked.umd.min.js»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_marked».«Vtd_marked.umd.min.js.map»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_marked».«Vtd_LICENSE.md»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_marked».«Vtd_marked.umd.js»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_marked».«Vtd_marked.umd.js.map»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_marked».«Vtd_marked.umd.min.js»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_marked».«Vtd_marked.umd.min.js.map»}

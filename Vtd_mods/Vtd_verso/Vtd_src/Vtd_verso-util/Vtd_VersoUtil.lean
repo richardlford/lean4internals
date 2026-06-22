@@ -31,9 +31,9 @@ tag := "mods-verso-src-verso-util-VersoUtil"
 
 Holds utility functions used by Verso. 
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-util».«Vtd_VersoUtil».«Vtd_BinFiles.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-util».«Vtd_VersoUtil».«Vtd_LzCompress.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-util».«Vtd_VersoUtil».«Vtd_WfRec.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-util».«Vtd_VersoUtil».«Vtd_Zip.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-util».«Vtd_VersoUtil».«Vtd_BinFiles.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-util».«Vtd_VersoUtil».«Vtd_LzCompress.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-util».«Vtd_VersoUtil».«Vtd_WfRec.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-util».«Vtd_VersoUtil».«Vtd_Zip.lean»}
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-util».«Vtd_VersoUtil».«Vtd_BinFiles»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-util».«Vtd_VersoUtil».«Vtd_BinFiles»}

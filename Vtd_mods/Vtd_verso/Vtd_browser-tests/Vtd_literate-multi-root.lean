@@ -22,5 +22,5 @@ tag := "mods-verso-browser-tests-literate-multi-root"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_literate-multi-root».«Vtd___init__.py»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_literate-multi-root».«Vtd_test_navigation.py»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_literate-multi-root».«Vtd___init__.py»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_literate-multi-root».«Vtd_test_navigation.py»}

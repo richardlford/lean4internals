@@ -28,11 +28,11 @@ tag := "mods-verso-src-verso-Verso-Doc-Elab"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Doc».«Vtd_Elab».«Vtd_Basic.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Doc».«Vtd_Elab».«Vtd_Block.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Doc».«Vtd_Elab».«Vtd_ExpanderAttribute.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Doc».«Vtd_Elab».«Vtd_ExtensionResolution.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Doc».«Vtd_Elab».«Vtd_Incremental.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Doc».«Vtd_Elab».«Vtd_Inline.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Doc».«Vtd_Elab».«Vtd_InlineString.lean»}
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Doc».«Vtd_Elab».«Vtd_Monad.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Doc».«Vtd_Elab».«Vtd_Basic.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Doc».«Vtd_Elab».«Vtd_Block.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Doc».«Vtd_Elab».«Vtd_ExpanderAttribute.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Doc».«Vtd_Elab».«Vtd_ExtensionResolution.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Doc».«Vtd_Elab».«Vtd_Incremental.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Doc».«Vtd_Elab».«Vtd_Inline.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Doc».«Vtd_Elab».«Vtd_InlineString.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Doc».«Vtd_Elab».«Vtd_Monad.lean»}

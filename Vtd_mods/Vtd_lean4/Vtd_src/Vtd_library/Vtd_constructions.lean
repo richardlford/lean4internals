@@ -28,11 +28,11 @@ tag := "mods-lean4-src-library-constructions"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_library».«Vtd_constructions».«Vtd_CMakeLists.txt»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_library».«Vtd_constructions».«Vtd_cases_on.cpp»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_library».«Vtd_constructions».«Vtd_cases_on.h»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_library».«Vtd_constructions».«Vtd_init_module.cpp»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_library».«Vtd_constructions».«Vtd_init_module.h»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_library».«Vtd_constructions».«Vtd_no_confusion.h»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_library».«Vtd_constructions».«Vtd_util.cpp»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_library».«Vtd_constructions».«Vtd_util.h»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_library».«Vtd_constructions».«Vtd_CMakeLists.txt»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_library».«Vtd_constructions».«Vtd_cases_on.cpp»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_library».«Vtd_constructions».«Vtd_cases_on.h»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_library».«Vtd_constructions».«Vtd_init_module.cpp»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_library».«Vtd_constructions».«Vtd_init_module.h»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_library».«Vtd_constructions».«Vtd_no_confusion.h»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_library».«Vtd_constructions».«Vtd_util.cpp»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_library».«Vtd_constructions».«Vtd_util.h»}

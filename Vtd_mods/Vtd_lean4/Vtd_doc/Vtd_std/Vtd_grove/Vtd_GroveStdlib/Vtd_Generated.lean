@@ -26,9 +26,9 @@ tag := "mods-lean4-doc-std-grove-GroveStdlib-Generated"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Generated».«Vtd_associative-all-operations-covered.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Generated».«Vtd_associative-create-then-query.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Generated».«Vtd_associative-creation-operations.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Generated».«Vtd_associative-modification-operations.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Generated».«Vtd_associative-query-operations.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Generated».«Vtd_slice-producing.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Generated».«Vtd_associative-all-operations-covered.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Generated».«Vtd_associative-create-then-query.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Generated».«Vtd_associative-creation-operations.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Generated».«Vtd_associative-modification-operations.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Generated».«Vtd_associative-query-operations.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Generated».«Vtd_slice-producing.lean»}

@@ -21,4 +21,4 @@ tag := "mods-verso-src-cli"
 
 Just contains `VersoMain.lean`.
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_cli».«Vtd_VersoMain.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_cli».«Vtd_VersoMain.lean»}

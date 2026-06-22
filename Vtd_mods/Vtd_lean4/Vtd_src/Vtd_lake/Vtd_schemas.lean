@@ -21,4 +21,4 @@ tag := "mods-lean4-src-lake-schemas"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_schemas».«Vtd_lakefile-toml-schema.json»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_schemas».«Vtd_lakefile-toml-schema.json»}

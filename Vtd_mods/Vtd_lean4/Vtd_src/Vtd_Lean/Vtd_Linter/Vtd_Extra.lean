@@ -24,7 +24,7 @@ tag := "mods-lean4-src-Lean-Linter-Extra"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Linter».«Vtd_Extra».«Vtd_DupNamespace.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Linter».«Vtd_Extra».«Vtd_UnnecessarySeqFocus.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Linter».«Vtd_Extra».«Vtd_UnreachableTactic.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Linter».«Vtd_Extra».«Vtd_UnusedDecidableInType.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Linter».«Vtd_Extra».«Vtd_DupNamespace.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Linter».«Vtd_Extra».«Vtd_UnnecessarySeqFocus.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Linter».«Vtd_Extra».«Vtd_UnreachableTactic.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Linter».«Vtd_Extra».«Vtd_UnusedDecidableInType.lean»}

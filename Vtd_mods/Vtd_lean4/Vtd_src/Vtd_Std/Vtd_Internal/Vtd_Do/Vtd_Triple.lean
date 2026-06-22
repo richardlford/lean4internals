@@ -23,6 +23,6 @@ tag := "mods-lean4-src-Std-Internal-Do-Triple"
 
 TODO
 
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Internal».«Vtd_Do».«Vtd_Triple».«Vtd_Basic.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Internal».«Vtd_Do».«Vtd_Triple».«Vtd_Gadget.lean»}
-{include «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Internal».«Vtd_Do».«Vtd_Triple».«Vtd_SpecLemmas.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Internal».«Vtd_Do».«Vtd_Triple».«Vtd_Basic.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Internal».«Vtd_Do».«Vtd_Triple».«Vtd_Gadget.lean»}
+{include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Internal».«Vtd_Do».«Vtd_Triple».«Vtd_SpecLemmas.lean»}

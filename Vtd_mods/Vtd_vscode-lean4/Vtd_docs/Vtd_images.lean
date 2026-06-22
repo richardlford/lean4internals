@@ -25,8 +25,8 @@ tag := "mods-vscode-lean4-docs-images"
 
 TODO
 
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs».«Vtd_images».«Vtd_InstallPrompt.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs».«Vtd_images».«Vtd_bootstrap.dgml»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs».«Vtd_images».«Vtd_bootstrap.png»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs».«Vtd_images».«Vtd_overview.dgml»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs».«Vtd_images».«Vtd_overview.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs».«Vtd_images».«Vtd_InstallPrompt.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs».«Vtd_images».«Vtd_bootstrap.dgml»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs».«Vtd_images».«Vtd_bootstrap.png»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs».«Vtd_images».«Vtd_overview.dgml»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs».«Vtd_images».«Vtd_overview.png»}

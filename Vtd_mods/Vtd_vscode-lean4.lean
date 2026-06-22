@@ -41,19 +41,19 @@ tag := "mods-vscode-lean4"
 
 TODO
 
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_LICENSE»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_README.md»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_bump-package-version.sh»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_flake.nix»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lerna.json»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_package-lock.json»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_package.json»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_prerelease.sh»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_release.sh»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_LICENSE»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_README.md»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_bump-package-version.sh»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_flake.nix»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lerna.json»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_package-lock.json»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_package.json»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_prerelease.sh»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_release.sh»}
 
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview-api»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input-component»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview-api»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input-component»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4»}

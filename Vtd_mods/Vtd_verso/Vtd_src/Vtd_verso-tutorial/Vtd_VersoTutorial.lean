@@ -21,4 +21,4 @@ tag := "mods-verso-src-verso-tutorial-VersoTutorial"
 
 TODO
 
-{include «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-tutorial».«Vtd_VersoTutorial».«Vtd_Basic.lean»}
+{include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-tutorial».«Vtd_VersoTutorial».«Vtd_Basic.lean»}

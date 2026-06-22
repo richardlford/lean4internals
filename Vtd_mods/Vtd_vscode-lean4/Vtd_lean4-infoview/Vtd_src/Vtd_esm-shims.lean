@@ -23,6 +23,6 @@ tag := "mods-vscode-lean4-lean4-infoview-src-esm-shims"
 
 TODO
 
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_esm-shims».«Vtd_react-dom.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_esm-shims».«Vtd_react-jsx-runtime.ts»}
-{include «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_esm-shims».«Vtd_react.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_esm-shims».«Vtd_react-dom.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_esm-shims».«Vtd_react-jsx-runtime.ts»}
+{include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src».«Vtd_esm-shims».«Vtd_react.ts»}
