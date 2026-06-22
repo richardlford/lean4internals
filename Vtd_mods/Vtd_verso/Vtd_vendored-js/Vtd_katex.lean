@@ -1,20 +1,16 @@
 -- lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_katex.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_README.md»
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_katex.css»
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_katex.js»
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_katex.min.css»
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_katex.min.js»
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_katex.mjs»
-
--- Imports from child directories.
-
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_contrib»
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts»
-
--- End of Imports from child directories.
+-- End of Imports
 
 
 
@@ -40,6 +36,5 @@ TODO
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_katex.min.css»}
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_katex.min.js»}
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_katex.mjs»}
-
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_contrib»}
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts»}

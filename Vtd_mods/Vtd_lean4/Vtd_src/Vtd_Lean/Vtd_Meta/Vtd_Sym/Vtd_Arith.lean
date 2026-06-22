@@ -1,7 +1,7 @@
 -- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_Meta/Vtd_Sym/Vtd_Arith.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Meta».«Vtd_Sym».«Vtd_Arith».«Vtd_Classify.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Meta».«Vtd_Sym».«Vtd_Arith».«Vtd_DenoteExpr.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Meta».«Vtd_Sym».«Vtd_Arith».«Vtd_EvalNum.lean»
@@ -15,6 +15,7 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Meta».«Vtd_Sy
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Meta».«Vtd_Sym».«Vtd_Arith».«Vtd_ToExpr.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Meta».«Vtd_Sym».«Vtd_Arith».«Vtd_Types.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Meta».«Vtd_Sym».«Vtd_Arith».«Vtd_VarRename.lean»
+-- End of Imports
 
 
 import VersoManual

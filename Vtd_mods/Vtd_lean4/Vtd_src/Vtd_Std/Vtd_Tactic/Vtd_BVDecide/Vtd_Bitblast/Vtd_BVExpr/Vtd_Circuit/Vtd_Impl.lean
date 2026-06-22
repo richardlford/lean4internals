@@ -1,19 +1,15 @@
 -- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Tactic/Vtd_BVDecide/Vtd_Bitblast/Vtd_BVExpr/Vtd_Circuit/Vtd_Impl.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_Bitblast».«Vtd_BVExpr».«Vtd_Circuit».«Vtd_Impl».«Vtd_Carry.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_Bitblast».«Vtd_BVExpr».«Vtd_Circuit».«Vtd_Impl».«Vtd_Const.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_Bitblast».«Vtd_BVExpr».«Vtd_Circuit».«Vtd_Impl».«Vtd_Expr.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_Bitblast».«Vtd_BVExpr».«Vtd_Circuit».«Vtd_Impl».«Vtd_Pred.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_Bitblast».«Vtd_BVExpr».«Vtd_Circuit».«Vtd_Impl».«Vtd_Substructure.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_Bitblast».«Vtd_BVExpr».«Vtd_Circuit».«Vtd_Impl».«Vtd_Var.lean»
-
--- Imports from child directories.
-
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_Bitblast».«Vtd_BVExpr».«Vtd_Circuit».«Vtd_Impl».«Vtd_Operations»
-
--- End of Imports from child directories.
+-- End of Imports
 
 
 
@@ -39,5 +35,4 @@ TODO
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_Bitblast».«Vtd_BVExpr».«Vtd_Circuit».«Vtd_Impl».«Vtd_Pred.lean»}
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_Bitblast».«Vtd_BVExpr».«Vtd_Circuit».«Vtd_Impl».«Vtd_Substructure.lean»}
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_Bitblast».«Vtd_BVExpr».«Vtd_Circuit».«Vtd_Impl».«Vtd_Var.lean»}
-
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Tactic».«Vtd_BVDecide».«Vtd_Bitblast».«Vtd_BVExpr».«Vtd_Circuit».«Vtd_Impl».«Vtd_Operations»}

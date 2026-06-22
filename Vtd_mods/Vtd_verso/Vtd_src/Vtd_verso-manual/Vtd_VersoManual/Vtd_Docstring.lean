@@ -1,12 +1,13 @@
 -- lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-manual/Vtd_VersoManual/Vtd_Docstring.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_Docstring».«Vtd_Basic.lean»
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_Docstring».«Vtd_Config.lean»
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_Docstring».«Vtd_DocName.lean»
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_Docstring».«Vtd_PrettyPrint.lean»
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_Docstring».«Vtd_Progress.lean»
+-- End of Imports
 
 
 import VersoManual

@@ -1,8 +1,9 @@
 -- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Sym/Vtd_Simp.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Sym».«Vtd_Simp».«Vtd_SimprocDSL.lean»
+-- End of Imports
 
 
 import VersoManual

@@ -1,7 +1,7 @@
 -- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Data/Vtd_DHashMap.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DHashMap».«Vtd_AdditionalOperations.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DHashMap».«Vtd_Basic.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DHashMap».«Vtd_DecidableEquiv.lean»
@@ -12,12 +12,8 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DHa
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DHashMap».«Vtd_RawDecidableEquiv.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DHashMap».«Vtd_RawDef.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DHashMap».«Vtd_RawLemmas.lean»
-
--- Imports from child directories.
-
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DHashMap».«Vtd_Internal»
-
--- End of Imports from child directories.
+-- End of Imports
 
 
 
@@ -47,5 +43,4 @@ TODO
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DHashMap».«Vtd_RawDecidableEquiv.lean»}
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DHashMap».«Vtd_RawDef.lean»}
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DHashMap».«Vtd_RawLemmas.lean»}
-
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DHashMap».«Vtd_Internal»}

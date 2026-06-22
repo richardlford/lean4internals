@@ -1,14 +1,10 @@
 -- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Do/Vtd_Internal.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Do».«Vtd_Internal».«Vtd_Ensures.lean»
-
--- Imports from child directories.
-
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Do».«Vtd_Internal».«Vtd_Ensures»
-
--- End of Imports from child directories.
+-- End of Imports
 
 
 
@@ -29,5 +25,4 @@ tag := "mods-lean4-src-Std-Do-Internal"
 TODO
 
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Do».«Vtd_Internal».«Vtd_Ensures.lean»}
-
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Do».«Vtd_Internal».«Vtd_Ensures»}

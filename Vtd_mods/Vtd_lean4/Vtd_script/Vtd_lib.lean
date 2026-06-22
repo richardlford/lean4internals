@@ -1,10 +1,11 @@
 -- lean4internals/Vtd_mods/Vtd_lean4/Vtd_script/Vtd_lib.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_lib».«Vtd_README.md»
 import «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_lib».«Vtd_rebase-editor.sh»
 import «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_lib».«Vtd_update-stage0»
+-- End of Imports
 
 
 import VersoManual

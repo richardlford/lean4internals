@@ -1,7 +1,7 @@
 -- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Grind/Vtd_Ordered.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Grind».«Vtd_Ordered».«Vtd_Field.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Grind».«Vtd_Ordered».«Vtd_Int.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Grind».«Vtd_Ordered».«Vtd_Linarith.lean»
@@ -9,6 +9,7 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Grind».«Vtd_O
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Grind».«Vtd_Ordered».«Vtd_Order.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Grind».«Vtd_Ordered».«Vtd_Rat.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Grind».«Vtd_Ordered».«Vtd_Ring.lean»
+-- End of Imports
 
 
 import VersoManual

@@ -1,7 +1,7 @@
 -- lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Std/Vtd_Data/Vtd_DHashMap/Vtd_Internal.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_DHashMap».«Vtd_Internal».«Vtd_Defs.c»
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_DHashMap».«Vtd_Internal».«Vtd_HashesTo.c»
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_DHashMap».«Vtd_Internal».«Vtd_Index.c»
@@ -9,12 +9,8 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vt
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_DHashMap».«Vtd_Internal».«Vtd_Raw.c»
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_DHashMap».«Vtd_Internal».«Vtd_RawLemmas.c»
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_DHashMap».«Vtd_Internal».«Vtd_WF.c»
-
--- Imports from child directories.
-
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_DHashMap».«Vtd_Internal».«Vtd_AssocList»
-
--- End of Imports from child directories.
+-- End of Imports
 
 
 
@@ -41,5 +37,4 @@ TODO
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_DHashMap».«Vtd_Internal».«Vtd_Raw.c»}
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_DHashMap».«Vtd_Internal».«Vtd_RawLemmas.c»}
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_DHashMap».«Vtd_Internal».«Vtd_WF.c»}
-
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_DHashMap».«Vtd_Internal».«Vtd_AssocList»}

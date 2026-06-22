@@ -1,13 +1,14 @@
 -- lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_make.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_make».«Vtd_emscripten.md»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_make».«Vtd_index.md»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_make».«Vtd_msys2.md»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_make».«Vtd_osx-10.9.md»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_make».«Vtd_ubuntu.md»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_make».«Vtd_wsl.md»
+-- End of Imports
 
 
 import VersoManual

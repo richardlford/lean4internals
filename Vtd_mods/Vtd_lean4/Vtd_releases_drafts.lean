@@ -1,8 +1,9 @@
 -- lean4internals/Vtd_mods/Vtd_lean4/Vtd_releases_drafts.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_releases_drafts».«Vtd_README.md»
+-- End of Imports
 
 
 import VersoManual

@@ -1,9 +1,10 @@
 -- lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Init/Vtd_Data/Vtd_Iterators/Vtd_Lemmas/Vtd_Consumers/Vtd_Monadic.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Consumers».«Vtd_Monadic».«Vtd_Collect.c»
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Init».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Consumers».«Vtd_Monadic».«Vtd_Loop.c»
+-- End of Imports
 
 
 import VersoManual

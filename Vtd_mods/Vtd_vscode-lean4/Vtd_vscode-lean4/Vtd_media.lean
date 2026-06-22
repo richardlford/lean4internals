@@ -1,7 +1,7 @@
 -- lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_vscode-lean4/Vtd_media.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_media».«Vtd_completion-example.png»
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_media».«Vtd_continue.png»
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_media».«Vtd_copy-to-comment-dark.svg»
@@ -37,12 +37,8 @@ import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_media».«Vt
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_media».«Vtd_troubleshooting.png»
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_media».«Vtd_unpin.png»
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_media».«Vtd_update.png»
-
--- Imports from child directories.
-
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_media».«Vtd_diagnostic-gutter-icons»
-
--- End of Imports from child directories.
+-- End of Imports
 
 
 
@@ -97,5 +93,4 @@ TODO
 {include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_media».«Vtd_troubleshooting.png»}
 {include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_media».«Vtd_unpin.png»}
 {include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_media».«Vtd_update.png»}
-
 {include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_media».«Vtd_diagnostic-gutter-icons»}

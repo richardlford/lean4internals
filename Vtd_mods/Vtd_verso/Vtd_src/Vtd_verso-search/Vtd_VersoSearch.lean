@@ -1,9 +1,10 @@
 -- lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-search/Vtd_VersoSearch.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-search».«Vtd_VersoSearch».«Vtd_DomainSearch.lean»
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-search».«Vtd_VersoSearch».«Vtd_PorterStemmer.lean»
+-- End of Imports
 
 
 import VersoManual

@@ -1,8 +1,9 @@
 -- lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_lean4-unicode-input-component/Vtd_src.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input-component».«Vtd_src».«Vtd_index.ts»
+-- End of Imports
 
 
 import VersoManual

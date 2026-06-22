@@ -1,7 +1,7 @@
 -- lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_src.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_CMakeLists.txt»
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_cadical.mk»
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_config.h.in»
@@ -13,9 +13,6 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_out»
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_stdlib.make.in»
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_stdlib_flags.h»
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_version.h.in»
-
--- Imports from child directories.
-
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_Lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_bin»
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_cmake»
@@ -27,8 +24,7 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_library»
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_runtime»
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_shell»
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_util»
-
--- End of Imports from child directories.
+-- End of Imports
 
 
 
@@ -59,7 +55,6 @@ TODO
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_stdlib.make.in»}
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_stdlib_flags.h»}
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_version.h.in»}
-
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_Lean»}
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_bin»}
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_cmake»}

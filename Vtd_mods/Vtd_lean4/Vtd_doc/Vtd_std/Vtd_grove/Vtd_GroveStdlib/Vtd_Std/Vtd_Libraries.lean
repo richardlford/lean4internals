@@ -1,9 +1,10 @@
 -- lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_std/Vtd_grove/Vtd_GroveStdlib/Vtd_Std/Vtd_Libraries.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Std».«Vtd_Libraries».«Vtd_DateAndTime.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Std».«Vtd_Libraries».«Vtd_RandomNumbers.lean»
+-- End of Imports
 
 
 import VersoManual

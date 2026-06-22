@@ -1,7 +1,7 @@
 -- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Data/Vtd_DTreeMap/Vtd_Internal.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DTreeMap».«Vtd_Internal».«Vtd_Balanced.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DTreeMap».«Vtd_Internal».«Vtd_Balancing.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DTreeMap».«Vtd_Internal».«Vtd_Cell.lean»
@@ -12,12 +12,8 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DTr
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DTreeMap».«Vtd_Internal».«Vtd_Ordered.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DTreeMap».«Vtd_Internal».«Vtd_Queries.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DTreeMap».«Vtd_Internal».«Vtd_Zipper.lean»
-
--- Imports from child directories.
-
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DTreeMap».«Vtd_Internal».«Vtd_WF»
-
--- End of Imports from child directories.
+-- End of Imports
 
 
 
@@ -47,5 +43,4 @@ TODO
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DTreeMap».«Vtd_Internal».«Vtd_Ordered.lean»}
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DTreeMap».«Vtd_Internal».«Vtd_Queries.lean»}
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DTreeMap».«Vtd_Internal».«Vtd_Zipper.lean»}
-
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Data».«Vtd_DTreeMap».«Vtd_Internal».«Vtd_WF»}

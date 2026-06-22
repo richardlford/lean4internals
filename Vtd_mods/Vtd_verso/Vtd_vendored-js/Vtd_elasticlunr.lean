@@ -1,9 +1,10 @@
 -- lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_elasticlunr.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_elasticlunr».«Vtd_elasticlunr.js»
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_elasticlunr».«Vtd_elasticlunr.min.js»
+-- End of Imports
 
 
 import VersoManual

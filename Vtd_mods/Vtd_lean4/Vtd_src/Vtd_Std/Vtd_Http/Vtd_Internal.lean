@@ -1,13 +1,14 @@
 -- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Http/Vtd_Internal.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Http».«Vtd_Internal».«Vtd_Char.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Http».«Vtd_Internal».«Vtd_ChunkedBuffer.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Http».«Vtd_Internal».«Vtd_Encode.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Http».«Vtd_Internal».«Vtd_IndexMultiMap.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Http».«Vtd_Internal».«Vtd_LowerCase.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Http».«Vtd_Internal».«Vtd_String.lean»
+-- End of Imports
 
 
 import VersoManual

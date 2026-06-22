@@ -1,7 +1,7 @@
 -- lean4internals/Vtd_mods/Vtd_lean4/Vtd_script.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_Modulize.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_PROFILER_README.md»
 import «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_apply.lean»
@@ -27,14 +27,10 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_prepare-llvm-macos.sh»
 import «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_prepare-llvm-mingw.sh»
 import «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_rebase-stage0.sh»
 import «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_reformat.lean»
-
--- Imports from child directories.
-
 import «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_lib»
 import «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_profiler»
 import «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_release»
-
--- End of Imports from child directories.
+-- End of Imports
 
 
 
@@ -79,7 +75,6 @@ TODO
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_prepare-llvm-mingw.sh»}
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_rebase-stage0.sh»}
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_reformat.lean»}
-
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_lib»}
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_profiler»}
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_release»}

@@ -1,13 +1,14 @@
 -- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_cmake/Vtd_Modules.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_cmake».«Vtd_Modules».«Vtd_FindGMP.cmake»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_cmake».«Vtd_Modules».«Vtd_FindLibUV.cmake»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_cmake».«Vtd_Modules».«Vtd_FindWindowsSDK.cmake»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_cmake».«Vtd_Modules».«Vtd_GetGitRevisionDescription.cmake»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_cmake».«Vtd_Modules».«Vtd_GetGitRevisionDescription.cmake.in»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_cmake».«Vtd_Modules».«Vtd_README.md»
+-- End of Imports
 
 
 import VersoManual

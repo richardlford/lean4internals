@@ -1,20 +1,16 @@
 -- lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js.lean
 
 
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_README»
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy-bundle.umd.min.js»
-
--- Imports from child directories.
-
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_axe-core»
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_elasticlunr»
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex»
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_marked»
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_popper»
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy»
-
--- End of Imports from child directories.
+-- End of Imports
 
 
 
@@ -51,7 +47,6 @@ They are:
 
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_README»}
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy-bundle.umd.min.js»}
-
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_axe-core»}
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_elasticlunr»}
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex»}

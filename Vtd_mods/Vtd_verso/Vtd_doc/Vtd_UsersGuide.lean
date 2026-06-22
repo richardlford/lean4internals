@@ -1,7 +1,7 @@
 -- lean4internals/Vtd_mods/Vtd_verso/Vtd_doc/Vtd_UsersGuide.lean
 
 
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_doc».«Vtd_UsersGuide».«Vtd_Basic.lean»
 import «Vtd_mods».«Vtd_verso».«Vtd_doc».«Vtd_UsersGuide».«Vtd_Elab.lean»
 import «Vtd_mods».«Vtd_verso».«Vtd_doc».«Vtd_UsersGuide».«Vtd_Extensions.lean»
@@ -11,12 +11,8 @@ import «Vtd_mods».«Vtd_verso».«Vtd_doc».«Vtd_UsersGuide».«Vtd_Markup.le
 import «Vtd_mods».«Vtd_verso».«Vtd_doc».«Vtd_UsersGuide».«Vtd_Output.lean»
 import «Vtd_mods».«Vtd_verso».«Vtd_doc».«Vtd_UsersGuide».«Vtd_Releases.lean»
 import «Vtd_mods».«Vtd_verso».«Vtd_doc».«Vtd_UsersGuide».«Vtd_Websites.lean»
-
--- Imports from child directories.
-
 import «Vtd_mods».«Vtd_verso».«Vtd_doc».«Vtd_UsersGuide».«Vtd_Releases»
-
--- End of Imports from child directories.
+-- End of Imports
 
 
 
@@ -45,5 +41,4 @@ The `verso/doc/UsersGuide` directory contains the files which make up the Verso 
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_doc».«Vtd_UsersGuide».«Vtd_Output.lean»}
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_doc».«Vtd_UsersGuide».«Vtd_Releases.lean»}
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_doc».«Vtd_UsersGuide».«Vtd_Websites.lean»}
-
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_doc».«Vtd_UsersGuide».«Vtd_Releases»}

@@ -1,7 +1,7 @@
 -- lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-manual/Vtd_VersoManual/Vtd_InlineLean.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_InlineLean».«Vtd_Block.lean»
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_InlineLean».«Vtd_IO.lean»
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_InlineLean».«Vtd_LongLines.lean»
@@ -10,12 +10,8 @@ import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoMa
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_InlineLean».«Vtd_Scopes.lean»
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_InlineLean».«Vtd_Signature.lean»
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_InlineLean».«Vtd_SyntaxError.lean»
-
--- Imports from child directories.
-
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_InlineLean».«Vtd_IO»
-
--- End of Imports from child directories.
+-- End of Imports
 
 
 
@@ -43,5 +39,4 @@ TODO
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_InlineLean».«Vtd_Scopes.lean»}
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_InlineLean».«Vtd_Signature.lean»}
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_InlineLean».«Vtd_SyntaxError.lean»}
-
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual».«Vtd_VersoManual».«Vtd_InlineLean».«Vtd_IO»}

@@ -1,11 +1,8 @@
 -- lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects.lean
 
 
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_README.md»
-
--- Imports from child directories.
-
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_anchor-examples»
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_custom-genre»
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_documented-package»
@@ -17,8 +14,7 @@ import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_tutorial-test»
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website»
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website-examples»
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website-literate»
-
--- End of Imports from child directories.
+-- End of Imports
 
 
 
@@ -46,7 +42,6 @@ Starting points for projects can be found in the
 
 
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_README.md»}
-
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_anchor-examples»}
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_custom-genre»}
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_documented-package»}

@@ -1,12 +1,13 @@
 -- lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Std/Vtd_Data/Vtd_Iterators/Vtd_Lemmas/Vtd_Combinators/Vtd_Monadic.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Combinators».«Vtd_Monadic».«Vtd_Drop.c»
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Combinators».«Vtd_Monadic».«Vtd_DropWhile.c»
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Combinators».«Vtd_Monadic».«Vtd_FilterMap.c»
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Combinators».«Vtd_Monadic».«Vtd_TakeWhile.c»
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Combinators».«Vtd_Monadic».«Vtd_Zip.c»
+-- End of Imports
 
 
 import VersoManual

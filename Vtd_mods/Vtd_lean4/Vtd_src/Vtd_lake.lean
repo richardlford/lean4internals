@@ -1,17 +1,13 @@
 -- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_lake.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_Lake.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_LakeMain.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_README.md»
-
--- Imports from child directories.
-
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_Lake»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_schemas»
-
--- End of Imports from child directories.
+-- End of Imports
 
 
 
@@ -34,6 +30,5 @@ TODO
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_Lake.lean»}
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_LakeMain.lean»}
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_README.md»}
-
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_Lake»}
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_lake».«Vtd_schemas»}

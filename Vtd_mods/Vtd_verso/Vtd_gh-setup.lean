@@ -1,8 +1,9 @@
 -- lean4internals/Vtd_mods/Vtd_verso/Vtd_gh-setup.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_gh-setup».«Vtd_verso-literate-pages.yml»
+-- End of Imports
 
 
 import VersoManual

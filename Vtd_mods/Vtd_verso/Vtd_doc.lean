@@ -1,15 +1,11 @@
 -- lean4internals/Vtd_mods/Vtd_verso/Vtd_doc.lean
 
 
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_doc».«Vtd_UsersGuide.lean»
 import «Vtd_mods».«Vtd_verso».«Vtd_doc».«Vtd_stats.html»
-
--- Imports from child directories.
-
 import «Vtd_mods».«Vtd_verso».«Vtd_doc».«Vtd_UsersGuide»
-
--- End of Imports from child directories.
+-- End of Imports
 
 
 
@@ -31,5 +27,4 @@ The `verso/doc` directory contains the verso source of the verso user's manual.
 
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_doc».«Vtd_UsersGuide.lean»}
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_doc».«Vtd_stats.html»}
-
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_doc».«Vtd_UsersGuide»}

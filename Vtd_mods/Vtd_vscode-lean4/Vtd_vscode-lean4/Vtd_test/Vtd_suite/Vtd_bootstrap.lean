@@ -1,8 +1,9 @@
 -- lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_vscode-lean4/Vtd_test/Vtd_suite/Vtd_bootstrap.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_test».«Vtd_suite».«Vtd_bootstrap».«Vtd_bootstrap.test.ts»
+-- End of Imports
 
 
 import VersoManual

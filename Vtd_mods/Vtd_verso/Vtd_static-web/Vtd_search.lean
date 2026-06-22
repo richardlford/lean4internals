@@ -1,7 +1,7 @@
 -- lean4internals/Vtd_mods/Vtd_verso/Vtd_static-web/Vtd_search.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search».«Vtd_README.txt»
 import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search».«Vtd_domain-mappers.d.ts»
 import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search».«Vtd_fuzzysort.d.ts»
@@ -17,6 +17,7 @@ import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search».«Vtd_search
 import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search».«Vtd_search-page.js»
 import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search».«Vtd_unicode-input-component.min.js»
 import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search».«Vtd_unicode-input.min.js»
+-- End of Imports
 
 
 import VersoManual

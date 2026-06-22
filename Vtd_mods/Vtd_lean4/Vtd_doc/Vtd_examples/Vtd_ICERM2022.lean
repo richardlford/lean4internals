@@ -1,10 +1,11 @@
 -- lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_examples/Vtd_ICERM2022.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_ICERM2022».«Vtd_ctor.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_ICERM2022».«Vtd_meta.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_ICERM2022».«Vtd_notation.lean»
+-- End of Imports
 
 
 import VersoManual

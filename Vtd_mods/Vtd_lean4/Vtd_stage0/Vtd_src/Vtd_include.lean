@@ -3,9 +3,9 @@
         
 -- Imports from child directories.
 
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_include».«Vtd_lean»
-
--- End of Imports from child directories.
+-- End of Imports
 
 
 

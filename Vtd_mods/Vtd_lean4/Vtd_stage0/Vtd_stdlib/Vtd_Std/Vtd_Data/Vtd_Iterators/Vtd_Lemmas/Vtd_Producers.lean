@@ -1,7 +1,7 @@
 -- lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_stdlib/Vtd_Std/Vtd_Data/Vtd_Iterators/Vtd_Lemmas/Vtd_Producers.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Producers».«Vtd_Array.c»
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Producers».«Vtd_Empty.c»
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Producers».«Vtd_Monadic.c»
@@ -9,12 +9,8 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vt
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Producers».«Vtd_Repeat.c»
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Producers».«Vtd_Slice.c»
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Producers».«Vtd_Vector.c»
-
--- Imports from child directories.
-
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Producers».«Vtd_Monadic»
-
--- End of Imports from child directories.
+-- End of Imports
 
 
 
@@ -41,5 +37,4 @@ TODO
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Producers».«Vtd_Repeat.c»}
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Producers».«Vtd_Slice.c»}
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Producers».«Vtd_Vector.c»}
-
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_stdlib».«Vtd_Std».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Producers».«Vtd_Monadic»}

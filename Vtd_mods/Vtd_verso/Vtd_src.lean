@@ -1,8 +1,6 @@
 -- lean4internals/Vtd_mods/Vtd_verso/Vtd_src.lean
 
-
--- Imports from child directories.
-
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_cli»
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_multi-verso»
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso»
@@ -17,8 +15,7 @@ import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-manual»
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-search»
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-tutorial»
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-util»
-
--- End of Imports from child directories.
+-- End of Imports
 
 
 

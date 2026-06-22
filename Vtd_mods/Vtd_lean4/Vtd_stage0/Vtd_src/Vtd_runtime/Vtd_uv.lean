@@ -1,7 +1,7 @@
 -- lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_src/Vtd_runtime/Vtd_uv.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_runtime».«Vtd_uv».«Vtd_dns.cpp»
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_runtime».«Vtd_uv».«Vtd_dns.h»
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_runtime».«Vtd_uv».«Vtd_event_loop.cpp»
@@ -18,6 +18,7 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_runtime».«V
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_runtime».«Vtd_uv».«Vtd_timer.h»
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_runtime».«Vtd_uv».«Vtd_udp.cpp»
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_runtime».«Vtd_uv».«Vtd_udp.h»
+-- End of Imports
 
 
 import VersoManual

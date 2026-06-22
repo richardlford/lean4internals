@@ -1,7 +1,7 @@
 -- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Data/Vtd_Iterators/Vtd_Lemmas/Vtd_Combinators.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Combinators».«Vtd_Append.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Combinators».«Vtd_Attach.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Combinators».«Vtd_FilterMap.lean»
@@ -9,12 +9,8 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_It
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Combinators».«Vtd_Monadic.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Combinators».«Vtd_Take.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Combinators».«Vtd_ULift.lean»
-
--- Imports from child directories.
-
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Combinators».«Vtd_Monadic»
-
--- End of Imports from child directories.
+-- End of Imports
 
 
 
@@ -41,5 +37,4 @@ TODO
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Combinators».«Vtd_Monadic.lean»}
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Combinators».«Vtd_Take.lean»}
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Combinators».«Vtd_ULift.lean»}
-
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Data».«Vtd_Iterators».«Vtd_Lemmas».«Vtd_Combinators».«Vtd_Monadic»}

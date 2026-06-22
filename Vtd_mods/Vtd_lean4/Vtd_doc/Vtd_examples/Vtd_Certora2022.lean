@@ -1,7 +1,7 @@
 -- lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_examples/Vtd_Certora2022.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_Certora2022».«Vtd_ex1.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_Certora2022».«Vtd_ex10.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_Certora2022».«Vtd_ex11.lean»
@@ -26,6 +26,7 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_Certora2022
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_Certora2022».«Vtd_ex7.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_Certora2022».«Vtd_ex8.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_Certora2022».«Vtd_ex9.lean»
+-- End of Imports
 
 
 import VersoManual

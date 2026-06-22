@@ -1,24 +1,20 @@
 -- lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_BoolExpr.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_README.md»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_metaprogramming-arith.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_perf.md»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_style.md»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_syntax_example.lean»
-
--- Imports from child directories.
-
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_dev»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_images»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_latex»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_make»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std»
-
--- End of Imports from child directories.
+-- End of Imports
 
 
 
@@ -44,7 +40,6 @@ TODO
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_perf.md»}
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_style.md»}
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_syntax_example.lean»}
-
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_dev»}
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples»}
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_images»}

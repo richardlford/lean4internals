@@ -1,8 +1,9 @@
 -- lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_literate-multi-root/Vtd_LibA.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-multi-root».«Vtd_LibA».«Vtd_Core.lean»
+-- End of Imports
 
 
 import VersoManual

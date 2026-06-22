@@ -1,7 +1,7 @@
 -- lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_src/Vtd_library/Vtd_constructions.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_library».«Vtd_constructions».«Vtd_CMakeLists.txt»
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_library».«Vtd_constructions».«Vtd_cases_on.cpp»
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_library».«Vtd_constructions».«Vtd_cases_on.h»
@@ -10,6 +10,7 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_library».«V
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_library».«Vtd_constructions».«Vtd_no_confusion.h»
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_library».«Vtd_constructions».«Vtd_util.cpp»
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_library».«Vtd_constructions».«Vtd_util.h»
+-- End of Imports
 
 
 import VersoManual

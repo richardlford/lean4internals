@@ -1,7 +1,7 @@
 -- lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_images.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_images».«Vtd_code-ext.png»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_images».«Vtd_code-success.png»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_images».«Vtd_code-wsl.png»
@@ -12,6 +12,7 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_images».«Vtd_setup_guide.p
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_images».«Vtd_show-setup-guide.png»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_images».«Vtd_widgets_caas.png»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_images».«Vtd_widgets_rubiks.png»
+-- End of Imports
 
 
 import VersoManual

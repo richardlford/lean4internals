@@ -1,8 +1,9 @@
 -- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_Data/Vtd_Iterators/Vtd_Producers.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Data».«Vtd_Iterators».«Vtd_Producers».«Vtd_PersistentHashMap.lean»
+-- End of Imports
 
 
 import VersoManual

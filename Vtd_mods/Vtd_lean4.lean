@@ -1,7 +1,7 @@
 -- lean4internals/Vtd_mods/Vtd_lean4.lean
 
 
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_AGENTS.md»
 import «Vtd_mods».«Vtd_lean4».«Vtd_CMakeLists.txt»
 import «Vtd_mods».«Vtd_lean4».«Vtd_CMakePresets.json»
@@ -14,17 +14,13 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_RELEASES.md»
 import «Vtd_mods».«Vtd_lean4».«Vtd_flake.lock»
 import «Vtd_mods».«Vtd_lean4».«Vtd_flake.nix»
 import «Vtd_mods».«Vtd_lean4».«Vtd_lean-toolchain»
-
--- Imports from child directories.
-
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc»
 import «Vtd_mods».«Vtd_lean4».«Vtd_images»
 import «Vtd_mods».«Vtd_lean4».«Vtd_releases_drafts»
 import «Vtd_mods».«Vtd_lean4».«Vtd_script»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src»
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0»
-
--- End of Imports from child directories.
+-- End of Imports
 
 
 
@@ -43,6 +39,8 @@ tag := "mods-lean4"
 {editlink "Vtd_mods/Vtd_lean4.lean"}[edit]
 
 # Overview
+
+{editlink "Vtd_mods/Vtd_lean4.lean"}[edit]
 
 Here we describe internals of the part of the Lean 4 prover implemented in the
 [leanprover lean4 repository](https://github.com/leanprover/lean4).
@@ -146,7 +144,6 @@ files that control the build:
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_flake.lock»}
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_flake.nix»}
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_lean-toolchain»}
-
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc»}
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_images»}
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_releases_drafts»}

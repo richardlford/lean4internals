@@ -1,13 +1,14 @@
 -- lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_lean4-infoview-api/Vtd_src.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview-api».«Vtd_src».«Vtd_index.ts»
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview-api».«Vtd_src».«Vtd_infoviewApi.ts»
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview-api».«Vtd_src».«Vtd_lspTypes.ts»
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview-api».«Vtd_src».«Vtd_rpcApi.ts»
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview-api».«Vtd_src».«Vtd_rpcSessions.ts»
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview-api».«Vtd_src».«Vtd_util.ts»
+-- End of Imports
 
 
 import VersoManual

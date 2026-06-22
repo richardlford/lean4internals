@@ -1,13 +1,14 @@
 -- lean4internals/Vtd_mods/Vtd_verso/Vtd_deploy.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_deploy».«Vtd_build.sh»
 import «Vtd_mods».«Vtd_verso».«Vtd_deploy».«Vtd_generate.sh»
 import «Vtd_mods».«Vtd_verso».«Vtd_deploy».«Vtd_overlay.py»
 import «Vtd_mods».«Vtd_verso».«Vtd_deploy».«Vtd_prep.sh»
 import «Vtd_mods».«Vtd_verso».«Vtd_deploy».«Vtd_release.py»
 import «Vtd_mods».«Vtd_verso».«Vtd_deploy».«Vtd_release_utils.py»
+-- End of Imports
 
 
 import VersoManual

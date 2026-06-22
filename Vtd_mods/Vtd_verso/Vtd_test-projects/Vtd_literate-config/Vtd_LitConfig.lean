@@ -1,15 +1,11 @@
 -- lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_literate-config/Vtd_LitConfig.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-config».«Vtd_LitConfig».«Vtd_Core.lean»
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-config».«Vtd_LitConfig».«Vtd_NoDocstrings.lean»
-
--- Imports from child directories.
-
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-config».«Vtd_LitConfig».«Vtd_Core»
-
--- End of Imports from child directories.
+-- End of Imports
 
 
 
@@ -31,5 +27,4 @@ TODO
 
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-config».«Vtd_LitConfig».«Vtd_Core.lean»}
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-config».«Vtd_LitConfig».«Vtd_NoDocstrings.lean»}
-
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-config».«Vtd_LitConfig».«Vtd_Core»}

@@ -1,7 +1,7 @@
 -- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_kernel.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_kernel».«Vtd_CMakeLists.txt»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_kernel».«Vtd_abstract.cpp»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_kernel».«Vtd_abstract.h»
@@ -41,6 +41,7 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_kernel».«Vtd_trace.cpp»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_kernel».«Vtd_trace.h»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_kernel».«Vtd_type_checker.cpp»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_kernel».«Vtd_type_checker.h»
+-- End of Imports
 
 
 import VersoManual

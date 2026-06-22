@@ -1,10 +1,11 @@
 -- lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_std/Vtd_grove/Vtd_GroveStdlib/Vtd_Std/Vtd_LanguageConstructs.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Std».«Vtd_LanguageConstructs».«Vtd_ComparisonOrderingHashing.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Std».«Vtd_LanguageConstructs».«Vtd_Monads.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove».«Vtd_GroveStdlib».«Vtd_Std».«Vtd_LanguageConstructs».«Vtd_RangesAndIterators.lean»
+-- End of Imports
 
 
 import VersoManual

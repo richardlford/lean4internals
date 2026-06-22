@@ -1,9 +1,10 @@
 -- lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_vscode-lean4/Vtd_test/Vtd_test-fixtures/Vtd_lakefileTomlSchemaTestCases/Vtd_invalid.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_test».«Vtd_test-fixtures».«Vtd_lakefileTomlSchemaTestCases».«Vtd_invalid».«Vtd_require_git_incorrect_type.toml»
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_test».«Vtd_test-fixtures».«Vtd_lakefileTomlSchemaTestCases».«Vtd_invalid».«Vtd_require_no_name.toml»
+-- End of Imports
 
 
 import VersoManual

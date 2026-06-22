@@ -1,11 +1,12 @@
 -- lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_tutorial-test/Vtd_TutorialExample.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_tutorial-test».«Vtd_TutorialExample».«Vtd_Data.lean»
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_tutorial-test».«Vtd_TutorialExample».«Vtd_HashMap.lean»
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_tutorial-test».«Vtd_TutorialExample».«Vtd_Lit.lean»
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_tutorial-test».«Vtd_TutorialExample».«Vtd_RCases.lean»
+-- End of Imports
 
 
 import VersoManual

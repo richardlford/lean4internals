@@ -1,7 +1,7 @@
 -- lean4internals/Vtd_mods/Vtd_verso.lean
 
 
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_LICENSE»
 import «Vtd_mods».«Vtd_verso».«Vtd_README-html.md»
 import «Vtd_mods».«Vtd_verso».«Vtd_README.md»
@@ -16,9 +16,6 @@ import «Vtd_mods».«Vtd_verso».«Vtd_package.json»
 import «Vtd_mods».«Vtd_verso».«Vtd_server.py»
 import «Vtd_mods».«Vtd_verso».«Vtd_tag-subverso.sh»
 import «Vtd_mods».«Vtd_verso».«Vtd_update-subverso.sh»
-
--- Imports from child directories.
-
 import «Vtd_mods».«Vtd_verso».«Vtd_browser-tests»
 import «Vtd_mods».«Vtd_verso».«Vtd_deploy»
 import «Vtd_mods».«Vtd_verso».«Vtd_doc»
@@ -27,8 +24,7 @@ import «Vtd_mods».«Vtd_verso».«Vtd_src»
 import «Vtd_mods».«Vtd_verso».«Vtd_static-web»
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects»
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js»
-
--- End of Imports from child directories.
+-- End of Imports
 
 
 
@@ -132,7 +128,6 @@ and documented in
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_server.py»}
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_tag-subverso.sh»}
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_update-subverso.sh»}
-
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_browser-tests»}
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_deploy»}
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_doc»}

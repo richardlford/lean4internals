@@ -1,20 +1,16 @@
 -- lean4internals/Vtd_mods/Vtd_verso/Vtd_static-web.lean
 
 
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_find.js»
 import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_jsconfig.json»
 import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_math.js»
 import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_toc-resize-preload.js»
 import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_toc-resize.js»
 import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_verso-vars.css»
-
--- Imports from child directories.
-
 import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_literate»
 import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search»
-
--- End of Imports from child directories.
+-- End of Imports
 
 
 
@@ -41,6 +37,5 @@ The above was written by AI and may be inaccurate. Please edit it to be more acc
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_toc-resize-preload.js»}
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_toc-resize.js»}
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_verso-vars.css»}
-
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_literate»}
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search»}

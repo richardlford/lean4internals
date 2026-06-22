@@ -1,9 +1,10 @@
 -- lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_lean4-infoview/Vtd_test.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_test».«Vtd_breaking.ts»
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_test».«Vtd_tsconfig.json»
+-- End of Imports
 
 
 import VersoManual

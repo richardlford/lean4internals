@@ -1,7 +1,7 @@
 -- lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_examples.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_README.md»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_bintree.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_bintree.lean.out.expected»
@@ -15,16 +15,12 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_phoas.lean.
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_run_test.sh»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_tc.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_widgets.lean»
-
--- Imports from child directories.
-
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_Certora2022»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_ICERM2022»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_IJCAR2026»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_NFM2022»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_compiler»
-
--- End of Imports from child directories.
+-- End of Imports
 
 
 
@@ -57,7 +53,6 @@ TODO
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_run_test.sh»}
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_tc.lean»}
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_widgets.lean»}
-
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_Certora2022»}
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_ICERM2022»}
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_IJCAR2026»}

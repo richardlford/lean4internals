@@ -1,7 +1,7 @@
 -- lean4internals/Vtd_mods/Vtd_verso/Vtd_browser-tests.lean
 
 
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_conftest.py»
 import «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_pyproject.toml»
 import «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_search_page_a11y.py»
@@ -13,14 +13,10 @@ import «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_test_search_path_p
 import «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_test_search_priority.py»
 import «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_test_toc_resize.py»
 import «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_uv.lock»
-
--- Imports from child directories.
-
 import «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_literate»
 import «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_literate-multi-root»
 import «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_verso-html»
-
--- End of Imports from child directories.
+-- End of Imports
 
 
 
@@ -51,7 +47,6 @@ The browser-tests directory contains tests for the html output of Verso document
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_test_search_priority.py»}
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_test_toc_resize.py»}
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_uv.lock»}
-
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_literate»}
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_literate-multi-root»}
 {include 1 «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_verso-html»}

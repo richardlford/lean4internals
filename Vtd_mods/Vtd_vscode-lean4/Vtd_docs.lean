@@ -1,15 +1,11 @@
 -- lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_docs.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs».«Vtd_dev.md»
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs».«Vtd_language-configuration.md»
-
--- Imports from child directories.
-
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs».«Vtd_images»
-
--- End of Imports from child directories.
+-- End of Imports
 
 
 
@@ -31,5 +27,4 @@ TODO
 
 {include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs».«Vtd_dev.md»}
 {include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs».«Vtd_language-configuration.md»}
-
 {include 1 «Vtd_mods».«Vtd_vscode-lean4».«Vtd_docs».«Vtd_images»}

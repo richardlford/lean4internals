@@ -1,7 +1,7 @@
 -- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_runtime.lean
 
         
--- Imports for contained files.
+-- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_runtime».«Vtd_CMakeLists.txt»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_runtime».«Vtd_alloc.cpp»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_runtime».«Vtd_alloc.h»
@@ -65,12 +65,8 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_runtime».«Vtd_thread.cpp»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_runtime».«Vtd_thread.h»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_runtime».«Vtd_utf8.cpp»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_runtime».«Vtd_utf8.h»
-
--- Imports from child directories.
-
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_runtime».«Vtd_uv»
-
--- End of Imports from child directories.
+-- End of Imports
 
 
 
@@ -153,5 +149,4 @@ TODO
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_runtime».«Vtd_thread.h»}
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_runtime».«Vtd_utf8.cpp»}
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_runtime».«Vtd_utf8.h»}
-
 {include 1 «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_runtime».«Vtd_uv»}
