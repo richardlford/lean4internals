@@ -1,11 +1,10 @@
--- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Control/Vtd_Lawful/Vtd_MonadLift.lean
-
+-- Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Init/Vtd_Control/Vtd_Lawful/Vtd_MonadLift.lean
         
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Control».«Vtd_Lawful».«Vtd_MonadLift».«Vtd_Basic.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Control».«Vtd_Lawful».«Vtd_MonadLift».«Vtd_Instances.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Init».«Vtd_Control».«Vtd_Lawful».«Vtd_MonadLift».«Vtd_Lemmas.lean»
--- End of Imports
+-- End of Imports.
 
 
 import VersoManual

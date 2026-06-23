@@ -1,5 +1,4 @@
--- lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_std.lean
-
+-- Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_std.lean
         
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_README.md»
@@ -8,7 +7,7 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_naming.md»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_style.md»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_vision.md»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std».«Vtd_grove»
--- End of Imports
+-- End of Imports.
 
 
 

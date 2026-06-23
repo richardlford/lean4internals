@@ -1,5 +1,4 @@
--- lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_katex.lean
-
+-- Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_katex.lean
         
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_README.md»
@@ -10,7 +9,7 @@ import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_katex.
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_katex.mjs»
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_contrib»
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts»
--- End of Imports
+-- End of Imports.
 
 
 

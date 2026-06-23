@@ -1,11 +1,10 @@
--- lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_src/Vtd_cmake.lean
-
+-- Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_src/Vtd_cmake.lean
         
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_cmake».«Vtd_check_failure.sh»
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_cmake».«Vtd_run_checker.sh»
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_cmake».«Vtd_Modules»
--- End of Imports
+-- End of Imports.
 
 
 

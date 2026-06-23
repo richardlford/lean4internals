@@ -1,12 +1,11 @@
--- lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_documented-package.lean
-
+-- Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_documented-package.lean
         
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_documented-package».«Vtd_Zippers.lean»
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_documented-package».«Vtd_lake-manifest.json»
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_documented-package».«Vtd_lakefile.toml»
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_documented-package».«Vtd_lean-toolchain»
--- End of Imports
+-- End of Imports.
 
 
 import VersoManual

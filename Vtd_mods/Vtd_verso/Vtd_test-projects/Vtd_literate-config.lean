@@ -1,5 +1,4 @@
--- lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_literate-config.lean
-
+-- Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_literate-config.lean
         
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-config».«Vtd_LitConfig.lean»
@@ -9,7 +8,7 @@ import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-config».
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-config».«Vtd_lean-toolchain»
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-config».«Vtd_LitConfig»
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-config».«Vtd_images»
--- End of Imports
+-- End of Imports.
 
 
 

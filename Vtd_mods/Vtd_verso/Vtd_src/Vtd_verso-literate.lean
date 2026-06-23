@@ -1,11 +1,10 @@
--- lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-literate.lean
-
+-- Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-literate.lean
         
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate».«Vtd_VersoLiterate.lean»
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate».«Vtd_VersoLiterateMain.lean»
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate».«Vtd_VersoLiterate»
--- End of Imports
+-- End of Imports.
 
 
 

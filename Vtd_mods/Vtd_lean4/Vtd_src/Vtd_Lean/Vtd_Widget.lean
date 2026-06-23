@@ -1,5 +1,4 @@
--- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_Widget.lean
-
+-- Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_Widget.lean
         
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Widget».«Vtd_Basic.lean»
@@ -11,7 +10,7 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Widget».«Vtd_
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Widget».«Vtd_TaggedText.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Widget».«Vtd_Types.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Widget».«Vtd_UserWidget.lean»
--- End of Imports
+-- End of Imports.
 
 
 import VersoManual

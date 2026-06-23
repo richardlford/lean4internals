@@ -1,9 +1,8 @@
--- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_Parser/Vtd_Module.lean
-
+-- Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Lean/Vtd_Parser/Vtd_Module.lean
         
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Lean».«Vtd_Parser».«Vtd_Module».«Vtd_Syntax.lean»
--- End of Imports
+-- End of Imports.
 
 
 import VersoManual

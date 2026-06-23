@@ -1,5 +1,4 @@
--- lean4internals/Vtd_mods/Vtd_lean4/Vtd_script.lean
-
+-- Vtd_mods/Vtd_lean4/Vtd_script.lean
         
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_Modulize.lean»
@@ -30,7 +29,7 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_reformat.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_lib»
 import «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_profiler»
 import «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_release»
--- End of Imports
+-- End of Imports.
 
 
 

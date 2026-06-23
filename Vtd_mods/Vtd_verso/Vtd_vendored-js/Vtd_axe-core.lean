@@ -1,10 +1,9 @@
--- lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_axe-core.lean
-
+-- Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_axe-core.lean
         
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_axe-core».«Vtd_LICENSE»
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_axe-core».«Vtd_axe.min.js»
--- End of Imports
+-- End of Imports.
 
 
 import VersoManual

@@ -1,12 +1,11 @@
--- lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_website.lean
-
+-- Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_website.lean
         
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website».«Vtd_DemoSite.lean»
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website».«Vtd_DemoSiteMain.lean»
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website».«Vtd_DemoSite»
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website».«Vtd_static_files»
--- End of Imports
+-- End of Imports.
 
 
 

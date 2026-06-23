@@ -1,5 +1,4 @@
--- lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_lean4-infoview.lean
-
+-- Vtd_mods/Vtd_vscode-lean4/Vtd_lean4-infoview.lean
         
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_README.md»
@@ -8,7 +7,7 @@ import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_rollup.con
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_tsconfig.json»
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_src»
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-infoview».«Vtd_test»
--- End of Imports
+-- End of Imports.
 
 
 

@@ -1,5 +1,4 @@
--- lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc.lean
-
+-- Vtd_mods/Vtd_lean4/Vtd_doc.lean
         
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_BoolExpr.lean»
@@ -14,7 +13,7 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_images»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_latex»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_make»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_std»
--- End of Imports
+-- End of Imports.
 
 
 

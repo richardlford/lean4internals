@@ -1,10 +1,9 @@
--- lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_vscode-lean4/Vtd_webview.lean
-
+-- Vtd_mods/Vtd_vscode-lean4/Vtd_vscode-lean4/Vtd_webview.lean
         
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_webview».«Vtd_index.ts»
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_webview».«Vtd_tsconfig.json»
--- End of Imports
+-- End of Imports.
 
 
 import VersoManual

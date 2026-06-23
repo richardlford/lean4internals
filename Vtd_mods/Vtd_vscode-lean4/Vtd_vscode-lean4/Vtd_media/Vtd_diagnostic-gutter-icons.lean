@@ -1,5 +1,4 @@
--- lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_vscode-lean4/Vtd_media/Vtd_diagnostic-gutter-icons.lean
-
+-- Vtd_mods/Vtd_vscode-lean4/Vtd_vscode-lean4/Vtd_media/Vtd_diagnostic-gutter-icons.lean
         
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_media».«Vtd_diagnostic-gutter-icons».«Vtd_LICENSE»
@@ -60,7 +59,7 @@ import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_media».«Vt
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_media».«Vtd_diagnostic-gutter-icons».«Vtd_warning-light.svg»
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_media».«Vtd_diagnostic-gutter-icons».«Vtd_warning-t-passthrough-dark.svg»
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_vscode-lean4».«Vtd_media».«Vtd_diagnostic-gutter-icons».«Vtd_warning-t-passthrough-light.svg»
--- End of Imports
+-- End of Imports.
 
 
 import VersoManual

@@ -1,11 +1,10 @@
--- lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-tutorial.lean
-
+-- Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-tutorial.lean
         
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-tutorial».«Vtd_VersoTutorial.lean»
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-tutorial».«Vtd_default.css»
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-tutorial».«Vtd_VersoTutorial»
--- End of Imports
+-- End of Imports.
 
 
 

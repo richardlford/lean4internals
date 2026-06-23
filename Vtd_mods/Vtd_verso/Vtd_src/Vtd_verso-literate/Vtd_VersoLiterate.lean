@@ -1,5 +1,4 @@
--- lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-literate/Vtd_VersoLiterate.lean
-
+-- Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-literate/Vtd_VersoLiterate.lean
         
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate».«Vtd_VersoLiterate».«Vtd_Basic.lean»
@@ -7,7 +6,7 @@ import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate».«Vtd_Verso
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate».«Vtd_VersoLiterate».«Vtd_Exported.lean»
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate».«Vtd_VersoLiterate».«Vtd_Module.lean»
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-literate».«Vtd_VersoLiterate».«Vtd_Search.lean»
--- End of Imports
+-- End of Imports.
 
 
 import VersoManual

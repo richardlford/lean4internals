@@ -1,11 +1,10 @@
--- lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_custom-genre.lean
-
+-- Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_custom-genre.lean
         
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_custom-genre».«Vtd_SimplePage.lean»
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_custom-genre».«Vtd_SimplePageMain.lean»
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_custom-genre».«Vtd_SimplePage»
--- End of Imports
+-- End of Imports.
 
 
 

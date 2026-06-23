@@ -1,9 +1,8 @@
--- lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso/Vtd_Verso/Vtd_Code/Vtd_Highlighted.lean
-
+-- Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso/Vtd_Verso/Vtd_Code/Vtd_Highlighted.lean
         
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso».«Vtd_Verso».«Vtd_Code».«Vtd_Highlighted».«Vtd_WebAssets.lean»
--- End of Imports
+-- End of Imports.
 
 
 import VersoManual

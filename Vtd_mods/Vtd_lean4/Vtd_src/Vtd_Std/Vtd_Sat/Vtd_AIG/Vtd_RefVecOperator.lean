@@ -1,11 +1,10 @@
--- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Sat/Vtd_AIG/Vtd_RefVecOperator.lean
-
+-- Vtd_mods/Vtd_lean4/Vtd_src/Vtd_Std/Vtd_Sat/Vtd_AIG/Vtd_RefVecOperator.lean
         
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Sat».«Vtd_AIG».«Vtd_RefVecOperator».«Vtd_Fold.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Sat».«Vtd_AIG».«Vtd_RefVecOperator».«Vtd_Map.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_Std».«Vtd_Sat».«Vtd_AIG».«Vtd_RefVecOperator».«Vtd_Zip.lean»
--- End of Imports
+-- End of Imports.
 
 
 import VersoManual

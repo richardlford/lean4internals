@@ -1,11 +1,10 @@
--- lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_src/Vtd_initialize.lean
-
+-- Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_src/Vtd_initialize.lean
         
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_initialize».«Vtd_CMakeLists.txt»
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_initialize».«Vtd_init.cpp»
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_initialize».«Vtd_init.h»
--- End of Imports
+-- End of Imports.
 
 
 import VersoManual

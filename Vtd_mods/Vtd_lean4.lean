@@ -1,6 +1,5 @@
--- lean4internals/Vtd_mods/Vtd_lean4.lean
-
-
+-- Vtd_mods/Vtd_lean4.lean
+        
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_AGENTS.md»
 import «Vtd_mods».«Vtd_lean4».«Vtd_CMakeLists.txt»
@@ -20,7 +19,7 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_releases_drafts»
 import «Vtd_mods».«Vtd_lean4».«Vtd_script»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src»
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0»
--- End of Imports
+-- End of Imports.
 
 
 

@@ -1,5 +1,4 @@
--- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_shell.lean
-
+-- Vtd_mods/Vtd_lean4/Vtd_src/Vtd_shell.lean
         
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_shell».«Vtd_CMakeLists.txt»
@@ -8,7 +7,7 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_shell».«Vtd_lean.cpp»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_shell».«Vtd_lean_js.cpp»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_shell».«Vtd_manifest.rc»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_shell».«Vtd_mk_lean_sh.sh»
--- End of Imports
+-- End of Imports.
 
 
 import VersoManual

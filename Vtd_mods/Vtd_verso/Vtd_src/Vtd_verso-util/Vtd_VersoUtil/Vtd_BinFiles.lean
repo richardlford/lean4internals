@@ -1,9 +1,8 @@
--- lean4internals/Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-util/Vtd_VersoUtil/Vtd_BinFiles.lean
-
-
+-- Vtd_mods/Vtd_verso/Vtd_src/Vtd_verso-util/Vtd_VersoUtil/Vtd_BinFiles.lean
+        
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_src».«Vtd_verso-util».«Vtd_VersoUtil».«Vtd_BinFiles».«Vtd_Z85.lean»
--- End of Imports
+-- End of Imports.
 
 
 import VersoManual

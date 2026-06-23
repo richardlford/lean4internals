@@ -1,9 +1,8 @@
--- lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_website-examples/Vtd_Examples.lean
-
+-- Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_website-examples/Vtd_Examples.lean
         
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_website-examples».«Vtd_Examples».«Vtd_Basic.lean»
--- End of Imports
+-- End of Imports.
 
 
 import VersoManual

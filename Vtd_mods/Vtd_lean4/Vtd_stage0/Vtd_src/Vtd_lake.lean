@@ -1,9 +1,8 @@
--- lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_src/Vtd_lake.lean
-
+-- Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_src/Vtd_lake.lean
         
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_lake».«Vtd_README.md»
--- End of Imports
+-- End of Imports.
 
 
 import VersoManual

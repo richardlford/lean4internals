@@ -1,9 +1,8 @@
--- lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_literate-config/Vtd_images.lean
-
+-- Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_literate-config/Vtd_images.lean
         
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_literate-config».«Vtd_images».«Vtd_test-diagram.png»
--- End of Imports
+-- End of Imports.
 
 
 import VersoManual

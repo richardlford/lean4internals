@@ -1,6 +1,5 @@
--- lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_dev.lean
-
-
+-- Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_dev.lean
+        
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_dev».«Vtd_bootstrap.md»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_dev».«Vtd_commit_convention.md»
@@ -9,7 +8,7 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_dev».«Vtd_ffi.md»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_dev».«Vtd_index.md»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_dev».«Vtd_llvm_upgrade.md»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_dev».«Vtd_release.md»
--- End of Imports
+-- End of Imports.
 
 
 import VersoManual

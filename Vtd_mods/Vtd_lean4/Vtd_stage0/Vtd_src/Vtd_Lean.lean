@@ -1,11 +1,8 @@
--- lean4internals/Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_src/Vtd_Lean.lean
-
+-- Vtd_mods/Vtd_lean4/Vtd_stage0/Vtd_src/Vtd_Lean.lean
         
--- Imports from child directories.
-
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_stage0».«Vtd_src».«Vtd_Lean».«Vtd_Server»
--- End of Imports
+-- End of Imports.
 
 
 

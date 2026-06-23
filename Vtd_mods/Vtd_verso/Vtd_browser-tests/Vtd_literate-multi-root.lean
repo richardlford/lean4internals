@@ -1,10 +1,9 @@
--- lean4internals/Vtd_mods/Vtd_verso/Vtd_browser-tests/Vtd_literate-multi-root.lean
-
+-- Vtd_mods/Vtd_verso/Vtd_browser-tests/Vtd_literate-multi-root.lean
         
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_literate-multi-root».«Vtd___init__.py»
 import «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_literate-multi-root».«Vtd_test_navigation.py»
--- End of Imports
+-- End of Imports.
 
 
 import VersoManual

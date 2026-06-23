@@ -1,5 +1,4 @@
--- lean4internals/Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_examples/Vtd_NFM2022.lean
-
+-- Vtd_mods/Vtd_lean4/Vtd_doc/Vtd_examples/Vtd_NFM2022.lean
         
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_NFM2022».«Vtd_nfm1.lean»
@@ -26,7 +25,7 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_NFM2022».�
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_NFM2022».«Vtd_nfm7.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_NFM2022».«Vtd_nfm8.lean»
 import «Vtd_mods».«Vtd_lean4».«Vtd_doc».«Vtd_examples».«Vtd_NFM2022».«Vtd_nfm9.lean»
--- End of Imports
+-- End of Imports.
 
 
 import VersoManual

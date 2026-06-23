@@ -1,6 +1,5 @@
--- lean4internals/Vtd_mods/Vtd_verso/Vtd_static-web.lean
-
-
+-- Vtd_mods/Vtd_verso/Vtd_static-web.lean
+        
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_find.js»
 import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_jsconfig.json»
@@ -10,7 +9,7 @@ import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_toc-resize.js»
 import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_verso-vars.css»
 import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_literate»
 import «Vtd_mods».«Vtd_verso».«Vtd_static-web».«Vtd_search»
--- End of Imports
+-- End of Imports.
 
 
 

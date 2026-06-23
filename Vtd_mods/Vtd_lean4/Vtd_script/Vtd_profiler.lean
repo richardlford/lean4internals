@@ -1,5 +1,4 @@
--- lean4internals/Vtd_mods/Vtd_lean4/Vtd_script/Vtd_profiler.lean
-
+-- Vtd_mods/Vtd_lean4/Vtd_script/Vtd_profiler.lean
         
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_profiler».«Vtd_lean_demangle.py»
@@ -7,7 +6,7 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_profiler».«Vtd_lean_dem
 import «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_profiler».«Vtd_lean_demangle_profile.py»
 import «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_profiler».«Vtd_serve_profile.py»
 import «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_profiler».«Vtd_symbolicate_profile.py»
--- End of Imports
+-- End of Imports.
 
 
 import VersoManual

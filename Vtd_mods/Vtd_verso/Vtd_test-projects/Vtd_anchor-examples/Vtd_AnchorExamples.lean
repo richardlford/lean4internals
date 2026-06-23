@@ -1,9 +1,8 @@
--- lean4internals/Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_anchor-examples/Vtd_AnchorExamples.lean
-
+-- Vtd_mods/Vtd_verso/Vtd_test-projects/Vtd_anchor-examples/Vtd_AnchorExamples.lean
         
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects».«Vtd_anchor-examples».«Vtd_AnchorExamples».«Vtd_Basic.lean»
--- End of Imports
+-- End of Imports.
 
 
 import VersoManual

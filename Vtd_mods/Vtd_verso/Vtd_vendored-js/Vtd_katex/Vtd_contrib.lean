@@ -1,5 +1,4 @@
--- lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_katex/Vtd_contrib.lean
-
+-- Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_katex/Vtd_contrib.lean
         
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_contrib».«Vtd_auto-render.js»
@@ -17,7 +16,7 @@ import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_contri
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_contrib».«Vtd_render-a11y-string.js»
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_contrib».«Vtd_render-a11y-string.min.js»
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_contrib».«Vtd_render-a11y-string.mjs»
--- End of Imports
+-- End of Imports.
 
 
 import VersoManual

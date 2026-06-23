@@ -1,6 +1,5 @@
--- lean4internals/Vtd_mods/Vtd_verso/Vtd_browser-tests.lean
-
-
+-- Vtd_mods/Vtd_verso/Vtd_browser-tests.lean
+        
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_conftest.py»
 import «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_pyproject.toml»
@@ -16,7 +15,7 @@ import «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_uv.lock»
 import «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_literate»
 import «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_literate-multi-root»
 import «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_verso-html»
--- End of Imports
+-- End of Imports.
 
 
 

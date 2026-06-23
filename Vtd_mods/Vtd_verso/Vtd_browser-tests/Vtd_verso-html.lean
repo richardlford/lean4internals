@@ -1,10 +1,9 @@
--- lean4internals/Vtd_mods/Vtd_verso/Vtd_browser-tests/Vtd_verso-html.lean
-
+-- Vtd_mods/Vtd_verso/Vtd_browser-tests/Vtd_verso-html.lean
         
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_verso-html».«Vtd___init__.py»
 import «Vtd_mods».«Vtd_verso».«Vtd_browser-tests».«Vtd_verso-html».«Vtd_test_search_page.py»
--- End of Imports
+-- End of Imports.
 
 
 import VersoManual

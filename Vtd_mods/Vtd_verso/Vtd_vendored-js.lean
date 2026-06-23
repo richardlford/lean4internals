@@ -1,6 +1,5 @@
--- lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js.lean
-
-
+-- Vtd_mods/Vtd_verso/Vtd_vendored-js.lean
+        
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_README»
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy-bundle.umd.min.js»
@@ -10,7 +9,7 @@ import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex»
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_marked»
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_popper»
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_tippy»
--- End of Imports
+-- End of Imports.
 
 
 

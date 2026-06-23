@@ -1,5 +1,4 @@
--- lean4internals/Vtd_mods/Vtd_lean4/Vtd_script/Vtd_release.lean
-
+-- Vtd_mods/Vtd_lean4/Vtd_script/Vtd_release.lean
         
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_release».«Vtd_checklist.py»
@@ -7,7 +6,7 @@ import «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_release».«Vtd_pyproject
 import «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_release».«Vtd_release_notes.py»
 import «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_release».«Vtd_repos.py»
 import «Vtd_mods».«Vtd_lean4».«Vtd_script».«Vtd_release».«Vtd_util.py»
--- End of Imports
+-- End of Imports.
 
 
 import VersoManual

@@ -1,11 +1,10 @@
--- lean4internals/Vtd_mods/Vtd_lean4/Vtd_src/Vtd_include/Vtd_lean.lean
-
+-- Vtd_mods/Vtd_lean4/Vtd_src/Vtd_include/Vtd_lean.lean
         
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_include».«Vtd_lean».«Vtd_lean.h»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_include».«Vtd_lean».«Vtd_lean_gmp.h»
 import «Vtd_mods».«Vtd_lean4».«Vtd_src».«Vtd_include».«Vtd_lean».«Vtd_lean_libuv.h»
--- End of Imports
+-- End of Imports.
 
 
 import VersoManual

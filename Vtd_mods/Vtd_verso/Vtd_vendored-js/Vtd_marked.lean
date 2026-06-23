@@ -1,5 +1,4 @@
--- lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_marked.lean
-
+-- Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_marked.lean
         
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_marked».«Vtd_LICENSE.md»
@@ -7,7 +6,7 @@ import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_marked».«Vtd_marke
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_marked».«Vtd_marked.umd.js.map»
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_marked».«Vtd_marked.umd.min.js»
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_marked».«Vtd_marked.umd.min.js.map»
--- End of Imports
+-- End of Imports.
 
 
 import VersoManual

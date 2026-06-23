@@ -1,5 +1,4 @@
--- lean4internals/Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_katex/Vtd_fonts.lean
-
+-- Vtd_mods/Vtd_verso/Vtd_vendored-js/Vtd_katex/Vtd_fonts.lean
         
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_AMS-Regular.ttf»
@@ -62,7 +61,7 @@ import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts�
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Typewriter-Regular.ttf»
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Typewriter-Regular.woff»
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js».«Vtd_katex».«Vtd_fonts».«Vtd_KaTeX_Typewriter-Regular.woff2»
--- End of Imports
+-- End of Imports.
 
 
 import VersoManual

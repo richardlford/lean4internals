@@ -1,12 +1,11 @@
--- lean4internals/Vtd_mods/Vtd_vscode-lean4/Vtd_lean4-unicode-input.lean
-
+-- Vtd_mods/Vtd_vscode-lean4/Vtd_lean4-unicode-input.lean
         
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input».«Vtd_LICENSE»
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input».«Vtd_package.json»
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input».«Vtd_tsconfig.json»
 import «Vtd_mods».«Vtd_vscode-lean4».«Vtd_lean4-unicode-input».«Vtd_src»
--- End of Imports
+-- End of Imports.
 
 
 

@@ -1,6 +1,5 @@
--- lean4internals/Vtd_mods/Vtd_verso.lean
-
-
+-- Vtd_mods/Vtd_verso.lean
+        
 -- Imports for contained files or directories.
 import «Vtd_mods».«Vtd_verso».«Vtd_LICENSE»
 import «Vtd_mods».«Vtd_verso».«Vtd_README-html.md»
@@ -24,7 +23,7 @@ import «Vtd_mods».«Vtd_verso».«Vtd_src»
 import «Vtd_mods».«Vtd_verso».«Vtd_static-web»
 import «Vtd_mods».«Vtd_verso».«Vtd_test-projects»
 import «Vtd_mods».«Vtd_verso».«Vtd_vendored-js»
--- End of Imports
+-- End of Imports.
 
 
 
